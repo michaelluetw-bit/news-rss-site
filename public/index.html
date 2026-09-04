@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="zh-TW" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>科技情報閱讀室 ｜ Tech Intelligence Digest</title>
+  <meta name="description" content="科技情報閱讀室：30 秒掌握今日全球科技與半導體最重要情報，先看結論、深度展開。">
+  <link rel="stylesheet" href="./style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div id="app" class="site-wrapper">
+    <!-- 頂部導航與標題區 (Hero Bar) -->
+    <header class="site-header">
+      <div class="header-container">
+        <div class="brand-row">
+          <div class="brand-info">
+            <div class="brand-badge-row">
+              <span class="live-dot"></span>
+              <span class="brand-tag">科技情報閱讀室</span>
+              <span id="header-date" class="date-badge">2026-08-31</span>
+            </div>
+            <h1 class="brand-title">今日科技情報精選</h1>
+            <p id="header-meta" class="meta-strip">
+              載入情報中...
+            </p>
+          </div>
+
+          <div class="header-controls">
+            <!-- 歷史日期切換 -->
+            <div class="date-select-wrapper">
+              <label for="date-select" class="sr-only">選擇日期</label>
+              <select id="date-select" class="control-select" title="切換歷史日報">
+                <option value="latest">最新日報</option>
+              </select>
+            </div>
+
+            <!-- 主題切換按鈕 -->
+            <button id="theme-toggle" class="control-btn" title="切換深淺模式" aria-label="切換深淺模式">
+              <svg class="theme-icon light-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"></circle><line x1="12" y1="1" x2="12" y2="3"></line><line x1="12" y1="21" x2="12" y2="23"></line><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line><line x1="1" y1="12" x2="3" y2="12"></line><line x1="21" y1="12" x2="23" y2="12"></line><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line></svg>
+              <svg class="theme-icon dark-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+            </button>
+          </div>
+        </div>
+
+        <!-- 搜尋與快速操作列 -->
+        <div class="search-bar-row">
+          <div class="search-input-wrapper">
+            <svg class="search-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            <input 
+              type="text" 
+              id="search-input" 
+              placeholder="搜尋事件、晶片、模型、關鍵字... (按 / 聚焦，Esc 清除)" 
+              autocomplete="off"
+            >
+            <button id="search-clear" class="search-clear-btn" style="display: none;" title="清除搜尋" aria-label="清除搜尋">
+              <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+            </button>
+          </div>
+          <div class="quick-actions">
+            <button id="toggle-all-btn" class="action-btn">展開全部</button>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="main-content">
+      <!-- 1. 今日最重要 5 件事 (Executive Summary / Top Highlights) -->
+      <section id="highlights-section" class="highlights-section">
+        <div class="section-header">
+          <div class="section-title-wrap">
+            <span class="section-badge">Top 5</span>
+            <h2 class="section-title">今日最重要焦點</h2>
+          </div>
+          <span class="section-desc">優先閱讀今日最具產業影響力的重大事件</span>
+        </div>
+
+        <div id="highlights-grid" class="highlights-grid">
+          <!-- 由 app.js 動態渲染 Top 5 卡片 -->
+          <div class="loading-card">正在載入今日焦點...</div>
+        </div>
+      </section>
+
+      <!-- 2. 分類導覽吸頂列 (Category Filter Nav) -->
+      <nav id="category-nav" class="category-nav" aria-label="主題分類導覽">
+        <div class="category-nav-inner">
+          <button class="cat-tab active" data-category="all">
+            全部 <span class="cat-count" id="count-all">0</span>
+          </button>
+          <button class="cat-tab" data-category="ai_research">
+            <svg class="cat-svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="9" y="9" width="6" height="6"/><line x1="9" y1="1" x2="9" y2="4"/><line x1="15" y1="1" x2="15" y2="4"/><line x1="9" y1="20" x2="9" y2="23"/><line x1="15" y1="20" x2="15" y2="23"/><line x1="20" y1="9" x2="23" y2="9"/><line x1="20" y1="14" x2="23" y2="14"/><line x1="1" y1="9" x2="4" y2="9"/><line x1="1" y1="14" x2="4" y2="14"/></svg>
+            AI / 模型 <span class="cat-count" id="count-ai_research">0</span>
+          </button>
+          <button class="cat-tab" data-category="semiconductor_hardware">
+            <svg class="cat-svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+            半導體 / 硬體 <span class="cat-count" id="count-semiconductor_hardware">0</span>
+          </button>
+          <button class="cat-tab" data-category="software_cloud">
+            <svg class="cat-svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 10h-1.26A8 8 0 1 0 9 20h9a5 5 0 0 0 0-10z"/></svg>
+            軟體 / Cloud <span class="cat-count" id="count-software_cloud">0</span>
+          </button>
+          <button class="cat-tab" data-category="business_market">
+            <svg class="cat-svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"/><polyline points="17 6 23 6 23 12"/></svg>
+            市場與產業 <span class="cat-count" id="count-business_market">0</span>
+          </button>
+          <button class="cat-tab" data-category="deep_reads">
+            <svg class="cat-svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+            深度閱讀 <span class="cat-count" id="count-deep_reads">0</span>
+          </button>
+        </div>
+      </nav>
+
+      <!-- 3. 主題事件清單區 (先看結論，再決定要不要展開) -->
+      <section id="events-stream" class="events-stream">
+        <div id="events-container" class="events-container">
+          <!-- 由 app.js 動態渲染分類事件卡片 -->
+        </div>
+        <div id="empty-results" class="empty-results" style="display: none;">
+          <svg class="empty-svg" width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"/></svg>
+          <p class="empty-title">查無相符事件</p>
+          <p class="empty-subtitle">請嘗試更換搜尋關鍵字或切換至「全部」分類。</p>
+        </div>
+      </section>
+
+      <!-- 4. 值得深入閱讀 (精選深度長文 / 論文) -->
+      <section id="deep-reads-section" class="deep-reads-section">
+        <div class="section-header">
+          <div class="section-title-wrap">
+            <span class="section-badge deep-badge">Curated</span>
+            <h2 class="section-title">今天值得真正打開閱讀</h2>
+          </div>
+          <span class="section-desc">跳過零碎新聞，精選具備長青參考價值的深度長文與技術架構解析</span>
+        </div>
+
+        <div id="deep-reads-grid" class="deep-reads-grid">
+          <!-- 由 app.js 動態渲染深度閱讀卡片 -->
+        </div>
+      </section>
+
+      <!-- 5. 系統資料狀態與透明度報告 (Data Status & Transparency) -->
+      <section id="quality-section" class="quality-section">
+        <div class="quality-card">
+          <div class="quality-header">
+            <div class="quality-title-wrap">
+              <span class="quality-icon">⚙️</span>
+              <h3 class="quality-title">系統與資料狀態</h3>
+            </div>
+            <span class="transparency-tag">Transparency Report</span>
+          </div>
+
+          <div id="quality-grid" class="quality-grid">
+            <div class="quality-item">
+              <span class="quality-label">產生時間</span>
+              <span id="stat-generated-at" class="quality-value">-</span>
+            </div>
+            <div class="quality-item">
+              <span class="quality-label">分析模型</span>
+              <span id="stat-model" class="quality-value">-</span>
+            </div>
+            <div class="quality-item">
+              <span class="quality-label">掃描文章</span>
+              <span id="stat-scanned" class="quality-value">-</span>
+            </div>
+            <div class="quality-item">
+              <span class="quality-label">有效來源</span>
+              <span id="stat-sources" class="quality-value">-</span>
+            </div>
+            <div class="quality-item">
+              <span class="quality-label">獨立主題</span>
+              <span id="stat-topics" class="quality-value">-</span>
+            </div>
+            <div class="quality-item">
+              <span class="quality-label">背景舊文標記</span>
+              <span id="stat-stale" class="quality-value">-</span>
+            </div>
+          </div>
+          
+          <div class="quality-footer">
+            <span class="inv-note">✔ 已嚴格執行 Publication Invariant：Canonical URL 重複數 = 0 ｜ 文章品質已標註來源</span>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-container">
+        <p class="footer-copy">科技情報閱讀室 · 每日自動聚合與 AI 結構化提煉</p>
+        <p class="footer-shortcuts">快捷鍵：<kbd>/</kbd> 搜尋 ｜ <kbd>Esc</kbd> 收合 / 清除</p>
+      </div>
+    </footer>
+  </div>
+
+  <script src="./app.js"></script>
+</body>
+</html>
