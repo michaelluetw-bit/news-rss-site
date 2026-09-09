@@ -1,168 +1,154 @@
 {
   "schema_version": 1,
   "meta": {
-    "date": "2026-09-09",
-    "generated_at": "2026-09-09T00:41:18.090566+00:00",
+    "date": "2026-09-03",
+    "generated_at": "2026-09-03T15:40:37.698333+00:00",
     "provider": "AI Engine",
     "model": "gemma3:12b",
-    "scanned_articles": 91
+    "scanned_articles": 68
   },
   "highlights": [
     {
-      "cluster_id": "cluster_1252f82ab791dbdc_1",
+      "cluster_id": "cluster_f9c2ad122e10cdd7_10",
       "category": "business_market",
-      "title": "AI 程式碼輔助新創 Cognition 獲 20 億美元融資，估值飆升至 480 億美元",
-      "original_title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "published_at": "2026-09-08T22:18:29+00:00",
+      "title": "默克完成 170 億元在台投資，深化在地布局與台灣夥伴合作以加速半導體創新",
+      "original_title": "完成 170 億元在台投資！默克：持續深化在地布局、與台灣夥伴合作",
+      "published_at": "2026-09-03T04:19:13+00:00",
       "freshness_status": "fresh",
       "importance_score": 9.0,
       "is_top_story": true,
       "summary_bullets": [
-        "AI 程式碼輔助新創 Cognition 完成 20 億美元的 E 輪融資，後驗估值達到 480 億美元，較五月時的 260 億美元估值大幅提升。",
-        "Cognition 的年營收複合成長率從五月份的 4.92 億美元成長至 9 億美元，顯示其產品 Devin 在市場上受到高度關注。",
-        "投資方包括 Andreessen Horowitz、Accel、Founders Fund、General Catalyst 和 Avenir，表明市場對 AI 程式碼輔助領域的多家競爭者存在空間。",
-        "Cognition 擁有 Devin 和 Windsurf 兩項產品，Devin 能夠處理從高階需求到程式碼部署的軟體工程工作，而 Windsurf 則為 AI 程式碼編輯器。"
+        "默克已完成在台約新台幣 170 億元（5 億歐元）投資，擴充在地產能與創新能量。",
+        "默克推出「整合解決方案夥伴」策略，結合材料科學、設備、量測與檢測、數位智慧，以應對日益複雜的晶片架構。",
+        "默克加入「SEMI 半導體材料聯盟」，強化台灣半導體供應鏈韌性與產業競爭力。",
+        "默克強調半導體產業的創新重點在於系統整合與流程最佳化，而非僅靠傳統微縮。"
       ],
-      "why_it_matters": "Cognition 的快速成長和高估值表明 AI 程式碼輔助領域具有巨大的潛力，並可能重塑軟體開發流程，但同時也凸顯了算力資源的挑戰。",
+      "why_it_matters": "默克的重大投資與策略轉變，顯示其對台灣半導體產業的重要性，並將有助於提升台灣供應鏈的韌性與創新能力，加速半導體產業的整體發展。",
       "divergent_views": null,
-      "primary_url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "primary_url": "https://technews.tw/2026/09/03/merck-semicon-taiwan-2026/",
       "primary_content_quality": "extracted",
       "sources": [
         {
-          "name": "SiliconANGLE",
-          "url": "https://siliconangle.com/2026/09/08/ai-coding-startup-cognition-raises-2b-at-48b-valuation-as-revenue-nears-900m/",
-          "published_at": "2026-09-08T22:18:29+00:00",
+          "name": "科技新報 (TechNews)",
+          "url": "https://technews.tw/2026/09/03/merck-semicon-taiwan-2026/",
+          "published_at": "2026-09-03T04:19:13+00:00",
           "content_quality": "extracted"
-        },
+        }
+      ]
+    },
+    {
+      "cluster_id": "cluster_efb393ecb3fe20cd_16",
+      "category": "business_market",
+      "title": "輝能科技3.5代鋰陶瓷電池第三方檢測報告：能量密度達381Wh/kg，已進入Giga量產",
+      "original_title": "輝能全固態電池第三方檢測報告，能量密度達 381Wh/kg",
+      "published_at": "2026-09-03T02:01:04+00:00",
+      "freshness_status": "fresh",
+      "importance_score": 9.0,
+      "is_top_story": true,
+      "summary_bullets": [
+        "輝能科技宣布其3.5代鋰陶瓷電池（LCB）完成第三方檢測，能量密度達381Wh/kg，體積能量密度達903 Wh/L，遠超目前主流鋰電池。",
+        "輝能已通過UL Studio的第三方驗證，在嚴苛環境下失重率低於0.05%，符合全固態電池標準，並已進入Giga等級量產平台。",
+        "輝能已交付超過90萬顆電芯，並獲得日系車廠驗證，正評估在美國設立生產基地，並計劃在2030年完成法國敦克爾克廠第一期工程。",
+        "輝能採用分階段生產策略，台灣和法國負責Inlay生產，其他地區進行疊片、封裝和模組安裝，以降低成本和時間。"
+      ],
+      "why_it_matters": "輝能的技術突破與量產能力，使其在固態電池市場具備領先優勢，尤其是在「非中」供應鏈日益重要的背景下，將對車用、無人機和資料中心等領域產生深遠影響。",
+      "divergent_views": null,
+      "primary_url": "https://technews.tw/2026/09/03/prologium-solid-state-battery-report/",
+      "primary_content_quality": "extracted",
+      "sources": [
+        {
+          "name": "科技新報 (TechNews)",
+          "url": "https://technews.tw/2026/09/03/prologium-solid-state-battery-report/",
+          "published_at": "2026-09-03T02:01:04+00:00",
+          "content_quality": "extracted"
+        }
+      ]
+    },
+    {
+      "cluster_id": "cluster_1464e5765de2ef36_29",
+      "category": "ai_research",
+      "title": "輝達以 129 億美元收購 Hugging Face，進一步擴展 AI 軟體業務",
+      "original_title": "Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year (Ari Levy/CNBC)",
+      "published_at": "2026-09-03T04:09:09+00:00",
+      "freshness_status": "fresh",
+      "importance_score": 9.0,
+      "is_top_story": true,
+      "summary_bullets": [
+        "輝達（Nvidia）已正式同意以 129 億美元收購開源人工智慧平台 Hugging Face。",
+        "此項收購是輝達繼去年以 200 億美元收購 Groq 資源之後，第二大購併案。",
+        "此次收購標誌著輝達正在從硬體供應商轉向更全面的 AI 解決方案提供商。"
+      ],
+      "why_it_matters": "此舉將強化輝達在 AI 軟體領域的地位，加速其在 AI 應用開發和部署方面的布局，並可能對其他 AI 平台產生影響。",
+      "divergent_views": null,
+      "primary_url": "https://www.techmeme.com/260903/p18#a260903p18",
+      "primary_content_quality": "summary_only",
+      "sources": [
         {
           "name": "Techmeme",
-          "url": "https://www.techmeme.com/260908/p31#a260908p31",
-          "published_at": "2026-09-08T17:50:00+00:00",
+          "url": "https://www.techmeme.com/260903/p18#a260903p18",
+          "published_at": "2026-09-03T04:09:09+00:00",
+          "content_quality": "summary_only"
+        }
+      ]
+    },
+    {
+      "cluster_id": "cluster_221a9697aa8172fc_38",
+      "category": "ai_research",
+      "title": "Google Gemini 3.8 Flash 與 3.8 Flash Cyber 正式發布，強化推理與程式碼能力",
+      "original_title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "published_at": "2026-09-02T15:12:40+00:00",
+      "freshness_status": "fresh",
+      "importance_score": 9.0,
+      "is_top_story": true,
+      "summary_bullets": [
+        "Google 正式推出 Gemini 3.8 Flash 與 3.8 Flash Cyber 兩個新模型，前者為強化推理與程式碼能力的工作型號，後者則專注於網路安全。",
+        "Gemini 3.8 Flash 在軟體工程、自主任務和複雜推理方面表現優異，效能接近更高成本的前沿模型，價格分別為每百萬輸入代幣 0.75 美元和每百萬輸出代幣 3.75 美元。",
+        "Gemini 3.8 Flash Cyber 針對網路安全應用進行優化，在漏洞偵測和自動修補方面達到前沿水平，僅限透過 Fairwind Program 提供。",
+        "兩個模型都基於相同的基礎智能，並透過長期自主迴圈加速迭代，網路安全領域的嚴格訓練是提升核心能力的主要驅動力。"
+      ],
+      "why_it_matters": "Gemini 3.8 系列的發布展現了 Google 在 AI 模型迭代速度和能力提升上的進展，將有助於推動自主代理、程式碼生成和網路安全等領域的發展。",
+      "divergent_views": null,
+      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "primary_content_quality": "extracted",
+      "sources": [
+        {
+          "name": "Hacker News (Top)",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+          "published_at": "2026-09-02T15:12:40+00:00",
+          "content_quality": "extracted"
+        }
+      ]
+    },
+    {
+      "cluster_id": "cluster_e70fc1da1818a665_46",
+      "category": "software_cloud",
+      "title": "以色列雲端安全公司 Upwind 獲 3 億美元融資，估值躍升至 38 億美元；Guardio 則獲得 4000 萬美元融資，估值 11 億美元",
+      "original_title": "Upwind, which filters false security alerts in cloud apps so companies can focus on actual risks, raised $300M at a $3.8B valuation, up from $1.5B in January (Meir Orbach/CTech)",
+      "published_at": "2026-09-03T06:50:01+00:00",
+      "freshness_status": "fresh",
+      "importance_score": 9.0,
+      "is_top_story": true,
+      "summary_bullets": [
+        "以色列雲端安全公司 Upwind 完成 3 億美元融資，由 1 月的 15 億美元估值大幅躍升至 38 億美元。",
+        "另一家以色列網路安全公司 Guardio 獲得 4000 萬美元融資，估值 11 億美元，投資人包括 Wiz 公司的創辦人 Assaf Rappaport。",
+        "這兩起事件凸顯了對雲端安全解決方案日益增長的需求，特別是在企業面臨不斷演進的網路威脅時。"
+      ],
+      "why_it_matters": "這兩項融資顯示以色列在網路安全領域的領先地位，以及雲端安全市場的蓬勃發展，未來將持續吸引大量投資。",
+      "divergent_views": null,
+      "primary_url": "https://www.techmeme.com/260903/p24#a260903p24",
+      "primary_content_quality": "summary_only",
+      "sources": [
+        {
+          "name": "Techmeme",
+          "url": "https://www.techmeme.com/260903/p15#a260903p15",
+          "published_at": "2026-09-03T03:25:01+00:00",
           "content_quality": "summary_only"
         },
         {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-          "published_at": "2026-09-08T21:04:06+00:00",
-          "content_quality": "extracted"
-        }
-      ]
-    },
-    {
-      "cluster_id": "cluster_0947893c9b8fb593_4",
-      "category": "business_market",
-      "title": "美國政府為Google重啟的核電廠提供19億美元貸款",
-      "original_title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
-      "published_at": "2026-09-08T15:25:35+00:00",
-      "freshness_status": "fresh",
-      "importance_score": 9.0,
-      "is_top_story": true,
-      "summary_bullets": [
-        "美國能源部批准向NextEra Energy提供19億美元貸款，用於重啟位於愛荷華州的杜安·阿諾德能源中心核電廠。",
-        "此貸款是美國政府為核電廠重啟提供的大規模融資的第二個案例，顯示政府將核能視為為科技公司（如Google）提供AI資料中心電力的重要來源。",
-        "Google計畫在該核電廠附近興建多達六個資料中心，預計核電廠將於2029年重新啟動，並將50兆瓦的電力供應給當地電力合作社。",
-        "先前因天然氣價格低廉而導致核能經濟上不具吸引力，但AI崛起和經濟更廣泛的電化需求改變了局面。"
-      ],
-      "why_it_matters": "此舉表明核能正逐漸成為滿足AI時代能源需求的關鍵解決方案，並可能加速美國能源結構的轉變。",
-      "divergent_views": null,
-      "primary_url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-      "primary_content_quality": "extracted",
-      "sources": [
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-          "published_at": "2026-09-08T15:25:35+00:00",
-          "content_quality": "extracted"
-        }
-      ]
-    },
-    {
-      "cluster_id": "cluster_33b06eea4be4aa5d_6",
-      "category": "business_market",
-      "title": "Google DeepMind AlphaGenome Atlas 預測人類基因變異，加速基因研究",
-      "original_title": "Google DeepMind’s AlphaGenome Atlas maps all 9 billion possible human DNA changes",
-      "published_at": "2026-09-08T23:41:55+00:00",
-      "freshness_status": "fresh",
-      "importance_score": 9.0,
-      "is_top_story": true,
-      "summary_bullets": [
-        "Google DeepMind 利用 AlphaGenome AI 模型，預測了超過九十億種人類 DNA 單字母變異的生物學影響。",
-        "AlphaGenome Atlas 包含超過一 PB 的數據，是 AlphaFold 數據庫的 30 倍，並已免費提供給全球研究人員。",
-        "此數據庫可避免研究人員逐一測試變異，大幅縮短基因研究時間，有助於理解遺傳疾病並加速藥物研發。",
-        "未來 DeepMind 將提供商業存取權限，透過 Google Cloud 服務。"
-      ],
-      "why_it_matters": "AlphaGenome Atlas 的發布將加速基因研究，有潛力革新遺傳疾病的診斷和治療，並為 Google Cloud 帶來新的商業機會。",
-      "divergent_views": null,
-      "primary_url": "https://siliconangle.com/2026/09/08/google-deepminds-alphagenome-atlas-maps-all-9-billion-possible-human-dna-changes/",
-      "primary_content_quality": "extracted",
-      "sources": [
-        {
-          "name": "SiliconANGLE",
-          "url": "https://siliconangle.com/2026/09/08/google-deepminds-alphagenome-atlas-maps-all-9-billion-possible-human-dna-changes/",
-          "published_at": "2026-09-08T23:41:55+00:00",
-          "content_quality": "extracted"
-        }
-      ]
-    },
-    {
-      "cluster_id": "cluster_f00dc02d2cf1a466_12",
-      "category": "business_market",
-      "title": "核能新創 Bluecore Energy 獲 5000 萬美元種子輪融資，打造浮動式核反應堆",
-      "original_title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
-      "published_at": "2026-09-08T14:10:17+00:00",
-      "freshness_status": "fresh",
-      "importance_score": 9.0,
-      "is_top_story": true,
-      "summary_bullets": [
-        "新創公司 Bluecore Energy 在成立僅兩個月後，成功獲得 5000 萬美元的過訂種子輪融資，此前已獲得 1000 萬美元的先期種子輪。",
-        "Bluecore Energy 致力於在浮動式駁船上建造小型模組化核反應堆 (SMR)，為港口及周邊基礎設施提供清潔能源，可靈活輸送電力。",
-        "公司計劃首個系統產生約 10 兆瓦的持續電力，並在多年之間僅需一次補充燃料，未來將擴展更多單元以滿足需求，目標客戶包括港口、沿海基礎設施和 AI 數據中心，甚至可能為貨運輪船供電。",
-        "公司已獲得首個駁船，並已開始與美國核管會 (NRC) 和美國海岸警衛隊進行正式的法規溝通。"
-      ],
-      "why_it_matters": "Bluecore Energy 的浮動式核反應堆解決方案，有潛力為能源短缺的港口和基礎設施提供可靠且清潔的電力，並可能加速小型模組化核反應堆技術的商業化。",
-      "divergent_views": null,
-      "primary_url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-      "primary_content_quality": "extracted",
-      "sources": [
-        {
-          "name": "SiliconANGLE",
-          "url": "https://siliconangle.com/2026/09/08/bluecore-energy-raises-50m-to-build-its-first-floating-nuclear-system/",
-          "published_at": "2026-09-08T13:00:30+00:00",
-          "content_quality": "extracted"
-        },
-        {
-          "name": "TechCrunch",
-          "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-          "published_at": "2026-09-08T14:10:17+00:00",
-          "content_quality": "extracted"
-        }
-      ]
-    },
-    {
-      "cluster_id": "cluster_08d231fa7cd76174_13",
-      "category": "business_market",
-      "title": "OpenAI 系統解決納維-史托克斯方程組問題，進一步揭示 AI 發展進程",
-      "original_title": "On the Navier–Stokes Millennium Prize Problem",
-      "published_at": "2026-09-08T10:00:00+00:00",
-      "freshness_status": "fresh",
-      "importance_score": 9.0,
-      "is_top_story": true,
-      "summary_bullets": [
-        "OpenAI 內部系統成功解決了納維-史托克斯方程組的存在性和平滑性問題，這是著名的千禧年獎問題之一。",
-        "該解決方案證明了流體運動的動力學可能在有限時間內產生奇異點，這對於理解流體行為至關重要。",
-        "OpenAI 使用的解決方案模型能力顯著高於 GPT-6 Astra，表明 AI 模型能力正快速進步。",
-        "納維-史托克斯方程組在飛機設計、天氣預報和血液流研究等領域有廣泛應用，此問題的解決將有助於提升這些領域的精確度。"
-      ],
-      "why_it_matters": "OpenAI 解決千禧年獎問題，不僅在數學領域取得突破，更突顯了 AI 在科學研究中的潛力，並預示著未來 AI 模型將在更複雜的科學問題上發揮關鍵作用。",
-      "divergent_views": null,
-      "primary_url": "https://openai.com/index/navier-stokes-solution",
-      "primary_content_quality": "extracted",
-      "sources": [
-        {
-          "name": "OpenAI News",
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "published_at": "2026-09-08T10:00:00+00:00",
-          "content_quality": "extracted"
+          "name": "Techmeme",
+          "url": "https://www.techmeme.com/260903/p24#a260903p24",
+          "published_at": "2026-09-03T06:50:01+00:00",
+          "content_quality": "summary_only"
         }
       ]
     }
@@ -172,19 +158,1182 @@
       "id": "ai_research",
       "label": "AI / 模型",
       "icon": "brain",
-      "items": []
+      "items": [
+        {
+          "cluster_id": "cluster_1464e5765de2ef36_29",
+          "category": "ai_research",
+          "title": "輝達以 129 億美元收購 Hugging Face，進一步擴展 AI 軟體業務",
+          "original_title": "Nvidia agrees to buy Hugging Face for $12.9B, its second-biggest purchase after it paid $20B for Groq assets at the end of last year (Ari Levy/CNBC)",
+          "published_at": "2026-09-03T04:09:09+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 9.0,
+          "is_top_story": true,
+          "summary_bullets": [
+            "輝達（Nvidia）已正式同意以 129 億美元收購開源人工智慧平台 Hugging Face。",
+            "此項收購是輝達繼去年以 200 億美元收購 Groq 資源之後，第二大購併案。",
+            "此次收購標誌著輝達正在從硬體供應商轉向更全面的 AI 解決方案提供商。"
+          ],
+          "why_it_matters": "此舉將強化輝達在 AI 軟體領域的地位，加速其在 AI 應用開發和部署方面的布局，並可能對其他 AI 平台產生影響。",
+          "divergent_views": null,
+          "primary_url": "https://www.techmeme.com/260903/p18#a260903p18",
+          "primary_content_quality": "summary_only",
+          "sources": [
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/260903/p18#a260903p18",
+              "published_at": "2026-09-03T04:09:09+00:00",
+              "content_quality": "summary_only"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_221a9697aa8172fc_38",
+          "category": "ai_research",
+          "title": "Google Gemini 3.8 Flash 與 3.8 Flash Cyber 正式發布，強化推理與程式碼能力",
+          "original_title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "published_at": "2026-09-02T15:12:40+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 9.0,
+          "is_top_story": true,
+          "summary_bullets": [
+            "Google 正式推出 Gemini 3.8 Flash 與 3.8 Flash Cyber 兩個新模型，前者為強化推理與程式碼能力的工作型號，後者則專注於網路安全。",
+            "Gemini 3.8 Flash 在軟體工程、自主任務和複雜推理方面表現優異，效能接近更高成本的前沿模型，價格分別為每百萬輸入代幣 0.75 美元和每百萬輸出代幣 3.75 美元。",
+            "Gemini 3.8 Flash Cyber 針對網路安全應用進行優化，在漏洞偵測和自動修補方面達到前沿水平，僅限透過 Fairwind Program 提供。",
+            "兩個模型都基於相同的基礎智能，並透過長期自主迴圈加速迭代，網路安全領域的嚴格訓練是提升核心能力的主要驅動力。"
+          ],
+          "why_it_matters": "Gemini 3.8 系列的發布展現了 Google 在 AI 模型迭代速度和能力提升上的進展，將有助於推動自主代理、程式碼生成和網路安全等領域的發展。",
+          "divergent_views": null,
+          "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Hacker News (Top)",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+              "published_at": "2026-09-02T15:12:40+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_ca5d4beeed595afa_24",
+          "category": "ai_research",
+          "title": "美國密蘇里州居民投票罷免支持AI數據中心稅收優惠的市議員，沙烏地阿拉伯AI公司Humain計劃籌集25億美元資金",
+          "original_title": "Almost 70% of voters in Missouri city vote to recall council member who said yes to AI data center tax breaks — councilor said disagreement over an issue shouldn’t be enough to unseat him",
+          "published_at": "2026-09-03T06:52:55+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "密蘇里州獨立市（Independence, Missouri）近70%的選民投票罷免了市議員John Perkins，原因是 Perkins 同意了 Nebius 數據中心超過 60 億美元的稅收優惠方案。",
+            "此前，另外兩名支持該稅收優惠的市領導也已在重新選舉中落敗，顯示當地居民對此項發展的強烈反對。",
+            "沙烏地阿拉伯 AI 公司 Humain 計劃籌集 25 億美元資金，用於在沙烏地阿拉伯建設 250MW 的數據中心容量，反映了中東地區對 AI 基礎設施的投資。",
+            "事件突顯了數據中心建設與地方政治、民意之間的複雜關係，以及稅收優惠政策可能引發的爭議。"
+          ],
+          "why_it_matters": "這起事件表明，即使是大型科技項目，也可能因地方居民的反對而遭遇阻礙，同時也反映了全球對 AI 基礎設施投資的加速趨勢。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/tech-industry/data-centers/almost-70-percent-of-voters-in-missouri-city-recall-council-member-who-said-yes-to-ai-data-center-tax-breaks-councilor-said-disagreement-over-an-issue-shouldnt-be-enough-to-unseat-him",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/data-centers/almost-70-percent-of-voters-in-missouri-city-recall-council-member-who-said-yes-to-ai-data-center-tax-breaks-councilor-said-disagreement-over-an-issue-shouldnt-be-enough-to-unseat-him",
+              "published_at": "2026-09-03T06:52:55+00:00",
+              "content_quality": "extracted"
+            },
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/260903/p22#a260903p22",
+              "published_at": "2026-09-03T06:00:01+00:00",
+              "content_quality": "summary_only"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_0092e3e7d000aec2_26",
+          "category": "ai_research",
+          "title": "PitchBook：95位以上投資人同時投資 Anthropic 與 OpenAI，顯示投資趨勢轉變",
+          "original_title": "PitchBook: 95+ investors put money into both Anthropic and OpenAI amid shifting norms; sources: Menlo, Lightspeed, and Iconiq each hold 1%-2% Anthropic stakes (Erin Griffith/New York Times)",
+          "published_at": "2026-09-03T06:30:01+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "根據 PitchBook 數據，超過 95 位投資人同時投資了 Anthropic 和 OpenAI。",
+            "Menlo、Lightspeed 和 Iconiq 等投資機構分別持有 Anthropic 1%-2% 的股份。",
+            "此現象表明投資者對人工智慧領域的投資趨勢正在轉變，兩家公司皆被視為潛在的上市優勢股。"
+          ],
+          "why_it_matters": "投資者對 Anthropic 和 OpenAI 的雙向投資，暗示了人工智慧領域的競爭日益激烈，以及對兩家公司未來潛力的強烈信心。",
+          "divergent_views": null,
+          "primary_url": "https://www.techmeme.com/260903/p23#a260903p23",
+          "primary_content_quality": "summary_only",
+          "sources": [
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/260903/p23#a260903p23",
+              "published_at": "2026-09-03T06:30:01+00:00",
+              "content_quality": "summary_only"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_86b58d0b348797b8_30",
+          "category": "ai_research",
+          "title": "研究揭示大型語言模型在持久記憶應用中存在的「記憶信任差距」，規模越大越容易受影響",
+          "original_title": "The Memory Trust Gap: Capability-Dependent Failures in Persistent-Memory Agents",
+          "published_at": "2026-09-02T20:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "研究發現，當大型語言模型使用持久記憶（Persistent Memory）時，過期的儲存事實可能優先於當前的證據，導致錯誤的答案。",
+            "在「Benefit」測試集中，模型在所有規模下，幾乎總是使用過期的值（準確度 0.92-1.00）。",
+            "在「Safety」測試集中，較大的模型更容易受到過期資訊的影響，即使工具提供正確答案。",
+            "研究指出，移除標籤、使用「較新的日期」等特徵會加劇大型模型的過度信任問題。",
+            "解決方案包括暴露元數據，以提高準確性，但效果也與模型能力相關。"
+          ],
+          "why_it_matters": "此研究揭示了持久記憶應用中潛在的風險，強調了在大型語言模型中整合記憶時，需要更謹慎地處理資訊時效性與信任度，以避免錯誤資訊的傳播。",
+          "divergent_views": null,
+          "primary_url": "https://arxiv.org/abs/2609.01852",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "arXiv (cs.AI)",
+              "url": "https://arxiv.org/abs/2609.01852",
+              "published_at": "2026-09-02T20:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_9e69c145953c3890_37",
+          "category": "ai_research",
+          "title": "EvalDetectBench：評估大型語言模型評估意識的新基準",
+          "original_title": "EvalDetectBench: A Benchmark for Measuring Evaluation Awareness in Frontier Language Models",
+          "published_at": "2026-09-02T20:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "研究人員推出 EvalDetectBench，這是一個開放的流程和基準，用於衡量大型語言模型的評估意識，適用於任何 Inspect 兼容的評估。",
+            "EvalDetectBench 包含一個新編制的語音腳本套件，涵蓋了當前的前沿系統卡評估和多樣化的部署來源。",
+            "研究發現，模型生成部署語音腳本的身份以及用於高模型性能的提示選擇，會引入系統偏差，分別造成 11.25% 的測量變異。",
+            "EvalDetectBench 通過每模型探測校準和分層生成器協調程序來糾正這些偏差。"
+          ],
+          "why_it_matters": "EvalDetectBench 的推出有助於更可靠地評估大型語言模型，並減少評估結果的偏差，對於確保 AI 安全框架的有效性至關重要。",
+          "divergent_views": null,
+          "primary_url": "https://arxiv.org/abs/2609.01611",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "arXiv (cs.AI)",
+              "url": "https://arxiv.org/abs/2609.01611",
+              "published_at": "2026-09-02T20:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_2fe7367e13abe465_39",
+          "category": "ai_research",
+          "title": "Hugging Face 研究：語言模型與非語言代理協作，透過潛在狀態內化優於傳統文字摘要方法",
+          "original_title": "[Paper] Exploring Collaboration between a language and a non-language agent",
+          "published_at": "2026-09-02T00:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Hugging Face 團隊提出 LLAMIA-Bench，一套包含六個不同協作西洋棋任務的基準測試，旨在研究語言模型與非語言代理協作時的瓶頸。",
+            "研究發現，將非語言代理的連續表徵轉換為文字摘要（verbalization）會造成效能損失，稱為「文字摘要債」。",
+            "團隊引入「潛在狀態內化」（latent state internalization）技術，直接將代理的連續表徵投影到語言模型的 token stream 中，避免了文字摘要的瓶頸。",
+            "使用潛在狀態內化訓練的 14B 模型 LLAMIA，在所有基準測試中表現優於或等於專用西洋棋引擎和 GPT-5.1，並具有泛化能力。"
+          ],
+          "why_it_matters": "此研究表明，在語言模型與非語言代理協作解決複雜問題時，避免文字摘要的瓶頸，直接利用代理的狀態資訊，能顯著提升效能，為未來更高效的 AI 系統設計提供了新思路。",
+          "divergent_views": null,
+          "primary_url": "https://huggingface.co/papers/2609.00474",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "Hugging Face Daily Papers",
+              "url": "https://huggingface.co/papers/2609.00474",
+              "published_at": "2026-09-02T00:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_2440a70f9166423f_40",
+          "category": "ai_research",
+          "title": "Debias-SparseGPT：降低大型語言模型剪枝造成的偏見",
+          "original_title": "[Paper] Debias-SparseGPT: Bias-Aware Pruning for Large Language Models",
+          "published_at": "2026-09-02T00:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "研究人員提出 Debias-SparseGPT，這是一種在大型語言模型 (LLM) 剪枝後，透過引入代表性去偏見的技術。",
+            "Debias-SparseGPT 使用第二階導數，針對人口統計學上對比的輸入進行去偏見處理，有效降低剪枝造成的偏見，同時維持模型 perplexity 和 zero-shot 準確度。",
+            "在最嚴格的 2:4 結構化剪枝模式下，加入長上下文、內容豐富的校準集，進一步提升下游效能和公平性。",
+            "Debias-SparseGPT 在兼顧計算效率的同時，改善了偏見與效能之間的權衡。"
+          ],
+          "why_it_matters": "Debias-SparseGPT 的出現，有助於在模型壓縮的同時，降低 LLM 的偏見風險，提升模型公平性，對於推動 LLM 在更廣泛場景下的應用具有重要意義。",
+          "divergent_views": null,
+          "primary_url": "https://huggingface.co/papers/2609.02496",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "Hugging Face Daily Papers",
+              "url": "https://huggingface.co/papers/2609.02496",
+              "published_at": "2026-09-02T00:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_4f264646cd30ba01_41",
+          "category": "ai_research",
+          "title": "Hugging Face 研究：知識閘門機制可有效評估 LLM Agent 依賴外部知識的程度",
+          "original_title": "[Paper] Ignorance or Incompetence? Constructing Knowledge-Gated, Verifiable Tasks for LLM Agents",
+          "published_at": "2026-08-31T00:00:00+00:00",
+          "freshness_status": "background",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "研究團隊提出了一種知識閘門（Knowledge-Gated）任務建構協議，將任務指令與包含私有慣例、參考表格和工具操作符的精簡構件（artefact）分離。",
+            "透過控制 LLM Agent 是否能存取這些私有慣例的構件，研究團隊驗證了 Agent 對構件的依賴性，並發現有 Agent 在有構件時成功率為 68.0%，無構件時則為 0%。",
+            "研究團隊公開了部分任務套件和相關工具，以供社群參考和進一步研究，但強調此研究僅驗證了建構協議的行為，未證明任務能提升訓練後的表現。"
+          ],
+          "why_it_matters": "此研究提供了一種更嚴謹的方法來評估 LLM Agent 對外部知識的依賴程度，有助於開發更可靠且可驗證的 AI 系統，並揭示了現有基準測試可能存在的缺陷。",
+          "divergent_views": null,
+          "primary_url": "https://huggingface.co/papers/2608.30322",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "Hugging Face Daily Papers",
+              "url": "https://huggingface.co/papers/2608.30322",
+              "published_at": "2026-08-31T00:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_0d8be7117c16de22_43",
+          "category": "ai_research",
+          "title": "Hugging Face 發布 NeoMME：原生多模態多語言編碼器，提升效率與效能",
+          "original_title": "[Paper] NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference",
+          "published_at": "2026-08-31T00:00:00+00:00",
+          "freshness_status": "background",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Hugging Face 推出 NeoMME，這是一系列 260M 和 800M 參數的多模態多語言雙向編碼器，能處理多語言文本和原始圖像。",
+            "NeoMME 採用單一雙向 Transformer 編碼器架構，並使用遮罩離散擴散文本目標進行預訓練，可支援 16,384 標記的上下文長度。",
+            "NeoMME-Retriever 260M 在 ViDoRe v3 基準測試中優於所有參數低於 800M 的模型，NeoMME-Retriever 800M 達到 0.556 nDCG@10。",
+            "NeoMME-260M 在 NVIDIA L40S 上以 2048x2048 圖像輸入尺寸下，頁面編碼速度約為 ColModernVBERT 的兩倍。"
+          ],
+          "why_it_matters": "NeoMME 的推出降低了多模態模型的參數和計算開銷，提升了效率與效能，有助於更廣泛地應用於文件檢索等非生成式任務，並已開放在 Hugging Face Transformers 上使用。",
+          "divergent_views": null,
+          "primary_url": "https://huggingface.co/papers/2609.01657",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "Hugging Face Daily Papers",
+              "url": "https://huggingface.co/papers/2609.01657",
+              "published_at": "2026-08-31T00:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_31deb572da5db3e4_44",
+          "category": "ai_research",
+          "title": "利用語言模型表示法進行投資組合風險評估與交互影響分析",
+          "original_title": "[Paper] Wasserstein-Barycentric Interaction Fields for Spatial Factor Models: Evidence from Language-Model Representations",
+          "published_at": "2026-08-30T00:00:00+00:00",
+          "freshness_status": "background",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "研究人員利用語言模型（Qwen3-Embedding-8B）的新聞文章嵌入表示法，開發出無需依賴跨資產報酬共變異數的投資組合風險評估框架。",
+            "該框架通過多公司Wasserstein-2 分散度，提供系統性投資組合方差的上限，並對標準化報酬進行約束。",
+            "研究人員還利用 Wasserstein-Barycentric Interaction Fields 方法，分析了 52 家公司的互動影響，並從 2018 年至 2022 年的新聞中凍結了該字段，以預測 2023 年至 2026 年的懲罰比率。",
+            "研究結果表明，基於語言模型表示法的配置在樣本方差百分位數上優於等風險權重，顯示出潛在的風險管理優勢。"
+          ],
+          "why_it_matters": "這項研究展示了利用語言模型提取金融市場信息，並在無需傳統金融數據的情況下進行風險評估和投資組合優化的潛力，可能重塑金融分析和投資決策。",
+          "divergent_views": null,
+          "primary_url": "https://huggingface.co/papers/2608.29669",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "Hugging Face Daily Papers",
+              "url": "https://huggingface.co/papers/2608.29669",
+              "published_at": "2026-08-30T00:00:00+00:00",
+              "content_quality": "full_feed"
+            },
+            {
+              "name": "Hugging Face Daily Papers",
+              "url": "https://huggingface.co/papers/2608.29692",
+              "published_at": "2026-08-30T00:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_de92383a3f23fc1e_45",
+          "category": "ai_research",
+          "title": "Hugging Face 推出 KBMR：基於 MLLM 的知識檢索模型提升視覺問答準確度",
+          "original_title": "[Paper] Beyond Visual Similarity: Entity-Aligned Retrieval for Knowledge-Based Visual Question Answering",
+          "published_at": "2026-08-19T00:00:00+00:00",
+          "freshness_status": "background",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "研究團隊提出 KBMR (Knowledge-Based Matching Retriever)，為知識型視覺問答 (KB-VQA) 專屬設計的 MLLM 嵌入式檢索模型。",
+            "KBMR 透過 MLLM 的自迴歸能力，將圖像映射到更注重概念一致性的語義空間，有效解決傳統 CLIP 檢索方法因視覺相似性過於強調而產生的問題。",
+            "為克服維基百科規模檢索中的雜訊干擾，KBMR 引入了基於 MLLM 的語義判別器，利用連續的實體一致性權重進行訓練，實現更精確的負樣本採樣。",
+            "實驗結果顯示，KBMR 在檢索 Recall@1 上提升了 14.7%，在端到端 VQA 準確度上提升了 9.4%，顯著優於 CLIP 基準線。"
+          ],
+          "why_it_matters": "KBMR 的推出代表了在知識型視覺問答領域，利用 MLLM 提升檢索準確度的新方向，有助於改善複雜視覺問答系統的性能，並可能促進更精確的圖像理解和知識整合。",
+          "divergent_views": null,
+          "primary_url": "https://huggingface.co/papers/2608.21450",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "Hugging Face Daily Papers",
+              "url": "https://huggingface.co/papers/2608.21450",
+              "published_at": "2026-08-19T00:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_dc922e10e8f99a69_23",
+          "category": "ai_research",
+          "title": "Google 推出 WeatherNext 3 AI 氣象模型，提升預測精確度",
+          "original_title": "Google says its AI weather model is getting better",
+          "published_at": "2026-09-03T07:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.0,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Google 推出新一代 AI 氣象模型 WeatherNext 3，聲稱能以更高的解析度提供更精確的降雨和降雪預報。",
+            "WeatherNext 3 透過學習即時氣象觀測資料，產生全球氣象圖，解析度是 Google 先前模型的五倍。",
+            "Google Research 工程師 Samier Merchant 表示，WeatherNext 3 的訓練數據超越了大多數全球 AI 模型。"
+          ],
+          "why_it_matters": "WeatherNext 3 的提升預測能力，有助於更準確地應對極端天氣事件，並改善氣象預報的可靠性，對農業、防災等領域具有重要意義。",
+          "divergent_views": null,
+          "primary_url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
+              "published_at": "2026-09-03T07:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_783fa93e3173dbdd_33",
+          "category": "ai_research",
+          "title": "結合語言與程式碼的概率推理模型，模擬人類的歸納學習與主動探究",
+          "original_title": "Induction and Inquiry via Probabilistic Reasoning over Language and Code",
+          "published_at": "2026-09-02T20:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.0,
+          "is_top_story": false,
+          "summary_bullets": [
+            "研究人員提出了一種計算模型，將符號知識編碼為結合自然語言與程式碼的“心理程式”，並使用 LLM 引導的貝氏學習演算法進行序列推理。",
+            "該模型成功再現了人類歸納學習和主動探究的行為特徵，例如錨定效應和花園小徑效應。",
+            "與純粹的 LLM 和傳統貝氏模型相比，該模型在數據效率、計算效率和靈活性方面更勝一籌。",
+            "研究結果表明，人類可能通過在語言和程式碼表示形式中表示多種假設，並通過近似貝氏更新來修改這些假設來不斷增長知識。"
+          ],
+          "why_it_matters": "此模型提供了一種新的方法來理解人類知識獲取和推理過程，並可能為開發更高效、更具適應性的 AI 系統提供靈感。",
+          "divergent_views": null,
+          "primary_url": "https://arxiv.org/abs/2609.01815",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "arXiv (cs.AI)",
+              "url": "https://arxiv.org/abs/2609.01815",
+              "published_at": "2026-09-02T20:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_8e2f75a90f8e63fa_42",
+          "category": "ai_research",
+          "title": "Hugging Face 推出 FoldingAgent：從示範影片推導參數化摺紙程序",
+          "original_title": "[Paper] FoldingAgent: Inferring Parametric Origami Procedures from Demonstration Videos",
+          "published_at": "2026-08-31T00:00:00+00:00",
+          "freshness_status": "background",
+          "importance_score": 8.0,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Hugging Face 開發了 FoldingAgent，一個能從摺紙示範影片中推導參數化摺紙程序的框架。",
+            "FoldingAgent 結合預訓練的視覺語言模型 (VLM) 與專用工具，進行幾何轉換模擬、物理可行性驗證、視覺內容檢索與比較，以及自我預測評估。",
+            "該框架採用參數化空間，包含紙張幾何形狀和參數化摺疊動作，並能重新規劃動作以減少錯誤累積，與傳統預測靜態摺痕圖案的模型不同。",
+            "研究團隊在 PurelandFold 基準測試集上評估了 FoldingAgent，結果顯示能成功將非結構化視覺示範轉化為可執行且物理上可行的摺疊程序。"
+          ],
+          "why_it_matters": "FoldingAgent 的出現縮短了人類摺紙知識與計算機方法的差距，為將非結構化視覺示範轉化為可執行參數化計畫開啟了新的可能性，有助於推動機器人摺紙等領域的發展。",
+          "divergent_views": null,
+          "primary_url": "https://huggingface.co/papers/2609.00377",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "Hugging Face Daily Papers",
+              "url": "https://huggingface.co/papers/2609.00377",
+              "published_at": "2026-08-31T00:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_eefdda3ce1b6bf7c_32",
+          "category": "ai_research",
+          "title": "Hydration Proxy Pattern：架構解決 stateless LLM API 的會話狀態管理問題",
+          "original_title": "Architecting Conversational Data Systems for Stateless LLM APIs: The Hydration Proxy Pattern",
+          "published_at": "2026-09-02T20:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "企業平台轉向會話推理介面時，stateless LLM API 的特性造成架構上的缺口，客戶應用程式需要自行管理會話狀態和語義記憶體。",
+            "研究提出 Hydration Proxy Pattern 架構，將會話資料持久化與推理引擎解耦，確保平台對會話資料的主權。",
+            "提出 Context Stabilization Mandate，旨在解決主權狀態管理與 KV 緩取之間的權衡。",
+            "Hydration Proxy Pattern 允許安全、多階段的語義錨定。"
+          ],
+          "why_it_matters": "此架構解決了 stateless LLM API 在會話狀態管理上的挑戰，有助於企業平台更安全、高效地部署基於 LLM 的會話應用程式，並確保數據主權。",
+          "divergent_views": null,
+          "primary_url": "https://arxiv.org/abs/2609.01834",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "arXiv (cs.AI)",
+              "url": "https://arxiv.org/abs/2609.01834",
+              "published_at": "2026-09-02T20:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_4e678681fe901860_35",
+          "category": "ai_research",
+          "title": "機器學習解析法律條文時的可靠性評估：生存證書方法",
+          "original_title": "When Can a Machine Trust a Statute? A Survival Certificate for Machine-Extracted Legal Logic",
+          "published_at": "2026-09-02T20:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "研究探討了機器學習解析法律條文時，不同解析器間的歧義問題，以密蘇里州和印度中央法案為例，發現解析器在判斷數值閾值是否存在時，有 43% 的假陰性率。",
+            "研究團隊開發了一種「生存證書」方法，用於驗證機器學習提取的法律邏輯的可靠性，該方法通過蒙特卡洛模擬和 Wilson 95% 下限界來評估邏輯的生存率。",
+            "研究發現，在特定錯誤模型下，93.2% 的法案章節未能達到資訊門檻，且問題源於校準率的傳遞，而非選擇偏差。",
+            "研究團隊釋出了程式碼、數據產品和審計記錄，並公開了一個被撤回的聲明，以供查閱。"
+          ],
+          "why_it_matters": "此研究揭示了機器學習解析法律條文的挑戰，並提供了一種評估可靠性的方法，對於提升法律科技的準確性和可信度具有重要意義，未來可應用於更廣泛的法律文件分析和決策支持。",
+          "divergent_views": null,
+          "primary_url": "https://arxiv.org/abs/2609.01741",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "arXiv (cs.AI)",
+              "url": "https://arxiv.org/abs/2609.01741",
+              "published_at": "2026-09-02T20:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_a737b457f1b536a6_36",
+          "category": "ai_research",
+          "title": "人工智慧發展引發新形態的倫理元認知探討",
+          "original_title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+          "published_at": "2026-09-02T20:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "論文探討人工智慧 (AI) 的發展對倫理元認知領域的影響，特別是當 AI 系統具備道德推理、道德意圖和道德反思能力時。",
+            "論文提出了識別 AI 自身倫理相關問題的框架，區分了四個元認知探究領域：以人類視角看待人類倫理、以人類視角看待 AI 倫理、以 AI 視角看待人類倫理、以及以 AI 視角看待 AI 倫理。",
+            "論文分析了現有主流倫理元認知理論（如認知論、非認知論等）在 AI 案例中的適用性，並指出這些理論可能需要大幅修改才能適用於 AI。"
+          ],
+          "why_it_matters": "隨著 AI 系統日益複雜，探討 AI 自身倫理的元認知問題對於確保 AI 的發展符合人類價值觀至關重要，並可能重塑我們對倫理本身的理解。",
+          "divergent_views": null,
+          "primary_url": "https://arxiv.org/abs/2609.01685",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "arXiv (cs.AI)",
+              "url": "https://arxiv.org/abs/2609.01685",
+              "published_at": "2026-09-02T20:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_86d32ea16f1eeb1c_25",
+          "category": "ai_research",
+          "title": "OpenAI CEO Altman 指出 ChatGPT 查詢耗水量與生產一顆杏仁相當，並強調資料中心耗水量與辦公樓無異",
+          "original_title": "OpenAI CEO Sam Altman says 38,000 ChatGPT queries use as much water as the production of one almond — says data centers use no more water than an office building",
+          "published_at": "2026-09-03T06:35:53+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "OpenAI CEO Sam Altman 提到，處理 38,000 個 ChatGPT 查詢所需的水量，相當於生產一顆杏仁。",
+            "Altman 強調，資料中心（Data Center）的耗水量，實際上與辦公樓的耗水量相近。",
+            "此番言論旨在回應對大型語言模型（LLM）環境影響的擔憂，並試圖淡化資料中心耗水的負面印象。"
+          ],
+          "why_it_matters": "Altman 的聲明突顯了大型 AI 模型對環境的潛在影響，以及企業在發展 AI 技術的同時，需要更積極地關注永續發展。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-sam-altman-says-38-000-chatgpt-queries-use-as-much-water-as-the-production-of-one-almond-says-data-centers-use-no-more-water-than-an-office-building",
+              "published_at": "2026-09-03T06:35:53+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_07dd7791cd72b3ef_27",
+          "category": "ai_research",
+          "title": "AI 提案自動化公司 Atira 獲得 Accel 領投 1500 萬美元種子輪融資",
+          "original_title": "Munich-based Atira, which aims to use AI to automate the parsing and generation of complex bid proposals, raised a $15M seed led by Accel and a $2.5M pre-seed (Jeremy Kahn/Fortune)",
+          "published_at": "2026-09-03T05:45:01+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Atira 是一家總部位於慕尼黑的初創公司，旨在利用 AI 自動化複雜的提案解析和生成。",
+            "Atira 已完成 1500 萬美元的種子輪融資，由 Accel 領投，此前已獲得 250 萬美元的先投資資。",
+            "Atira 的目標客戶包括製造消防車、鐵路維護機械和電動汽車充電樁的公司，這些公司需要參與大型合約競標。"
+          ],
+          "why_it_matters": "Atira 的成功融資表明了 AI 在企業提案流程自動化領域的潛力，有助於提高效率並降低成本。",
+          "divergent_views": null,
+          "primary_url": "https://www.techmeme.com/260903/p21#a260903p21",
+          "primary_content_quality": "summary_only",
+          "sources": [
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/260903/p21#a260903p21",
+              "published_at": "2026-09-03T05:45:01+00:00",
+              "content_quality": "summary_only"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_7f31e1a72320d632_28",
+          "category": "ai_research",
+          "title": "HTC Vive Eagle智慧眼鏡在北美、歐洲、英國及澳洲上市，提供Gemini或ChatGPT語助選擇",
+          "original_title": "HTC rolls out its $499 Vive Eagle, which let users choose between Gemini or ChatGPT as their assistant, in North America, Europe, the UK, and Australia (Chris Welch/Bloomberg)",
+          "published_at": "2026-09-03T05:15:01+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "HTC推出Vive Eagle智慧眼鏡，定價499美元。",
+            "Vive Eagle支援使用者選擇Gemini或ChatGPT作為語音助理。",
+            "目前上市地區包括北美、歐洲、英國及澳洲。"
+          ],
+          "why_it_matters": "HTC進軍智慧眼鏡市場，與Meta等競爭者競逐，整合Gemini或ChatGPT提供更豐富的使用者體驗，可能影響VR/AR市場的發展。",
+          "divergent_views": null,
+          "primary_url": "https://www.techmeme.com/260903/p20#a260903p20",
+          "primary_content_quality": "summary_only",
+          "sources": [
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/260903/p20#a260903p20",
+              "published_at": "2026-09-03T05:15:01+00:00",
+              "content_quality": "summary_only"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_d4be002816549623_31",
+          "category": "ai_research",
+          "title": "SSAKG 2.0 開源套件：結構關聯序列記憶體與情境導向檢索",
+          "original_title": "SSAKG 2.0: An Open-Source Package for Structural Associative Sequence Memory and Context-Based Retrieval",
+          "published_at": "2026-09-02T20:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "研究團隊發布 SSAKG 2.0，這是一個用於構建和操作結構關聯序列知識圖譜 (SSAKG) 的開源軟體套件。",
+            "SSAKG 2.0 採用圖譜結構表示物件，並利用圖譜連接的結構模式來表示有序序列，從而實現從部分情境重建完整序列的功能。",
+            "版本 2.0 引入了利用電腦記憶體位元進行高效圖譜連接搜尋的演算法，並採用 Python 與 C 的混合實作，兼顧開發效率與效能。",
+            "實驗結果表明，該套件能夠儲存和重建序列，並可評估圖譜密度、序列長度和記憶體大小對檢索效能的影響。"
+          ],
+          "why_it_matters": "SSAKG 2.0 提供了一種新的方法來處理序列數據，有潛力應用於自然語言處理、生物資訊學等領域，並促進相關技術的進一步研究。",
+          "divergent_views": null,
+          "primary_url": "https://arxiv.org/abs/2609.01849",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "arXiv (cs.AI)",
+              "url": "https://arxiv.org/abs/2609.01849",
+              "published_at": "2026-09-02T20:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_2ede4e83281f8c36_34",
+          "category": "ai_research",
+          "title": "資訊共享何時能提升分散式探索？聚合、獨立救援與平衡選擇研究",
+          "original_title": "When Does Information Sharing Improve Decentralized Discovery? Aggregation, Independent Rescue, and Equilibrium Selection",
+          "published_at": "2026-09-02T20:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "這篇論文使用精確的有限探索模型，分離了資訊共享改善預估與消除獨立救援行動的影響。",
+            "研究發現，在特定條件下，相同的個人準確度可以與不同的投資組合價值共存。",
+            "研究表明，在特定平衡選擇下，資訊共享能提升探索效率，且結果取決於平衡選擇，而非普遍適用。",
+            "模型為合成且有限的，未使用任何人類或組織數據。"
+          ],
+          "why_it_matters": "這項研究深入探討了分散式探索中資訊共享的機制與影響，對於優化分散式演算法設計與資源配置具有參考價值。",
+          "divergent_views": null,
+          "primary_url": "https://arxiv.org/abs/2609.01814",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "arXiv (cs.AI)",
+              "url": "https://arxiv.org/abs/2609.01814",
+              "published_at": "2026-09-02T20:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_93a229c586825ce9_22",
+          "category": "ai_research",
+          "title": "ChatGPT 服務出現 404 錯誤",
+          "original_title": "ChatGPT Is Throwing 404",
+          "published_at": "2026-09-03T14:46:47+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.0,
+          "is_top_story": false,
+          "summary_bullets": [
+            "ChatGPT 服務目前出現 404 錯誤，表示無法存取。",
+            "此事件來自 Hacker News 討論區，顯示社群關注此問題。"
+          ],
+          "why_it_matters": "ChatGPT 服務中斷可能影響大量使用者，並可能反映出 OpenAI 基礎設施或服務的潛在問題。",
+          "divergent_views": null,
+          "primary_url": "https://chatgpt.com/",
+          "primary_content_quality": "metadata_only",
+          "sources": [
+            {
+              "name": "Hacker News (Top)",
+              "url": "https://chatgpt.com/",
+              "published_at": "2026-09-03T14:46:47+00:00",
+              "content_quality": "metadata_only"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "semiconductor_hardware",
       "label": "半導體 / 硬體",
       "icon": "cpu",
-      "items": []
+      "items": [
+        {
+          "cluster_id": "cluster_4f94cfcf66d22a08_55",
+          "category": "semiconductor_hardware",
+          "title": "K&S 強調混合鍵合與 TCB 共生，應材揭示先進封裝熱管理與良率挑戰",
+          "original_title": "搶攻 AI 先進封裝！K&S 看好混合鍵合、TCB 技術走向「共生」非取代",
+          "published_at": "2026-09-03T04:56:47+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 9.0,
+          "is_top_story": false,
+          "summary_bullets": [
+            "K&S 認為混合鍵合與 TCB 在先進封裝應用中並非取代關係，而是共生，混合鍵合用於晶粒整合，TCB 則用於後段封裝，尤其在 CoWoS 等應用中扮演關鍵角色。",
+            "應材指出先進封裝的關鍵挑戰包括互連、精密堆疊架構、製程控制，以及 CPO 的熱管理和良率問題，CPO 的熱效應會導致元件位移。",
+            "供應鏈持續短缺導致半導體設備交期拉長至 30 週，K&S 面臨 IC 零組件供應限制。",
+            "應材強調大尺寸封裝面臨機器人搬運、面板翹曲等挑戰，並指出材料的均勻性是關鍵，目前主要挑戰在於如何設計具備良好製程控制能力且能維持面板均勻性的設備。"
+          ],
+          "why_it_matters": "先進封裝技術的發展對於 AI、高速網路等應用至關重要，TCB 與混合鍵合的共生關係以及 CPO 的熱管理與良率挑戰將影響未來封裝技術的發展方向與產業供應鏈。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/09/03/kulicke-and-soffa-semicon-taiwan-2026/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 (TechNews)",
+              "url": "https://technews.tw/2026/09/03/kulicke-and-soffa-semicon-taiwan-2026/",
+              "published_at": "2026-09-03T04:56:47+00:00",
+              "content_quality": "extracted"
+            },
+            {
+              "name": "科技新報 (TechNews)",
+              "url": "https://technews.tw/2026/09/03/applied-materials-semicon-taiwan-2026/",
+              "published_at": "2026-09-03T01:55:24+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_44d6d119c5275116_58",
+          "category": "semiconductor_hardware",
+          "title": "輝達以 129 億美元收購 Hugging Face",
+          "original_title": "Nvidia is buying Hugging Face for almost $13 billion",
+          "published_at": "2026-09-03T04:12:06+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 9.0,
+          "is_top_story": false,
+          "summary_bullets": [
+            "輝達 (Nvidia) 宣布將以 129.3 億美元收購 Hugging Face，Hugging Face 是一個開放原始碼 AI 模型、資料集和工具的熱門託管平台。",
+            "Hugging Face 平台常被描述為 AI 領域的「GitHub」，提供 AI 開發者分享專案和資料的空間。",
+            "此次收購將使輝達能夠擴展 AI 平台的規模，強化基礎架構，並擴大 AI 資源的可及性。",
+            "此舉表明輝達持續積極投資於 AI 生態系統，並將其整合到硬體和軟體解決方案中。"
+          ],
+          "why_it_matters": "輝達收購 Hugging Face 將加速 AI 開發和部署，鞏固輝達在 AI 領域的領導地位，並可能影響開放原始碼 AI 社群的發展。",
+          "divergent_views": null,
+          "primary_url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+              "published_at": "2026-09-03T04:12:06+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_2d0335bf583789e4_62",
+          "category": "semiconductor_hardware",
+          "title": "台積電設備需求近乎倍增，AI 需求推升 2026 年資本支出至 640 億美元，供應商面臨缺貨",
+          "original_title": "TSMC fab equipment demand nearly doubles in six months — AI surge pushes 2026 CapEx toward $64B amid tool shortages",
+          "published_at": "2026-09-03T03:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 9.0,
+          "is_top_story": false,
+          "summary_bullets": [
+            "台積電在過去六個月內，由於 AI 需求的激增，對半導體生產設備的需求近乎倍增，從原本的預測翻倍至 1.9 倍。",
+            "台積電的資本支出預計到 2026 年將達到 640 億美元，反映了擴大產能以滿足 AI 需求的規模。",
+            "由於需求激增，台積電承認無法滿足所有客戶的需求，並正在努力趕上供應。",
+            "設備供應商面臨短缺，凸顯了半導體產業擴張速度超出供應鏈能力的挑戰。"
+          ],
+          "why_it_matters": "台積電設備需求的激增表明 AI 產業的快速發展正在推動半導體製造的巨大投資，並可能導致供應鏈瓶頸，影響未來晶片供應。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-fab-equipment-demand-nearly-doubles-in-six-months-ai-surge-pushes-2026-capex-toward-usd64b-amid-tool-shortages",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-fab-equipment-demand-nearly-doubles-in-six-months-ai-surge-pushes-2026-capex-toward-usd64b-amid-tool-shortages",
+              "published_at": "2026-09-03T03:00:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_c0a63ffef1231ef4_57",
+          "category": "semiconductor_hardware",
+          "title": "英特爾取消「院士」(Fellow)頭銜，重新定義技術領導標準，強調商業成果",
+          "original_title": "Intel scraps 44-year-old 'Fellow' title for top scientists, changes 'standard of technical leadership' — technical luminaries must now deliver measurable business results, combine deep expertise with strategic vision and 'measurable tactical progress'",
+          "published_at": "2026-09-03T04:13:44+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "英特爾取消了持續了44年的「院士」(Fellow)頭銜，改為「傑出工程師」(Distinguished Engineer)。",
+            "新的標準強調技術領導者需結合深厚的專業知識、戰略眼光和可衡量的實際進展，並能為公司帶來可衡量的商業成果。",
+            "此變動反映了英特爾對技術領導力的重新定義，旨在提升技術團隊的商業貢獻。",
+            "英特爾強調未來領導者需要具備領域專業知識、問題解決能力、創新能力、執行力以及戰略視野。"
+          ],
+          "why_it_matters": "英特爾此次調整顯示其更加注重技術團隊的商業價值，未來可能促使更多科技公司重新評估內部技術人才的激勵機制與職責。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/pc-components/cpus/intel-eliminates-fellow-titles-changes-standard-of-technical-leadership-combines-deep-expertise-with-strategic-vision-and-measurable-tactical-progress",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/pc-components/cpus/intel-eliminates-fellow-titles-changes-standard-of-technical-leadership-combines-deep-expertise-with-strategic-vision-and-measurable-tactical-progress",
+              "published_at": "2026-09-03T04:13:44+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_6f719839a7235e22_61",
+          "category": "semiconductor_hardware",
+          "title": "Fluidstack 獲得 18 億美元以上估值的 15 億美元融資，成為 Google AI 晶片測試平台",
+          "original_title": "Sources: neocloud Fluidstack closed a $1.5B round led by Jane Street at an $18B+ valuation; in July, the startup announced a $750M round at a $7.5B valuation (Iain Martin/Forbes)",
+          "published_at": "2026-09-03T03:45:01+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Fluidstack 獲得由 Jane Street 領投的 15 億美元融資，後估值超過 18 億美元，此前 7 月份宣布獲得 7.5 億美元融資，估值 75 億美元。",
+            "Fluidstack 成為 Google 測試自家 AI 晶片的平台。",
+            "此事件顯示 Fluidstack 在 AI 基礎設施領域的快速增長和重要性。"
+          ],
+          "why_it_matters": "Fluidstack 的快速增長和與 Google 的合作，暗示了 AI 晶片測試和優化領域的巨大商機，以及對雲端基礎設施供應商的影響。",
+          "divergent_views": null,
+          "primary_url": "https://www.techmeme.com/260903/p16#a260903p16",
+          "primary_content_quality": "summary_only",
+          "sources": [
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/260903/p16#a260903p16",
+              "published_at": "2026-09-03T03:45:01+00:00",
+              "content_quality": "summary_only"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_cbf799ee97065eed_59",
+          "category": "semiconductor_hardware",
+          "title": "RPCS3 開源模擬器開發者批評 Nvidia DLSS 5 為「AI 劣質生成器」，質疑業界濫用升頻技術掩蓋遊戲優化不足",
+          "original_title": "RPCS3 emulator devs slam Nvidia DLSS 5 as 'AI-slop generator' — says industry pushing 'more upscalers and frame generation to hallucinate games and hide their lack of optimisation'",
+          "published_at": "2026-09-03T04:10:38+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "RPCS3 開源 PlayStation 3 模擬器開發團隊公開批評 Nvidia DLSS 5 技術，稱其為「AI 劣質生成器」。",
+            "此批評源於近期有 Modder 成功將 DLSS 5 移植到多款遊戲，並在 RPCS3 模擬器中進行測試。",
+            "RPCS3 開發者認為，業界過度依賴升頻和幀生成技術來掩蓋遊戲優化不足，而 RPCS3 模擬器不會採用此類技術。",
+            "RPCS3 開發者指出，由於 PS3 時代的遊戲缺乏運動向量數據，現代時間升頻器難以實現。"
+          ],
+          "why_it_matters": "此事件反映了業界對於 AI 升頻技術的爭議，以及對遊戲優化與視覺效果平衡的關注，可能影響模擬器開發策略與玩家對遊戲視覺品質的期望。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/video-games/pc-gaming/rpcs3-emulator-devs-slam-nvidia-dlss-5-as-ai-slop-generator-says-industry-pushing-more-upscalers-and-frame-generation-to-hallucinate-games-and-hide-their-lack-of-optimisation",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/video-games/pc-gaming/rpcs3-emulator-devs-slam-nvidia-dlss-5-as-ai-slop-generator-says-industry-pushing-more-upscalers-and-frame-generation-to-hallucinate-games-and-hide-their-lack-of-optimisation",
+              "published_at": "2026-09-03T04:10:38+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_4c827661dd6252e1_56",
+          "category": "semiconductor_hardware",
+          "title": "Tom's Hardware 評測：Onimusha: Way of the Sword 遊戲效能測試，AMD X3D 處理器領先 Intel Raptor Lake Refresh",
+          "original_title": "Benchmarking 31 different CPUs in Onimusha: Way of the Sword — X3D beats flagships by 10%, 270K Plus falls behind Raptor Lake Refresh",
+          "published_at": "2026-09-03T04:32:30+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Tom's Hardware 進行了 31 款 CPU 在遊戲《Onimusha: Way of the Sword》中的效能測試。",
+            "AMD X3D 系列處理器在測試中表現出色，相較於旗艦級處理器領先約 10%。",
+            "AMD 270K Plus 處理器在效能上落後於 Intel Raptor Lake Refresh 處理器。"
+          ],
+          "why_it_matters": "此效能測試結果揭示了不同 CPU 架構在特定遊戲情境下的表現差異，有助於消費者在選購處理器時做出更明智的決策。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/pc-components/cpus/benchmarking-31-different-cpus-in-onimusha-way-of-the-sword-x3d-beats-flagships-by-10-percent-270k-plus-falls-behind-raptor-lake-refresh",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/pc-components/cpus/benchmarking-31-different-cpus-in-onimusha-way-of-the-sword-x3d-beats-flagships-by-10-percent-270k-plus-falls-behind-raptor-lake-refresh",
+              "published_at": "2026-09-03T04:32:30+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_4027136f45f66593_60",
+          "category": "semiconductor_hardware",
+          "title": "Packard Bell 品牌復活：推出 DotBook 14 輕薄型筆記型電腦，歐洲市場獨家",
+          "original_title": "Iconic Packard Bell brand rises from the ashes after 13 years with the DotBook 14 at IFA — colorful and affordable Intel Twin Lake laptop is Europe-only, for now",
+          "published_at": "2026-09-03T04:03:26+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "經典的 Packard Bell 品牌在沉寂 13 年後重新出現，推出了 DotBook 14 筆記型電腦。",
+            "DotBook 14 採用 Intel Twin Lake 處理器，主打色彩鮮豔和價格親民。",
+            "目前該產品僅在歐洲市場發售。"
+          ],
+          "why_it_matters": "Packard Bell 品牌的重返，可能為歐洲的筆記型電腦市場帶來新的選擇，尤其是在預算有限的消費者中。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/laptops/iconic-packard-bell-brand-rises-from-the-ashes-after-13-years-with-the-dotbook-14-at-ifa-colorful-and-affordable-intel-twin-lake-laptop-is-europe-only-for-now",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/laptops/iconic-packard-bell-brand-rises-from-the-ashes-after-13-years-with-the-dotbook-14-at-ifa-colorful-and-affordable-intel-twin-lake-laptop-is-europe-only-for-now",
+              "published_at": "2026-09-03T04:03:26+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "software_cloud",
       "label": "軟體 / Cloud / Developer",
       "icon": "cloud",
-      "items": []
+      "items": [
+        {
+          "cluster_id": "cluster_e70fc1da1818a665_46",
+          "category": "software_cloud",
+          "title": "以色列雲端安全公司 Upwind 獲 3 億美元融資，估值躍升至 38 億美元；Guardio 則獲得 4000 萬美元融資，估值 11 億美元",
+          "original_title": "Upwind, which filters false security alerts in cloud apps so companies can focus on actual risks, raised $300M at a $3.8B valuation, up from $1.5B in January (Meir Orbach/CTech)",
+          "published_at": "2026-09-03T06:50:01+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 9.0,
+          "is_top_story": true,
+          "summary_bullets": [
+            "以色列雲端安全公司 Upwind 完成 3 億美元融資，由 1 月的 15 億美元估值大幅躍升至 38 億美元。",
+            "另一家以色列網路安全公司 Guardio 獲得 4000 萬美元融資，估值 11 億美元，投資人包括 Wiz 公司的創辦人 Assaf Rappaport。",
+            "這兩起事件凸顯了對雲端安全解決方案日益增長的需求，特別是在企業面臨不斷演進的網路威脅時。"
+          ],
+          "why_it_matters": "這兩項融資顯示以色列在網路安全領域的領先地位，以及雲端安全市場的蓬勃發展，未來將持續吸引大量投資。",
+          "divergent_views": null,
+          "primary_url": "https://www.techmeme.com/260903/p24#a260903p24",
+          "primary_content_quality": "summary_only",
+          "sources": [
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/260903/p15#a260903p15",
+              "published_at": "2026-09-03T03:25:01+00:00",
+              "content_quality": "summary_only"
+            },
+            {
+              "name": "Techmeme",
+              "url": "https://www.techmeme.com/260903/p24#a260903p24",
+              "published_at": "2026-09-03T06:50:01+00:00",
+              "content_quality": "summary_only"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_50afc3edd8d7cac5_47",
+          "category": "software_cloud",
+          "title": "匯智攜手工研院推出臺灣首款支援3項PQC標準的量產級密碼應用晶片WAP",
+          "original_title": "臺灣首款自研並支援3項PQC標準的密碼應用晶片出爐！匯智攜手工研院共同催生，且已達量產等級",
+          "published_at": "2026-09-02T23:09:15+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 9.0,
+          "is_top_story": false,
+          "summary_bullets": [
+            "匯智安全科技與工研院SecPaaS平臺共同發表臺灣首款支援3項NIST後量子密碼（PQC）標準的WAP加密處理晶片，已達量產等級。",
+            "新一代WAP晶片整合FIPS 203、FIPS 204、FIPS 205標準，並支援傳統密碼與PQC並行的混合式架構，提供WAP-HSM、WAP-NS、WAP-DX三種型號。",
+            "匯智已推出前一代WAP晶片，已創造200萬美元營收，顯示產品已進入實際量產出貨階段。",
+            "工研院SecPaaS平臺首度將PQC演算法IP授權至晶片端應用，突顯臺灣產官研合作推動PQC技術落實的成果。"
+          ],
+          "why_it_matters": "此舉展現臺灣在後量子密碼學晶片研發與落地應用上的技術能量，有助於提升臺灣在資安供應鏈的國際競爭力，並為企業級HSM應用提供更安全的解決方案。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/178680",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/178680",
+              "published_at": "2026-09-02T23:09:15+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_f8316b5b3fad2415_50",
+          "category": "software_cloud",
+          "title": "美國司法部力挺OpenAI，介入OpenAI與《紐約時報》著作權爭議",
+          "original_title": "川普政府在OpenAI與紐時著作權爭議中力挺OpenAI",
+          "published_at": "2026-09-02T20:09:37+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 9.0,
+          "is_top_story": false,
+          "summary_bullets": [
+            "美國司法部向紐約南區聯邦法院提交「利益聲明」，明確支持OpenAI以受著作權保護的文章訓練AI模型屬於合理使用。",
+            "司法部認為過於嚴苛的合理使用認定將限制大型語言模型發展，並可能導致少數科技巨頭壟斷LLM訓練市場。",
+            "司法部強調AI模型訓練的轉換性高，且AI輸出與原始文章應分開檢視，不構成市場損害。",
+            "《紐約時報》批評政府偏袒大型AI公司，並可能損害原創作者權益。"
+          ],
+          "why_it_matters": "此舉代表美國政府對AI發展的立場，可能對AI產業的著作權訴訟及未來發展產生深遠影響，並引發關於AI訓練資料使用與原創內容保護的爭議。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/178681",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/178681",
+              "published_at": "2026-09-02T20:09:37+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_a66643e5a7cd3592_53",
+          "category": "software_cloud",
+          "title": "Google 推出 Gemini 3.8 Flash 與資安專用版，啟動 Fairwind 防禦計畫",
+          "original_title": "Google推出Gemini 3.8 Flash與資安專用版，同步啟動Fairwind防禦計畫",
+          "published_at": "2026-09-02T18:09:39+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 9.0,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Google 發布 Gemini 3.8 Flash (通用型) 與 Gemini 3.8 Flash Cyber (資安專用)，Gemini 3.8 Flash 在程式撰寫、知識工作及複雜推理方面表現優於前代。",
+            "Gemini 3.8 Flash Cyber 在漏洞挖掘方面表現優於前代，修補能力與前沿模型相近但成本更低，已應用於 Google 產品防護。",
+            "Google 啟動 Fairwind Program，限量開放政府與企業夥伴優先取得 Gemini 3.8 Flash Cyber 的自動找漏洞及自動修補能力，目前已有超過 650 個夥伴加入。",
+            "Fairwind Program 透過 CodeMender 引擎提供修補程式，大幅縮短修補流程，並限制使用權限以避免濫用。"
+          ],
+          "why_it_matters": "Google 的 Gemini 3.8 Flash 系列的推出，以及 Fairwind Program 的啟動，將加速 AI 在程式碼安全領域的應用，提升企業和政府的資安防禦能力，並可能重塑雲端安全服務的市場格局。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/178676",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/178676",
+              "published_at": "2026-09-02T18:09:39+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_996344b5c6798e3d_48",
+          "category": "software_cloud",
+          "title": "研究人員揭露CRLF Desync攻擊手法，可竊取HTTPOnly Cookie並挾持帳號",
+          "original_title": "研究人員揭露新型CRLF Desync攻擊手法，可竊取HTTPOnly Cookie並挾持帳號",
+          "published_at": "2026-09-02T22:09:20+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "資安業者PortSwigger與TurtleSec發現新型CRLF Desync攻擊手法，將HTTP標頭注入漏洞升級為請求走私攻擊。",
+            "攻擊者利用Nginx常見的設定錯誤，注入惡意HTTP請求，觸發回應佇列污染，可能竊取其他使用者的Cookie與驗證權杖。",
+            "攻擊可透過瀏覽器JavaScript觸發，繞過IP與連線鎖定防護，竊取HTTPOnly Cookie，導致帳號接管，並可能產生自我擴散的蠕蟲。",
+            "攻擊已在CDN、電信及支付服務平臺等實際環境中重現。"
+          ],
+          "why_it_matters": "此攻擊手法利用常見設定錯誤，可繞過多種安全防護，對網路服務的安全性構成嚴重威脅，可能導致大規模帳號被盜和資料洩露。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/178684",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/178684",
+              "published_at": "2026-09-02T22:09:20+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_63883606b096682e_49",
+          "category": "software_cloud",
+          "title": "台灣碳費制度新增緩衝機制，協助首次納管企業準備",
+          "original_title": "碳費制度新增首次納管緩衝機制，環境部：非擴大徵收，企業須先完成盤查建立排放基線",
+          "published_at": "2026-09-02T21:09:24+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "台灣碳費徵收制度首波納管對象為年排放量達2.5萬公噸CO₂e以上的企業，今年已有240家企業、461家工廠完成首次繳納。",
+            "為協助首次納管企業，環境部修訂辦法，允許企業首次達到徵收門檻時，先完成盤查建立排放基線，再從次年度起適用碳費申報及繳納義務。",
+            "此舉並非擴大徵收範圍或調整門檻，而是為企業提供準備期，避免因制度銜接不足影響減量規劃。",
+            "環境部同時修正了先期專案減量額度銜接問題，並避免同一減量成果重複取得優惠。"
+          ],
+          "why_it_matters": "此緩衝機制有助於碳費制度的順利推動，降低首次納管企業的負擔，並鼓勵企業積極進行溫室氣體減量。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/178682",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/178682",
+              "published_at": "2026-09-02T21:09:24+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_a4c8f0b655f25982_52",
+          "category": "software_cloud",
+          "title": "跨國執法瓦解20年老牌殭屍網路Sality，利用P2P協定弱點切斷控制",
+          "original_title": "23年Sality殭屍網路遭國際聯手瓦解，P2P協定弱點反成切斷控制突破口",
+          "published_at": "2026-09-02T19:09:11+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "美國司法部及多國執法機關與資安業者聯手，成功干擾運作超過20年的Sality殭屍網路。",
+            "CrowdStrike利用Sality P2P通訊協定未驗證節點身分之弱點，將受感染裝置導向防禦方控制的伺服器，切斷了殭屍網路的控制。",
+            "Sality殭屍網路長期用於惡意程式散布及加密貨幣竊盜，此次行動涉及美國、保加利亞、匈牙利及羅馬尼亞等國。",
+            "此次行動雖然切斷了Sality操作者對殭屍網路的控制，但不會直接移除受害電腦中的惡意程式，後續需要受害者自行清除。"
+          ],
+          "why_it_matters": "此次成功瓦解Sality殭屍網路，展現了跨國合作在網路安全領域的重要性，並突顯了對P2P網路安全漏洞的利用在防禦惡意軟體攻擊中的潛力。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/178677",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/178677",
+              "published_at": "2026-09-02T19:09:11+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_ea5fff293ca95d4d_54",
+          "category": "software_cloud",
+          "title": "Dropbox 帳戶遭駭客入侵，未啟用 2FA 且與 Lenovo ID 連結的帳戶受影響",
+          "original_title": "【資安日報】9月3日，Dropbox傳出遭駭，5千個帳號外洩",
+          "published_at": "2026-09-02T18:09:01+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Dropbox 於 8 月 31 日通知約 5,000 名用戶，其帳戶在 8 月 4 日至 21 日期間遭到未經授權的存取，其中不到三分之一的用戶檔案遭到駭客存取。",
+            "受影響的帳戶未啟用雙因素驗證 (2FA) 且與 Lenovo ID 連結。",
+            "Dropbox 已終止所有透過 Lenovo ID 存取的連線並解除連結，並要求用戶重新輸入密碼才能登入。",
+            "此事件突顯了啟用 2FA 和避免使用第三方登入服務的重要性，以降低帳戶被入侵的風險。"
+          ],
+          "why_it_matters": "此事件提醒雲端服務使用者啟用雙因素驗證的重要性，並可能對 Dropbox 的使用者信任度產生影響，同時也揭示了第三方登入服務可能存在的安全風險。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/178675",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/178675",
+              "published_at": "2026-09-02T18:09:01+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_f869e78647f165ee_51",
+          "category": "software_cloud",
+          "title": "Cursor擴大Cloud Agents自架部署，新增8家基礎設施供應商支援",
+          "original_title": "Cursor擴大Cloud Agents自架部署，新增8家基礎設施與團隊資源池",
+          "published_at": "2026-09-02T20:09:32+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.0,
+          "is_top_story": false,
+          "summary_bullets": [
+            "AI程式開發工具Cursor擴展Cloud Agents自架部署功能，允許企業在自有基礎設施或雲端環境中執行AI代理。",
+            "新增支援AWS Lambda、Cloudflare、Coder、Daytona、E2B、Modal、Namespace及Vercel等8家基礎設施供應商。",
+            "企業可組成團隊資源池，依工作量調整可用機器數量，提升資源利用率。",
+            "Cursor雲端負責模型推論、工作規畫與代理控制，企業端負責實際程式碼執行，並透過HTTPS連線。",
+            "新版擴充Linux執行環境電腦操作能力，Cloud Agents可操作瀏覽器、點擊網頁及擷取畫面。"
+          ],
+          "why_it_matters": "Cursor的擴展強化了企業在AI開發流程中的自主性與靈活性，降低了對Cursor雲端的依賴，同時提升了資源利用效率，有助於加速AI應用落地。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/178679",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/178679",
+              "published_at": "2026-09-02T20:09:32+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "business_market",
@@ -192,1523 +1341,608 @@
       "icon": "chart-line",
       "items": [
         {
-          "cluster_id": "cluster_1252f82ab791dbdc_1",
+          "cluster_id": "cluster_f9c2ad122e10cdd7_10",
           "category": "business_market",
-          "title": "AI 程式碼輔助新創 Cognition 獲 20 億美元融資，估值飆升至 480 億美元",
-          "original_title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-          "published_at": "2026-09-08T22:18:29+00:00",
+          "title": "默克完成 170 億元在台投資，深化在地布局與台灣夥伴合作以加速半導體創新",
+          "original_title": "完成 170 億元在台投資！默克：持續深化在地布局、與台灣夥伴合作",
+          "published_at": "2026-09-03T04:19:13+00:00",
           "freshness_status": "fresh",
           "importance_score": 9.0,
           "is_top_story": true,
           "summary_bullets": [
-            "AI 程式碼輔助新創 Cognition 完成 20 億美元的 E 輪融資，後驗估值達到 480 億美元，較五月時的 260 億美元估值大幅提升。",
-            "Cognition 的年營收複合成長率從五月份的 4.92 億美元成長至 9 億美元，顯示其產品 Devin 在市場上受到高度關注。",
-            "投資方包括 Andreessen Horowitz、Accel、Founders Fund、General Catalyst 和 Avenir，表明市場對 AI 程式碼輔助領域的多家競爭者存在空間。",
-            "Cognition 擁有 Devin 和 Windsurf 兩項產品，Devin 能夠處理從高階需求到程式碼部署的軟體工程工作，而 Windsurf 則為 AI 程式碼編輯器。"
+            "默克已完成在台約新台幣 170 億元（5 億歐元）投資，擴充在地產能與創新能量。",
+            "默克推出「整合解決方案夥伴」策略，結合材料科學、設備、量測與檢測、數位智慧，以應對日益複雜的晶片架構。",
+            "默克加入「SEMI 半導體材料聯盟」，強化台灣半導體供應鏈韌性與產業競爭力。",
+            "默克強調半導體產業的創新重點在於系統整合與流程最佳化，而非僅靠傳統微縮。"
           ],
-          "why_it_matters": "Cognition 的快速成長和高估值表明 AI 程式碼輔助領域具有巨大的潛力，並可能重塑軟體開發流程，但同時也凸顯了算力資源的挑戰。",
+          "why_it_matters": "默克的重大投資與策略轉變，顯示其對台灣半導體產業的重要性，並將有助於提升台灣供應鏈的韌性與創新能力，加速半導體產業的整體發展。",
           "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+          "primary_url": "https://technews.tw/2026/09/03/merck-semicon-taiwan-2026/",
           "primary_content_quality": "extracted",
           "sources": [
             {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/08/ai-coding-startup-cognition-raises-2b-at-48b-valuation-as-revenue-nears-900m/",
-              "published_at": "2026-09-08T22:18:29+00:00",
-              "content_quality": "extracted"
-            },
-            {
-              "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p31#a260908p31",
-              "published_at": "2026-09-08T17:50:00+00:00",
-              "content_quality": "summary_only"
-            },
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-              "published_at": "2026-09-08T21:04:06+00:00",
+              "name": "科技新報 (TechNews)",
+              "url": "https://technews.tw/2026/09/03/merck-semicon-taiwan-2026/",
+              "published_at": "2026-09-03T04:19:13+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_0947893c9b8fb593_4",
+          "cluster_id": "cluster_efb393ecb3fe20cd_16",
           "category": "business_market",
-          "title": "美國政府為Google重啟的核電廠提供19億美元貸款",
-          "original_title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
-          "published_at": "2026-09-08T15:25:35+00:00",
+          "title": "輝能科技3.5代鋰陶瓷電池第三方檢測報告：能量密度達381Wh/kg，已進入Giga量產",
+          "original_title": "輝能全固態電池第三方檢測報告，能量密度達 381Wh/kg",
+          "published_at": "2026-09-03T02:01:04+00:00",
           "freshness_status": "fresh",
           "importance_score": 9.0,
           "is_top_story": true,
           "summary_bullets": [
-            "美國能源部批准向NextEra Energy提供19億美元貸款，用於重啟位於愛荷華州的杜安·阿諾德能源中心核電廠。",
-            "此貸款是美國政府為核電廠重啟提供的大規模融資的第二個案例，顯示政府將核能視為為科技公司（如Google）提供AI資料中心電力的重要來源。",
-            "Google計畫在該核電廠附近興建多達六個資料中心，預計核電廠將於2029年重新啟動，並將50兆瓦的電力供應給當地電力合作社。",
-            "先前因天然氣價格低廉而導致核能經濟上不具吸引力，但AI崛起和經濟更廣泛的電化需求改變了局面。"
+            "輝能科技宣布其3.5代鋰陶瓷電池（LCB）完成第三方檢測，能量密度達381Wh/kg，體積能量密度達903 Wh/L，遠超目前主流鋰電池。",
+            "輝能已通過UL Studio的第三方驗證，在嚴苛環境下失重率低於0.05%，符合全固態電池標準，並已進入Giga等級量產平台。",
+            "輝能已交付超過90萬顆電芯，並獲得日系車廠驗證，正評估在美國設立生產基地，並計劃在2030年完成法國敦克爾克廠第一期工程。",
+            "輝能採用分階段生產策略，台灣和法國負責Inlay生產，其他地區進行疊片、封裝和模組安裝，以降低成本和時間。"
           ],
-          "why_it_matters": "此舉表明核能正逐漸成為滿足AI時代能源需求的關鍵解決方案，並可能加速美國能源結構的轉變。",
+          "why_it_matters": "輝能的技術突破與量產能力，使其在固態電池市場具備領先優勢，尤其是在「非中」供應鏈日益重要的背景下，將對車用、無人機和資料中心等領域產生深遠影響。",
           "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+          "primary_url": "https://technews.tw/2026/09/03/prologium-solid-state-battery-report/",
           "primary_content_quality": "extracted",
           "sources": [
             {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-              "published_at": "2026-09-08T15:25:35+00:00",
+              "name": "科技新報 (TechNews)",
+              "url": "https://technews.tw/2026/09/03/prologium-solid-state-battery-report/",
+              "published_at": "2026-09-03T02:01:04+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_33b06eea4be4aa5d_6",
+          "cluster_id": "cluster_65404441ec1912b3_3",
           "category": "business_market",
-          "title": "Google DeepMind AlphaGenome Atlas 預測人類基因變異，加速基因研究",
-          "original_title": "Google DeepMind’s AlphaGenome Atlas maps all 9 billion possible human DNA changes",
-          "published_at": "2026-09-08T23:41:55+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 9.0,
-          "is_top_story": true,
-          "summary_bullets": [
-            "Google DeepMind 利用 AlphaGenome AI 模型，預測了超過九十億種人類 DNA 單字母變異的生物學影響。",
-            "AlphaGenome Atlas 包含超過一 PB 的數據，是 AlphaFold 數據庫的 30 倍，並已免費提供給全球研究人員。",
-            "此數據庫可避免研究人員逐一測試變異，大幅縮短基因研究時間，有助於理解遺傳疾病並加速藥物研發。",
-            "未來 DeepMind 將提供商業存取權限，透過 Google Cloud 服務。"
-          ],
-          "why_it_matters": "AlphaGenome Atlas 的發布將加速基因研究，有潛力革新遺傳疾病的診斷和治療，並為 Google Cloud 帶來新的商業機會。",
-          "divergent_views": null,
-          "primary_url": "https://siliconangle.com/2026/09/08/google-deepminds-alphagenome-atlas-maps-all-9-billion-possible-human-dna-changes/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/08/google-deepminds-alphagenome-atlas-maps-all-9-billion-possible-human-dna-changes/",
-              "published_at": "2026-09-08T23:41:55+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_f00dc02d2cf1a466_12",
-          "category": "business_market",
-          "title": "核能新創 Bluecore Energy 獲 5000 萬美元種子輪融資，打造浮動式核反應堆",
-          "original_title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
-          "published_at": "2026-09-08T14:10:17+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 9.0,
-          "is_top_story": true,
-          "summary_bullets": [
-            "新創公司 Bluecore Energy 在成立僅兩個月後，成功獲得 5000 萬美元的過訂種子輪融資，此前已獲得 1000 萬美元的先期種子輪。",
-            "Bluecore Energy 致力於在浮動式駁船上建造小型模組化核反應堆 (SMR)，為港口及周邊基礎設施提供清潔能源，可靈活輸送電力。",
-            "公司計劃首個系統產生約 10 兆瓦的持續電力，並在多年之間僅需一次補充燃料，未來將擴展更多單元以滿足需求，目標客戶包括港口、沿海基礎設施和 AI 數據中心，甚至可能為貨運輪船供電。",
-            "公司已獲得首個駁船，並已開始與美國核管會 (NRC) 和美國海岸警衛隊進行正式的法規溝通。"
-          ],
-          "why_it_matters": "Bluecore Energy 的浮動式核反應堆解決方案，有潛力為能源短缺的港口和基礎設施提供可靠且清潔的電力，並可能加速小型模組化核反應堆技術的商業化。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/08/bluecore-energy-raises-50m-to-build-its-first-floating-nuclear-system/",
-              "published_at": "2026-09-08T13:00:30+00:00",
-              "content_quality": "extracted"
-            },
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-              "published_at": "2026-09-08T14:10:17+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_08d231fa7cd76174_13",
-          "category": "business_market",
-          "title": "OpenAI 系統解決納維-史托克斯方程組問題，進一步揭示 AI 發展進程",
-          "original_title": "On the Navier–Stokes Millennium Prize Problem",
-          "published_at": "2026-09-08T10:00:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 9.0,
-          "is_top_story": true,
-          "summary_bullets": [
-            "OpenAI 內部系統成功解決了納維-史托克斯方程組的存在性和平滑性問題，這是著名的千禧年獎問題之一。",
-            "該解決方案證明了流體運動的動力學可能在有限時間內產生奇異點，這對於理解流體行為至關重要。",
-            "OpenAI 使用的解決方案模型能力顯著高於 GPT-6 Astra，表明 AI 模型能力正快速進步。",
-            "納維-史托克斯方程組在飛機設計、天氣預報和血液流研究等領域有廣泛應用，此問題的解決將有助於提升這些領域的精確度。"
-          ],
-          "why_it_matters": "OpenAI 解決千禧年獎問題，不僅在數學領域取得突破，更突顯了 AI 在科學研究中的潛力，並預示著未來 AI 模型將在更複雜的科學問題上發揮關鍵作用。",
-          "divergent_views": null,
-          "primary_url": "https://openai.com/index/navier-stokes-solution",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "OpenAI News",
-              "url": "https://openai.com/index/navier-stokes-solution",
-              "published_at": "2026-09-08T10:00:00+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_c011dfe20dc5b323_16",
-          "category": "business_market",
-          "title": "高通與亞馬遜簽署AI晶片與光網路合作協議，價值上看40億美元",
-          "original_title": "Qualcomm inks AI chip, optical networking deal with Amazon",
-          "published_at": "2026-09-08T22:45:05+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 9.0,
-          "is_top_story": false,
-          "summary_bullets": [
-            "高通獲得亞馬遜訂單，供應AI晶片和網路硬體，為期數年。",
-            "亞馬遜有權購買高通最多2500萬股股票，價值約40億美元，部分股份依據亞馬遜購買高通產品（最高達60億美元）而有條件釋放。",
-            "雙方合作開發針對大型AI資料中心優化的客製化晶片，高通將提供多代晶片。",
-            "此協議凸顯了AI晶片需求持續增長，以及高通在AI基礎設施領域的影響力。"
-          ],
-          "why_it_matters": "此協議顯示亞馬遜對AI基礎設施的持續投資，並強化了高通在雲端AI晶片市場的地位，將加速雲端運算和AI應用發展。",
-          "divergent_views": null,
-          "primary_url": "https://siliconangle.com/2026/09/08/qualcomm-inks-ai-chip-optical-networking-deal-with-amazon/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/08/qualcomm-inks-ai-chip-optical-networking-deal-with-amazon/",
-              "published_at": "2026-09-08T22:45:05+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_dd7d078735297c74_19",
-          "category": "business_market",
-          "title": "法國 AI 新創 Mistral AI 獲 30 億歐元融資，估值超過 210 億歐元",
-          "original_title": "Mistral raises €3B as sovereign AI becomes big business",
-          "published_at": "2026-09-08T20:36:34+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 9.0,
-          "is_top_story": false,
-          "summary_bullets": [
-            "法國 AI 新創公司 Mistral AI 完成 30 億歐元（約 35.8 億美元）的 D 輪融資，後估值超過 210 億歐元（約 243.9 億美元），由三星電子領投，EQT Scaleup Europe Fund 和 PSG Equity 參與。",
-            "融資將用於擴展運算能力、建設基礎設施、加速商業增長和擴展國際版圖，並有助於 Mistral 澄清其定位，目標並非打造歐洲版 ChatGPT。",
-            "Mistral 正在採取策略轉變，以應對歐洲及其他地區對過度依賴美國科技的擔憂，並積極建設歐洲的運算能力，目標到 2030 年達到 1 GW。",
-            "除了三星電子外，Salesforce Ventures、Nvidia Corp. 和 ASML Holdings NV 等公司也參與了本次融資，Mistral 提供的服務包括雲端 AI 演算法、開發工具以及 Mistral Forge 和 Mistral Studio 等雲端服務。"
-          ],
-          "why_it_matters": "這項巨額融資凸顯了主權 AI 的重要性，並可能加速歐洲在 AI 領域的發展，同時也降低了對美國科技的依賴。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/08/open-source-ai-developer-mistral-closes-e3b-funding-round/",
-              "published_at": "2026-09-08T20:36:34+00:00",
-              "content_quality": "extracted"
-            },
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-              "published_at": "2026-09-08T14:17:48+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_43aed6f83863e796_29",
-          "category": "business_market",
-          "title": "OpenAI 解決納維-史托克斯問題引發爭議：抄襲指控與高昂的算力成本",
-          "original_title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "published_at": "2026-09-08T20:53:52+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 9.0,
-          "is_top_story": false,
-          "summary_bullets": [
-            "OpenAI 宣稱使用內部 AI 模型解決了納維-史托克斯問題，該問題是七個千禧年獎項之一，懸賞一百萬美元。",
-            "紐約大學數學教授 Tristan Buckmaster 指控 OpenAI 在其研究成果公開前就利用其工作基礎進行解決，引發學術爭議。",
-            "OpenAI 的解決方案耗費了 3000 億個輸出 token，相當於 2250 萬美元的計算成本，凸顯了 AI 模型訓練的巨大算力需求。",
-            "OpenAI 使用的 AI 模型據稱比新發布的 GPT-6 Astra 更強大，並使用了 10,000 個並行代理。",
-            "Buckmaster 質疑 OpenAI 是否利用其 Codex 數據來加速解決方案的開發。"
-          ],
-          "why_it_matters": "此次事件不僅展現了 AI 在解決複雜數學問題上的潛力，也突顯了 AI 研究中可能出現的學術誠信問題以及高昂的算力成本，可能影響未來 AI 研究的發展方向。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-              "published_at": "2026-09-08T20:53:52+00:00",
-              "content_quality": "extracted"
-            },
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-              "published_at": "2026-09-08T17:32:15+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_f861665343fecfe5_30",
-          "category": "business_market",
-          "title": "IonQ 推出 Superion 256 量子電腦，採用標準半導體製程並可批量生產",
-          "original_title": "IonQ launches Superion 256, a quantum computer built for volume production",
-          "published_at": "2026-09-08T23:13:56+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 9.0,
-          "is_top_story": false,
-          "summary_bullets": [
-            "IonQ 發布 Superion 256 量子電腦，擁有 256 量子位元，並採用標準半導體製程，使其能夠批量生產。",
-            "Superion 256 是 IonQ 的第六代量子電腦，未來系統將採用相同的平台，首批已於第一季售出。",
-            "IonQ 與 SkyWater Technology 合作，將設計週期從九個月縮短為兩個月，並在六個月內生產了 12 倍於先前合作夥伴的晶圓。",
-            "Superion 256 採用電子量子位元控制技術，取代了傳統的雷射陣列，且功耗低於 GPU 伺服器機架，可整合至普通資料中心。",
-            "IonQ 預計將利用其雲端服務運行生產機器，並已在美國多地組裝原型系統。"
-          ],
-          "why_it_matters": "Superion 256 的推出代表 IonQ 在量子電腦的製造規模和效率上取得了重大突破，有助於加速量子計算技術的商業化應用。",
-          "divergent_views": null,
-          "primary_url": "https://siliconangle.com/2026/09/08/ionq-launches-superion-256-a-quantum-computer-built-for-volume-production/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/08/ionq-launches-superion-256-a-quantum-computer-built-for-volume-production/",
-              "published_at": "2026-09-08T23:13:56+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_c5322cf7112991a2_33",
-          "category": "business_market",
-          "title": "OpenAI推出GPT-6 Astra，擴展AI應用與市場",
-          "original_title": "The Work Now Within Reach",
-          "published_at": "2026-09-08T13:00:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 9.0,
-          "is_top_story": false,
-          "summary_bullets": [
-            "OpenAI發布GPT-6 Astra，宣稱其為目前最智能且對齊的模型，在電腦使用、瀏覽、軟體工程、網路安全、科學和專業領域達到頂尖水平。",
-            "GPT-6 Astra的推出將使原本受限於時間、成本或專業知識的想法得以實現，為人類成就、新商機和新市場帶來突破。",
-            "OpenAI的產品已覆蓋超過十億週活躍用戶和250萬家企業，GPT-6 Astra的進步將直接提升ChatGPT、ChatGPT Work、Codex以及基於API的應用。",
-            "OpenAI的全棧計算策略使其能夠更好地控制容量、性能和成本，並將研究進展轉化為全球範圍內的人們和組織的廣泛效益。"
-          ],
-          "why_it_matters": "GPT-6 Astra的推出代表OpenAI在AI能力上的重大進步，將加速AI在各行各業的應用，並可能重塑市場格局。",
-          "divergent_views": null,
-          "primary_url": "https://openai.com/index/the-work-now-within-reach",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "OpenAI News",
-              "url": "https://openai.com/index/the-work-now-within-reach",
-              "published_at": "2026-09-08T13:00:00+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_9deae85da3025ecf_36",
-          "category": "business_market",
-          "title": "OpenAI 推出 ChatGPT Images 2.5，大幅提升圖像生成速度並新增繪圖功能",
-          "original_title": "Introducing ChatGPT Images 2.5",
-          "published_at": "2026-09-08T20:16:09+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 9.0,
-          "is_top_story": false,
-          "summary_bullets": [
-            "OpenAI 正式推出 ChatGPT Images 2.5，大幅提升圖像生成速度，相較於 Images 2.0 最快可提升 50%。",
-            "新增「Sketch」功能，允許用戶直接在 ChatGPT 內繪製草圖作為圖像生成參考。",
-            "Images 2.5 在圖像細節、精確度、光線、紋理等方面有所提升，並能更可靠地遵循多輪編輯指令。",
-            "OpenAI 同時推出 GPT‑Image‑2.5 Flare 和 GPT‑Image‑2.5 Sunburst 兩個新 API 模型，提供更高品質和精確度。"
-          ],
-          "why_it_matters": "ChatGPT Images 2.5 的推出降低了 AI 圖像生成門檻，提升了創作效率，將進一步推動 AI 圖像應用在各行各業的普及。",
-          "divergent_views": null,
-          "primary_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "OpenAI News",
-              "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-              "published_at": "2026-09-08T11:30:00+00:00",
-              "content_quality": "extracted"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-              "published_at": "2026-09-08T20:16:09+00:00",
-              "content_quality": "extracted"
-            },
-            {
-              "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p34#a260908p34",
-              "published_at": "2026-09-08T18:50:00+00:00",
-              "content_quality": "summary_only"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_91c09952817e260f_40",
-          "category": "business_market",
-          "title": "駭客盜用 3.4 億美元加密資產並歸還大部分，凸顯區塊鏈安全漏洞",
-          "original_title": "A hacker stole $340M in a crypto heist, then returned most of it",
-          "published_at": "2026-09-08T14:11:29+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 9.0,
-          "is_top_story": false,
-          "summary_bullets": [
-            "駭客透過漏洞從 Blockstream 的 Liquid Network 盜用了約 3.4 億美元（約 3400-4000 個比特幣）的加密資產。",
-            "駭客聲稱會歸還資金，以促使 Blockstream 修復漏洞，目前已歸還約 3,400 個比特幣（約 4.7 億美元），仍持有約 600 個比特幣（約 4700 萬美元）。",
-            "Liquid Network 是一個二層比特幣網路，採用較為集中的驗證流程，與比特幣的去中心化驗證方式不同，此次事件突顯了集中式區塊鏈的潛在安全風險。",
-            "此事件是迄今為止已知的數位資產盜竊事件之一，根據 Rekt leaderboard 顯示。"
-          ],
-          "why_it_matters": "此次事件提醒業界區塊鏈網路的安全漏洞可能造成重大損失，並可能促使更嚴格的安全審計和漏洞修復措施，進而影響加密資產市場的信心。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
-              "published_at": "2026-09-08T14:11:29+00:00",
-              "content_quality": "extracted"
-            },
-            {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/07/hackers-steal-320m-in-bitcoin-from-liquid-network-return-most-of-it-after-patch/",
-              "published_at": "2026-09-07T22:36:46+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_320cf589d3888aae_43",
-          "category": "business_market",
-          "title": "蘋果公司預計推出首款摺疊式iPhone及iPhone 18系列",
-          "original_title": "What we expect from the upcoming Apple launch",
-          "published_at": "2026-09-08T17:46:53+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 9.0,
-          "is_top_story": false,
-          "summary_bullets": [
-            "蘋果公司預計於9月9日舉行新品發表會，推出首款摺疊式iPhone（代號iPhone Ultra），時隔五年終於進軍摺疊機市場。",
-            "摺疊式iPhone Ultra預計售價將超過2000美元，相較於3500美元的Apple Vision Pro頭戴式顯示器略為親民，且消費者對此有較高的購買意願。",
-            "除了摺疊式iPhone Ultra，蘋果還預計會公布iPhone 18 Pro和iPhone 18 Pro Max等非摺疊機型，以及更新的HomePod、具備相機功能的AirPods和Apple Watch。",
-            "蘋果公司現任CEO Tim Cook將卸任，由前硬體工程副總裁John Ternus接任，此次發表會將是Ternus的首次重大產品發表。"
-          ],
-          "why_it_matters": "蘋果進軍摺疊機市場代表其對行動裝置創新方向的重大轉變，將對競爭格局及消費者選擇產生深遠影響。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
-              "published_at": "2026-09-08T17:46:53+00:00",
-              "content_quality": "extracted"
-            },
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
-              "published_at": "2026-09-07T15:58:00+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_8438510fa7cf3f06_48",
-          "category": "business_market",
-          "title": "Google 發現駭客利用 AI 代理程式竊取憑證，時長僅六小時",
-          "original_title": "Google says attackers used AI agents to steal credentials in under six hours",
-          "published_at": "2026-09-08T12:00:51+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 9.0,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Google Threat Intelligence Group (GTIG) 發現駭客利用多代理程式 AI 框架在六小時內竊取了數千組憑證。",
-            "攻擊者結合 AI 程式碼聊天機器人、提示詞和代理程式指令，並使用預先配置的 Markdown 劇本進行掃描和收集，攻擊過程中的故障排除和 IP 輪替無需人工干預。",
-            "GTIG 報告指出，攻擊者將多步驟決策交由模型執行，縮短了防禦者反應的時間窗口，但尚未觀察到完全自主的攻擊管道在野外部署。",
-            "另有證據顯示，與中國相關的間諜組織利用 Gemini 設計了自動化滲透測試框架，用於進行端口掃描、服務解析等初步入侵工作。"
-          ],
-          "why_it_matters": "此事件表明 AI 技術正被惡意利用，攻擊效率大幅提升，對企業網路安全構成嚴重威脅，未來可能出現更自主、更難以防禦的 AI 驅動攻擊。",
-          "divergent_views": null,
-          "primary_url": "https://siliconangle.com/2026/09/08/google-says-attackers-used-ai-agents-to-steal-credentials-in-under-six-hours/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/08/google-says-attackers-used-ai-agents-to-steal-credentials-in-under-six-hours/",
-              "published_at": "2026-09-08T12:00:51+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_6ea24a0dd443bf8c_51",
-          "category": "business_market",
-          "title": "Meta 推出個人 AI 助手 Muse，力圖追趕 AI 競爭",
-          "original_title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-          "published_at": "2026-09-08T19:25:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 9.0,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Meta 正式推出 Muse，一款個人 AI 助手，旨在協助使用者處理日常任務和專案，初期僅限美國地區使用。",
-            "Muse 能夠連接使用者常用的應用程式和服務，例如電子郵件、行事曆、支付、健康、智能家居、購物、音樂等，並能執行如發送郵件、預訂行程、降低帳單、填寫表格等任務。",
-            "Meta 計劃推出付費訂閱方案，提供更多運算資源，免費使用者擁有每週 1 億 tokens 的額度，每月分別有 20 美元和 100 美元兩個增強方案。",
-            "Muse 運行在 Meta 雲端的獨立虛擬機器 (VM) 上，未來將支援 Meta 的 AI 眼鏡。"
-          ],
-          "why_it_matters": "Muse 的推出代表 Meta 在 AI 領域的積極進攻，旨在追趕 OpenAI、Anthropic、Google 等競爭對手，並可能重塑使用者與 AI 的互動模式。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "HN: AI",
-              "url": "https://ai.meta.com/muse/",
-              "published_at": "2026-09-08T19:25:00+00:00",
-              "content_quality": "summary_only"
-            },
-            {
-              "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p36#a260908p36",
-              "published_at": "2026-09-08T19:10:02+00:00",
-              "content_quality": "summary_only"
-            },
-            {
-              "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p38#a260908p38",
-              "published_at": "2026-09-08T19:20:01+00:00",
-              "content_quality": "summary_only"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-              "published_at": "2026-09-08T19:00:00+00:00",
-              "content_quality": "extracted"
-            },
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-              "published_at": "2026-09-08T19:00:00+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_67fececfb0ced17f_0",
-          "category": "business_market",
-          "title": "Team8 研究：機構投資人將資金轉向小型新創基金，創下網路泡沫時期以來新低",
-          "original_title": "Exclusive: Team8 finds institutional money for small venture funds at a post-dot-com low",
-          "published_at": "2026-09-08T13:00:07+00:00",
+          "title": "Polars 2.0 預發布：默認流式引擎大幅提升性能與降低內存使用量",
+          "original_title": "Pre-Release of Polars 2.0",
+          "published_at": "2026-09-03T06:59:08+00:00",
           "freshness_status": "fresh",
           "importance_score": 8.5,
           "is_top_story": false,
           "summary_bullets": [
-            "以色列風險投資公司 Team8 發布研究報告，指出機構投資人正將資金轉向規模較小的基金，2025 年承諾的資金中，有 6% 投入到規模低於 5000 萬美元的基金，創下自網路泡沫時期以來最低紀錄。",
-            "研究顯示，小型新創基金在大多數年份中，表現優於大型、老牌基金，2008 年表現甚至高出 15 個百分點。",
-            "Team8 分析了 1000 位 Forbes Midas List 投資人，發現近 70% 的人曾在創業，這可能暗示了創業經驗對投資成功的影響。",
-            "Team8 旗下管理 18 億美元，投資領域包括網路安全、軟體基礎設施和金融科技。"
+            "Polars 團隊發布 Polars 2.0 的首個候選版本，正式版本預計在未來幾周內發布。",
+            "本次升級主要針對過去設計決定的清理和默認設置調整，而非新增重大功能。",
+            "最大的默認更改是所有 LazyFrame 查詢將默認使用流式引擎，預計整體性能可提升 5 倍，並大幅降低內存使用量。",
+            "為了配合升級，Polars 提供了完整的遷移指南，用戶可以選擇使用默認的流式引擎，或通過設置 engine affinity 保持使用“內存”引擎。"
           ],
-          "why_it_matters": "機構投資人轉向小型新創基金的趨勢，可能反映了對傳統大型基金的質疑，以及對新創基金的潛在回報的期望，預示著風險投資市場的結構性轉變。",
+          "why_it_matters": "Polars 2.0 的默認流式引擎優化將顯著提升數據分析效率，降低資源消耗，對依賴 Polars 的數據科學家和工程師具有重要意義。",
           "divergent_views": null,
-          "primary_url": "https://siliconangle.com/2026/09/08/exclusive-team8-finds-institutional-money-for-small-venture-funds-at-a-post-dot-com-low/",
+          "primary_url": "https://pola.rs/posts/announcing-polars-2/",
           "primary_content_quality": "extracted",
           "sources": [
             {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/08/exclusive-team8-finds-institutional-money-for-small-venture-funds-at-a-post-dot-com-low/",
-              "published_at": "2026-09-08T13:00:07+00:00",
+              "name": "Hacker News (Top)",
+              "url": "https://pola.rs/posts/announcing-polars-2/",
+              "published_at": "2026-09-03T06:59:08+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_792e0e561575e443_3",
+          "cluster_id": "cluster_7d3c56db1c4deb26_9",
           "category": "business_market",
-          "title": "前 Opendoor 執行長 Eric Wu 創立新公司，利用 AI 解決建築業勞工短缺問題",
-          "original_title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
-          "published_at": "2026-09-08T02:16:39+00:00",
+          "title": "TrendForce 報告：iPhone 18 Pro 256GB 型號記憶體成本預估較去年同期飆升近 400%",
+          "original_title": "TrendForce: for a 256GB iPhone Pro model, Q3 memory costs are forecast to be up nearly 400% YoY; Apple is not expected to pass on the full increase to customers (Ben Lovejoy/9to5Mac)",
+          "published_at": "2026-09-03T04:25:01+00:00",
           "freshness_status": "fresh",
           "importance_score": 8.5,
           "is_top_story": false,
           "summary_bullets": [
-            "前 Opendoor 執行長 Eric Wu 創立新公司，專注於為建築工人開發 AI 輔助工具 (AI copilots)，旨在提供 hands-free 的專家指導。",
-            "建築業目前勞動力缺口約 349,000 人，且預計情況會持續惡化，原因包括勞工老齡化、移民政策收緊以及資料中心等大型專案增加。",
-            "Wu 認為 AI 將是影響他一生的關鍵技術平台，因此選擇重返創業，解決建築業的勞動問題。"
+            "TrendForce 報告指出，iPhone 18 Pro 256GB 型號的記憶體成本預估較去年同期大幅上升，增長幅度接近 400%。",
+            "蘋果預計不會將記憶體成本的全部增加轉嫁給消費者。",
+            "此成本大幅上升可能反映出記憶體供應鏈的挑戰，以及蘋果在產品定價策略上的考量。"
           ],
-          "why_it_matters": "此舉旨在利用 AI 解決建築業面臨的勞動力短缺問題，並可能重塑建築行業的工作方式，提升效率與生產力。",
+          "why_it_matters": "記憶體成本激增凸顯供應鏈壓力，蘋果選擇吸收成本可能影響其利潤，也暗示其對市場價格敏感度。",
           "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
-              "published_at": "2026-09-08T02:16:39+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_e8c244f2bf193105_7",
-          "category": "business_market",
-          "title": "Chrome 縮短更新週期至兩週，以應對 AI 時代下的安全挑戰",
-          "original_title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-          "published_at": "2026-09-08T15:04:09+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Google 宣布 Chrome 將採用兩週更新週期，取代原先的四週週期，此變動已在桌面、iOS 和 Android 平台上推出。",
-            "此變更旨在應對 AI 工具和社群錯誤報告帶來的安全漏洞增加，以及快速演進的威脅。",
-            "更快的更新週期有助於縮小「N-day」漏洞修補間隔，並加速 Chrome 的新功能推出，以應對 AI 輔助的瀏覽器競爭。",
-            "目前有多個瀏覽器正在嘗試搶佔 Chrome 的市場份額，例如 Brave、Dia、Opera Neon、Perplexity 的 Comet 和 DuckDuckGo 瀏覽器等。"
-          ],
-          "why_it_matters": "Chrome 縮短更新週期代表 Google 正積極應對 AI 時代下的安全風險與市場競爭，將影響瀏覽器安全更新的頻率與新功能迭代速度。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-              "published_at": "2026-09-08T15:04:09+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_5668fbdf36a58ea1_8",
-          "category": "business_market",
-          "title": "Anthropic Claude 訂閱用戶提告，指控公司虛假宣傳 Max 方案使用量",
-          "original_title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-          "published_at": "2026-09-08T23:30:04+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Anthropic 旗下 AI 語言模型 Claude 的訂閱用戶提起訴訟，指控公司在 Max 方案的行銷宣傳中，虛報方案的使用量上限。",
-            "原告認為 Anthropic 宣稱 Max 方案提供 Pro 方案使用量的 5 倍或 20 倍，但實際上僅適用於時長 5 小時的「session」，且有周營運上限，實際使用量增長有限。",
-            "此案由曾任職聯邦貿易委員會的律師主導，可能對 AI 產業的商業模式和透明度提出挑戰，尤其是在 AI 公司追求利潤最大化的情況下。"
-          ],
-          "why_it_matters": "此訴訟可能對 Anthropic 的聲譽造成影響，並可能促使 AI 公司更謹慎地行銷其訂閱服務，以避免類似的法律糾紛，進而影響 AI 訂閱服務的市場發展。",
-          "divergent_views": null,
-          "primary_url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p45#a260908p45",
-              "published_at": "2026-09-08T23:30:04+00:00",
-              "content_quality": "summary_only"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-              "published_at": "2026-09-08T17:27:31+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_d2c5bdced0f9f717_9",
-          "category": "business_market",
-          "title": "Google Cloud 與 Accenture 合作成立 Gemini Enterprise Business Group，加速企業 AI 導入",
-          "original_title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-          "published_at": "2026-09-08T16:20:31+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Google Cloud 與 Accenture 合作成立「Accenture Gemini Enterprise Business Group」，專注於協助企業導入 Google 的 AI 工具與服務。",
-            "此舉是 Google Cloud 應對 OpenAI、Anthropic、Microsoft、Amazon 等競爭對手，積極部署工程師到企業現場協助 AI 導入的策略之一。",
-            "Google Cloud 的母公司 Alphabet 截至 6 月 30 日已累積 8110 億美元的採購承諾和合約義務，顯示其在 AI 領域的巨額投資。",
-            "企業目前在 AI 投資的回報率方面面臨挑戰，Google Cloud 等公司能否創造足夠的需求至關重要。"
-          ],
-          "why_it_matters": "Google Cloud 與 Accenture 的合作顯示了雲端服務供應商加速 AI 導入的決心，以及 AI 產業未來發展高度依賴企業實際應用與回報。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-              "published_at": "2026-09-08T16:20:31+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_1e0afacf1d5574f1_10",
-          "category": "business_market",
-          "title": "Antioch 獲得 3200 萬美元融資，加速機器人測試模擬技術發展",
-          "original_title": "Antioch raises $32M to move robot testing into simulation",
-          "published_at": "2026-09-08T22:44:09+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Antioch Inc. 獲得 3200 萬美元新一輪融資，用於產品開發、工程人員招募和加強模擬能力。",
-            "Antioch 的軟體將客戶的硬體校準到模擬環境中，並在雲端基礎設施上運行，讓客戶能夠平行執行數千項模擬評估。",
-            "Amazon Ring 的 Jason Mitura 表示，Antioch 的模擬結果與實際測試結果高度吻合，有助於加速和提升複雜系統的開發與驗證。"
-          ],
-          "why_it_matters": "Antioch 的模擬測試技術有助於機器人、自動駕駛等產業大幅降低開發成本、加速產品上市時間，並提升產品可靠性。",
-          "divergent_views": null,
-          "primary_url": "https://siliconangle.com/2026/09/08/antioch-raises-32m-to-move-robot-testing-into-simulation/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/08/antioch-raises-32m-to-move-robot-testing-into-simulation/",
-              "published_at": "2026-09-08T22:44:09+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_bc0416fb5bc14e80_14",
-          "category": "business_market",
-          "title": "Lightsage 獲得 400 萬美元資金，協助軟體公司直接銷售給自主 AI 代理",
-          "original_title": "Lightsage gets $4M in funding to help software makers sell directly to autonomous AI agents",
-          "published_at": "2026-09-08T12:00:02+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Lightsage (API-Rex Inc.) 獲得 Nexus Venture Partners 領投的 400 萬美元種子輪融資。",
-            "Lightsage 協助軟體公司針對自主 AI 代理 (如 Claude Code, Microsoft Copilot, Cursor) 進行銷售，取代傳統以人類為目標的行銷方式。",
-            "隨著 AI 代理在軟體開發流程中扮演越來越重要的角色，軟體開發商需要調整行銷策略，直接針對 AI 代理進行產品推廣。",
-            "Lightsage 認為未來將從 AI 告訴人類使用哪些軟體，轉變為 AI 直接選擇軟體的時代。"
-          ],
-          "why_it_matters": "Lightsage 的出現反映了軟體銷售模式的轉變，未來軟體開發商必須針對 AI 代理進行優化，才能在競爭激烈的市場中脫穎而出，這將重塑軟體行銷與銷售的策略。",
-          "divergent_views": null,
-          "primary_url": "https://siliconangle.com/2026/09/08/lightsage-gets-4m-in-funding-to-help-software-makers-sell-directly-to-autonomous-ai-agents/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/08/lightsage-gets-4m-in-funding-to-help-software-makers-sell-directly-to-autonomous-ai-agents/",
-              "published_at": "2026-09-08T12:00:02+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_dbe534c5e8046f86_15",
-          "category": "business_market",
-          "title": "Block 申請成立 Builders Bank & Trust，打造全國性未保險信託銀行",
-          "original_title": "Block says it has submitted an application to US regulators to establish a federally regulated, uninsured national trust bank called Builders Bank & Trust (Elias Schisgall/Wall Street Journal)",
-          "published_at": "2026-09-08T21:50:01+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Block (前稱 Square) 已向美國聯邦監管機構提交申請，旨在建立一家名為 Builders Bank & Trust 的全國性未保險信託銀行。",
-            "該銀行將受到聯邦監管，但不會提供 FDIC 保險。",
-            "此舉代表 Block 積極拓展金融服務版圖，試圖直接參與銀行業務。"
-          ],
-          "why_it_matters": "Block 建立銀行將可能顛覆傳統金融模式，並為其支付和商業服務提供更深入的金融基礎設施。",
-          "divergent_views": null,
-          "primary_url": "https://www.techmeme.com/260908/p42#a260908p42",
+          "primary_url": "https://www.techmeme.com/260903/p19#a260903p19",
           "primary_content_quality": "summary_only",
           "sources": [
             {
               "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p42#a260908p42",
-              "published_at": "2026-09-08T21:50:01+00:00",
+              "url": "https://www.techmeme.com/260903/p19#a260903p19",
+              "published_at": "2026-09-03T04:25:01+00:00",
               "content_quality": "summary_only"
             }
           ]
         },
         {
-          "cluster_id": "cluster_3291ac0690d5b5c8_17",
+          "cluster_id": "cluster_dbec6e995afade7f_11",
           "category": "business_market",
-          "title": "愛爾蘭媒體監管機構就 X（前 Twitter）的年齡驗證與家長控制措施展開調查",
-          "original_title": "Ireland's media watchdog investigates X over concerns about age assurance measures and parental controls, the first formal probe under the Online Safety Code (Brian O'Donovan/RTÉ)",
-          "published_at": "2026-09-08T21:55:01+00:00",
+          "title": "自動駕駛卡車新創 PlusAI 擬 SPAC 上市，估值約 8 億美元",
+          "original_title": "PlusAI, which is operating autonomous freight routes in Texas with trucking company Ryder, plans to go public in a SPAC deal at an ~$800M pre-money equity value (Pragyan Kalita/Reuters)",
+          "published_at": "2026-09-03T04:05:04+00:00",
           "freshness_status": "fresh",
           "importance_score": 8.5,
           "is_top_story": false,
           "summary_bullets": [
-            "愛爾蘭媒體監管機構 Coimisiún na Meán 對 Elon Musk 旗下的社群媒體平台 X（前身為 Twitter）展開正式調查。",
-            "此次調查關注 X 的年齡驗證措施以及家長控制功能是否符合《網路安全法案》。",
-            "此為《網路安全法案》生效後，Coimisiún na Meán 首次針對社群媒體平台展開的正式調查。"
+            "自動駕駛卡車新創公司 PlusAI 計劃通過與特殊目的收購公司 (SPAC) Texas Ventures Acquisition III Corp (TVA.O) 合併上市。",
+            "PlusAI 目前已與卡車公司 Ryder 在德州開展自動駕駛貨運路線的營運。",
+            "此次 SPAC 合併的 PlusAI 估值約為 8 億美元（上市前股權）。"
           ],
-          "why_it_matters": "此調查可能對 X 在愛爾蘭的營運產生影響，並可能為其他國家監管機構對社群媒體平台年齡驗證與家長控制措施的規範提供先例。",
+          "why_it_matters": "PlusAI 上市將為自動駕駛卡車領域帶來更多關注，並可能加速相關技術的商業化應用，同時也反映出市場對自動駕駛物流的興趣。",
           "divergent_views": null,
-          "primary_url": "https://www.techmeme.com/260908/p43#a260908p43",
+          "primary_url": "https://www.techmeme.com/260903/p17#a260903p17",
           "primary_content_quality": "summary_only",
           "sources": [
             {
               "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p43#a260908p43",
-              "published_at": "2026-09-08T21:55:01+00:00",
+              "url": "https://www.techmeme.com/260903/p17#a260903p17",
+              "published_at": "2026-09-03T04:05:04+00:00",
               "content_quality": "summary_only"
             }
           ]
         },
         {
-          "cluster_id": "cluster_36a838259d8e5bac_22",
+          "cluster_id": "cluster_7a63c623c3bc7390_17",
           "category": "business_market",
-          "title": "企業支出管理新創 Ramp 傳出正在洽談 10 億美元融資，估值上看 600 億美元",
-          "original_title": "Sources: Ramp is in early talks to raise ~$1B at a ~$60B valuation, up from $750M at a $44B valuation in June; founded in 2019, Ramp has raised $3B to date (Bloomberg)",
-          "published_at": "2026-09-08T18:25:04+00:00",
+          "title": "耕興 8 月營收年增 10.46% 獲 FCC 轉單案件帶動，積極推進 R19 衛星驗證",
+          "original_title": "FCC 轉單案件量進補！耕興 8 月營收年增 10.46% 推進 R19 衛星驗證",
+          "published_at": "2026-09-03T01:51:00+00:00",
           "freshness_status": "fresh",
           "importance_score": 8.5,
           "is_top_story": false,
           "summary_bullets": [
-            "企業支出管理新創 Ramp 正在與投資人洽談新一輪融資，融資額度約為 10 億美元。",
-            "若融資成功，Ramp 的估值將達到約 600 億美元，較 6 月份的 440 億美元估值有所提升。",
-            "Ramp 成立於 2019 年，迄今已融資 30 億美元。",
-            "Ramp 是一家專注於企業支出管理的 SaaS 新創公司，提供信用卡、支出追蹤和自動化等功能。"
+            "耕興 8 月營收 4.15 億元，年增 10.46%，主要受益於美國 FCC 預審指導（PAG）案件量提升。",
+            "美國 FCC 預審指導對使用新技術或高關注類別產品的終端商品銷售至美國市場至關重要，帶動高階網通與終端產品轉單。",
+            "耕興正與行動通訊晶片大廠推進 R19 前期驗證，涵蓋手機直連衛星、衛星寬頻聯網等太空通訊產品檢測技術。",
+            "隨著 6GHz 頻段 Wi-Fi 6E、Wi-Fi 7 規範導入，檢測案範疇與技術複雜度同步上升，高規格專案比重持續墊高。"
           ],
-          "why_it_matters": "Ramp 的估值持續攀升，顯示企業支出管理市場的巨大潛力，也反映出投資人對 SaaS 商業模式的持續興趣，未來可能引發更多類似新創的資金湧入。",
+          "why_it_matters": "耕興營收增長反映出對美國市場的依賴性，以及在 5G/Wi-Fi 檢測領域的領先地位，R19 驗證預示著未來衛星通訊市場的發展機會。",
           "divergent_views": null,
-          "primary_url": "https://www.techmeme.com/260908/p32#a260908p32",
-          "primary_content_quality": "summary_only",
-          "sources": [
-            {
-              "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p32#a260908p32",
-              "published_at": "2026-09-08T18:25:04+00:00",
-              "content_quality": "summary_only"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_d4dda78c251ecd43_23",
-          "category": "business_market",
-          "title": "Anthropic 終止與 ITI 關係，因該組織反對出口管制措施",
-          "original_title": "Source: Anthropic is severing ties with the Information Technology Industry Council after the tech industry trade group opposed three export control measures (Maria Curi/Axios)",
-          "published_at": "2026-09-08T20:35:01+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Anthropic 決定終止與 Information Technology Industry Council (ITI) 的關係。",
-            "ITI 是一家科技產業倡議團體，先前反對美國政府提出的三項出口管制措施。",
-            "此舉反映出 Anthropic 對於出口管制措施的立場與 ITI 的不同，可能對 AI 產業的出口政策及發展產生影響。"
-          ],
-          "why_it_matters": "Anthropic 終止與 ITI 的關係，凸顯了科技公司對於出口管制政策的立場分歧，並可能影響未來 AI 技術的國際流通。",
-          "divergent_views": null,
-          "primary_url": "https://www.techmeme.com/260908/p40#a260908p40",
-          "primary_content_quality": "summary_only",
-          "sources": [
-            {
-              "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p40#a260908p40",
-              "published_at": "2026-09-08T20:35:01+00:00",
-              "content_quality": "summary_only"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_c0056738ef9ce5d0_24",
-          "category": "business_market",
-          "title": "任天堂無懼《俠盜獵車手VI》發售日期衝突，推出Switch 2《時之笛》重製版",
-          "original_title": "Nintendo isn’t scared of GTA VI",
-          "published_at": "2026-09-08T17:13:51+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "任天堂選擇在《俠盜獵車手VI》發售前三週（11月5日）發布Switch 2《薩爾達傳說：時之笛》重製版，與其他遊戲發行商避開《GTA VI》發售日期策略形成鮮明對比。",
-            "《時之笛》重製版將包含更逼真的圖像和自由攝影等新功能。",
-            "《俠盜獵車手VI》發售日期已對遊戲發行排期造成重大影響，許多大型遊戲已延期或提前發售以避免與《GTA VI》直接競爭。"
-          ],
-          "why_it_matters": "任天堂此舉展現了其對自身產品的信心，並可能對遊戲發行市場產生影響，其他廠商可能重新評估與《GTA VI》的競爭策略。",
-          "divergent_views": null,
-          "primary_url": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
+          "primary_url": "https://finance.technews.tw/2026/09/03/non-mra/",
           "primary_content_quality": "extracted",
           "sources": [
             {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
-              "published_at": "2026-09-08T17:13:51+00:00",
+              "name": "科技新報 (TechNews)",
+              "url": "https://finance.technews.tw/2026/09/03/non-mra/",
+              "published_at": "2026-09-03T01:51:00+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_31936c539c765881_26",
+          "cluster_id": "cluster_ce5ac506bc44247f_19",
           "category": "business_market",
-          "title": "特斯拉Cybercab驚現隱藏手把：員工專用虛擬搖桿操控功能曝光",
-          "original_title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
-          "published_at": "2026-09-08T16:06:56+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "特斯拉Cybercab車款設計初期取消方向盤和踏板等傳統手動控制，但近日有乘客發現其隱藏的虛擬搖桿操控功能。",
-            "該功能透過螢幕上的虛擬搖桿控制車輛移動，包含前進、後退、停止、按喇叭、開門等操作，並顯示現場攝影機畫面。",
-            "特斯拉設計此功能主要為方便員工和車隊人員在低速情況下調整車輛位置，避免需要遠端操作或請求協助。",
-            "此功能若被授權給執法或緊急救援人員使用，將有助於在特殊情況下操控車輛。"
-          ],
-          "why_it_matters": "Cybercab隱藏手把的曝光，暗示了特斯拉在無人駕駛技術發展過程中，仍需保留一定程度的人工干預選項，也可能引發對Cybercab安全性的討論。",
-          "divergent_views": null,
-          "primary_url": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
-              "published_at": "2026-09-08T16:06:56+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_0df290bc4da031b9_27",
-          "category": "business_market",
-          "title": "Stoke Space 完成 10 億美元 E 輪融資，挑戰 SpaceX 的可重複使用火箭市場",
-          "original_title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
-          "published_at": "2026-09-08T09:00:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Stoke Space Technologies 完成 10 億美元 E 輪融資，由 Point72 Ventures 和 Spark Capital 領投，旨在實現火箭進入軌道並為下一代火箭開發提供資金。",
-            "Stoke Space 的目標是開發一種可重複使用的火箭，包括助推器和有效載荷第二級，這在航天工業中尚無先例。",
-            "Stoke Space 正在與 SpaceX 等公司競爭低成本火箭發射市場，其策略是實現火箭的完全可重複使用，以降低發射成本。"
-          ],
-          "why_it_matters": "Stoke Space 的成功將對航天產業的成本結構產生重大影響，並可能加速太空探索和商業利用的發展。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
-              "published_at": "2026-09-08T09:00:00+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_eb0dfaa0e4e36382_28",
-          "category": "business_market",
-          "title": "OpenAI 首席科學家呼籲 AI 研究放緩，強調安全標準建立",
-          "original_title": "OpenAI chief scientist argues for AI research slowdown",
-          "published_at": "2026-09-08T00:35:50+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "OpenAI 首席科學家 Jakub Pachocki 在文章中呼籲 AI 研究機構應自願放緩模型開發進度，直到建立起 AI 安全標準。",
-            "Pachocki 認為，目前的 AI 安全防護措施可能不足以應對未來更先進的模型，且惡意行為者可能利用 AI 進行惡性活動。",
-            "他強調，AI 的自主性增強將模糊「濫用」與「自主行為」的界線，並建議政府應優先協調未來 AI 的發展。",
-            "AI 訓練的對齊方法主要有兩種：使用 AI 模型檢查 LLM 是否符合安全規則，以及將安全措施整合到訓練過程中。"
-          ],
-          "why_it_matters": "OpenAI 的呼籲反映了業界對 AI 安全日益擔憂的共識，可能對 AI 研究與發展的未來方向產生影響，並促使更嚴謹的安全標準建立。",
-          "divergent_views": null,
-          "primary_url": "https://siliconangle.com/2026/09/07/openai-chief-scientist-argues-for-ai-research-slowdown/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/07/openai-chief-scientist-argues-for-ai-research-slowdown/",
-              "published_at": "2026-09-08T00:35:50+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_514e77d7e040d8b1_31",
-          "category": "business_market",
-          "title": "Meta 執行長 Mark Zuckerberg 受訪談論 Muse、資料中心爭議、青少年安全和解、智慧眼鏡隱私等議題",
-          "original_title": "Q&A with Mark Zuckerberg on Muse, the data center backlash, Meta's recent youth-safety settlement, privacy concerns about Meta's smart glasses, and more (Alex Heath/Sources)",
-          "published_at": "2026-09-08T22:40:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Meta 執行長 Mark Zuckerberg 接受 Sources 播客專訪，深入探討 Meta 面臨的各項挑戰。",
-            "訪談內容涵蓋 Meta 的 Muse 產品、資料中心建設引發的反彈、近期與青少年安全相關的和解協議、以及 Meta 智慧眼鏡的隱私疑慮。",
-            "此訪談提供了對 Meta 內部策略、產品發展方向以及應對外部壓力的洞見，對科技產業及 Meta 股東具有參考價值。"
-          ],
-          "why_it_matters": "Zuckerberg 的公開談話，直接影響市場對 Meta 未來發展方向的預期，並可能影響 Meta 的股價表現。",
-          "divergent_views": null,
-          "primary_url": "https://www.techmeme.com/260908/p44#a260908p44",
-          "primary_content_quality": "summary_only",
-          "sources": [
-            {
-              "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p44#a260908p44",
-              "published_at": "2026-09-08T22:40:00+00:00",
-              "content_quality": "summary_only"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_b51244ec629bcbb8_32",
-          "category": "business_market",
-          "title": "歐洲太空公司 The Exploration Company 獲 4.5 億美元融資，挑戰 SpaceX",
-          "original_title": "The Exploration Company nabs $450 million to challenge SpaceX",
-          "published_at": "2026-09-08T20:47:34+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "歐洲太空公司 The Exploration Company (TEC) 獲得 4.5 億美元的 Series C 融資，為歐洲太空公司之最大規模。",
-            "TEC 旨在建立可重複使用的歐洲重型火箭發射器，作為 SpaceX 的經濟替代方案，以應對 SpaceX 在低地球軌道發射方面的壟斷地位。",
-            "隨著對太空基礎設施跟不上需求的認識加深，以及對 SpaceX 單一主導地位的擔憂，促使 TEC 獲得投資，並反映出歐洲對太空主權的關注。",
-            "SpaceX 的 Falcon 火箭越來越多地被用於 Starlink 衛星發射，可能迫使其放鬆對低地球軌道發射的壟斷。"
-          ],
-          "why_it_matters": "TEC 的崛起代表歐洲在太空領域的自主能力提升，並可能促使 SpaceX 調整其發射策略，為太空產業帶來更多競爭與多元化。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-              "published_at": "2026-09-08T20:47:34+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_e6ff79ed83dd5a20_35",
-          "category": "business_market",
-          "title": "Chime 以 5.9 億美元收購長期合作夥伴 Stride Bank，成立子公司 Chime Bank",
-          "original_title": "Chime agrees to acquire longtime banking partner Stride Bank for $590M; Stride will become Chime Bank, a wholly owned subsidiary; CHYM jumps 8.5%+ after hours (Paige Smith/Bloomberg)",
-          "published_at": "2026-09-08T21:40:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Chime Financial Inc. 達成協議，以 5.9 億美元現金收購 Stride Bank。",
-            "Stride Bank 將成為 Chime Bank，成為 Chime 的全資子公司。",
-            "此次收購旨在簡化 Chime 的營運流程，並整合其銀行服務。"
-          ],
-          "why_it_matters": "Chime 收購 Stride Bank 表明了金融科技公司整合銀行業務的趨勢，將有助於 Chime 提升效率並更直接地控制其金融服務。",
-          "divergent_views": null,
-          "primary_url": "https://www.techmeme.com/260908/p41#a260908p41",
-          "primary_content_quality": "summary_only",
-          "sources": [
-            {
-              "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p41#a260908p41",
-              "published_at": "2026-09-08T21:40:00+00:00",
-              "content_quality": "summary_only"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_47ad9ebf215924d3_37",
-          "category": "business_market",
-          "title": "Anthropic Claude 訂閱用戶 Token 被盜用，影響業務運營",
-          "original_title": "Hackers are stealing Claude tokens from subscribers",
-          "published_at": "2026-09-08T21:10:27+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "AI 顧問 Grant De Swardt 發現其 Anthropic Claude Max 20x 帳戶 Token 使用量異常增加，即使在未使用時亦然。",
-            "Anthropic 確認存在問題，暫停 De Swardt 的帳戶，並退還部分費用。",
-            "此事件影響 De Swardt 的業務，他利用 Claude 為中小企業建立 AI 代理，自身業務也高度依賴 AI 工具。",
-            "事件突顯了 AI 服務安全性問題，可能影響用戶對 AI 服務的信任度。"
-          ],
-          "why_it_matters": "Claude Token 被盜用事件揭示了大型語言模型服務的潛在安全漏洞，可能迫使 Anthropic 加強安全措施，並對其他 AI 服務提供商構成警示，以保障用戶資產與數據安全。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-              "published_at": "2026-09-08T21:10:27+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_e4f34d57cc9ae770_41",
-          "category": "business_market",
-          "title": "OpenAI 推出多項計畫，支援新聞教育與新聞產業應用AI",
-          "original_title": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
-          "published_at": "2026-09-08T00:00:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "OpenAI 正啟動一系列計畫，旨在支援新聞生態系統，包括提供工具、培訓、合作夥伴關係和實用支援。",
-            "OpenAI 將與紐約市立大學紐馬克新聞學院 (CUNY's Newmark J-School) 和西北大學米迪爾學院 (Northwestern University's Medill School) 合作，為學生和教職員提供 ChatGPT Edu 訂閱。",
-            "AI 正在幫助新聞從業人員加速分析公共記錄、翻譯故事、挖掘數據模式、搜尋檔案、改善讀者體驗、輔助行銷，並將更多時間投入到報導、查證、故事敘述和服務社區等核心工作。",
-            "新聞學院的計畫旨在讓學生不僅了解 AI 如何改變新聞行業，更要學習如何負責任地使用 AI。"
-          ],
-          "why_it_matters": "OpenAI 的介入將有助於新聞教育和新聞產業適應 AI 時代的挑戰，並培養具備 AI 技能的新一代新聞從業人員，對新聞產業的未來發展至關重要。",
-          "divergent_views": null,
-          "primary_url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "OpenAI News",
-              "url": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms",
-              "published_at": "2026-09-08T00:00:00+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_42f207a50907f5e4_42",
-          "category": "business_market",
-          "title": "Cisco Talos 揭露 ClickFix 新攻擊手法：利用瀏覽器和 WebDAV 進行加密貨幣欺詐",
-          "original_title": "ClickFix moves into the browser and onto WebDAV, Cisco Talos finds",
-          "published_at": "2026-09-08T10:00:04+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "ClickFix 攻擊者已演進攻擊手法，不再僅限於 PowerShell 提示，而是利用瀏覽器和 WebDAV 進行加密貨幣欺詐。",
-            "攻擊者利用 JavaScript 程式碼，透過 Chrome 地址欄或 Tampermonkey 擴充功能，修改伺服器回應中的加密貨幣地址和剪貼簿內容，並偽造獎金。",
-            "Talos 觀察到該攻擊針對 SwapZone.io 和 SimpleSwap.io 等加密貨幣交易平台。",
-            "此攻擊手法繞過傳統的下載警告和郵件過濾機制，更難以偵測。"
-          ],
-          "why_it_matters": "ClickFix 攻擊手法演變至瀏覽器層面，表明攻擊者正在積極尋找繞過安全防護的新方法，對加密貨幣交易平台和用戶構成潛在風險，未來可能出現更多類似的瀏覽器層面攻擊。",
-          "divergent_views": null,
-          "primary_url": "https://siliconangle.com/2026/09/08/clickfix-moves-into-the-browser-and-onto-webdav-cisco-talos-finds/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/08/clickfix-moves-into-the-browser-and-onto-webdav-cisco-talos-finds/",
-              "published_at": "2026-09-08T10:00:04+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_4332e462c9746715_44",
-          "category": "business_market",
-          "title": "LibreOffice 宣布無 AI 功能，下載量創新高",
-          "original_title": "LibreOffice breaks download records after declaring it has no AI features",
-          "published_at": "2026-09-08T14:05:57+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "LibreOffice 26.8 版本於 8 月 26 日發布，在一個星期內下載量超過 100 萬次，創下 LibreOffice 歷史紀錄。",
-            "The Document Foundation (TDF) 聲明 LibreOffice 目前不內建生成式 AI 功能，原因為 AI 技術尚無法滿足 TDF 的多項隱私原則，例如使用者控制執行、無數據遙測、不依賴單一供應商等。",
-            "TDF 鼓勵社群開發插件來整合 AI 功能到 LibreOffice，並暗示部分競爭對手過於快速地導入 AI 技術。"
-          ],
-          "why_it_matters": "LibreOffice 的此舉展現了對使用者隱私的重視，並可能影響其他軟體廠商在 AI 整合策略上的考量，也突顯了使用者對於資料隱私的日益重視。",
-          "divergent_views": null,
-          "primary_url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "HN: AI",
-              "url": "https://manualdousuario.net/en/libreoffice-download-record-no-ai/",
-              "published_at": "2026-09-08T14:05:57+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_2c0bed1fd3b11a09_45",
-          "category": "business_market",
-          "title": "白宮移除模仿俄羅斯方塊的「築牆」遊戲，因侵犯版權及引發爭議",
-          "original_title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
-          "published_at": "2026-09-08T23:23:23+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "美國白宮網站上架的「築牆」遊戲，因其玩法模仿經典遊戲俄羅斯方塊（Tetris），並以築牆阻擋「殭屍邊境入侵」為主題，引發種族歧視質疑。",
-            "遊戲開發者未經授權，使用了與俄羅斯方塊相似的遊戲機制，導致俄羅斯方塊公司（The Tetris Company）發布聲明，表示未參與遊戲製作並將採取法律行動。",
-            "白宮已將「築牆」遊戲下架，但其他宣傳川普總統政績的遊戲，如「Rio Run」（將移民角色遣返）等，仍可在白宮網站上找到。"
-          ],
-          "why_it_matters": "此事件突顯政府機構在數位內容創作與版權問題上的敏感性，並反映出政治宣傳與文化挪用可能引發的爭議與法律風險。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-              "published_at": "2026-09-08T23:23:23+00:00",
-              "content_quality": "extracted"
-            },
-            {
-              "name": "The Verge",
-              "url": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
-              "published_at": "2026-09-08T16:00:51+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_63bc4f8780f4550c_46",
-          "category": "business_market",
-          "title": "Poseidon Aerospace 完成 6000 萬美元 A 輪募資，準備首飛無人貨運機",
-          "original_title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
-          "published_at": "2026-09-08T13:00:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Poseidon Aerospace 獲得 6000 萬美元 A 輪資金，由 TQ Ventures 領投，Hanwha Asset Management、G Squared 和 JAWS 等新投資者參與。",
-            "公司計劃在今年底進行首架無人貨運機 Egret 的測試飛行，旨在降低貨運成本。",
-            "Poseidon Aerospace 的創辦人認為，許多航空新創公司過於追求炫酷技術，而忽略了實際的市場需求和成本效益。"
-          ],
-          "why_it_matters": "Poseidon Aerospace 的策略著重於實用性而非技術炒作，其無人貨運機的成功將有助於降低物流成本，並可能重塑航空貨運市場。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
-              "published_at": "2026-09-08T13:00:00+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_5568df470419da46_47",
-          "category": "business_market",
-          "title": "OpenAI 撥款 500 萬美元資助青少年 AI 影響研究",
-          "original_title": "Funding grants for new research into AI and teen development",
-          "published_at": "2026-09-08T09:00:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "OpenAI 宣布撥款 500 萬美元，用於支持獨立研究，探討生成式 AI 對 13-17 歲青少年生活和發展的影響。",
-            "研究將關注青少年如何使用生成式 AI，以及 AI 對其社會和情感發展的影響，並探討相關因素，例如使用模式、個體情況和支持系統。",
-            "OpenAI 期望透過研究結果，為 AI 產品開發提供資訊，並協助政策制定者和監管機構應對相關挑戰。"
-          ],
-          "why_it_matters": "OpenAI 積極投入研究青少年與 AI 的互動，旨在更深入了解 AI 對青少年發展的影響，並為 AI 產品的開發和政策制定提供更全面的資訊，有助於確保 AI 技術的負向影響最小化。",
-          "divergent_views": null,
-          "primary_url": "https://openai.com/index/teen-development-research-grants",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "OpenAI News",
-              "url": "https://openai.com/index/teen-development-research-grants",
-              "published_at": "2026-09-08T09:00:00+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_d47db76662adee3c_49",
-          "category": "business_market",
-          "title": "Rubrik 推出 Apache Iceberg 資料保護功能，強化 AWS 雲端資料備份與復原",
-          "original_title": "Rubrik extends data protection to Apache Iceberg tables on AWS",
-          "published_at": "2026-09-08T13:00:59+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Rubrik Inc. 推出 Rubrik Apache Iceberg Protection，為 AWS 上的 Apache Iceberg 表格提供備份與復原功能，填補原生工具的空白。",
-            "此功能不僅備份資料檔案，更複製 Iceberg 表格的元數據，確保資料遺失或損毀後能完整復原，並可直接在 Amazon Athena、Apache Spark 或 Trino 中查詢。",
-            "Rubrik 聲稱是目前唯一提供 Iceberg 意識保護功能，且支援客戶選擇將備份儲存在自身 AWS 帳戶或 Rubrik Cloud Vault 中。"
-          ],
-          "why_it_matters": "此舉強化了雲端資料保護能力，尤其對於依賴 Apache Iceberg 進行資料管理的企業而言，能有效降低資料遺失風險，提升資料可靠性。",
-          "divergent_views": null,
-          "primary_url": "https://siliconangle.com/2026/09/08/rubrik-extends-data-protection-to-apache-iceberg-tables-on-aws/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "SiliconANGLE",
-              "url": "https://siliconangle.com/2026/09/08/rubrik-extends-data-protection-to-apache-iceberg-tables-on-aws/",
-              "published_at": "2026-09-08T13:00:59+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_75d575c95dd80cbf_11",
-          "category": "business_market",
-          "title": "Hugging Face 研究指出現有大型語言模型安全機制過於粗放，無法滿足不同應用場景的精細化安全需求",
-          "original_title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-          "published_at": "2026-09-08T14:23:07+00:00",
-          "freshness_status": "fresh",
+          "title": "史蒂夫·羅斯：從平凡企業到時代華納帝國的商業策略",
+          "original_title": "Invisible Companies",
+          "published_at": "2026-09-01T12:48:40+00:00",
+          "freshness_status": "recent",
           "importance_score": 8.0,
           "is_top_story": false,
           "summary_bullets": [
-            "現有的大型語言模型安全機制（如 LlamaGuard-3）通常基於「主題」等級的分類，將武器、詐騙、自殘等主題視為危險，並限制模型的回應。",
-            "這種主題等級的安全機制無法區分同一模型在不同應用場景下的需求，例如，公民教育輔助工具和公共部門助理可能需要對政治議題有不同的回應策略。",
-            "Hugging Face 的最新研究「Safety for Whom? Boundary-Aware Self-Distillation for Controlled LLM Safety Refusal」探討了更精細的安全控制問題，即如何拒絕特定主題的子集，而非整個主題。",
-            "研究指出，LlamaGuard-3 對選舉的處理僅限於「關於選舉制度和程序的錯誤資訊」，忽略了說服和操縱等其他潛在風險，也排除了模型應持續回答的事實性提問。"
+            "史蒂夫·羅斯從葬儀社開始，透過收購和整合一系列看似平庸的企業（如租車、停車場、清潔等），最終成功收購了華納兄弟影業。",
+            "羅斯策略的核心是將這些小型企業整合為 Kinney Services，並利用其進行後續收購。",
+            "此案例揭示了在商業上取得成功不一定需要創新，而是可以透過巧妙的整合和交易，將看似無價值的資產轉化為具有巨大價值的企業。"
           ],
-          "why_it_matters": "Hugging Face 的研究揭示了現有大型語言模型安全機制在應用彈性上的不足，未來需要發展更精細化的安全控制方法，以適應不同場景下的需求，避免過度限制模型的應用範圍。",
+          "why_it_matters": "史蒂夫·羅斯的商業模式展現了利用平凡企業進行戰略性整合，創造巨大價值的可能性，對商業策略和投資者具有啟發意義。",
           "divergent_views": null,
-          "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+          "primary_url": "https://colossus.com/article/invisible-companies/",
           "primary_content_quality": "extracted",
           "sources": [
             {
-              "name": "Hugging Face Blog",
-              "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-              "published_at": "2026-09-08T14:23:07+00:00",
+              "name": "Hacker News (Top)",
+              "url": "https://colossus.com/article/invisible-companies/",
+              "published_at": "2026-09-01T12:48:40+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_99b6e06f4677f456_50",
+          "cluster_id": "cluster_9fac9397f048a9af_6",
           "category": "business_market",
-          "title": "1Password 導入 Codex 提升工程效率 21%",
-          "original_title": "1Password increases engineering productivity 21% with Codex",
-          "published_at": "2026-09-08T00:00:00+00:00",
+          "title": "Sonos 新任執行長 Tom Conrad 帶領公司重塑，推出 Sonos 27 平台",
+          "original_title": "How Sonos rebooted itself",
+          "published_at": "2026-09-03T06:00:00+00:00",
           "freshness_status": "fresh",
           "importance_score": 7.8,
           "is_top_story": false,
           "summary_bullets": [
-            "1Password 將 OpenAI Codex 整合至軟體開發生命週期，以加速功能開發。",
-            "Codex 應用後，1Password 的程式碼變更週期中位數縮短近 11%，核心用戶群體的工程效率提升近 21%。",
-            "1Password 計劃將 Codex 擴展至財務和行銷等其他部門，以提升整體團隊效率。"
+            "Sonos 新任執行長 Tom Conrad（前 Pandora CTO、Snap VP of Product、Quibi CPO）接手後，帶領公司度過因 2024 年應用程式重新設計引發的危機。",
+            "Sonos 27 平台被描述為公司的新基礎，旨在改善所有 Sonos 產品作為系統的一部分的協同工作，並整合 AI 助理。",
+            "Sonos 進行了結構、產品線和公司思維方式的大幅變革，以應對之前的問題。"
           ],
-          "why_it_matters": "1Password 的成功案例顯示，大型語言模型 (LLM) 在提升軟體開發效率方面具有潛力，可能加速產品上市速度並降低開發成本。",
+          "why_it_matters": "Sonos 27 平台的推出代表 Sonos 正試圖擺脫過去的困境，並重新定義其在智慧家庭音響市場的定位，未來將影響其產品發展和市場競爭力。",
           "divergent_views": null,
-          "primary_url": "https://openai.com/index/1password",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "OpenAI News",
-              "url": "https://openai.com/index/1password",
-              "published_at": "2026-09-08T00:00:00+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_b4a65dff8f395b28_2",
-          "category": "business_market",
-          "title": "Sony 延遲淘汰光碟，Thalgau 工廠產量減少幅度修正",
-          "original_title": "Sony isn’t phasing out discs quite as quickly as we thought",
-          "published_at": "2026-09-08T21:52:13+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 7.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Sony 原本計畫在 2028 年 1 月停止生產遊戲光碟，但對其光碟製造部門的轉型時程有更正。",
-            "先前報導 Sony 的 Thalgau 工廠將在 2028 年減少 90% 的光碟生產，Sony DADC 澄清實際減少幅度為 10%。",
-            "即使停止生產新遊戲光碟，Sony 將允許遊戲發行商持續重新訂購現有 PlayStation 光碟。",
-            "Sony 對於工廠轉型細節（例如員工重新培訓）的資訊仍未公開。"
-          ],
-          "why_it_matters": "Sony 延遲淘汰光碟的決定，可能反映出數位轉型策略的調整，以及對實體光碟市場的持續需求，對遊戲產業的數位化進程有一定影響。",
-          "divergent_views": null,
-          "primary_url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
-          "primary_content_quality": "extracted",
+          "primary_url": "https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign",
+          "primary_content_quality": "full_feed",
           "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
-              "published_at": "2026-09-08T21:52:13+00:00",
+              "url": "https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign",
+              "published_at": "2026-09-03T06:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_eb85472fc60f335f_0",
+          "category": "business_market",
+          "title": "OpenAI Codex API 服務中斷，影響部分 GPT 使用者",
+          "original_title": "Codex Is Down",
+          "published_at": "2026-09-03T14:54:31+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "OpenAI Codex API 發生 404 Not Found 錯誤，導致部分使用者的 GPT 5.4 xhigh 會話中斷。",
+            "問題發生在使用 Codex API 進行思考和持續回應時，尤其是在長時間會話和使用子代理的情況下。",
+            "GPT 5.5 xhigh 版本似乎不受影響，顯示問題可能與特定版本或配置相關。",
+            "使用者建議暫時將注意力轉移到其他活動，例如與孩子互動或參與其他項目。"
+          ],
+          "why_it_matters": "Codex API 中斷顯示 OpenAI 基礎設施可能存在問題，並可能影響依賴此 API 的應用程式和服務的穩定性，需要 OpenAI 積極解決以維護使用者體驗。",
+          "divergent_views": null,
+          "primary_url": "https://github.com/openai/codex/issues/28756",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Hacker News (Top)",
+              "url": "https://github.com/openai/codex/issues/28756",
+              "published_at": "2026-09-03T14:54:31+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_b216e818194291a0_5",
+          "cluster_id": "cluster_4f7486021bc78fd9_1",
           "category": "business_market",
-          "title": "OpenAI 坦承可能利用用戶數據改善模型，但機率不高",
-          "original_title": "OpenAI says, while unlikely, it \"cannot rule out that de-identified data derived\" from Buckmaster's and Alpöge's use of its products helped improve its models (OpenAI)",
-          "published_at": "2026-09-08T19:05:01+00:00",
+          "title": "Anthropic Claude 模型 (Mythos, Fable, Opus) 發生異常錯誤，影響 API 與相關產品",
+          "original_title": "Elevated Errors for Multiple Models",
+          "published_at": "2026-09-03T13:29:12+00:00",
           "freshness_status": "fresh",
           "importance_score": 7.5,
           "is_top_story": false,
           "summary_bullets": [
-            "OpenAI 表示，雖然可能性不高，但無法排除從 Buckmaster 和 Alpöge 使用其產品所衍生的匿名數據可能被用於改善其模型。",
-            "此事件與 OpenAI 對數據使用政策及用戶隱私保護的討論有關聯。",
-            "此事件可能引發關於 AI 模型訓練數據來源的爭議，並可能影響 OpenAI 未來的數據使用策略。"
+            "Anthropic 的 Claude Mythos 5.1、Fable 5.1、Opus 5、Opus 4.8、Opus 4.6 等多個模型出現異常錯誤。",
+            "受影響的服務包括 claude.ai、Claude API (api.anthropic.com)、Claude Code 和 Claude Cowork。",
+            "Anthropic 正在積極調查並努力修復此問題，並已發布更新。"
           ],
-          "why_it_matters": "OpenAI 的這項坦承可能加劇對 AI 數據隱私的擔憂，並可能促使更嚴格的數據使用規範。",
+          "why_it_matters": "此事件影響了 Anthropic 的核心產品和 API，可能導致使用者體驗下降，並對依賴 Claude 模型的應用程式產生影響，凸顯了大型語言模型穩定性的重要性。",
           "divergent_views": null,
-          "primary_url": "https://www.techmeme.com/260908/p35#a260908p35",
-          "primary_content_quality": "summary_only",
-          "sources": [
-            {
-              "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p35#a260908p35",
-              "published_at": "2026-09-08T19:05:01+00:00",
-              "content_quality": "summary_only"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_31e5fb117fdb659a_20",
-          "category": "business_market",
-          "title": "AI訓練硬體驗證模擬公司Antioch獲得3200萬美元A輪融資",
-          "original_title": "Antioch, which creates high-fidelity simulations to reduce the need for hardware validation in physical AI training, raised a $32M Series A led by Greylock (John Koetsier/Forbes)",
-          "published_at": "2026-09-08T19:55:02+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 7.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Antioch公司獲得由Greylock領投的3200萬美元A輪融資。",
-            "Antioch專注於創建高保真模擬，旨在減少AI訓練中對實體硬體驗證的需求。",
-            "此舉可能降低AI訓練成本，並加速AI模型開發流程。"
-          ],
-          "why_it_matters": "Antioch的技術有潛力改變AI訓練方式，降低硬體依賴，加速AI發展。",
-          "divergent_views": null,
-          "primary_url": "https://www.techmeme.com/260908/p39#a260908p39",
-          "primary_content_quality": "summary_only",
-          "sources": [
-            {
-              "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p39#a260908p39",
-              "published_at": "2026-09-08T19:55:02+00:00",
-              "content_quality": "summary_only"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_7ca7b568d7ee3112_21",
-          "category": "business_market",
-          "title": "OpenAI 與 Levent Alpöge 協調發布，Bubeck 否認要求移除其署名",
-          "original_title": "OpenAI's Sébastien Bubeck says he reached out to Levent Alpöge to coordinate their releases and denies asking to remove Alpöge from authorship of his own work (Sebastien Bubeck/@sebastienbubeck)",
-          "published_at": "2026-09-08T18:45:01+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 7.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "OpenAI 的 Sébastien Bubeck 澄清與 Levent Alpöge 曾聯繫協調發布，並公開了相關截圖。",
-            "Bubeck 強調他從未要求 Levent Alpöge 從自己的作品中移除署名，駁斥相關指控。",
-            "此事件涉及 OpenAI 與獨立研究人員之間的合作與署名權益問題，可能影響未來 AI 研究的合作模式。"
-          ],
-          "why_it_matters": "此事件突顯了大型 AI 公司與獨立研究人員在合作發布論文時可能產生的署名權益爭議，對 AI 產業的開放性與合作發展具有潛在影響。",
-          "divergent_views": null,
-          "primary_url": "https://www.techmeme.com/260908/p33#a260908p33",
-          "primary_content_quality": "summary_only",
-          "sources": [
-            {
-              "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p33#a260908p33",
-              "published_at": "2026-09-08T18:45:01+00:00",
-              "content_quality": "summary_only"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_503e9c2326e78f3e_38",
-          "category": "business_market",
-          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-          "original_title": null,
-          "published_at": "2026-09-08T17:00:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 7.5,
-          "is_top_story": false,
-          "summary_bullets": [
-            "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
-          ],
-          "why_it_matters": "重要科技動態（來源：OpenAI News）",
-          "divergent_views": null,
-          "primary_url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "primary_url": "https://status.claude.com/incidents/461yvfrzpwtt",
           "primary_content_quality": "extracted",
           "sources": [
             {
-              "name": "OpenAI News",
-              "url": "https://openai.com/index/codex-quantum-computing-experiments",
-              "published_at": "2026-09-08T17:00:00+00:00",
+              "name": "Hacker News (Top)",
+              "url": "https://status.claude.com/incidents/461yvfrzpwtt",
+              "published_at": "2026-09-03T13:29:12+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_632a5f49a7f87314_39",
+          "cluster_id": "cluster_f636b875af3bea51_2",
           "category": "business_market",
-          "title": "Rivian 旗下 Also 電動自行車 TM-B 交貨延遲，供應鏈受 AI 需求影響",
-          "original_title": "Rivian’s Also apologizes for delays in shipping futuristic e-bikes",
-          "published_at": "2026-09-08T20:46:56+00:00",
+          "title": "Audacity 4.0 重新架構應用程式介面並導入多項改善",
+          "original_title": "Audacity 4.0",
+          "published_at": "2026-09-03T10:53:08+00:00",
           "freshness_status": "fresh",
           "importance_score": 7.5,
           "is_top_story": false,
           "summary_bullets": [
-            "Rivian 旗下的電動自行車品牌 Also 宣布 TM-B 電動自行車交貨延遲，原訂 2026 年春季交貨，後延遲至夏季，目前仍未出貨。",
-            "Also 產品經理 Saul Leiken 在 Reddit 上發布長篇道歉信，將延遲歸因於嚴格的品質標準和供應鏈挑戰。",
-            "供應鏈挑戰與 AI 產業的 PCB（印刷電路板）和 IC（集成電路）材料短缺有關，迫使 Also 團隊調整設計。",
-            "TM-B 電動自行車採用獨特的軟體控制踏板系統、USB-C 充電電池和可拆卸座管等高科技功能，這些功能也成為生產瓶頸之一。"
+            "Audacity 4.0 採用 Qt 重新建構應用程式介面，大幅改善使用者體驗。",
+            "新增了剪輯編輯模型，允許直接選取、編輯多個剪輯，並支援群組剪輯。",
+            "導入對齊引導線、樣本邊界吸附和專案級別的吸附設定，提升編輯精確度。",
+            "使用者介面可自訂，包含移動、停靠、浮動工具欄和面板，並可儲存為工作區。"
           ],
-          "why_it_matters": "此事件凸顯了 AI 產業對關鍵電子元件供應鏈的影響，並反映出新創公司在追求創新技術時可能面臨的生產和交貨挑戰。",
+          "why_it_matters": "Audacity 4.0 的重新架構將提升音訊編輯效率與使用者滿意度，對內容創作者和音響專業人士具有正面影響。",
           "divergent_views": null,
-          "primary_url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
+          "primary_url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
           "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Hacker News (Top)",
+              "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
+              "published_at": "2026-09-03T10:53:08+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_6690d1df4293fcb9_4",
+          "category": "business_market",
+          "title": "亞馬遜2026年勞動節促銷活動：PC硬體最高折抵46%",
+          "original_title": "Save up to 46% on PC hardware in Amazon's Labor Day 2026 sale — huge discounts on tech",
+          "published_at": "2026-09-03T06:29:01+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "亞馬遜於2026年勞動節期間推出促銷活動，PC硬體最高可享46%折扣。",
+            "促銷商品涵蓋QD OLED遊戲顯示器、SSD、遊戲耳機、鍵盤、滑鼠、網路設備等。",
+            "部分SSD讀寫速度可達7,250MB/s和6,450MB/s，部分顯示器具有180Hz更新率和0.03ms反應時間。"
+          ],
+          "why_it_matters": "此促銷活動對PC硬體市場具有短期刺激作用，可能影響消費者購買決策與供應商庫存策略。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-46-percent-on-pc-hardware-in-amazons-labor-day-2026-sale-huge-discounts-on-tech",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/save-up-to-46-percent-on-pc-hardware-in-amazons-labor-day-2026-sale-huge-discounts-on-tech",
+              "published_at": "2026-09-03T06:29:01+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_ed486474dd3dab66_5",
+          "category": "business_market",
+          "title": "SwitchBot推出Lock Ultra Max Vision Pro Combo智慧門鎖，提供19種開鎖方式",
+          "original_title": "SwitchBot&#8217;s retrofit door lock offers 19 ways to unlock it",
+          "published_at": "2026-09-03T06:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "SwitchBot推出Lock Ultra Max Vision Pro Combo智慧門鎖，提供指紋、密碼、NFC、人臉/掌脈辨識等19種開鎖方式。",
+            "該組合包含Keypad Vision Pro、Hub Mini Matter和Lock Ultra Max，售價為€339.99 / £339.99 (約$395)。",
+            "此產品主要針對歐洲市場，旨在提供無鑰匙進入住宅的解決方案，並整合多種驗證方式。"
+          ],
+          "why_it_matters": "SwitchBot的Lock Ultra Max Vision Pro Combo智慧門鎖的推出，代表著無鑰匙住宅安全解決方案的發展趨勢，可能加速智慧家居市場的普及。",
+          "divergent_views": null,
+          "primary_url": "https://www.theverge.com/tech/989246/switchbot-lock-ultra-max-retrofit-smartlock-ifa-launch",
+          "primary_content_quality": "full_feed",
           "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
-              "published_at": "2026-09-08T20:46:56+00:00",
+              "url": "https://www.theverge.com/tech/989246/switchbot-lock-ultra-max-retrofit-smartlock-ifa-launch",
+              "published_at": "2026-09-03T06:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_9113e908dcf18940_8",
+          "category": "business_market",
+          "title": "DJI推出Rombo 2系列機器人吸塵器，強化避障、靜音及隱私保護",
+          "original_title": "DJI’s new robovac can climb obstacles, vacuum quietly, and claims much improved privacy",
+          "published_at": "2026-09-03T05:06:10+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "DJI發布Rombo 2系列機器人吸塵器，包含透明外殼P2和不透明外殼A2兩種型號。",
+            "Rombo 2系列提升了導航能力，可避開直徑2毫米的電線、鏡子等障礙物，並具備「人像推理與概念轉移」功能。",
+            "新增的本地數據模式旨在解決先前Rombo系列的安全漏洞疑慮，強化使用者隱私。"
+          ],
+          "why_it_matters": "DJI強化Rombo系列產品的安全性與功能，有助於提升其在家庭清潔機器人市場的競爭力，並可能影響其他廠商的產品設計。",
+          "divergent_views": null,
+          "primary_url": "https://www.theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa",
+              "published_at": "2026-09-03T05:06:10+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_994798148223e386_12",
+          "category": "business_market",
+          "title": "TCL P80 Ultra 採用結合電子墨水與 OLED 螢幕技術",
+          "original_title": "TCL’s new Nxtpaper phone offers both e-reader and OLED",
+          "published_at": "2026-09-03T04:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "TCL 推出的 P80 Ultra 為首款採用 Nxtpaper 技術的 OLED 螢幕手機，先前 Nxtpaper 螢幕僅採用 LCD。",
+            "Nxtpaper 技術可切換至低功耗單色顯示模式，模擬紙張質感，並可切換至旗艦級 OLED 顯示體驗。",
+            "P80 Ultra 採用 6.83 吋面板，解析度為 1.5K，更新率為 120Hz，亮度可達 3,200 nits。"
+          ],
+          "why_it_matters": "TCL 將電子墨水與 OLED 技術結合，為手機顯示技術帶來創新，可能為閱讀體驗與省電提供新選擇。",
+          "divergent_views": null,
+          "primary_url": "https://www.theverge.com/tech/988059/tcls-new-nxtpaper-phone-offers-both-e-reader-and-oled",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/988059/tcls-new-nxtpaper-phone-offers-both-e-reader-and-oled",
+              "published_at": "2026-09-03T04:00:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_fb707597ff95cc4c_18",
+          "category": "business_market",
+          "title": "前端瀏覽器主執行緒阻塞問題日益顯著，影響使用者體驗",
+          "original_title": "The Browser's Main Thread Is Expensive",
+          "published_at": "2026-09-01T14:00:15+00:00",
+          "freshness_status": "recent",
+          "importance_score": 7.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "文章指出，在互動性高、數據流動快速的網頁上，瀏覽器的主執行緒阻塞會導致畫面凍結、按鈕延遲響應、輸入文字延遲等問題，造成使用者體驗下降。",
+            "開發者通常會將問題歸咎於程式碼效率，但文章強調，問題往往不在程式碼本身的速度，而是程式碼佔用了主執行緒。",
+            "瀏覽器的多個執行緒中，大部分程式碼（包括計算、渲染、事件處理、網路響應和框架內部）都集中在主執行緒上，這使得主執行緒的阻塞問題更為突出。"
+          ],
+          "why_it_matters": "優化前端瀏覽器主執行緒的效率，對於提升使用者體驗、降低開發成本至關重要，未來可能需要更先進的技術和架構來分散任務並避免阻塞。",
+          "divergent_views": null,
+          "primary_url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Hacker News (Top)",
+              "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+              "published_at": "2026-09-01T14:00:15+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_8f38f00509c56680_18",
+          "cluster_id": "cluster_32b42f7c0e6ad467_7",
           "category": "business_market",
-          "title": "Razer BlackShark V3 Pro 降噪電競耳機 PlayStation/Xbox 版本 Woot 限時特價",
-          "original_title": "Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
-          "published_at": "2026-09-08T20:39:49+00:00",
+          "title": "Hohem Eyepic：整合穩定器與可拆卸主鏡頭的迷你手持相機",
+          "original_title": "Hohem’s tiny steadycam has a removable action cam",
+          "published_at": "2026-09-03T06:00:00+00:00",
           "freshness_status": "fresh",
           "importance_score": 6.5,
           "is_top_story": false,
           "summary_bullets": [
-            "Razer BlackShark V3 Pro 電競耳機在 Woot 平台以 $164.99 的價格販售，相較於原價有大幅折扣。",
-            "此款耳機具備主動降噪 (ANC) 功能，並支援 Xbox、PlayStation、PC、Nintendo Switch 和行動裝置。",
-            "除了低延遲的 2.4GHz 無線連接，BlackShark V3 Pro 亦支援藍牙 5.3，可作為日常用耳機使用。"
+            "Hohem推出Eyepic手持穩定器相機，旨在與DJI Osmo Pocket 4和Insta360 Luna Ultra等產品區隔。",
+            "Eyepic採用三軸雲台穩定，具備旋轉預覽螢幕，並可拆卸磁性主鏡頭，使其可作為獨立小型相機使用。",
+            "相機支援4K 60fps錄影，並可透過旋轉改變錄影方向。"
           ],
-          "why_it_matters": "此折扣為遊戲玩家提供了一個以較低價格體驗 Razer 高階電競耳機的機會，有助於提升遊戲體驗。",
+          "why_it_matters": "Hohem Eyepic的創新設計結合了穩定器與可拆卸主鏡頭，為手持相機市場提供新的選擇，可能影響小型攝影器材的設計趨勢。",
           "divergent_views": null,
-          "primary_url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
-          "primary_content_quality": "extracted",
+          "primary_url": "https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam",
+          "primary_content_quality": "full_feed",
           "sources": [
             {
               "name": "The Verge",
-              "url": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
-              "published_at": "2026-09-08T20:39:49+00:00",
-              "content_quality": "extracted"
+              "url": "https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam",
+              "published_at": "2026-09-03T06:00:00+00:00",
+              "content_quality": "full_feed"
             }
           ]
         },
         {
-          "cluster_id": "cluster_05bb6109768d9532_25",
+          "cluster_id": "cluster_2a094e90351ce676_13",
           "category": "business_market",
-          "title": "企業強制員工到辦公室工作，以提升AI應用效率",
-          "original_title": "We Must Return to the Office to Use AI in Person",
-          "published_at": "2026-09-08T13:41:25+00:00",
+          "title": "Anker Eufy S2 Max 智慧型割草機推出，具備邊緣修剪功能與vSLAM導航",
+          "original_title": "These new robot lawnmowers trim your edges",
+          "published_at": "2026-09-03T03:55:00+00:00",
           "freshness_status": "fresh",
-          "importance_score": 6.0,
+          "importance_score": 6.5,
           "is_top_story": false,
           "summary_bullets": [
-            "文章描述了公司 Mondo Mayo 強制員工到辦公室工作（RTO）的情況，即使員工最初反對。",
-            "公司聲稱 RTO 遵循其核心原則，例如“更多領導者意味著更多領導力”，並與AI應用相關。",
-            "文章以諷刺的口吻暗示，公司內部存在過多的管理層，員工需要執行大量重複性任務（點擊按鈕）。"
+            "Anker 推出 Eufy Robot Lawn Mower S2 Max，新增可延伸的修剪臂，能清理車道及花壇邊緣。",
+            "S2 Max 採用 vSLAM 導航技術，利用內建鏡頭建立 3D 庭院地圖，無需設置邊界線或 RTK 基站。",
+            "該割草機支援 AWD，可處理斜坡度高達 38 度的庭院，並能繪製及修剪高達 3.7 英畝的區域。"
           ],
-          "why_it_matters": "這篇文章反映了部分企業在推動AI應用時，可能過於強調物理存在，而忽略了員工的實際工作效率和意願，值得關注。",
+          "why_it_matters": "Eufy S2 Max 的推出，提升了智慧型割草機的邊緣修剪能力，有望進一步取代傳統除草工具，並擴大智慧園藝市場的應用。",
           "divergent_views": null,
-          "primary_url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
+          "primary_url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
+          "primary_content_quality": "full_feed",
+          "sources": [
+            {
+              "name": "The Verge",
+              "url": "https://www.theverge.com/tech/988172/anker-mammotion-robot-mowers-edgers-ifa-2026",
+              "published_at": "2026-09-03T03:55:00+00:00",
+              "content_quality": "full_feed"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_01337346f348cc8c_14",
+          "category": "business_market",
+          "title": "胡連與立積8月營收表現تباين",
+          "original_title": "胡連8月營收月減0.1%",
+          "published_at": "2026-09-03T02:10:11+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "胡連（6279）8月營收9.75億元，月減0.1%，年增29.8%，前8月營收68.21億元，年增14.6%。",
+            "立積（4968）8月營收3.22億元，月增0.7%，年減2.4%，前8月營收25.50億元，年增2.8%。",
+            "兩家公司營收表現呈現相反趨勢，顯示可能受到不同市場因素或產品組合的影響。"
+          ],
+          "why_it_matters": "營收表現的差異可能反映出市場競爭格局的變化，以及兩家公司在不同領域的策略差異。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/09/03/hu-lane-6279-202608-financial-report/",
           "primary_content_quality": "extracted",
           "sources": [
             {
-              "name": "HN: AI",
-              "url": "https://www.mcsweeneys.net/articles/why-we-must-return-to-the-office-to-use-ai-in-person",
-              "published_at": "2026-09-08T13:41:25+00:00",
+              "name": "科技新報 (TechNews)",
+              "url": "https://finance.technews.tw/2026/09/03/hu-lane-6279-202608-financial-report/",
+              "published_at": "2026-09-03T02:10:11+00:00",
+              "content_quality": "extracted"
+            },
+            {
+              "name": "科技新報 (TechNews)",
+              "url": "https://finance.technews.tw/2026/09/03/richwave-4968-202608-financial-report/",
+              "published_at": "2026-09-03T02:10:09+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_179bf40c59e5c02e_34",
+          "cluster_id": "cluster_8bf8e5d38e4cab04_15",
           "category": "business_market",
-          "title": "Meta says Muse users can connect their apps to send emails, book travel, turn recipe Reels into grocery lists, make purchases thanks to Link by Stripe, and more (Sarah Perez/TechCrunch)",
-          "original_title": null,
-          "published_at": "2026-09-08T19:15:09+00:00",
+          "title": "新鉅科8月營收1.72億元，年增率轉負",
+          "original_title": "新鉅科8月營收1.72 億元",
+          "published_at": "2026-09-03T02:10:04+00:00",
           "freshness_status": "fresh",
-          "importance_score": 4.0,
+          "importance_score": 6.5,
           "is_top_story": false,
           "summary_bullets": [
-            "來自 Techmeme 的最新報導。"
+            "新鉅科（3630）8月份營收為1.72億元，較7月成長0.9%。",
+            "相較於去年同期，8月營收呈現負成長，下降10.8%。",
+            "累計前8個月營收為15.91億元，年增6.0%。"
           ],
-          "why_it_matters": "重要科技動態（來源：Techmeme）",
+          "why_it_matters": "新鉅科營收成長趨緩，可能反映出市場需求變化或競爭加劇，值得持續關注其未來業績表現。",
           "divergent_views": null,
-          "primary_url": "https://www.techmeme.com/260908/p37#a260908p37",
-          "primary_content_quality": "summary_only",
+          "primary_url": "https://finance.technews.tw/2026/09/03/newmax-3630-202608-financial-report/",
+          "primary_content_quality": "extracted",
           "sources": [
             {
-              "name": "Techmeme",
-              "url": "https://www.techmeme.com/260908/p37#a260908p37",
-              "published_at": "2026-09-08T19:15:09+00:00",
-              "content_quality": "summary_only"
+              "name": "科技新報 (TechNews)",
+              "url": "https://finance.technews.tw/2026/09/03/newmax-3630-202608-financial-report/",
+              "published_at": "2026-09-03T02:10:04+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_9bc15f60db4ec8dd_20",
+          "category": "business_market",
+          "title": "Linux 核心程式碼中侵入式鏈結串列的應用與原理",
+          "original_title": "Intrusive Linked Lists",
+          "published_at": "2026-08-31T03:28:32+00:00",
+          "freshness_status": "background",
+          "importance_score": 4.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "文章介紹了侵入式鏈結串列的概念，這是一種將鏈結嵌入到被鏈結的結構中的鏈結串列變體。",
+            "與傳統鏈結串列不同，侵入式鏈結串列的節點直接嵌入到被鏈結的對象中，沒有數據指針。",
+            "文章提供了程式碼範例，展示了如何將侵入式鏈結串列結構嵌入到其他結構中，以及如何新增和訪問列表節點。"
+          ],
+          "why_it_matters": "理解侵入式鏈結串列對於深入理解 Linux 核心程式碼的結構和演算法至關重要，尤其是在處理系統資源管理等低階任務時。",
+          "divergent_views": null,
+          "primary_url": "https://www.data-structures-in-practice.com/intrusive-linked-lists/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Hacker News (Top)",
+              "url": "https://www.data-structures-in-practice.com/intrusive-linked-lists/",
+              "published_at": "2026-08-31T03:28:32+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_98ce8a79c660928a_21",
+          "category": "business_market",
+          "title": "作家分享母親的鼓勵與支持，並因大量購買書籍被亞馬遜限制",
+          "original_title": "What I Learned from My Mom (1941-2026)",
+          "published_at": "2026-08-29T19:52:51+00:00",
+          "freshness_status": "background",
+          "importance_score": 4.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "作家分享與母親每日互通感恩郵件的習慣，並回顧母親的支持與鼓勵。",
+            "母親為了支持作家的第一本書《The Know-It-All》，大量在亞馬遜購買，導致亞馬遜發出限制通知。",
+            "母親在作家研究關於 Elvis Presley 的書籍時，主動協助觀看並記錄 12 部 Elvis 電影。"
+          ],
+          "why_it_matters": "這篇文章展現了母子間的深厚情感與支持，以及母親對作家事業的積極鼓勵，突顯了家庭支持對個人成就的重要性。",
+          "divergent_views": null,
+          "primary_url": "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Hacker News (Top)",
+              "url": "https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026",
+              "published_at": "2026-08-29T19:52:51+00:00",
+              "content_quality": "extracted"
             }
           ]
         }
@@ -1717,57 +1951,57 @@
   ],
   "deep_reads": [
     {
-      "id": "e5a8e881dee5e3f8",
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "source_name": "TechCrunch",
-      "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "published_at": "2026-09-07T19:24:00+00:00",
-      "char_count": 24576,
-      "content_quality": "extracted",
-      "why_read": "聚焦於 business_market 領域長篇深析，The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most 。"
-    },
-    {
-      "id": "19f64442bc4972f1",
-      "title": "The real reason your phone is getting more expensive",
+      "id": "29926133faaf1c1d",
+      "title": "How Sonos rebooted itself",
       "source_name": "The Verge",
-      "url": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-      "published_at": "2026-09-07T12:00:00+00:00",
-      "char_count": 17065,
-      "content_quality": "extracted",
-      "why_read": "聚焦於 business_market 領域長篇深析，When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher pri。"
+      "url": "https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign",
+      "published_at": "2026-09-03T06:00:00+00:00",
+      "char_count": 8000,
+      "content_quality": "full_feed",
+      "why_read": "聚焦於 business_market 領域長篇深析，Today, I’m talking with Tom Conrad, the CEO of Sonos. Tom and I have known each other for a long time — he was the chief。"
     },
     {
-      "id": "7948c39493cbd65e",
-      "title": "Funding grants for new research into AI and teen development",
-      "source_name": "OpenAI News",
-      "url": "https://openai.com/index/teen-development-research-grants",
-      "published_at": "2026-09-08T09:00:00+00:00",
-      "char_count": 9242,
+      "id": "e4762652ca7a3c72",
+      "title": "The Browser's Main Thread Is Expensive",
+      "source_name": "Hacker News (Top)",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "published_at": "2026-09-01T14:00:15+00:00",
+      "char_count": 8000,
       "content_quality": "extracted",
-      "why_read": "聚焦於 business_market 領域長篇深析，Apply now for OpenAI's $5 million grant program supporting independent research on how generative AI affects teen develo。"
+      "why_read": "聚焦於 business_market 領域長篇深析，What comes to mind when you hear “frontend optimization”? For most of us it’s things like reducing network requests, shr。"
     },
     {
-      "id": "2c827cba158d2f26",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "source_name": "OpenAI News",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "published_at": "2026-09-08T10:00:00+00:00",
-      "char_count": 8971,
+      "id": "72e1370857b8e478",
+      "title": "Invisible Companies",
+      "source_name": "Hacker News (Top)",
+      "url": "https://colossus.com/article/invisible-companies/",
+      "published_at": "2026-09-01T12:48:40+00:00",
+      "char_count": 8000,
       "content_quality": "extracted",
-      "why_read": "聚焦於 business_market 領域長篇深析，We're sharing an AI-generated solution to the Navier-Stokes Millennium Prize Problem, including a writeup and a formal p。"
+      "why_read": "聚焦於 business_market 領域長篇深析，Steve Ross was a legend. Starting with nothing but a job at his father-in-law’s funeral parlor, he built Time Warner int。"
+    },
+    {
+      "id": "26221b1d708542fb",
+      "title": "Intrusive Linked Lists",
+      "source_name": "Hacker News (Top)",
+      "url": "https://www.data-structures-in-practice.com/intrusive-linked-lists/",
+      "published_at": "2026-08-31T03:28:32+00:00",
+      "char_count": 8000,
+      "content_quality": "extracted",
+      "why_read": "聚焦於 business_market 領域長篇深析，This post will teach you what intrusive linked lists are and how they are used to manage processes in Linux.。"
     }
   ],
   "quality": {
-    "source_count": 7,
+    "source_count": 8,
     "duplicate_candidates": 0,
-    "stale_candidates": 0,
-    "total_articles": 91,
-    "total_topics": 52,
+    "stale_candidates": 7,
+    "total_articles": 68,
+    "total_topics": 63,
     "quality_breakdown": {
-      "full_feed": 0,
-      "extracted": 51,
-      "summary_only": 16,
-      "metadata_only": 0
+      "full_feed": 27,
+      "extracted": 30,
+      "summary_only": 10,
+      "metadata_only": 1
     }
   }
 }
