@@ -67,7 +67,7 @@ class TechDigestApp {
         if (searchClear) {
           searchClear.style.display = this.searchQuery ? 'flex' : 'none';
         }
-        this.renderEventsStream();
+        this.applySearch();
       });
     }
 
@@ -77,7 +77,7 @@ class TechDigestApp {
         this.searchQuery = '';
         searchClear.style.display = 'none';
         searchInput.focus();
-        this.renderEventsStream();
+        this.applySearch();
       });
     }
 
@@ -135,7 +135,7 @@ class TechDigestApp {
           this.searchQuery = '';
           if (searchInput) searchInput.value = '';
           if (searchClear) searchClear.style.display = 'none';
-          this.renderEventsStream();
+          this.applySearch();
         } else if (this.expandedTopics.size > 0) {
           this.expandedTopics.clear();
           this.allExpanded = false;
@@ -272,13 +272,21 @@ class TechDigestApp {
     const grid = document.getElementById('highlights-grid');
     if (!grid) return;
 
+    const section = document.getElementById('highlights-section');
     const highlights = this.currentDigest.highlights || [];
     if (highlights.length === 0) {
       grid.innerHTML = '<div class="loading-card">今日尚無焦點事件</div>';
+      if (section) section.style.display = '';
       return;
     }
 
-    grid.innerHTML = highlights.map((item, idx) => {
+    const visible = highlights
+      .map((item, idx) => ({ item, idx }))
+      .filter(({ item }) => this.matchesSearch(item));
+    // Hide the whole block while searching if nothing matches
+    if (section) section.style.display = visible.length === 0 ? 'none' : '';
+
+    grid.innerHTML = visible.map(({ item, idx }) => {
       const rankStr = String(idx + 1).padStart(2, '0');
       const categoryLabel = this.getCategoryLabel(item.category);
       const firstSource = item.sources && item.sources.length > 0 ? item.sources[0].name : '';
@@ -366,6 +374,23 @@ class TechDigestApp {
     this.renderEventsStream();
   }
 
+  // True when the item matches the current search query (always true without a query).
+  matchesSearch(item, fields = ['title', 'original_title', 'why_it_matters']) {
+    const q = this.searchQuery;
+    if (!q) return true;
+    const includesQuery = (value) => String(value ?? '').toLowerCase().includes(q);
+    return fields.some(f => includesQuery(item[f]))
+      || (item.summary_bullets || []).some(includesQuery)
+      || (item.sources || []).some(s => includesQuery(s && s.name));
+  }
+
+  // Search applies to highlights, event stream and deep reads together.
+  applySearch() {
+    this.renderHighlights();
+    this.renderEventsStream();
+    this.renderDeepReads();
+  }
+
   getFilteredTopics() {
     if (!this.currentDigest || !this.currentDigest.sections) return [];
 
@@ -383,17 +408,7 @@ class TechDigestApp {
       }
     }
 
-    if (this.searchQuery) {
-      const q = this.searchQuery;
-      topics = topics.filter(t => {
-        const inTitle = (t.title || '').toLowerCase().includes(q);
-        const inOrigTitle = (t.original_title || '').toLowerCase().includes(q);
-        const inWhy = (t.why_it_matters || '').toLowerCase().includes(q);
-        const inBullets = (t.summary_bullets || []).some(b => b.toLowerCase().includes(q));
-        const inSources = (t.sources || []).some(s => s.name.toLowerCase().includes(q));
-        return inTitle || inOrigTitle || inWhy || inBullets || inSources;
-      });
-    }
+    topics = topics.filter(t => this.matchesSearch(t));
 
     return topics;
   }
@@ -539,11 +554,17 @@ class TechDigestApp {
     const grid = document.getElementById('deep-reads-grid');
     if (!grid) return;
 
-    const deepReads = this.currentDigest.deep_reads || [];
-    if (deepReads.length === 0) {
+    const section = document.getElementById('deep-reads-section');
+    const allDeepReads = this.currentDigest.deep_reads || [];
+    if (allDeepReads.length === 0) {
       grid.innerHTML = '<div class="loading-card">今日無精選深度長文</div>';
+      if (section) section.style.display = '';
       return;
     }
+
+    const deepReads = allDeepReads.filter(item => this.matchesSearch(item, ['title', 'source_name', 'why_read']));
+    // Hide the whole block while searching if nothing matches
+    if (section) section.style.display = deepReads.length === 0 ? 'none' : '';
 
     grid.innerHTML = deepReads.map(item => {
       const charCountStr = item.char_count ? `約 ${item.char_count.toLocaleString()} 字` : '';
