@@ -330,6 +330,7 @@ class TechDigestApp {
       semiconductor_hardware: 0,
       software_cloud: 0,
       business_market: 0,
+      security: 0,
       deep_reads: (this.currentDigest.deep_reads || []).length
     };
 
@@ -349,6 +350,7 @@ class TechDigestApp {
     setBadge('count-semiconductor_hardware', catCounts.semiconductor_hardware);
     setBadge('count-software_cloud', catCounts.software_cloud);
     setBadge('count-business_market', catCounts.business_market);
+    setBadge('count-security', catCounts.security);
     setBadge('count-deep_reads', catCounts.deep_reads);
   }
 
@@ -634,7 +636,8 @@ class TechDigestApp {
       ai_research: 'AI / 模型',
       semiconductor_hardware: '半導體 / 硬體',
       software_cloud: '軟體 / Cloud',
-      business_market: '市場與產業'
+      business_market: '市場與產業',
+      security: '資安'
     };
     return map[catId] || catId;
   }
