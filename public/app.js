@@ -6,6 +6,7 @@ class TechDigestApp {
   constructor() {
     this.manifest = null;
     this.currentDigest = null;
+    this.currentKey = null; // digest key: "{date}" (morning) or "{date}-evening"
     this.activeCategory = 'all';
     this.searchQuery = '';
     this.expandedTopics = new Set();
@@ -182,24 +183,34 @@ class TechDigestApp {
     this.dataBaseUrl = successfulBase;
 
     this.populateDateSelect();
-    const targetDate = this.manifest.latest_date;
-    await this.loadDigestByDate(targetDate);
+    // Newer manifests name the latest edition explicitly; older ones only have latest_date.
+    const targetKey = this.manifest.latest_key || this.manifest.latest_date;
+    await this.loadDigestByDate(targetKey);
   }
 
   populateDateSelect() {
     const select = document.getElementById('date-select');
-    if (!select || !this.manifest.available_dates) return;
+    if (!select) return;
+
+    // Newer manifests list every edition (morning / evening); older ones only list dates.
+    const editions = Array.isArray(this.manifest.available_editions) && this.manifest.available_editions.length > 0
+      ? this.manifest.available_editions
+      : (this.manifest.available_dates || []).map(d => ({ key: d, date: d, edition: 'morning' }));
+    if (editions.length === 0) return;
+    const latestKey = this.manifest.latest_key || this.manifest.latest_date;
 
     select.innerHTML = '';
-    this.manifest.available_dates.forEach(d => {
+    editions.forEach(entry => {
       const opt = document.createElement('option');
-      opt.value = d;
-      opt.textContent = `${d}${d === this.manifest.latest_date ? ' (最新)' : ''}`;
+      opt.value = entry.key;
+      const label = this.manifest.available_editions ? ` ${entry.edition === 'evening' ? '晚報' : '早報'}` : '';
+      opt.textContent = `${entry.date}${label}${entry.key === latestKey ? ' (最新)' : ''}`;
       select.appendChild(opt);
     });
   }
 
   async loadDigestByDate(dateStr) {
+    // `dateStr` is a digest key: "{date}" or "{date}-evening".
     const digestUrl = `${this.dataBaseUrl}digests/${dateStr}.json`;
     try {
       const res = await fetch(digestUrl);
@@ -207,6 +218,7 @@ class TechDigestApp {
         throw new Error(`HTTP ${res.status}`);
       }
       this.currentDigest = await res.json();
+      this.currentKey = dateStr;
       this.expandedTopics.clear();
       this.allExpanded = false;
       
@@ -239,8 +251,9 @@ class TechDigestApp {
     const metaEl = document.getElementById('header-meta');
     const select = document.getElementById('date-select');
 
-    if (dateEl) dateEl.textContent = this.currentDigest.meta.date;
-    if (select) select.value = this.currentDigest.meta.date;
+    const isEvening = this.currentDigest.meta.edition === 'evening';
+    if (dateEl) dateEl.textContent = `${this.currentDigest.meta.date}${isEvening ? ' 晚報' : ''}`;
+    if (select) select.value = this.currentKey || this.currentDigest.meta.date;
 
     if (metaEl) {
       const meta = this.currentDigest.meta;
