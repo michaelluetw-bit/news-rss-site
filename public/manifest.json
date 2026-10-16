@@ -1,7 +1,8 @@
 {
   "schema_version": 1,
-  "latest_date": "2026-10-15",
+  "latest_date": "2026-10-16",
   "available_dates": [
+    "2026-10-16",
     "2026-10-15",
     "2026-10-14",
     "2026-10-13",
@@ -47,8 +48,13 @@
     "2026-09-01",
     "2026-08-31"
   ],
-  "latest_key": "2026-10-15-evening",
+  "latest_key": "2026-10-16",
   "available_editions": [
+    {
+      "key": "2026-10-16",
+      "date": "2026-10-16",
+      "edition": "morning"
+    },
     {
       "key": "2026-10-15-evening",
       "date": "2026-10-15",
@@ -300,6 +306,6 @@
       "edition": "morning"
     }
   ],
-  "last_updated_at": "2026-10-15T11:42:18.349406+00:00",
+  "last_updated_at": "2026-10-16T00:22:19.995547+00:00",
   "source": "news-rss production package"
 }
