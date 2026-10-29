@@ -61,8 +61,13 @@
     "2026-09-01",
     "2026-08-31"
   ],
-  "latest_key": "2026-10-29",
+  "latest_key": "2026-10-29-evening",
   "available_editions": [
+    {
+      "key": "2026-10-29-evening",
+      "date": "2026-10-29",
+      "edition": "evening"
+    },
     {
       "key": "2026-10-29",
       "date": "2026-10-29",
@@ -429,6 +434,6 @@
       "edition": "morning"
     }
   ],
-  "last_updated_at": "2026-10-29T00:20:25.106730+00:00",
+  "last_updated_at": "2026-10-29T11:43:39.439534+00:00",
   "source": "news-rss production package"
 }
