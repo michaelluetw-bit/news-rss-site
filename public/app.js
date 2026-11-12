@@ -321,7 +321,7 @@ class TechDigestApp {
               ${freshnessBadge}
             </div>
             <h3 class="highlight-title">
-              <a href="${item.primary_url}" target="_blank" rel="noopener noreferrer">${this.escapeHtml(item.title)} ↗</a>
+              <a href="${this.safeUrl(item.primary_url)}" target="_blank" rel="noopener noreferrer">${this.escapeHtml(item.title)} ↗</a>
             </h3>
             <p class="highlight-summary">${this.escapeHtml(firstBullet)}</p>
             ${item.why_it_matters ? `
@@ -498,7 +498,7 @@ class TechDigestApp {
             >
               <span>${isExpanded ? '▲ 收起詳情' : '▼ 展開詳情'}</span>
             </button>
-            <a href="${t.primary_url}" target="_blank" rel="noopener noreferrer" class="source-link-btn" aria-label="閱讀「${this.escapeHtml(t.title)}」原文">
+            <a href="${this.safeUrl(t.primary_url)}" target="_blank" rel="noopener noreferrer" class="source-link-btn" aria-label="閱讀「${this.escapeHtml(t.title)}」原文">
               閱讀原文 ↗
             </a>
           </div>
@@ -517,7 +517,7 @@ class TechDigestApp {
         pubTime = s.published_at.substring(0, 10);
       }
       return `
-        <a href="${s.url}" target="_blank" rel="noopener noreferrer" class="source-badge-link" aria-label="前往來源：${this.escapeHtml(s.name)}">
+        <a href="${this.safeUrl(s.url)}" target="_blank" rel="noopener noreferrer" class="source-badge-link" aria-label="前往來源：${this.escapeHtml(s.name)}">
           ${this.escapeHtml(s.name)} ${pubTime ? `(${pubTime})` : ''} · ${s.content_quality} ↗
         </a>
       `;
@@ -598,7 +598,7 @@ class TechDigestApp {
           </div>
 
           <div class="deep-read-footer">
-            <a href="${item.url}" target="_blank" rel="noopener noreferrer" class="deep-read-btn">
+            <a href="${this.safeUrl(item.url)}" target="_blank" rel="noopener noreferrer" class="deep-read-btn">
               閱讀原文 ↗
             </a>
           </div>
@@ -659,7 +659,17 @@ class TechDigestApp {
     if (!str) return '';
     const div = document.createElement('div');
     div.textContent = str;
-    return div.innerHTML;
+    return div.innerHTML.replaceAll('"', '&quot;').replaceAll("'", '&#39;');
+  }
+
+  safeUrl(value) {
+    try {
+      const url = new URL(value);
+      if (url.protocol !== 'https:' && url.protocol !== 'http:') return '#';
+      return this.escapeHtml(url.href);
+    } catch {
+      return '#';
+    }
   }
 }
 
