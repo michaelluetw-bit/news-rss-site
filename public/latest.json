@@ -1,118 +1,118 @@
 {
   "schema_version": 1,
   "meta": {
-    "date": "2026-11-15",
+    "date": "2026-11-16",
     "edition": "morning",
-    "generated_at": "2026-11-15T00:06:53.371420+00:00",
+    "generated_at": "2026-11-16T00:09:05.549821+00:00",
     "provider": "AI Engine",
     "model": "gpt-6.1-terra",
-    "scanned_articles": 236
+    "scanned_articles": 127
   },
   "highlights": [
     {
-      "cluster_id": "cluster_ab1fc112e16dfd7e_12",
+      "cluster_id": "cluster_d2d484d520801ea2_31",
       "category": "business_market",
-      "title": "微軟 Microsoft 365 全球服務中斷逾 24 小時，台灣金融業改用傳真確認交易",
-      "original_title": "微軟全球當機逾 24 小時給不出恢復時間表，台金融公司得回歸傳真機確認交易",
-      "published_at": "2026-11-14T01:59:37+00:00",
+      "title": "TechCrunch 報導黃仁勳辭去輝達執行長，探討對 AI 產業投資的影響",
+      "original_title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "published_at": "2026-11-15T21:56:35+00:00",
+      "freshness_status": "fresh",
+      "importance_score": 8.3,
+      "is_top_story": true,
+      "summary_bullets": [
+        "TechCrunch 報導，輝達董事會對時任執行長黃仁勳展開調查後，他已辭職；文章未交代調查的具體內容。",
+        "報導引述節目主持人討論黃仁勳離職速度及其與輝達的緊密關係，並對輝達在整體 AI 生態系的投資後續提出疑問。",
+        "由於輝達在 AI 經濟中的重要地位，領導層變動可能影響市場信心與投資布局，但文章未提供具體市場反應或投資決策。"
+      ],
+      "why_it_matters": "若報導屬實，輝達領導層變動可能為其企業治理與 AI 生態系投資帶來不確定性。",
+      "divergent_views": null,
+      "primary_url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "primary_content_quality": "extracted",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+          "published_at": "2026-11-15T21:56:35+00:00",
+          "content_quality": "extracted"
+        }
+      ]
+    },
+    {
+      "cluster_id": "cluster_a92bb37113130f12_61",
+      "category": "semiconductor_hardware",
+      "title": "SemiWiki 稱黃仁勳辭任輝達執行長，分析競爭對手與供應鏈影響",
+      "original_title": "After Jensen: A Window for Nvidia’s Rivals, a Problem for Its Suppliers",
+      "published_at": "2026-11-15T14:00:58+00:00",
       "freshness_status": "fresh",
       "importance_score": 8.2,
       "is_top_story": true,
       "summary_bullets": [
-        "微軟 Outlook、Teams 等服務大規模中斷超過 24 小時，影響政府、航空及金融業；台灣一家金融公司改用傳真確認交易，另一家企業取消債券買回交易。",
-        "微軟表示故障與伺服器問題有關，主要影響 Exchange Online 電子郵件與行事曆，Copilot 也出現異常；公司已擴大部署修復措施，未發現惡意活動跡象，並排除 AI 為故障原因。",
-        "Downdetector 全球累計收到超過 740 萬筆故障通報。事件凸顯企業對單一雲端供應商的依賴，可能促使企業重新評估備援及營運持續計畫。"
+        "SemiWiki 文章稱，輝達於 11 月 12 日宣布黃仁勳即時辭去總裁、執行長及董事職務，由財務長 Colette Kress 暫任執行長，董事 Harvey Jones 出任董事長；所附資料未提供獨立佐證。",
+        "文章指出，黃仁勳過去對架構、供貨分配、定價與投資具有最終決策權，其離職可能使決策轉為較耗時的協商流程。",
+        "作者認為領導層變動可能為輝達競爭對手創造機會，並對輝達供應鏈不利；這是文章觀點，影響尚待驗證。"
       ],
-      "why_it_matters": "大規模服務中斷波及跨產業核心作業，凸顯雲端服務集中化帶來的營運風險與備援需求。",
+      "why_it_matters": "若報導屬實，輝達領導層交接可能影響 AI 晶片市場競爭與供應鏈規劃。",
       "divergent_views": null,
-      "primary_url": "https://technews.tw/2026/11/14/microsoft-outage-lasts-over-24-hours/",
+      "primary_url": "https://semiwiki.com/semiconductor-manufacturers/376352-after-jensen-a-window-for-nvidias-rivals-a-problem-for-its-suppliers/",
       "primary_content_quality": "extracted",
       "sources": [
         {
-          "name": "科技新報 TechNews",
-          "url": "https://technews.tw/2026/11/14/microsoft-outage-lasts-over-24-hours/",
-          "published_at": "2026-11-14T01:59:37+00:00",
+          "name": "SemiWiki",
+          "url": "https://semiwiki.com/semiconductor-manufacturers/376352-after-jensen-a-window-for-nvidias-rivals-a-problem-for-its-suppliers/",
+          "published_at": "2026-11-15T14:00:58+00:00",
           "content_quality": "extracted"
         }
       ]
     },
     {
-      "cluster_id": "cluster_0e1bb0aeaca0ff67_47",
+      "cluster_id": "cluster_b32475fdfa784d8a_35",
       "category": "business_market",
-      "title": "報導稱馬斯克聲援黃仁勳重返輝達，董事會接班安排未變",
-      "original_title": "馬斯克加入聲援黃仁勳行列，表態簽署請願書盼重返 Nvidia",
-      "published_at": "2026-11-14T07:10:31+00:00",
+      "title": "SpaceX 首次以發射塔機械臂接住星艦上面級",
+      "original_title": "With Starship catch, SpaceX still shows it can dazzle the world",
+      "published_at": "2026-11-15T00:40:59+00:00",
       "freshness_status": "fresh",
-      "importance_score": 8.2,
+      "importance_score": 7.8,
       "is_top_story": true,
       "summary_bullets": [
-        "報導指出，馬斯克於 2026 年 11 月 13 日在 X 表示將簽署支持黃仁勳重任輝達執行長的請願書，但未提供連結或發起人資訊。",
-        "報導稱，輝達一項支持董事會考量員工意見的內部討論累積超過 1,600 則留言；留言數不等於正式連署人數。",
-        "據報導，黃仁勳因私人關係風波辭去職務，財務長 Colette Kress 暫代執行長，董事會正尋找接班人；目前尚未宣布改變安排。"
+        "SpaceX 在德州星際基地以發射塔機械臂接住返回地球的星艦上面級，完成火箭回收的重要技術里程碑。",
+        "星艦接近地面時點燃三具猛禽引擎，從水平姿態轉為垂直，並由機械臂抓住船體兩側各約一英尺長的突出結構。",
+        "此舉有助於 SpaceX 開發大型、可快速重複使用的火箭，但文章未提供實際再飛行時間或成本數據。"
       ],
-      "why_it_matters": "輝達領導層變動及後續治理決策，可能影響這家 AI 運算供應商的長期策略與市場信心。",
+      "why_it_matters": "成功接住星艦上面級，為大型火箭快速回收與重複使用提供了關鍵技術驗證。",
       "divergent_views": null,
-      "primary_url": "https://finance.technews.tw/2026/11/14/elon-musk-jensen-huang/",
+      "primary_url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
       "primary_content_quality": "extracted",
       "sources": [
         {
-          "name": "科技新報 TechNews",
-          "url": "https://finance.technews.tw/2026/11/14/elon-musk-jensen-huang/",
-          "published_at": "2026-11-14T07:10:31+00:00",
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+          "published_at": "2026-11-15T00:40:59+00:00",
           "content_quality": "extracted"
         }
       ]
     },
     {
-      "cluster_id": "cluster_8600b0cd9cc1fb47_17",
+      "cluster_id": "cluster_a7f01b782fcc9a17_4",
       "category": "semiconductor_hardware",
-      "title": "Cerebras 準備於 2027 年推出 CS-5 系統，擴大雲端與製造能力",
-      "original_title": "Cerebras Readies CS-5 Systems For 2027 Launch As It Bags Another Hyperscaler",
-      "published_at": "2026-11-14T00:40:35+00:00",
+      "title": "新裝設的 Juniper 路由器疑致航管通訊中斷，美國實施全國地面停飛令",
+      "original_title": "Two HPE Juniper network routers grounded all US flights on Friday",
+      "published_at": "2026-11-15T13:42:51+00:00",
       "freshness_status": "fresh",
-      "importance_score": 7.2,
+      "importance_score": 7.4,
       "is_top_story": true,
       "summary_bullets": [
-        "晶圓級 AI 運算系統業者 Cerebras 正準備於 2027 年推出 CS-5，並在 2026 年擴建雲端與提升製造能力。",
-        "文章指出，Cerebras 已與 OpenAI、AWS、Oracle Cloud 及 Microsoft Azure 簽訂合約；目前多數待履行合約收入及全部增量收入來自 OpenAI 合約。",
-        "Cerebras 擴產有助其滿足大型客戶需求，但文章認為生成式 AI 基礎設施支出未來是否見頂仍有不確定性。"
+        "美國聯邦航空總署（FAA）因航管與飛行員通訊出現問題，於週五晚間實施全國地面停飛令。",
+        "報導引述《華爾街日報》指出，一台新裝設的 HPE Juniper 路由器向大範圍網路廣播，導致既有老舊系統過載；機載空中防撞系統未受影響。",
+        "事件凸顯航空管制網路基礎設施的脆弱性，以及設備更新可能對既有系統帶來的營運風險。"
       ],
-      "why_it_matters": "Cerebras 的產品與產能擴張，反映大型雲端業者對替代性 AI 運算硬體的需求，也可能影響 AI 基礎設施供應格局。",
+      "why_it_matters": "航管網路故障可能迅速影響全國航班運作，使基礎設施現代化與系統相容性成為關鍵課題。",
       "divergent_views": null,
-      "primary_url": "https://www.nextplatform.com/compute/2026/11/14/cerebras-readies-cs-5-systems-for-2027-launch-as-it-bags-another-hyperscaler/5309932",
-      "primary_content_quality": "extracted",
-      "sources": [
-        {
-          "name": "The Next Platform",
-          "url": "https://www.nextplatform.com/compute/2026/11/14/cerebras-readies-cs-5-systems-for-2027-launch-as-it-bags-another-hyperscaler/5309932",
-          "published_at": "2026-11-14T00:40:35+00:00",
-          "content_quality": "extracted"
-        }
-      ]
-    },
-    {
-      "cluster_id": "cluster_d0e40c5277445394_51",
-      "category": "semiconductor_hardware",
-      "title": "美國財長質疑輝達客戶審查，關注受限 AI 晶片是否經空殼公司流入中國",
-      "original_title": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible",
-      "published_at": "2026-11-14T15:35:48+00:00",
-      "freshness_status": "fresh",
-      "importance_score": 7.2,
-      "is_top_story": true,
-      "summary_bullets": [
-        "美國財政部長貝森特表示，出口管制仍有漏洞，質疑輝達是否充分了解客戶，以及是否向明顯充當轉手管道的空殼公司銷售晶片。",
-        "報導稱中國可能取得大量受出口限制的輝達 AI GPU，但未提供相關數量的確切證據；輝達是否知情，以及執行長黃仁勳是否知悉潛在違規行為，也尚不明確。",
-        "貝森特呼籲追究輝達相關人員的責任，此事可能使晶片業者的客戶審查與出口合規措施受到更嚴格檢視。"
-      ],
-      "why_it_matters": "先進 AI 晶片流向涉及美中科技管制成效，相關質疑可能提高晶片供應商的合規壓力與營運風險。",
-      "divergent_views": null,
-      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that",
+      "primary_url": "https://www.tomshardware.com/networking/two-hpe-juniper-network-routers-grounded-all-the-us-flights-on-friday-faas-decades-old-copper-network-buckled-under-a-feature-hpe-says-worked-as-intended-creaking-air-traffic-communication-system-became-overloaded-by-very-high-rate-pinging",
       "primary_content_quality": "extracted",
       "sources": [
         {
           "name": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that",
-          "published_at": "2026-11-14T15:35:48+00:00",
+          "url": "https://www.tomshardware.com/networking/two-hpe-juniper-network-routers-grounded-all-the-us-flights-on-friday-faas-decades-old-copper-network-buckled-under-a-feature-hpe-says-worked-as-intended-creaking-air-traffic-communication-system-became-overloaded-by-very-high-rate-pinging",
+          "published_at": "2026-11-15T13:42:51+00:00",
           "content_quality": "extracted"
         }
       ]
@@ -125,55 +125,81 @@
       "icon": "brain",
       "items": [
         {
-          "cluster_id": "cluster_869534c94d32e02c_43",
+          "cluster_id": "cluster_ffec9925740f2cd5_64",
           "category": "ai_research",
-          "title": "報導指控輝達投資 AI 新創購買自家 GPU，藉此維持需求並消化庫存",
-          "original_title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-          "published_at": "2026-11-14T02:52:59+00:00",
+          "title": "物理學家借助 OpenAI GPT-6 Astra 提出粒子物理標準模型的格點定義方案",
+          "original_title": "A step toward defining the Standard Model on a lattice",
+          "published_at": "2026-11-15T22:00:01+00:00",
           "freshness_status": "fresh",
-          "importance_score": 5.3,
+          "importance_score": 6.7,
           "is_top_story": false,
           "summary_bullets": [
-            "文章轉述《華爾街日報》報導，指輝達投資 AI 新創及小型雲端業者，讓受投資企業購買輝達 GPU，涉嫌人為維持市場需求與供應短缺的印象。",
-            "報導稱，相關投資可能與消化台積電供應的晶片、因應大型雲端業者轉向客製化晶片有關；但受投資的小型業者可能缺乏購買 GPU 的財務能力。",
-            "文章亦聲稱輝達內部對循環融資及 OpenAI 交易存在分歧，但文中涉及高層職務變動與交易規模等重大說法，均缺乏可供獨立核實的佐證。"
+            "加州大學聖塔芭芭拉分校物理學家 Nathaniel Craig 表示，他在 GPT-6 Astra 協助下，於 10 月的預印本提出標準模型的候選格點定義。",
+            "該方案以代表時空的格點，探索不依賴微擾近似的完整標準模型定義；Craig 稱 AI 協助將其策略轉化為具體構造。"
           ],
-          "why_it_matters": "若指控屬實，可能影響市場對 AI 基礎設施需求、輝達營收品質及相關投資風險的評估。",
+          "why_it_matters": "這項研究展示 AI 輔助理論物理研究的潛力，但候選方案的有效性仍有待學界檢驗。",
           "divergent_views": null,
-          "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "primary_url": "https://openai.com/index/step-toward-defining-the-standard-model",
           "primary_content_quality": "extracted",
           "sources": [
             {
-              "name": "HN: AI",
-              "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-              "published_at": "2026-11-14T02:52:59+00:00",
+              "name": "OpenAI News",
+              "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+              "published_at": "2026-11-15T22:00:01+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_3b0536089fdc2499_16",
+          "cluster_id": "cluster_f1495f4a278b6d96_21",
           "category": "ai_research",
-          "title": "Shield 導入 OpenAI GPT-6 Astra，讓 IT 服務代理操作舊式入口網站",
-          "original_title": "Shield helps technicians hand off legacy portal work with OpenAI",
-          "published_at": "2026-11-13T08:00:00+00:00",
-          "freshness_status": "recent",
-          "importance_score": 5.2,
+          "title": "評論主張 AI 生成程式碼應開源，訴諸訓練資料授權與著作權爭議",
+          "original_title": "All AI-generated code should be Open Source",
+          "published_at": "2026-11-15T14:46:58+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.8,
           "is_top_story": false,
           "summary_bullets": [
-            "Shield 表示，其 IT 服務平台 Forge 可利用 OpenAI GPT-6 Astra，將部分原本需要技術人員手動登入處理的瀏覽器任務交由 AI 代理執行。",
-            "AI 代理透過讀取畫面、點擊及輸入文字操作系統，以處理缺乏 API 的舊式入口網站；Shield 稱早期模型在可靠性與速度上不足。",
-            "此應用有望減少 IT 支援流程中的人工交接，並加快處理或升級案件，但資料未提供量化成效。"
+            "文章作者主張開發者與企業應將 AI 生成的程式碼以開源授權發布，認為封閉使用這些程式碼可能損及開源社群的貢獻。",
+            "作者指出，模型訓練可能使用開源程式碼及要求標示出處的 Stack Overflow 內容，但相關使用是否侵權及應如何標示，仍有法律爭議。",
+            "文章認為純 AI 生成內容在美國可能不具著作權保護；各國規定不同，例如英國對電腦生成作品提供有限保護。"
           ],
-          "why_it_matters": "AI 代理若能可靠操作缺乏 API 的舊系統，可擴大 IT 支援自動化的範圍並減少等待人工處理的時間。",
+          "why_it_matters": "AI 生成程式碼的授權與著作權認定，可能影響企業採用生成式 AI 的合規成本及軟體開發模式。",
           "divergent_views": null,
-          "primary_url": "https://openai.com/business/customer-stories/shield",
+          "primary_url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "HN: AI",
+              "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+              "published_at": "2026-11-15T14:46:58+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_3da0b74298b42717_17",
+          "category": "ai_research",
+          "title": "OpenAI 推出科學部落格，分享 AI 科研成果與實務方法",
+          "original_title": "Our new blog for science",
+          "published_at": "2026-11-15T22:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "OpenAI 宣布設立科學部落格，提供科學家與學術研究人員分享 AI 研究成果及工作方法的平台。",
+            "內容將涵蓋科學發現、模型在科學運算與資料分析等任務的應用，以及研究人員的觀點，並說明方法的驗證方式與限制。",
+            "此舉有助於交流 AI 輔助科研的實務經驗，但文章未公布具體的新科學成果。"
+          ],
+          "why_it_matters": "部落格可促進 AI 科研方法的分享與檢驗，其對科學發現的實際影響仍有待觀察。",
+          "divergent_views": null,
+          "primary_url": "https://openai.com/index/our-new-blog-for-science",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "OpenAI News",
-              "url": "https://openai.com/business/customer-stories/shield",
-              "published_at": "2026-11-13T08:00:00+00:00",
+              "url": "https://openai.com/index/our-new-blog-for-science",
+              "published_at": "2026-11-15T22:00:00+00:00",
               "content_quality": "extracted"
             }
           ]
@@ -186,456 +212,566 @@
       "icon": "cpu",
       "items": [
         {
-          "cluster_id": "cluster_8600b0cd9cc1fb47_17",
+          "cluster_id": "cluster_a92bb37113130f12_61",
           "category": "semiconductor_hardware",
-          "title": "Cerebras 準備於 2027 年推出 CS-5 系統，擴大雲端與製造能力",
-          "original_title": "Cerebras Readies CS-5 Systems For 2027 Launch As It Bags Another Hyperscaler",
-          "published_at": "2026-11-14T00:40:35+00:00",
+          "title": "SemiWiki 稱黃仁勳辭任輝達執行長，分析競爭對手與供應鏈影響",
+          "original_title": "After Jensen: A Window for Nvidia’s Rivals, a Problem for Its Suppliers",
+          "published_at": "2026-11-15T14:00:58+00:00",
           "freshness_status": "fresh",
-          "importance_score": 7.2,
+          "importance_score": 8.2,
           "is_top_story": true,
           "summary_bullets": [
-            "晶圓級 AI 運算系統業者 Cerebras 正準備於 2027 年推出 CS-5，並在 2026 年擴建雲端與提升製造能力。",
-            "文章指出，Cerebras 已與 OpenAI、AWS、Oracle Cloud 及 Microsoft Azure 簽訂合約；目前多數待履行合約收入及全部增量收入來自 OpenAI 合約。",
-            "Cerebras 擴產有助其滿足大型客戶需求，但文章認為生成式 AI 基礎設施支出未來是否見頂仍有不確定性。"
+            "SemiWiki 文章稱，輝達於 11 月 12 日宣布黃仁勳即時辭去總裁、執行長及董事職務，由財務長 Colette Kress 暫任執行長，董事 Harvey Jones 出任董事長；所附資料未提供獨立佐證。",
+            "文章指出，黃仁勳過去對架構、供貨分配、定價與投資具有最終決策權，其離職可能使決策轉為較耗時的協商流程。",
+            "作者認為領導層變動可能為輝達競爭對手創造機會，並對輝達供應鏈不利；這是文章觀點，影響尚待驗證。"
           ],
-          "why_it_matters": "Cerebras 的產品與產能擴張，反映大型雲端業者對替代性 AI 運算硬體的需求，也可能影響 AI 基礎設施供應格局。",
+          "why_it_matters": "若報導屬實，輝達領導層交接可能影響 AI 晶片市場競爭與供應鏈規劃。",
           "divergent_views": null,
-          "primary_url": "https://www.nextplatform.com/compute/2026/11/14/cerebras-readies-cs-5-systems-for-2027-launch-as-it-bags-another-hyperscaler/5309932",
+          "primary_url": "https://semiwiki.com/semiconductor-manufacturers/376352-after-jensen-a-window-for-nvidias-rivals-a-problem-for-its-suppliers/",
           "primary_content_quality": "extracted",
           "sources": [
             {
-              "name": "The Next Platform",
-              "url": "https://www.nextplatform.com/compute/2026/11/14/cerebras-readies-cs-5-systems-for-2027-launch-as-it-bags-another-hyperscaler/5309932",
-              "published_at": "2026-11-14T00:40:35+00:00",
+              "name": "SemiWiki",
+              "url": "https://semiwiki.com/semiconductor-manufacturers/376352-after-jensen-a-window-for-nvidias-rivals-a-problem-for-its-suppliers/",
+              "published_at": "2026-11-15T14:00:58+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_d0e40c5277445394_51",
+          "cluster_id": "cluster_a7f01b782fcc9a17_4",
           "category": "semiconductor_hardware",
-          "title": "美國財長質疑輝達客戶審查，關注受限 AI 晶片是否經空殼公司流入中國",
-          "original_title": "U.S. Treasury Secretary questions whether Nvidia knowingly sold AI GPUs to shell companies, says company itself is responsible",
-          "published_at": "2026-11-14T15:35:48+00:00",
+          "title": "新裝設的 Juniper 路由器疑致航管通訊中斷，美國實施全國地面停飛令",
+          "original_title": "Two HPE Juniper network routers grounded all US flights on Friday",
+          "published_at": "2026-11-15T13:42:51+00:00",
           "freshness_status": "fresh",
-          "importance_score": 7.2,
+          "importance_score": 7.4,
           "is_top_story": true,
           "summary_bullets": [
-            "美國財政部長貝森特表示，出口管制仍有漏洞，質疑輝達是否充分了解客戶，以及是否向明顯充當轉手管道的空殼公司銷售晶片。",
-            "報導稱中國可能取得大量受出口限制的輝達 AI GPU，但未提供相關數量的確切證據；輝達是否知情，以及執行長黃仁勳是否知悉潛在違規行為，也尚不明確。",
-            "貝森特呼籲追究輝達相關人員的責任，此事可能使晶片業者的客戶審查與出口合規措施受到更嚴格檢視。"
+            "美國聯邦航空總署（FAA）因航管與飛行員通訊出現問題，於週五晚間實施全國地面停飛令。",
+            "報導引述《華爾街日報》指出，一台新裝設的 HPE Juniper 路由器向大範圍網路廣播，導致既有老舊系統過載；機載空中防撞系統未受影響。",
+            "事件凸顯航空管制網路基礎設施的脆弱性，以及設備更新可能對既有系統帶來的營運風險。"
           ],
-          "why_it_matters": "先進 AI 晶片流向涉及美中科技管制成效，相關質疑可能提高晶片供應商的合規壓力與營運風險。",
+          "why_it_matters": "航管網路故障可能迅速影響全國航班運作，使基礎設施現代化與系統相容性成為關鍵課題。",
           "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that",
+          "primary_url": "https://www.tomshardware.com/networking/two-hpe-juniper-network-routers-grounded-all-the-us-flights-on-friday-faas-decades-old-copper-network-buckled-under-a-feature-hpe-says-worked-as-intended-creaking-air-traffic-communication-system-became-overloaded-by-very-high-rate-pinging",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/u-s-treasury-secretary-questions-whether-nvidia-knowingly-sold-ai-gpus-to-shell-companies-says-company-itself-is-responsible-i-think-it-is-important-that-anyone-at-the-company-there-be-held-accountable-for-that",
-              "published_at": "2026-11-14T15:35:48+00:00",
+              "url": "https://www.tomshardware.com/networking/two-hpe-juniper-network-routers-grounded-all-the-us-flights-on-friday-faas-decades-old-copper-network-buckled-under-a-feature-hpe-says-worked-as-intended-creaking-air-traffic-communication-system-became-overloaded-by-very-high-rate-pinging",
+              "published_at": "2026-11-15T13:42:51+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_24fc63293a74e43c_55",
+          "cluster_id": "cluster_ee58a5f72ee96cb2_15",
           "category": "semiconductor_hardware",
-          "title": "馬來西亞擬要求資料中心申報 AI 晶片進口與用電，防堵受管制晶片轉運",
-          "original_title": "Malaysia plans new law using data center power consumption to catch AI GPU smugglers",
-          "published_at": "2026-11-14T15:10:00+00:00",
+          "title": "美國查扣 FaceStealer 雲端基礎設施，指控北韓利用 AI 深偽竊取加密貨幣",
+          "original_title": "FBI disrupts North Korean FaceStealer campaign behind $5 billion Binance hack",
+          "published_at": "2026-11-15T16:30:00+00:00",
           "freshness_status": "fresh",
-          "importance_score": 6.9,
+          "importance_score": 7.3,
           "is_top_story": false,
           "summary_bullets": [
-            "馬來西亞計畫制定新法，要求資料中心業者揭露 AI 加速器進口及用電資訊，以防受管制硬體轉運至中國等國家。",
-            "政府擬要求業者申報 GPU 進口數量、耗電、設施位置，以及營運商與超大規模客戶身分，並對預留卻未使用的電力容量收費。",
-            "官員表示，部分企業曾租用馬來西亞資料中心空間，合法進口 GPU 後再走私至海外；數位部正檢視現行法律是否足以處理受美國出口禁令限制的處理器再出口。"
+            "美國司法部與 FBI 宣布打擊名為 FaceStealer 的社交工程攻擊行動，並查扣相關雲端基礎設施；美方指控北韓利用所得資助政府。",
+            "報導指出，該行動結合 AI 深偽、目標聯絡網路與個人資訊進行魚叉式網路釣魚，查扣的基礎設施中包含約 900 段目標受害者影片；FBI 估計相關加密貨幣損失約 4 億美元。",
+            "文章另聲稱該行動涉及逾 50 億美元的 Binance 駭案，但未說明與前述 4 億美元估計的差異，相關金額及歸因仍待進一步查證。"
           ],
-          "why_it_matters": "新規若落實，將影響馬來西亞 AI 晶片供應鏈與資料中心營運成本，並強化對受管制晶片轉運的監督。",
+          "why_it_matters": "此案凸顯 AI 深偽與長期社交工程結合後，對加密貨幣業者及其使用者構成的資安風險。",
           "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity",
+          "primary_url": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/malaysia-plans-new-law-using-data-center-power-consumption-to-catch-ai-gpu-smugglers-but-real-world-tdp-variance-and-lack-of-physical-audits-could-undermine-it-new-law-also-forces-operators-to-pay-for-unused-electricity-capacity",
-              "published_at": "2026-11-14T15:10:00+00:00",
+              "url": "https://www.tomshardware.com/tech-industry/cyber-security/fbi-disrupts-north-korean-facestealer-campaign-behind-usd5-billion-binance-hack-doj-seizes-facestealer-cloud-infrastructure-containing-900-videos-of-tech-workers-hackers-used-ai-deepfakes-to-steal-usd400-million-and-compromise-open-source-software",
+              "published_at": "2026-11-15T16:30:00+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_2312f36a5088f8c6_53",
+          "cluster_id": "cluster_000ffb86a4e64c46_58",
           "category": "semiconductor_hardware",
-          "title": "研究人員指稱 DeepSeek 等中國開放權重 AI 模型曾使用 Nvidia Blackwell 晶片訓練",
-          "original_title": "Researchers allege DeepSeek, Kimi, and other Chinese AI models were trained using banned Nvidia Blackwell GPUs",
-          "published_at": "2026-11-14T14:50:00+00:00",
+          "title": "2026 年第三季 Intel x86 市占回升至 69.9%，AMD 伺服器市占創新高",
+          "original_title": "Intel reclaims overall CPU market share for the first time since 2025",
+          "published_at": "2026-11-15T13:30:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Mercury Research 指出，2026 年第三季 x86 處理器整體出貨量季減、年減；Intel 受惠於桌上型電腦處理器表現，整體市占自 2025 年第二季以來首度季增。",
+            "Intel 整體市占達 69.9%，較前季增加 0.7 個百分點；AMD 整體市占為 30.1%，但伺服器與行動處理器市占分別達 35.5% 和 29.2%，均創新高。",
+            "產業總計出貨約 6,893 萬顆 x86 處理器；零組件價格高漲抑制用戶端需求，伺服器處理器銷量則年增 20%。"
+          ],
+          "why_it_matters": "桌機與伺服器市場走勢分歧，顯示 Intel 和 AMD 的競爭態勢正隨終端需求及資料中心成長而變化。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/pc-components/cpus/intel-reclaims-overall-cpu-market-share-for-the-first-time-since-2025-massive-desktop-gains-offset-amds-record-server-and-mobile-growth",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/pc-components/cpus/intel-reclaims-overall-cpu-market-share-for-the-first-time-since-2025-massive-desktop-gains-offset-amds-record-server-and-mobile-growth",
+              "published_at": "2026-11-15T13:30:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_5fe71ec266f6d4ad_72",
+          "category": "semiconductor_hardware",
+          "title": "美國法官駁回美光、三星與 SK 海力士對 DRAM 價格操縱訴訟的撤案聲請",
+          "original_title": "Judge denies motion to dismiss DRAM price-fixing lawsuit against Micron, Samsung, and SK hynix, finds evidence of DRAM collusion plausible after 500% price surge",
+          "published_at": "2026-11-15T15:09:50+00:00",
           "freshness_status": "fresh",
           "importance_score": 6.8,
           "is_top_story": false,
           "summary_bullets": [
-            "獨立研究機構 UnemploymentLabs 表示，分析結果顯示 DeepSeek V4、Kimi K3.1、MiniMax-M3 與 Ling-3.1-Flash 等模型的訓練可能使用 Nvidia Blackwell 晶片。",
-            "研究方法利用不同 AI 加速器的硬體特徵辨識訓練環境，適用於開放權重模型，結果也取決於所用的硬體與軟體組合。",
-            "研究無法確定晶片所在位置或存取方式，也不能證明出口管制遭到違反；中國企業可能透過海外租用算力取得這類晶片。"
+            "美國法官駁回三家記憶體大廠要求撤銷擬議集體訴訟的聲請，認為原告提出的新證據使串謀指控具有合理可能性；裁決不代表已認定業者違法。",
+            "由 17 名個人與小型企業組成的原告指稱，業者在 2022 年 10 月至 2023 年 4 月同步削減 DRAM 產量，隨後轉向高頻寬記憶體（HBM），並在三個月內相繼宣布縮減 DDR4 生產。",
+            "原告認為這些平行行動限制 DRAM 供應；報導指出，相關短缺使價格在一年內最高上漲 500%。"
           ],
-          "why_it_matters": "研究凸顯先進 AI 晶片出口管制與海外雲端算力存取之間的落差，但尚不足以判定有違規行為。",
-          "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
+          "why_it_matters": "訴訟若持續推進，可能影響記憶體業者的競爭審查及市場對 DRAM 供需與定價的關注。",
+          "divergent_views": "業者主張彼此密切觀察是激烈競爭的表現；原告則認為多項同步行動涉及限制供應，法官認為指控具有合理可能性。",
+          "primary_url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/researchers-allege-deepseek-kimi-and-other-chinese-ai-models-were-trained-on-export-controlled-nvidia-blackwell-chips-statistical-analysis-on-model-weights-reveals-high-correlation-to-nvidia-hardware",
-              "published_at": "2026-11-14T14:50:00+00:00",
+              "url": "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-to-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-of-dram-collusion-plausible-after-500-percent-price-surge",
+              "published_at": "2026-11-15T15:09:50+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_c5cb533237eb682d_33",
+          "cluster_id": "cluster_40033defde22bde0_55",
           "category": "semiconductor_hardware",
-          "title": "硬體週報比較 Mac Studio 與 DGX Spark，並介紹 AMD 記憶體技術 MEXT",
-          "original_title": "This week in Tom's Hardware Premium: November 14, 2026 — Mac Studio versus DGX Spark, AMD's MEXT cuts DRAM requirements in half, and the Huang saga reaches critical mass",
-          "published_at": "2026-11-14T16:00:00+00:00",
+          "title": "報導稱黃仁勳離開輝達，一名研究工程師因決策資訊不透明決定離職",
+          "original_title": "Nvidia engineer leaves company over lack of transparency around Jensen Huang’s exit, details decision",
+          "published_at": "2026-11-15T17:56:15+00:00",
           "freshness_status": "fresh",
-          "importance_score": 6.2,
+          "importance_score": 6.4,
           "is_top_story": false,
           "summary_bullets": [
-            "Tom’s Hardware 週報介紹本機 AI 硬體測試、AMD 記憶體技術，以及輝達執行長職務相關消息。",
-            "報導比較 Apple Mac Studio 與輝達 DGX Spark 在實際工作負載、合成測試及大型模型上的表現，但未提供具體測試結果。",
-            "報導稱 AMD 的預測式記憶體引擎 MEXT 目標是將 DRAM 需求減半，同時維持伺服器約 99% 的效能；相關條件與實測數據未在提供的內容中說明。",
-            "文章另聲稱輝達創辦人黃仁勳已卸下執行長職務，但提供的內容未交代消息來源或更多細節。"
+            "Tom's Hardware 報導稱，黃仁勳突然辭去輝達執行長職務後，機器人研究工程師 Darrel Dai 表示將離開公司；外部資料未提供足以獨立核實黃仁勳離職的資訊。",
+            "Dai 在 X 上表示，公司未充分說明人事決策及其對方向、文化和員工的影響，且工程師的觀點未獲重視。",
+            "報導稱要求董事會讓黃仁勳回任的線上連署已超過 15 萬人；若高層異動屬實，可能影響輝達的治理與員工信心。"
           ],
-          "why_it_matters": "本機 AI 裝置的效能與記憶體成本，以及伺服器 DRAM 需求，都是影響 AI 硬體採購的重要因素。",
+          "why_it_matters": "輝達領導層若出現重大異動，可能影響公司策略與市場信心，但相關說法仍須獨立查證。",
           "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-14-2026-mac-studio-versus-dgx-spark-amds-mext-cuts-dram-requirements-in-half-and-the-huang-saga-reaches-critical-mass",
+          "primary_url": "https://www.tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/tech-industry/this-week-in-toms-hardware-premium-november-14-2026-mac-studio-versus-dgx-spark-amds-mext-cuts-dram-requirements-in-half-and-the-huang-saga-reaches-critical-mass",
-              "published_at": "2026-11-14T16:00:00+00:00",
+              "url": "https://www.tomshardware.com/tech-industry/robotics-engineer-leaves-nvidia-over-lack-of-transparency-around-jensen-huangs-exit-details-decision-joins-chorus-of-disgruntled-staff-as-petition-to-reinstate-former-ceo-passes-150-000-signatures",
+              "published_at": "2026-11-15T17:56:15+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_6aac40bc18fe0c67_54",
+          "cluster_id": "cluster_bee9d1da87c7a194_25",
           "category": "semiconductor_hardware",
-          "title": "美國 GAO 指五角大廈難以追蹤價值 310 億美元的 F-35 零件",
-          "original_title": "Weeks after shipment was swiped by China, Pentagon ‘struggles to account for’ $31 billion in missing F-35 aircraft parts",
-          "published_at": "2026-11-14T14:00:00+00:00",
+          "title": "Microsoft 365 服務中斷影響飯店氯氣警報，德國15名旅客中毒",
+          "original_title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+          "published_at": "2026-11-15T15:41:13+00:00",
           "freshness_status": "fresh",
-          "importance_score": 5.3,
+          "importance_score": 6.3,
           "is_top_story": false,
           "summary_bullets": [
-            "美國政府問責署（GAO）指出，國防部對約 2,600 萬件 F-35 零件的管理與財務紀錄存在長期缺失；這些零件估值約 310 億美元，並非已確認全數遺失。",
-            "相關零件分布於全球約 700 處政府與承包商設施；GAO 批評現有庫存系統過時、不準確且不完整，可能影響戰機妥善率與可靠性。"
+            "據報導，德國一家飯店的三溫暖區域發生氯氣中毒事件，造成15名旅客受傷；其中4人送醫，1人留院觀察。",
+            "飯店的維護安全系統依賴電子郵件通知氯氣濃度過高，但Microsoft雲端服務中斷導致警報訊息無法寄出。",
+            "事件凸顯安全監控依賴雲端通訊時，服務中斷可能帶來實體安全風險，也顯示備援警報機制的重要性。"
           ],
-          "why_it_matters": "庫存管理缺失可能削弱 F-35 機隊的維修與戰備能力，並增加計畫的管理風險。",
+          "why_it_matters": "此事件顯示雲端服務故障不僅影響企業營運，也可能使依賴線上通知的實體安全系統失效。",
           "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/tech-industry/pentagon-struggles-to-account-for-usd31-billion-in-missing-f-35-aircraft-parts-weeks-after-shipment-was-swiped-by-china-tracking-of-estimated-26-million-parts-is-outdated-inaccurate-and-incomplete-says-watchdog",
+          "primary_url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/tech-industry/pentagon-struggles-to-account-for-usd31-billion-in-missing-f-35-aircraft-parts-weeks-after-shipment-was-swiped-by-china-tracking-of-estimated-26-million-parts-is-outdated-inaccurate-and-incomplete-says-watchdog",
-              "published_at": "2026-11-14T14:00:00+00:00",
+              "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized",
+              "published_at": "2026-11-15T15:41:13+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_64c58b069c65f459_4",
+          "cluster_id": "cluster_c747e8f2253aff70_37",
           "category": "semiconductor_hardware",
-          "title": "律師以八張二手 V100 建置私人 AI 伺服器，將多數運算提升至近 NVFP4 精度",
-          "original_title": "Lawyer’s eight-V100 AI server moves DeepSeek from 2-bit to near-NVFP4 precision",
-          "published_at": "2026-11-14T12:50:00+00:00",
+          "title": "IEDM 2026 預告台積電 A14 製程與 Intel 鍺電晶體研究",
+          "original_title": "IEDM 2026 Reveals New Paths to Faster, More Efficient AI",
+          "published_at": "2026-11-15T18:00:47+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "2026 年 IEEE 國際電子元件會議（IEDM）預定於 12 月 12 日至 16 日在舊金山舉行，將展示提升 AI 運算效能與能源效率的半導體研究。",
+            "台積電計畫介紹 A14 CMOS NanoFlex Pro 平台，結合奈米片電晶體、互連與整合技術；公司表示該平台預計於 2028 年量產。",
+            "Intel 也將發表鍺電晶體閘極堆疊研究，顯示業界正從元件材料與製程等方向探索更高效的運算技術。"
+          ],
+          "why_it_matters": "先進製程與新型電晶體研究可能為 AI 晶片提供更高效能及更佳能源效率，但實際產品效益仍有待驗證。",
+          "divergent_views": null,
+          "primary_url": "https://semiwiki.com/events/376230-iedm-2026-reveals-new-paths-to-faster-more-efficient-ai/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "SemiWiki",
+              "url": "https://semiwiki.com/events/376230-iedm-2026-reveals-new-paths-to-faster-more-efficient-ai/",
+              "published_at": "2026-11-15T18:00:47+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_7d631315133b3fdf_24",
+          "category": "semiconductor_hardware",
+          "title": "美國國防部測試自主無人地面車輛協同偵察，交戰仍由人類控制",
+          "original_title": "Pentagon tests pack hunting with autonomous war robots",
+          "published_at": "2026-11-15T14:19:24+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "美國國防部在肯塔基州諾克斯堡模擬戰鬥環境中，測試四輛自主無人地面車輛協同搜尋敵軍；演習應歐洲盟友要求進行。",
+            "操作員利用衛星影像將車隊派往模擬威脅區域，一輛搭載飛行無人機的車輛先行偵察，其餘三輛在後方待命；目標交戰由人類操作員控制。",
+            "車輛採模組化設計，可加裝不同戰術設備，展示自主移動平台與軍事載荷整合的可能性。"
+          ],
+          "why_it_matters": "這項測試顯示多車協同自主偵察的軍事應用正在推進，同時保留人類對目標交戰的控制。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/tech-industry/drones/pentagon-tests-pack-hunting-with-autonomous-war-robots-darpa-experimented-with-four-drone-ground-vehicles-that-detected-tracked-and-engaged-simulated-threats",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/drones/pentagon-tests-pack-hunting-with-autonomous-war-robots-darpa-experimented-with-four-drone-ground-vehicles-that-detected-tracked-and-engaged-simulated-threats",
+              "published_at": "2026-11-15T14:19:24+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_f2f0b337e0223145_1",
+          "category": "semiconductor_hardware",
+          "title": "輝達董事 Mark Stevens 分批出售約 420 萬股，套現近 9.47 億美元",
+          "original_title": "Nvidia board director cashed out $1 billion in stock before Jensen Huang scandal",
+          "published_at": "2026-11-15T14:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "據 Tom's Hardware 報導，輝達董事 Mark Stevens 在 8 月底至 9 月中旬分批出售約 420 萬股輝達股票，估計套現約 9.47 億美元。",
+            "文章稱，執行長黃仁勳捲入相關爭議後，輝達股價從事件曝光時約 205 美元跌至報導時的 162.85 美元；但文章未提供 Stevens 賣股與該爭議有關的證據。",
+            "報導指出，Stevens 的交易未使用事先公布的 Rule 10b5-1 交易計畫；相較之下，黃仁勳先前的股票出售曾提前公告交易計畫。"
+          ],
+          "why_it_matters": "大型董事持股出售及其時間點可能引發市場對內部人交易與公司治理的關注，但不能僅憑時間先後認定交易不當。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/tech-industry/nvidia-board-director-cashed-out-usd1-billion-in-stock-before-jensen-huang-scandal-mark-stevens-sold-4-2-million-shares-without-a-trading-plan",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/nvidia-board-director-cashed-out-usd1-billion-in-stock-before-jensen-huang-scandal-mark-stevens-sold-4-2-million-shares-without-a-trading-plan",
+              "published_at": "2026-11-15T14:00:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_c342b7f46153cb29_60",
+          "category": "semiconductor_hardware",
+          "title": "Matlantis 執行長介紹 AI 原子模擬平台：涵蓋 96 種元素，逾 150 家機構採用",
+          "original_title": "CEO Interview with Daisuke Okanohara of Matlantis",
+          "published_at": "2026-11-15T16:00:20+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Matlantis 執行長岡野原大輔受訪介紹旗下雲端原子模擬平台，該平台用於工業材料研發，由 Preferred Networks 與 ENEOS 共同開發。",
+            "平台核心是機器學習原子間勢能模型 PFP，可涵蓋從氫到鋦的 96 種元素；公司稱其計算速度最高可比密度泛函理論（DFT）快 1,000 萬倍。",
+            "Matlantis 表示，已有超過 150 家企業、大學與研究機構使用平台，包括福斯汽車及現代汽車；三菱商事也投資了該公司。"
+          ],
+          "why_it_matters": "AI 原子模擬有望加速工業材料研發，但其實際效益仍取決於不同材料與應用場景的驗證。",
+          "divergent_views": null,
+          "primary_url": "https://semiwiki.com/ceo-interviews/376079-ceo-interview-with-daisuke-okanohara-of-matlantis/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "SemiWiki",
+              "url": "https://semiwiki.com/ceo-interviews/376079-ceo-interview-with-daisuke-okanohara-of-matlantis/",
+              "published_at": "2026-11-15T16:00:20+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_2c710553e356386f_62",
+          "category": "semiconductor_hardware",
+          "title": "羅徹斯特大學將 Ender 3 改裝成 450 美元生物列印機，降低活體材料研究成本",
+          "original_title": "Modified Ender 3 becomes a $450 bioprinter for 3D printing engineered living materials",
+          "published_at": "2026-11-15T13:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "羅徹斯特大學研究團隊將 Ender 3 熔融沉積式 3D 印表機改裝為開源生物列印機，用於工程化活體材料研究。",
+            "設備保留原印表機的大部分結構，以注射幫浦取代列印頭，並使用自製支撐漿料維持材料形狀；建置成本約 450 美元，遠低於文中所稱通常超過 10 萬美元的生物列印機。",
+            "低成本硬體與支撐材料有望降低研究門檻，但文章未提供商業化或大規模應用結果。"
+          ],
+          "why_it_matters": "此方案結合低成本設備與材料支撐技術，可能讓更多研究團隊投入工程化活體材料開發。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/3d-printing/university-of-rochester-researchers-made-a-3d-bioprinter-from-a-modified-ender-3-usd450-bioprinter-makes-engineered-living-material-research-accessible",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/3d-printing/university-of-rochester-researchers-made-a-3d-bioprinter-from-a-modified-ender-3-usd450-bioprinter-makes-engineered-living-material-research-accessible",
+              "published_at": "2026-11-15T13:00:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_fbe8fa6ac6e7d17f_16",
+          "category": "semiconductor_hardware",
+          "title": "Syntiant 執行長：收購音訊技術公司，擴展感測器與邊緣 AI 處理平台",
+          "original_title": "CEO Interview with Kurt Busch of Syntiant",
+          "published_at": "2026-11-15T20:00:41+00:00",
           "freshness_status": "fresh",
           "importance_score": 4.8,
           "is_top_story": false,
           "summary_bullets": [
-            "美國律師 Nick Mermiges 更新用於法律工作的私人 AI 伺服器，以八張二手 Nvidia V100 執行 DeepSeek V4.1 Flash，並搭配法律工作流程與檢查機制。",
-            "更新後約 80% 的工作由 2 位元提升至近似 4 位元 NVFP4 精度，系統配備 1TB 記憶體、RTX 3090，支援 524K 上下文；程式碼輸出速度由每秒 160–215 個 token 降至 150–180 個。",
-            "先前的系統當機問題已排除，原因可能是電源供應器故障，而非原先懷疑的 PCIe 問題；此案例展示二手 GPU 用於本地部署大型語言模型的可能性與效能取捨。"
+            "Syntiant 執行長 Kurt Busch 表示，公司近期完成收購 Orosound 與 AudioSourceRE，以強化音訊處理能力；其中 Orosound 提供語音增強與噪音抑制技術。",
+            "Syntiant 於 2024 年底收購 Knowles 消費型 MEMS 麥克風業務，將 SiSonic MEMS 麥克風、神經決策處理器與 AI 模型整合為平台。",
+            "整合感測器與本地 AI 處理，有助於公司在資料產生端決定哪些資訊需在裝置處理、哪些需向上傳送。"
           ],
-          "why_it_matters": "此案例顯示專業服務業可利用二手硬體部署私人 AI，但提升精度仍需在推論速度與系統資源之間取捨。",
+          "why_it_matters": "Syntiant 透過收購擴充感測器與音訊處理能力，反映邊緣 AI 廠商正朝硬體與模型整合發展。",
           "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu",
+          "primary_url": "https://semiwiki.com/ceo-interviews/376259-ceo-interview-with-kurt-busch-of-syntiant/",
           "primary_content_quality": "extracted",
           "sources": [
             {
-              "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/lawyer-upgrades-eight-v100-private-ai-server-to-run-80-percent-of-deepseek-v4-1-flash-at-4-bit-nvfp4-precision-adds-1tb-of-ram-an-nvidia-rtx-3090-and-fixes-crashes-caused-by-a-bad-psu",
-              "published_at": "2026-11-14T12:50:00+00:00",
+              "name": "SemiWiki",
+              "url": "https://semiwiki.com/ceo-interviews/376259-ceo-interview-with-kurt-busch-of-syntiant/",
+              "published_at": "2026-11-15T20:00:41+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_086f8feabd5c3590_18",
+          "cluster_id": "cluster_0617450d28f3e2e8_46",
           "category": "semiconductor_hardware",
-          "title": "中國空軍軍醫大學研發可向傷兵發射止痛藥飛鏢的無人機",
-          "original_title": "China’s Air Force builds drone that shoots painkiller darts at wounded soldiers",
-          "published_at": "2026-11-14T12:30:00+00:00",
+          "title": "Newegg 上架 21 款 Nvidia RTX 5090，但售價仍逾建議售價三倍",
+          "original_title": "Nvidia RTX 5090 stock returns to Newegg with 21 models",
+          "published_at": "2026-11-15T17:00:00+00:00",
           "freshness_status": "fresh",
-          "importance_score": 4.7,
+          "importance_score": 4.8,
           "is_top_story": false,
           "summary_bullets": [
-            "據《環球時報》報導，中國空軍軍醫大學研發出解放軍首款傷員搜尋無人機，可遠距離向傷兵施打藥物。",
-            "校方代表表示，無人機能以裝載止痛藥的飛鏢將藥物注射至傷者肌肉，期望在醫護人員抵達前爭取救治時間。",
-            "這項研發顯示無人機正從偵察與攻擊擴展至戰場醫療，但報導未提供射程、準確率或實際部署情況。"
+            "在 RTX 5090 可能退出消費者零售通路的傳聞後，Newegg 網站出現 21 個可購買的產品品項，其中 11 個由 Newegg 自行銷售及出貨。",
+            "文章所見最低售價為 6,599 美元，適用於一款水冷顯示卡及一款 eGPU 產品；一般風冷顯示卡最低為 6,659 美元，每名顧客限購一件。",
+            "儘管零售品項增加，價格仍遠高於原本不到 2,000 美元的建議售價，可能限制消費者購買意願。"
           ],
-          "why_it_matters": "無人機若能安全可靠地執行遠距給藥，可能降低戰場醫護風險並擴展無人載具的醫療應用。",
+          "why_it_matters": "RTX 5090 重現零售通路顯示產品仍有供應，但高昂價格反映旗艦顯示卡的購買門檻仍高。",
           "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/tech-industry/drones/chinas-air-force-builds-drone-that-shoots-painkiller-darts-at-wounded-soldiers-experimental-pla-uav-injects-emergency-meds-from-a-distance-to-keep-medics-out-of-danger-and-buys-time-during-the-golden-hour",
+          "primary_url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-stock-returns-to-newegg-with-21-models-but-scarcity-pricing-keeps-the-cheapest-air-cooled-cards-at-least-three-times-msrp",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/tech-industry/drones/chinas-air-force-builds-drone-that-shoots-painkiller-darts-at-wounded-soldiers-experimental-pla-uav-injects-emergency-meds-from-a-distance-to-keep-medics-out-of-danger-and-buys-time-during-the-golden-hour",
-              "published_at": "2026-11-14T12:30:00+00:00",
+              "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-rtx-5090-stock-returns-to-newegg-with-21-models-but-scarcity-pricing-keeps-the-cheapest-air-cooled-cards-at-least-three-times-msrp",
+              "published_at": "2026-11-15T17:00:00+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_6feecef8bf5c99ea_36",
+          "cluster_id": "cluster_4a573bb3a8e1f91c_71",
           "category": "semiconductor_hardware",
-          "title": "《戰爭機器：E-Day》利用 SSD 即時串流遊戲資產，降低記憶體需求",
-          "original_title": "We tested the RAM-saving storage tech in Gears of War: E-Day",
-          "published_at": "2026-11-14T15:30:00+00:00",
+          "title": "PancakeSlicer 免費切片工具讓一般使用者嘗試非平面 3D 列印",
+          "original_title": "3D printing dev’s free tool unlocks curved printing along all three axes",
+          "published_at": "2026-11-15T15:00:00+00:00",
           "freshness_status": "fresh",
-          "importance_score": 4.3,
+          "importance_score": 4.5,
           "is_top_story": false,
           "summary_bullets": [
-            "Tom's Hardware 探討《戰爭機器：E-Day》用來降低系統記憶體使用量的儲存技術，並規劃在高階與較低階電腦上測試其表現。",
-            "開發商 The Coalition 表示，遊戲利用 Xbox Series S 的高速 NVMe SSD，依場景需求即時載入與卸載城市資料，讓記憶體受限的系統也能呈現細節豐富的世界。",
-            "文章提供的內容未包含實際測試結果或記憶體節省數據。"
+            "Alpaca Engineering 展示可自行架設的免費非平面切片工具 PancakeSlicer，目標是降低一般 3D 印表機使用者採用非平面列印的門檻。",
+            "該工具利用非平面切片演算法，讓列印路徑不再侷限於水平分層，並提供 3D 印表機管理功能，以貼近既有操作流程。",
+            "開發者指出，非平面列印過去多用於研究與實驗；商用印表機也未針對此用途最佳化，列印頭移動所需的避讓空間仍是挑戰。"
           ],
-          "why_it_matters": "透過 SSD 即時串流資產，遊戲開發者可望降低對系統記憶體容量的依賴，但實際效益仍須依測試結果確認。",
+          "why_it_matters": "更易使用的切片工具可能促進非平面列印的實際應用，但硬體限制仍會影響普及。",
           "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/pc-components/ssds/we-tested-the-ram-saving-storage-tech-in-gears-of-war-e-day-up-to-3-7-gb-s-of-ssd-streaming-speed-saves-several-gigabytes-of-system-ram-usage",
+          "primary_url": "https://www.tomshardware.com/3d-printing/3d-printing-developer-creates-self-hostable-non-planar-printing-slicer-pancakeslicer-makes-non-planar-3d-printing-accessible-potentially-leading-to-rapid-community-development",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/pc-components/ssds/we-tested-the-ram-saving-storage-tech-in-gears-of-war-e-day-up-to-3-7-gb-s-of-ssd-streaming-speed-saves-several-gigabytes-of-system-ram-usage",
-              "published_at": "2026-11-14T15:30:00+00:00",
+              "url": "https://www.tomshardware.com/3d-printing/3d-printing-developer-creates-self-hostable-non-planar-printing-slicer-pancakeslicer-makes-non-planar-3d-printing-accessible-potentially-leading-to-rapid-community-development",
+              "published_at": "2026-11-15T15:00:00+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_ea76fe7c68c51dd6_7",
+          "cluster_id": "cluster_653c08276be57267_26",
           "category": "semiconductor_hardware",
-          "title": "滑鐵盧大學學生以樂高打造開源 3D 印表機，材料成本約 173 美元",
-          "original_title": "Mechatronics student builds 3D printer made from 92% LEGO for less than $180",
-          "published_at": "2026-11-14T11:30:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 3.4,
-          "is_top_story": false,
-          "summary_bullets": [
-            "滑鐵盧大學機電工程學生 Adam Turaj 開發開源 3D 印表機 Studprint，並在 Rocky Mountain RepRap Festival 2026 展示。",
-            "作品約 92% 的零件為樂高，僅 13 個零件非樂高；材料總成本為 173.35 美元，其中樂高零件約占 30 美元。",
-            "此專案展示以低成本材料自製 3D 印表機的可能性，但目前尚無商業化或市場影響的資訊。"
-          ],
-          "why_it_matters": "此作品展現開源設計與低成本零件在自製數位製造設備上的應用潛力。",
-          "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/3d-printing/mechatronics-student-builds-3d-printer-made-from-92-percent-lego-for-less-than-usd180-lego-leadscrews-and-print-bed-can-print-a-decent-benchy-in-1-25-hours",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/3d-printing/mechatronics-student-builds-3d-printer-made-from-92-percent-lego-for-less-than-usd180-lego-leadscrews-and-print-bed-can-print-a-decent-benchy-in-1-25-hours",
-              "published_at": "2026-11-14T11:30:00+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_8d2cb9eac1edd8d8_22",
-          "category": "semiconductor_hardware",
-          "title": "Linux 核心修補 AMD Radeon HD 2000、3000 系列硬體影片解碼畫面損毀問題",
-          "original_title": "Nearly 20 years after launch, ancient AMD Radeon HD 2000 and 3000 GPUs finally get a Linux fix for corrupted video playback",
-          "published_at": "2026-11-14T11:00:00+00:00",
+          "title": "初代 Xbox 上市滿 25 年：採 Intel 與 Nvidia 晶片，累計銷售 2,400 萬台",
+          "original_title": "The original Xbox was released 25 years ago today",
+          "published_at": "2026-11-15T11:00:00+00:00",
           "freshness_status": "fresh",
           "importance_score": 3.4,
           "is_top_story": false,
           "summary_bullets": [
-            "已獲接受、預計納入 Linux 7.5 的核心修補程式，旨在解決 AMD 舊款 Radeon 顯示卡於硬體加速播放影片時，若同時執行桌面或 3D 繪圖，可能出現畫面損毀的問題。",
-            "修補方式是將統一視訊解碼器（UVD）的緩衝區保留在顯示記憶體，而非系統記憶體；修補涵蓋 RV610、RV620、RV630、RV635 與 RV670 晶片。",
-            "開發者已在搭載 RV610 的舊款 iMac 上測試，但其他涵蓋的晶片仍需實機驗證；影響主要限於仍使用這些老舊顯示卡的 Linux 使用者。"
+            "微軟首款遊戲主機 Xbox 於 2001 年 11 月 15 日在北美上市，至今滿 25 年；初代機型累計銷售約 2,400 萬台。",
+            "初代 Xbox 搭載 733 MHz Intel Pentium III 處理器、233 MHz Nvidia NV2A 繪圖晶片、64 MB DDR SDRAM，並內建當時主機少見的 8 GB 硬碟。",
+            "Xbox 憑藉硬體效能與《最後一戰：戰鬥進化》等遊戲在主機市場站穩腳步，但銷量仍落後 Sony PlayStation 2；後繼機 Xbox 360 於 2005 年底推出。"
           ],
-          "why_it_matters": "這項修補可望改善老舊 AMD 顯示卡在 Linux 上的影片播放穩定性，延長既有硬體的可用性。",
+          "why_it_matters": "初代 Xbox 展現了 PC 架構與內建儲存裝置在遊戲主機上的應用，也為微軟後續的主機業務奠定基礎。",
           "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/software/linux/nearly-20-years-after-launch-ancient-radeon-hd-2000-and-3000-gpus-finally-get-a-linux-fix-for-corrupted-video-playback-ai-helps-squash-a-decades-old-uvd-bug",
+          "primary_url": "https://www.tomshardware.com/video-games/xbox/the-original-xbox-was-released-25-years-ago-today-microsofts-pentium-iii-and-nvidia-gpu-powered-console-did-surprisingly-well-in-a-ps2-dominated-era",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/software/linux/nearly-20-years-after-launch-ancient-radeon-hd-2000-and-3000-gpus-finally-get-a-linux-fix-for-corrupted-video-playback-ai-helps-squash-a-decades-old-uvd-bug",
-              "published_at": "2026-11-14T11:00:00+00:00",
+              "url": "https://www.tomshardware.com/video-games/xbox/the-original-xbox-was-released-25-years-ago-today-microsofts-pentium-iii-and-nvidia-gpu-powered-console-did-surprisingly-well-in-a-ps2-dominated-era",
+              "published_at": "2026-11-15T11:00:00+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_946360404c8de902_9",
+          "cluster_id": "cluster_790b995520c58cf1_10",
           "category": "semiconductor_hardware",
-          "title": "輝達創辦地點紀念牌傳遭移除，報導稱黃仁勳離職但未提供佐證",
-          "original_title": "Commemorative plaque at Denny’s booth where Nvidia was born has been removed in wake of Jensen Huang scandals",
-          "published_at": "2026-11-14T12:00:00+00:00",
+          "title": "Cockpit-Simulator 推出 737X CDU v2 飛行模擬控制顯示單元",
+          "original_title": "Cockpit-Simulator 737X CDU (v2) Review: An Essential Component for Flight Sim Enthusiasts",
+          "published_at": "2026-11-15T17:30:00+00:00",
           "freshness_status": "fresh",
           "importance_score": 3.2,
           "is_top_story": false,
           "summary_bullets": [
-            "據報導，紀念黃仁勳與兩位共同創辦人在 Denny’s 餐廳規劃創立輝達的牌匾已被移除；員工未說明由誰決定移除。",
-            "文章稱黃仁勳因爭議辭去輝達職務，但未交代爭議內容或提供辭職的直接佐證，相關說法有待查證。",
-            "牌匾移除本身對輝達營運及半導體市場的直接影響有限；若高層異動獲證實，才可能具有較大企業影響。"
+            "Tom's Hardware 評測 Cockpit-Simulator 的 737X CDU v2，這款飛行模擬周邊以 1:1 比例仿製波音 737 控制顯示單元。",
+            "文章檢視產品的製作品質、仿真程度，以及與 Microsoft Flight Simulator 2024 的整合；所提供的內容未包含評測結果。",
+            "Cockpit-Simulator 自 2024 年起專注於較高階、專業級的飛行模擬設備，反映飛行模擬周邊市場產品持續多元化。"
           ],
-          "why_it_matters": "這則消息涉及輝達創辦人及企業歷史，但有關高層離職的關鍵說法尚未獲得充分佐證。",
+          "why_it_matters": "此產品呈現飛行模擬硬體朝高仿真、專業化發展的市場趨勢。",
           "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/tech-industry/commemorative-plaque-at-dennys-booth-where-nvidia-was-born-has-been-removed-sign-removed-in-wake-of-jensens-scandals-marked-the-booth-that-launched-a-usd1-trillion-company",
+          "primary_url": "https://www.tomshardware.com/peripherals/controllers-gamepads/cockpit-simulator-737x-cdu-v2-review-an-essential-component-for-flight-sim-enthusiasts",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/tech-industry/commemorative-plaque-at-dennys-booth-where-nvidia-was-born-has-been-removed-sign-removed-in-wake-of-jensens-scandals-marked-the-booth-that-launched-a-usd1-trillion-company",
-              "published_at": "2026-11-14T12:00:00+00:00",
+              "url": "https://www.tomshardware.com/peripherals/controllers-gamepads/cockpit-simulator-737x-cdu-v2-review-an-essential-component-for-flight-sim-enthusiasts",
+              "published_at": "2026-11-15T17:30:00+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_7b331a1f6e4aad5b_45",
+          "cluster_id": "cluster_c44ae59432022e49_39",
           "category": "semiconductor_hardware",
-          "title": "承包商為製作 5 萬條 Cat6 網路線，改裝手持工具加速線對整理",
-          "original_title": "Contractor turns a Milwaukee Hackzall into a portable Ethernet untwister after facing job requiring 50,000 custom Cat6 cables",
-          "published_at": "2026-11-14T14:20:00+00:00",
+          "title": "CPU 愛好者建立晶片裸晶影像圖庫，收錄 1971 至 2024 年的 357 張照片",
+          "original_title": "357 detailed CPU die shots spanning 1971 to 2024 crammed into a new gallery",
+          "published_at": "2026-11-15T16:00:00+00:00",
           "freshness_status": "fresh",
-          "importance_score": 3.2,
+          "importance_score": 3.1,
           "is_top_story": false,
           "summary_bullets": [
-            "一名承包商面臨製作 5 萬條客製化 Cat6 網路線、處理 10 萬個端接點的工作，因而改裝 Milwaukee Hackzall 手持工具，製作便攜式線對解絞工具。",
-            "該工具可在不到 2 秒內將雙絞線對整理拉直；先前使用的 500 美元工業級整線機雖可完成工作，但體積較大，需電力與壓縮空氣。",
-            "這項改裝展示了提升現場網路布線效率的做法，但目前未見大規模商用或市場影響的證據。"
+            "一名 CPU 愛好者整理多位攝影者公開分享的裸晶影像，建立可搜尋、排序及篩選的線上圖庫。",
+            "圖庫收錄 357 張照片，提供等比例檢視，以及處理器製造商、年份、裸晶尺寸與照片授權資訊。",
+            "此圖庫有助研究者與愛好者比較不同時代的處理器設計，但未涉及新晶片或製程技術的發布。"
           ],
-          "why_it_matters": "便攜式工具可能減少大量網路線端接作業所需的時間，尤其適合空間受限的布線現場。",
+          "why_it_matters": "集中整理的裸晶影像提供觀察處理器設計與尺寸演進的參考資料。",
           "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/maker-stem/contractor-builds-ethernet-cable-untwisting-machine-after-facing-100-000-cat6-termination-job-modified-milwaukee-hackzall-straightens-cables-in-under-two-seconds",
+          "primary_url": "https://www.tomshardware.com/pc-components/cpus/357-detailed-cpu-die-shots-spanning-1971-to-2024-crammed-into-a-new-gallery-motorola-68000-intel-486dx2-amd-athlon-xp-apple-m1-and-many-more-in-beautiful-detail",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/maker-stem/contractor-builds-ethernet-cable-untwisting-machine-after-facing-100-000-cat6-termination-job-modified-milwaukee-hackzall-straightens-cables-in-under-two-seconds",
-              "published_at": "2026-11-14T14:20:00+00:00",
+              "url": "https://www.tomshardware.com/pc-components/cpus/357-detailed-cpu-die-shots-spanning-1971-to-2024-crammed-into-a-new-gallery-motorola-68000-intel-486dx2-amd-athlon-xp-apple-m1-and-many-more-in-beautiful-detail",
+              "published_at": "2026-11-15T16:00:00+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_a907824416f931fd_31",
+          "cluster_id": "cluster_78795bc751bf8eb5_11",
           "category": "semiconductor_hardware",
-          "title": "CyberPowerPC 遊戲桌機搭載 Ryzen 7 9800X3D 與 RX 9070，優惠價 1,749.99 美元",
-          "original_title": "AMD's fastest gaming CPU and the Radeon RX 9070 just hit a massive $550 discount",
-          "published_at": "2026-11-14T15:00:00+00:00",
+          "title": "AMD 執行長蘇姿丰出席 Micro Center 奧斯汀新店開幕",
+          "original_title": "Dr. Lisa Su graces the opening of Micro Center's new Austin store",
+          "published_at": "2026-11-15T11:30:00+00:00",
           "freshness_status": "fresh",
-          "importance_score": 2.3,
+          "importance_score": 2.8,
           "is_top_story": false,
           "summary_bullets": [
-            "CyberPowerPC 一款預組遊戲桌機在 Best Buy 和 eBay 的售價為 1,749.99 美元，較標示原價 2,299.99 美元減少 550 美元。",
-            "該桌機配備 8 核心、16 執行緒的 Ryzen 7 9800X3D 處理器、採用 RDNA 4 架構的 Radeon RX 9070 顯示卡，以及 32GB DDR5 記憶體和 1TB SSD。"
+            "AMD 執行長蘇姿丰出席電腦硬體零售商 Micro Center 奧斯汀新店開幕，參與剪綵並與現場民眾互動。",
+            "蘇姿丰也為一張技嘉 Radeon RX 9070 XT 顯示卡簽名；文章指出，AMD 自 2024 年以來多次強調以資料中心業務為優先，引發部分遊戲玩家對消費級產品受重視程度的疑慮。"
           ],
-          "why_it_matters": "這項優惠降低了消費者購買高階遊戲桌機的成本，但目前沒有顯示其對整體硬體市場有重大影響。",
+          "why_it_matters": "此次公開活動展現 AMD 與玩家社群的互動，但不足以證明其產品策略已有變動。",
           "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/desktops/gaming-pcs/amds-fastest-gaming-cpu-and-the-radeon-rx-9070-just-hit-a-massive-usd550-discount-32gb-ddr5-ram-and-1tb-ssd-round-off-usd1-749-99-gaming-rig",
+          "primary_url": "https://www.tomshardware.com/desktops/pc-building/dr-lisa-su-graces-the-opening-of-micro-centers-new-austin-store-amd-ceo-meets-with-gamers-autographs-a-9070-xt-gpu-and-hands-out-300-swag-bags",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/desktops/gaming-pcs/amds-fastest-gaming-cpu-and-the-radeon-rx-9070-just-hit-a-massive-usd550-discount-32gb-ddr5-ram-and-1tb-ssd-round-off-usd1-749-99-gaming-rig",
-              "published_at": "2026-11-14T15:00:00+00:00",
+              "url": "https://www.tomshardware.com/desktops/pc-building/dr-lisa-su-graces-the-opening-of-micro-centers-new-austin-store-amd-ceo-meets-with-gamers-autographs-a-9070-xt-gpu-and-hands-out-300-swag-bags",
+              "published_at": "2026-11-15T11:30:00+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_32687b47bc193360_41",
+          "cluster_id": "cluster_0f79c5d843987549_22",
           "category": "semiconductor_hardware",
-          "title": "三星 1TB 990 SSD 特價 189.99 美元，採用 V9 QLC NAND",
-          "original_title": "Samsung's 1TB 990 SSD drops to 19 cents per GB amid the memory crisis — grab it for $40 off",
-          "published_at": "2026-11-14T16:32:48+00:00",
+          "title": "工程師以麵包板打造 Intel 486 DX2 復古電腦，約 16 天後展示運行《Doom》",
+          "original_title": "Enthusiast builds a working 486 DX2 retro PC on a breadboard in just 16 days, immediately runs Doom",
+          "published_at": "2026-11-15T14:30:00+00:00",
           "freshness_status": "fresh",
-          "importance_score": 2.3,
+          "importance_score": 2.6,
           "is_top_story": false,
           "summary_bullets": [
-            "亞馬遜上的三星 1TB 990 SSD 售價為 189.99 美元，較所列原價 229.99 美元低 40 美元。",
-            "該 SSD 採用 PCIe 4.0、V9 QLC NAND 與無 DRAM 控制器，循序讀寫速度最高分別為每秒 7,150 MB 與 6,450 MB，保固三年。"
+            "東京一名應用程式工程師打造可運作的麵包板復古電腦，從展示處理器到發布《Doom》遊戲畫面約花了 16 天。",
+            "系統採用 Intel i486 DX2 66 處理器，內部時脈為 66 MHz、外部時脈為 33 MHz，並以 Colorlight i9 v7.2 FPGA 開發板承擔晶片組功能。",
+            "此專案展示了復古硬體的自製與整合能力，但報導未顯示直接的商業化或市場影響。"
           ],
-          "why_it_matters": "這項促銷反映消費者購買高速儲存裝置的價格選擇，但不足以單獨判斷記憶體市場走勢。",
+          "why_it_matters": "這項作品展示以 FPGA 與現代開發工具重現早期個人電腦架構的可行性。",
           "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off",
+          "primary_url": "https://www.tomshardware.com/video-games/retro-gaming/enthusiast-builds-a-working-486-dx2-retro-pc-on-a-breadboard-in-just-16-days-immediately-runs-doom-build-includes-a-66-mhz-intel-chip-and-custom-five-inch-3d-printed-display",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/pc-components/samsungs-1tb-990-ssd-drops-to-19-cents-per-gb-amid-the-memory-crisis-grab-it-for-usd40-off",
-              "published_at": "2026-11-14T16:32:48+00:00",
+              "url": "https://www.tomshardware.com/video-games/retro-gaming/enthusiast-builds-a-working-486-dx2-retro-pc-on-a-breadboard-in-just-16-days-immediately-runs-doom-build-includes-a-66-mhz-intel-chip-and-custom-five-inch-3d-printed-display",
+              "published_at": "2026-11-15T14:30:00+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_0b4cf12d81dc90e5_39",
+          "cluster_id": "cluster_15a0f11429ca01b3_44",
           "category": "semiconductor_hardware",
-          "title": "iBuyPower 推出黑色星期五電競桌機促銷，最高折扣達 800 美元",
-          "original_title": "Save up to $800 on an iBuyPower gaming PC right now in this massive Black Friday sale",
-          "published_at": "2026-11-14T13:00:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 1.7,
-          "is_top_story": false,
-          "summary_bullets": [
-            "iBuyPower 推出為期近整個 11 月的電競桌機促銷，優惠預計於太平洋時間 11 月 29 日晚間 11 時 59 分結束，但庫存可能提前售罄。",
-            "促銷機型涵蓋搭載 AMD Ryzen 7 9800X3D 處理器與 Nvidia GeForce RTX 5090 顯示卡的電腦；使用優惠碼 BFMONTH，預組機最高可額外折抵 200 美元，客製機可享 95 折。"
-          ],
-          "why_it_matters": "這項促銷主要影響有意購買電競桌機的消費者，文章未提供足以判斷整體市場影響的資訊。",
-          "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/desktops/gaming-pcs/save-up-to-usd800-on-an-ibuypower-gaming-pc-right-now-in-this-massive-black-friday-sale-coupon-code-knocks-up-to-usd200-extra-off-high-spec-pre-built-rigs-fitted-with-nvidia-and-amd-gpus",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/desktops/gaming-pcs/save-up-to-usd800-on-an-ibuypower-gaming-pc-right-now-in-this-massive-black-friday-sale-coupon-code-knocks-up-to-usd200-extra-off-high-spec-pre-built-rigs-fitted-with-nvidia-and-amd-gpus",
-              "published_at": "2026-11-14T13:00:00+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_aacee982c8abd0a7_35",
-          "category": "semiconductor_hardware",
-          "title": "科技媒體介紹適合送禮的趣味 PC 配件與小工具",
-          "original_title": "Wacky PC and gadget gift guide",
-          "published_at": "2026-11-14T21:00:00+00:00",
+          "title": "Tom's Hardware 推薦 30 款電腦組裝與維修工具作為禮物",
+          "original_title": "30 must-have PC tool gifts for hobbyists and makers",
+          "published_at": "2026-11-15T21:00:00+00:00",
           "freshness_status": "fresh",
           "importance_score": 1.4,
           "is_top_story": false,
           "summary_bullets": [
-            "Tom's Hardware 發布節日禮物指南，介紹適合 PC 組裝者與科技愛好者的趣味小工具。",
-            "推薦品項包括兼具 USB 集線器功能的 CD／DVD 燒錄機、無線電腦開關按鈕及桌面夾式洞洞板。"
+            "Tom's Hardware 發表電腦工具禮物指南，面向組裝電腦的愛好者與創客。",
+            "文章提到螺絲起子、電動除塵器、手電筒及螺絲套件等工具，可用於電腦組裝、清潔與維修。"
           ],
-          "why_it_matters": "這份指南提供電腦周邊的消費參考，但未涉及重大技術突破或產業變動。",
+          "why_it_matters": "這份指南可供電腦組裝新手選購工具參考，但未涉及重大產業發展。",
           "divergent_views": null,
-          "primary_url": "https://www.tomshardware.com/gift-guides-seasonal-sales/wacky-pc-and-gadget-gift-guide-surprise-tech-lovers-with-10-different-options-like-wireless-power-buttons-dvd-burner-usb-hubs-and-clamp-on-pegboards",
+          "primary_url": "https://www.tomshardware.com/gift-guides-seasonal-sales/30-must-have-pc-tool-gifts-for-hobbyists-and-makers-essential-bench-upgrades-for-enthusiasts-with-a-project-from-electric-screwdrivers-to-cordless-air-dusters",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Tom's Hardware",
-              "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/wacky-pc-and-gadget-gift-guide-surprise-tech-lovers-with-10-different-options-like-wireless-power-buttons-dvd-burner-usb-hubs-and-clamp-on-pegboards",
-              "published_at": "2026-11-14T21:00:00+00:00",
+              "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/30-must-have-pc-tool-gifts-for-hobbyists-and-makers-essential-bench-upgrades-for-enthusiasts-with-a-project-from-electric-screwdrivers-to-cordless-air-dusters",
+              "published_at": "2026-11-15T21:00:00+00:00",
               "content_quality": "extracted"
             }
           ]
@@ -648,28 +784,28 @@
       "icon": "cloud",
       "items": [
         {
-          "cluster_id": "cluster_f28cabf2edf5a979_8",
+          "cluster_id": "cluster_7373a5d82448873c_34",
           "category": "software_cloud",
-          "title": "Google DeepMind與Artificial Analysis推出MKA基準，評測AI代理處理多模態專業工作",
-          "original_title": "AI趨勢周報第294期：AI Agent不只要會看圖，Google新Benchmark直接考專業工作實戰",
-          "published_at": "2026-11-14T11:11:39+00:00",
+          "title": "兆勤防火牆整合 Bitdefender 端點安全平台，規劃 2027 年擴大協作",
+          "original_title": "兆勤科技防火牆整合Bitdefender端點安全資訊，2027年將擴大跨平臺防禦協作",
+          "published_at": "2026-11-15T06:11:34+00:00",
           "freshness_status": "fresh",
-          "importance_score": 6.4,
+          "importance_score": 6.2,
           "is_top_story": false,
           "summary_bullets": [
-            "Google DeepMind與Artificial Analysis推出Multimodal Knowledge Agent（MKA）基準，評估AI代理能否分析建築圖、工程圖及臨床影像等資料，並產出報告、簡報或試算表。",
-            "基準包含200項任務，涵蓋10大領域、83種職業；評分中事實正確性占75%，視覺呈現占25%。各模型在相同代理環境、工具及操作次數限制下測試。",
-            "文章報導Claude Fable 5.2以57%的高難度項目加權達標率居首，Gemini 4 Carbon以54%次之；Google表示後者平均任務成本約為前者的六分之一。"
+            "兆勤科技與 Bitdefender 合作，讓 USG FLEX H 系列防火牆原生整合 GravityZone 企業資安平台，以單一介面掌握端點與網路安全資訊。",
+            "整合功能自 uOS 1.40 版起提供；GravityZone 涵蓋端點防護、端點偵測與應變、延伸偵測與應變及風險管理。",
+            "兆勤規劃於 2027 年新增端點風險評分、安全政策管理及威脅情資共享；自動觸發網路封鎖或端點隔離的具體機制尚未公布。"
           ],
-          "why_it_matters": "此基準將AI代理評測延伸至多模態專業工作成品，並凸顯任務完成品質與成本的競爭。",
+          "why_it_matters": "此合作反映資安平台整合趨勢，可望減少企業與代管服務商跨系統管理的負擔。",
           "divergent_views": null,
-          "primary_url": "https://www.ithome.com.tw/news/180507",
+          "primary_url": "https://www.ithome.com.tw/news/180509",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "iThome",
-              "url": "https://www.ithome.com.tw/news/180507",
-              "published_at": "2026-11-14T11:11:39+00:00",
+              "url": "https://www.ithome.com.tw/news/180509",
+              "published_at": "2026-11-15T06:11:34+00:00",
               "content_quality": "extracted"
             }
           ]
@@ -682,404 +818,84 @@
       "icon": "chart-line",
       "items": [
         {
-          "cluster_id": "cluster_ab1fc112e16dfd7e_12",
+          "cluster_id": "cluster_d2d484d520801ea2_31",
           "category": "business_market",
-          "title": "微軟 Microsoft 365 全球服務中斷逾 24 小時，台灣金融業改用傳真確認交易",
-          "original_title": "微軟全球當機逾 24 小時給不出恢復時間表，台金融公司得回歸傳真機確認交易",
-          "published_at": "2026-11-14T01:59:37+00:00",
+          "title": "TechCrunch 報導黃仁勳辭去輝達執行長，探討對 AI 產業投資的影響",
+          "original_title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+          "published_at": "2026-11-15T21:56:35+00:00",
           "freshness_status": "fresh",
-          "importance_score": 8.2,
+          "importance_score": 8.3,
           "is_top_story": true,
           "summary_bullets": [
-            "微軟 Outlook、Teams 等服務大規模中斷超過 24 小時，影響政府、航空及金融業；台灣一家金融公司改用傳真確認交易，另一家企業取消債券買回交易。",
-            "微軟表示故障與伺服器問題有關，主要影響 Exchange Online 電子郵件與行事曆，Copilot 也出現異常；公司已擴大部署修復措施，未發現惡意活動跡象，並排除 AI 為故障原因。",
-            "Downdetector 全球累計收到超過 740 萬筆故障通報。事件凸顯企業對單一雲端供應商的依賴，可能促使企業重新評估備援及營運持續計畫。"
+            "TechCrunch 報導，輝達董事會對時任執行長黃仁勳展開調查後，他已辭職；文章未交代調查的具體內容。",
+            "報導引述節目主持人討論黃仁勳離職速度及其與輝達的緊密關係，並對輝達在整體 AI 生態系的投資後續提出疑問。",
+            "由於輝達在 AI 經濟中的重要地位，領導層變動可能影響市場信心與投資布局，但文章未提供具體市場反應或投資決策。"
           ],
-          "why_it_matters": "大規模服務中斷波及跨產業核心作業，凸顯雲端服務集中化帶來的營運風險與備援需求。",
+          "why_it_matters": "若報導屬實，輝達領導層變動可能為其企業治理與 AI 生態系投資帶來不確定性。",
           "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/microsoft-outage-lasts-over-24-hours/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/microsoft-outage-lasts-over-24-hours/",
-              "published_at": "2026-11-14T01:59:37+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_0e1bb0aeaca0ff67_47",
-          "category": "business_market",
-          "title": "報導稱馬斯克聲援黃仁勳重返輝達，董事會接班安排未變",
-          "original_title": "馬斯克加入聲援黃仁勳行列，表態簽署請願書盼重返 Nvidia",
-          "published_at": "2026-11-14T07:10:31+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.2,
-          "is_top_story": true,
-          "summary_bullets": [
-            "報導指出，馬斯克於 2026 年 11 月 13 日在 X 表示將簽署支持黃仁勳重任輝達執行長的請願書，但未提供連結或發起人資訊。",
-            "報導稱，輝達一項支持董事會考量員工意見的內部討論累積超過 1,600 則留言；留言數不等於正式連署人數。",
-            "據報導，黃仁勳因私人關係風波辭去職務，財務長 Colette Kress 暫代執行長，董事會正尋找接班人；目前尚未宣布改變安排。"
-          ],
-          "why_it_matters": "輝達領導層變動及後續治理決策，可能影響這家 AI 運算供應商的長期策略與市場信心。",
-          "divergent_views": null,
-          "primary_url": "https://finance.technews.tw/2026/11/14/elon-musk-jensen-huang/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://finance.technews.tw/2026/11/14/elon-musk-jensen-huang/",
-              "published_at": "2026-11-14T07:10:31+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_0771f22644ace0bc_5",
-          "category": "business_market",
-          "title": "報導稱 Nvidia 接觸 Arm 執行長 Haas，評估執行長接班人選",
-          "original_title": "Nvidia 接班人傳鎖定 Arm 執行長，昔日收購對象如今成救兵？",
-          "published_at": "2026-11-14T07:21:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.1,
-          "is_top_story": false,
-          "summary_bullets": [
-            "文章引述《金融時報》知情人士稱，Nvidia 董事會已接觸 Arm 執行長 Rene Haas，將他列為潛在接班人；是否正式邀約及 Haas 的意願均未確定。",
-            "文章宣稱黃仁勳因私人關係爭議辭去執行長等職務，並由財務長 Colette Kress 暫代；這些重大人事變動尚無法依所提供資料獨立核實。",
-            "Haas 曾在 Nvidia 任職約七年，並自 2022 年起領導 Arm。若接班消息屬實，領導權交接可能影響 Nvidia 的經營策略與市場信心。"
-          ],
-          "why_it_matters": "Nvidia 的領導階層若發生重大變動，可能牽動 AI 晶片產業與投資人預期，但相關消息仍待證實。",
-          "divergent_views": null,
-          "primary_url": "https://finance.technews.tw/2026/11/14/nvidia-arm-rene-haas/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://finance.technews.tw/2026/11/14/nvidia-arm-rene-haas/",
-              "published_at": "2026-11-14T07:21:00+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_49c8e1e0fbcdccf5_14",
-          "category": "business_market",
-          "title": "FAA 航管通訊系統異常，要求全美境內航班暫停起飛",
-          "original_title": "又是軟體更新惹得禍？FAA 航管系統異常、美全國航班停飛",
-          "published_at": "2026-11-14T01:12:25+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 8.1,
-          "is_top_story": false,
-          "summary_bullets": [
-            "美國聯邦航空總署（FAA）於 2026 年 11 月 13 日下令境內尚未起飛的航班暫停起飛；已在空中的航班仍可繼續飛行及降落。",
-            "事故涉及暫時性電信通訊中斷，影響全美 22 座區域航空交通管制中心；故障原因尚未釐清，軟體更新是否有關仍在調查。",
-            "國土安全部表示目前沒有惡意網路攻擊的跡象；大範圍航班調度受影響，也凸顯航空業對通訊系統可靠性的依賴。"
-          ],
-          "why_it_matters": "全國性航管通訊故障可能迅速干擾航空公司營運，凸顯關鍵交通基礎設施的系統韌性風險。",
-          "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/faa-all-flights-were-grounded/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/faa-all-flights-were-grounded/",
-              "published_at": "2026-11-14T01:12:25+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_0c734480c59214b9_20",
-          "category": "business_market",
-          "title": "網傳機構投資人聯名信籲 Nvidia 保留黃仁勳回任選項，真實性尚未證實",
-          "original_title": "Nvidia 機構投資人聯名信力挺黃仁勳，籲董事會保留回任可能",
-          "published_at": "2026-11-14T02:55:32+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 7.8,
-          "is_top_story": false,
-          "summary_bullets": [
-            "據報導，一封在 Reddit 流傳、署名 Altimeter Capital Management 與 Atreides Management 的信件，呼籲 Nvidia 董事會審慎處理領導權交接，並保留黃仁勳回任執行長的可能；兩家機構尚未證實信件真實性。",
-            "報導稱 Nvidia 已於 11 月 12 日宣布黃仁勳辭去總裁、執行長及董事職務，由財務長 Colette Kress 暫代執行長，並由董事會尋找正式接班人。",
-            "網傳信件對代理執行長及其團隊表示信心，並稱若董事會在釐清事實後認為黃仁勳回任不符合股東利益，將尊重董事會的最終決定。"
-          ],
-          "why_it_matters": "Nvidia 的領導層安排可能影響公司治理、AI 策略與投資人信心，但網傳聯名信仍有待證實。",
-          "divergent_views": null,
-          "primary_url": "https://finance.technews.tw/2026/11/14/nvidia-institutional-investors-issue-joint-letter-in-support-of-jensen-huang/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://finance.technews.tw/2026/11/14/nvidia-institutional-investors-issue-joint-letter-in-support-of-jensen-huang/",
-              "published_at": "2026-11-14T02:55:32+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_5cf892bcf5bb8018_1",
-          "category": "business_market",
-          "title": "微軟服務全球中斷逾24小時，企業與政府改用傳真、電話應變",
-          "original_title": "微軟全球當機，傳真機、電話、藍牙成企業救命三寶",
-          "published_at": "2026-11-14T08:36:14+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 7.6,
-          "is_top_story": false,
-          "summary_bullets": [
-            "微軟 Outlook、Teams、Copilot 等服務中斷超過24小時，影響各國金融機構、政府機關與航運業者的通訊及日常作業。",
-            "台灣部分金融業者改用傳真確認交易；泛歐交易所與馬士基改以電話聯繫，英國保險公司 Aviva 則使用藍牙傳送錄音檔。",
-            "微軟表示，事故與先前網路容量升級產生的問題有關，該問題在近期網路變更後浮現，目前未發現惡意活動跡象；服務正逐漸恢復。"
-          ],
-          "why_it_matters": "事故凸顯企業與政府對單一雲端服務供應商的依賴，以及建立通訊備援與資安應變機制的重要性。",
-          "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/microsoft-365-fax-machine-phone-call-bluetooth/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/microsoft-365-fax-machine-phone-call-bluetooth/",
-              "published_at": "2026-11-14T08:36:14+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_f7f11bdede2c6f47_46",
-          "category": "business_market",
-          "title": "美國全國航班暫停起飛　官員稱通訊設備升級後路由器造成網路過載",
-          "original_title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-          "published_at": "2026-11-14T17:45:04+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 7.6,
-          "is_top_story": false,
-          "summary_bullets": [
-            "美國交通部長表示，聯邦航空總署承包商 L3Harris 在偏遠地點將銅線升級為光纖後，路由器使關鍵通訊系統過載，導致全國航班暫停起飛。",
-            "聯邦航空總署代理技術長表示，網路不穩定期間，兩處位置每四至五秒發出約一千次連線；停用這兩處後，網路恢復穩定。",
-            "當局正調查根本原因，包括人為或安裝錯誤及路由器故障的可能性；交通部長呼籲國會增加航空設備升級經費。"
-          ],
-          "why_it_matters": "事件凸顯航空通訊基礎設施的設備維護風險，以及網路故障可能對全國航運造成的影響。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+          "primary_url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-              "published_at": "2026-11-14T17:45:04+00:00",
+              "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+              "published_at": "2026-11-15T21:56:35+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_734703f1a2858fa1_19",
+          "cluster_id": "cluster_b32475fdfa784d8a_35",
           "category": "business_market",
-          "title": "輝達董事會調查黃仁勳相關指控，Megaspeed 晶片流向與出口管制受關注",
-          "original_title": "黃仁勳風波延燒！黃樂參與創立的 Megaspeed 是中國取得輝達 GPU 的祕密管道？",
-          "published_at": "2026-11-14T01:00:34+00:00",
+          "title": "SpaceX 首次以發射塔機械臂接住星艦上面級",
+          "original_title": "With Starship catch, SpaceX still shows it can dazzle the world",
+          "published_at": "2026-11-15T00:40:59+00:00",
           "freshness_status": "fresh",
-          "importance_score": 7.4,
-          "is_top_story": false,
+          "importance_score": 7.8,
+          "is_top_story": true,
           "summary_bullets": [
-            "報導稱輝達執行長黃仁勳向員工承認婚外情；與其關係密切的前 Megaspeed 高階主管黃樂遭指疑似涉及中國情報活動。輝達董事會已啟動獨立調查，並表示目前沒有理由相信國家安全或公司機密資訊外洩。",
-            "美國政府曾調查新加坡算力租賃商 Megaspeed 的所有權及輝達晶片是否流入中國。報導估計，該公司自 2023 年成為輝達合作夥伴以來，購買的輝達晶片價值超過 48 億美元。",
-            "Megaspeed 否認非法轉移晶片，表示已聘請外部律師調查並配合美國政府；美國國會議員則要求黃仁勳出席閉門會議簡報相關事項。"
+            "SpaceX 在德州星際基地以發射塔機械臂接住返回地球的星艦上面級，完成火箭回收的重要技術里程碑。",
+            "星艦接近地面時點燃三具猛禽引擎，從水平姿態轉為垂直，並由機械臂抓住船體兩側各約一英尺長的突出結構。",
+            "此舉有助於 SpaceX 開發大型、可快速重複使用的火箭，但文章未提供實際再飛行時間或成本數據。"
           ],
-          "why_it_matters": "事件可能加強美國對 AI 晶片流向與出口管制的審查，並影響輝達合作夥伴及算力租賃業者的合規風險。",
-          "divergent_views": "媒體報導及美國方面提出情報活動與晶片流向疑慮；Megaspeed 強調營運合法，中國外交部否認間諜指控，輝達則表示目前沒有理由相信機密資訊外洩。",
-          "primary_url": "https://finance.technews.tw/2026/11/14/what-is-megaspeed/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://finance.technews.tw/2026/11/14/what-is-megaspeed/",
-              "published_at": "2026-11-14T01:00:34+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_78a2ec0ef612fc55_0",
-          "category": "business_market",
-          "title": "矽品以 CoWoS 代工推動成長，攜手輝達布局 CPO 封裝擴產",
-          "original_title": "輝達助攻矽品登峰！從 CoWoS 代工邁向 CPO 新藍海，研發老將揭密十年技術布局",
-          "published_at": "2026-11-14T00:00:23+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 7.3,
-          "is_top_story": false,
-          "summary_bullets": [
-            "日月光投控前三季營收達新台幣 6,088.87 億元，年增逾 30%；旗下矽品受惠 AI 晶片封裝需求，上半年獲利達 208 億元。",
-            "報導引述產業分析師指出，輝達為緩解 CoWoS 產能瓶頸，要求將後段基板封裝交由矽品與 Amkor 執行；矽品過去布局的 2.5D 封裝技術因此獲得應用。",
-            "輝達宣布與矽品合作共同封裝光學（CPO），規劃在 2027 年年中將矽品 CPO 產能擴至目前的 15 倍以上；矽品主管提醒，目前產能基期很小。",
-            "產業觀察人士認為，CoWoS 後段封裝難度較低，且矽品須支付台積電權利金，毛利率成長空間有限；CPO 則是技術難度與潛在利潤更高的新領域。"
-          ],
-          "why_it_matters": "AI 帶動的先進封裝需求正擴大封測業者的成長機會，而 CPO 能否量產並創造較高利潤，將影響矽品的下一階段發展。",
+          "why_it_matters": "成功接住星艦上面級，為大型火箭快速回收與重複使用提供了關鍵技術驗證。",
           "divergent_views": null,
-          "primary_url": "https://finance.technews.tw/2026/11/14/ase-tech-holding-growth-accelerates-nvidia-spil-cowos-cpo-strategic-planning-new-segments/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://finance.technews.tw/2026/11/14/ase-tech-holding-growth-accelerates-nvidia-spil-cowos-cpo-strategic-planning-new-segments/",
-              "published_at": "2026-11-14T00:00:23+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_4d1a24d3dd20fb52_27",
-          "category": "business_market",
-          "title": "美國銀行監理機關關注 AI 代理可稽核與停用能力，現階段以資訊蒐集為主",
-          "original_title": "AI 代理進駐銀行，美國監理機關要求：能追蹤、能稽核、能關機",
-          "published_at": "2026-11-14T01:30:23+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 7.2,
-          "is_top_story": false,
-          "summary_bullets": [
-            "美國銀行監理機關正了解金融機構是否能追蹤、稽核並在必要時關閉自主式 AI 代理，同時關注其權限邊界與監督責任；這些詢問目前不屬於新的強制規範。",
-            "聯準會、貨幣監理署與聯邦存款保險公司於 2026 年 4 月更新模型風險管理指引，將生成式 AI 與代理式 AI 排除在該指引適用範圍外，但其他風險管理與治理機制仍然重要。",
-            "AI 代理可能在錯誤資料或脆弱系統中放大錯誤，銀行因此面臨記錄決策、限制權限及及時停用系統等治理挑戰。"
-          ],
-          "why_it_matters": "隨著金融機構採用自主式 AI，監理關注可能推動銀行強化可稽核性與控制機制，降低系統性錯誤風險。",
-          "divergent_views": null,
-          "primary_url": "https://finance.technews.tw/2026/11/14/how-ai-might-be-deployed-for-better-bank-supervision/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://finance.technews.tw/2026/11/14/how-ai-might-be-deployed-for-better-bank-supervision/",
-              "published_at": "2026-11-14T01:30:23+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_a9bbc5f75d026a54_28",
-          "category": "business_market",
-          "title": "美國 FAA 將 AI 空中交通管理系統擴大至全國 22 個管制中心",
-          "original_title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "published_at": "2026-11-13T21:20:47+00:00",
-          "freshness_status": "recent",
-          "importance_score": 7.2,
-          "is_top_story": false,
-          "summary_bullets": [
-            "美國聯邦航空總署（FAA）宣布，將 AI 空中交通建議系統 SMART 從華府地區擴大至全國 22 個空中交通管制中心，以減少航班延誤與燃料消耗。",
-            "FAA 表示，耗資 8.75 億美元的 SMART 系統自 9 月 21 日在華府空域啟用以來，已協助 180 架航班變更航線，平均每班節省 10 分鐘及近 80 加侖燃料。",
-            "SMART 是雲端系統，結合天氣、航線、交通流量與管制員人力資料，預測空中交通並提出排程、航線及降落順序建議。",
-            "航空公司高層支持擴大部署，但代表空中交通管制員的工會表示，並未參與系統設計或測試。"
-          ],
-          "why_it_matters": "全國部署顯示 AI 正進入關鍵航空基礎設施，其實際效益及管制人員參與程度將影響後續採用與信任。",
-          "divergent_views": "航空公司高層支持系統推廣；空中交通管制員工會則表示未參與設計或測試。",
-          "primary_url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+          "primary_url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-              "published_at": "2026-11-13T21:20:47+00:00",
+              "url": "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+              "published_at": "2026-11-15T00:40:59+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_e581556605cd97b0_29",
+          "cluster_id": "cluster_42aba9857e60ca73_52",
           "category": "business_market",
-          "title": "報導稱輝達執行長黃仁勳離職，亞洲政府關注晶片供應與中國 AI 專案",
-          "original_title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-          "published_at": "2026-11-14T16:34:15+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 6.8,
-          "is_top_story": false,
-          "summary_bullets": [
-            "文章宣稱黃仁勳已離開輝達，董事會於 11 月 8 日針對其遭中國間諜行動鎖定的報導啟動獨立調查；相關指控尚待獨立查證。",
-            "中國外交部否認相關間諜指控，並反對干擾全球供應鏈的出口管制措施。",
-            "文章引述路透社對採購公告及企業文件的分析指出，依賴輝達受限處理器的中國 AI 運算專案合計逾 30 億美元，相關發展可能增添不確定性。"
-          ],
-          "why_it_matters": "若報導屬實，輝達領導層變動及調查可能影響亞洲晶片供應關係與 AI 基礎建設投資。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-              "published_at": "2026-11-14T16:34:15+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_b11dfd79842c93d1_50",
-          "category": "business_market",
-          "title": "報導稱輝達董事會考慮黃仁勳去留，晶片制裁與接班風險受關注",
-          "original_title": "宛如 40 年前賈伯斯遭逼宮重演：黃仁勳深陷地緣政治風暴，輝達帝國面臨權力危機",
-          "published_at": "2026-11-14T08:30:56+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 6.8,
-          "is_top_story": false,
-          "summary_bullets": [
-            "文章引述《華爾街日報》稱，輝達董事會可能討論黃仁勳是否續任執行長；文章亦提及涉及其私人生活及國安的傳聞，但未提供足以獨立驗證的證據。",
-            "文章引述 Axios 稱，美國官員討論擴大制裁可能違反禁令運送輝達產品的企業，商務部長盧特尼克則擔憂引發新的貿易衝突。",
-            "文章指出，輝達管理架構高度仰賴黃仁勳，曾有多達 60 名主管直接向他匯報；若領導層變動，接班安排可能成為企業治理風險。"
-          ],
-          "why_it_matters": "輝達領導層穩定性及美國晶片出口管制若出現變化，可能影響 AI 晶片供應與市場信心，但相關報導仍待進一步確認。",
-          "divergent_views": null,
-          "primary_url": "https://finance.technews.tw/2026/11/14/chinese-media-state-machinery-targets-jensen-huang-personal-conduct-political-persecution/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://finance.technews.tw/2026/11/14/chinese-media-state-machinery-targets-jensen-huang-personal-conduct-political-persecution/",
-              "published_at": "2026-11-14T08:30:56+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_f0b8fefe000953e2_6",
-          "category": "business_market",
-          "title": "Tesla 開放特定客戶預訂自用 Cybercab，限定德州部分地區交車並收取月費",
-          "original_title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-          "published_at": "2026-11-14T20:04:44+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 6.7,
-          "is_top_story": false,
-          "summary_bullets": [
-            "Tesla 開放特定客戶預訂自用自駕車 Cybercab，售價為 29,990 美元，預計於 2026 年 12 月交車；買家須在德州指定城市接收車輛。",
-            "Cybercab 僅能在與 Tesla Robotaxi 相同的地理圍欄範圍內無人監督運作，訂購頁列出的使用月費為 299 美元。執行長馬斯克認為月費過高，應接近其他車款自駕與連線服務合計約 115 美元的費用。",
-            "馬斯克表示，Cybercab 將隨監管核准逐步擴及全美；Tesla 也計畫在明年停產銷售未達預期的 Cybertruck，將騰出的產能轉用於生產更多 Cybercab。"
-          ],
-          "why_it_matters": "自用 Cybercab 的訂價、使用限制與監管進度，將影響 Tesla 自駕車商業化的規模及收益模式。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-              "published_at": "2026-11-14T20:04:44+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_a2f43f09de5af7ef_48",
-          "category": "business_market",
-          "title": "TechCrunch稱連署要求輝達讓黃仁勳復職，馬斯克等科技業領袖支持",
+          "title": "報導稱連署要求輝達復任黃仁勳執行長，連署者身分與支持情況存疑",
           "original_title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-          "published_at": "2026-11-14T21:41:22+00:00",
+          "published_at": "2026-11-15T12:00:00+00:00",
           "freshness_status": "fresh",
-          "importance_score": 6.6,
+          "importance_score": 7.8,
           "is_top_story": false,
           "summary_bullets": [
-            "TechCrunch報導，一項要求輝達董事會讓黃仁勳復職的連署，截至週六下午已吸引逾11.5萬人簽署；連署者要求在獨立調查期間恢復其職務。",
-            "連署網站宣稱簽署者包括5,965名輝達現職員工、1,108名前員工及63,063名股東，並列出馬斯克等科技業領袖。這些數字與身分尚未獨立查證。",
-            "報導另稱黃仁勳已辭職，財務長Colette Kress出任臨時執行長，輝達股價當週大跌；這些重大人事與市場資訊仍需進一步核實。"
+            "兩篇報導稱，黃仁勳離開輝達執行長職位後，網路連署要求董事會讓他復職，並展開獨立調查；報導亦稱財務長 Colette Kress 暫任執行長。",
+            "報導提及的連署人數從逾 9.1 萬至 13 萬不等，可能反映統計時間與連署活動不同；其中一篇指出，連署者身分未經核實，馬斯克所簽連署是否為同一份也不清楚。",
+            "TechCrunch 稱黃仁勳的離職與涉及疑似中國間諜的關係有關，並報導輝達股價當週大跌；上述離職背景與市場影響均有待獨立查證。"
           ],
-          "why_it_matters": "若報導屬實，輝達領導層變動與股東反應可能影響公司治理及AI產業投資信心，但核心事實尚待查證。",
-          "divergent_views": null,
+          "why_it_matters": "若報導屬實，輝達領導層變動及其後續調查可能影響公司治理、投資人信心與 AI 產業。",
+          "divergent_views": "TechCrunch 將馬斯克列為該連署支持者；Tom's Hardware 則指出他簽署的是否為同一份連署尚不明確，且連署者身分未經核實。後者也報導，輝達副總裁 Bryan Catanzaro 否認參與另一封據稱在公司內流傳的公開信，並支持代理執行長。",
           "primary_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
           "primary_content_quality": "extracted",
           "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/elon-musk-signs-petition-to-reinstate-jensen-huang-as-nvidia-ceo-over-130-000-sign-online-petition-but-not-all-nvidians-support-jensens-return",
+              "published_at": "2026-11-15T12:00:00+00:00",
+              "content_quality": "extracted"
+            },
             {
               "name": "TechCrunch",
               "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
@@ -1089,568 +905,1210 @@
           ]
         },
         {
-          "cluster_id": "cluster_9937c110b5692e52_21",
+          "cluster_id": "cluster_6c7bda7f9224382f_57",
           "category": "business_market",
-          "title": "Lunar Energy 推出可堆疊家用電池與雙向充電器，挑戰特斯拉 Powerwall",
-          "original_title": "特斯拉前能源主管創立 Lunar Energy，以可堆疊電池與雙向充電器挑戰 Powerwall",
-          "published_at": "2026-11-14T09:00:12+00:00",
+          "title": "台積電美國子公司前 3 季獲利 539.86 億元，四地政府補助合計 1,675.86 億元",
+          "original_title": "【科技早餐】台積電美國廠前 3 季賺近 540 億！日本廠轉盈、四地政府補助 1,676 億創新高",
+          "published_at": "2026-11-15T21:30:00+00:00",
           "freshness_status": "fresh",
-          "importance_score": 6.4,
+          "importance_score": 7.8,
           "is_top_story": false,
           "summary_bullets": [
-            "由特斯拉前能源部門主管 Kunal Girotra 創立的 Lunar Energy，推出升級版家用儲能電池、雙向電動車充電器及 AI 能源管理工具，瞄準住宅與小型企業市場。",
-            "電池採用磷酸鋰鐵電芯及 5kWh 可堆疊模組，擴充上限為 300kWh；雙向充電器可在停電時讓車輛供電給住家。",
-            "公司計劃 2027 年生產近 2 萬套 30kWh 系統，總容量約 600MWh，並於 2028 年將產量提高至三倍；目前約有 5 千個家庭使用其電池。",
-            "Lunar Energy 累計募資逾 5 億美元，並透過 Sunrun 與 Octopus Energy 銷售產品；公司也看好整合家戶儲能與電網的虛擬電廠商機。"
+            "台積電揭露，美國子公司 TSMC Arizona 前 3 季獲利新台幣 539.86 億元，去年同期為 47.69 億元；日本熊本廠營運公司 JASM 獲利 23.96 億元，轉虧為盈。",
+            "美國、日本、德國及中國相關子公司前 3 季合計取得約 1,675.86 億元政府補助，創歷史新高；補助涵蓋廠房、設備與部分營運成本，不能直接視為當期獲利。",
+            "美國首座廠已於 2024 年第 4 季量產 4 奈米，第 2 座廠預計 2027 年第 3 季量產 3 奈米；仍在興建中的德國合資公司 ESMC 前 3 季虧損約 10.79 億元。"
           ],
-          "why_it_matters": "具備特斯拉能源業務背景的新創擴大產品與產能，有望加劇家用儲能及虛擬電廠市場競爭。",
+          "why_it_matters": "海外廠獲利、政府補助與擴產進度，將影響台積電的全球產能配置及供應鏈投資。",
           "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/the-biggest-threat-to-teslas-home-battery-business-is-its-ex-chief/",
+          "primary_url": "https://techorange.com/2026/11/16/tsmc-arizona-profit-global-fab-subsidies/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "primary_content_quality": "extracted",
           "sources": [
             {
-              "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/the-biggest-threat-to-teslas-home-battery-business-is-its-ex-chief/",
-              "published_at": "2026-11-14T09:00:12+00:00",
+              "name": "TechOrange 科技報橘",
+              "url": "https://techorange.com/2026/11/16/tsmc-arizona-profit-global-fab-subsidies/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "published_at": "2026-11-15T21:30:00+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_150040a2355e96f6_24",
+          "cluster_id": "cluster_dabb909d660224ad_30",
           "category": "business_market",
-          "title": "SpaceX 星艦第 15 次試飛進入軌道，部署 26 顆 Starlink V3 衛星",
-          "original_title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
-          "published_at": "2026-11-14T00:49:13+00:00",
+          "title": "ULA 火神火箭發射失敗，40 顆 Amazon Leo 衛星未能入軌",
+          "original_title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+          "published_at": "2026-11-15T23:11:54+00:00",
           "freshness_status": "fresh",
-          "importance_score": 6.4,
+          "importance_score": 7.7,
           "is_top_story": false,
           "summary_bullets": [
-            "SpaceX 星艦第 15 次試飛自德州 Starbase 起飛，上級進入預定軌道；第一級因未明問題改降墨西哥灣，未嘗試由發射塔捕捉。",
-            "任務主要目標是部署 26 顆 Starlink V3 衛星，約在升空 40 分鐘後完成；衛星太陽能板完全展開時長達 60 公尺。",
-            "這是星艦第二次進入低地球軌道，但第一級回收仍有待驗證。"
+            "聯合發射聯盟（ULA）的火神火箭在升空約 10 分鐘後發生異常，未能將 40 顆 Amazon Leo 寬頻衛星送入軌道；ULA 表示尚無足夠數據判定事故原因。",
+            "這是亞馬遜預訂的 38 次火神火箭發射任務中的首次，原計畫用於部署與 SpaceX Starlink 競爭的衛星網路。",
+            "火神火箭預計承擔未來數年約半數美國軍方國家安全太空任務；此次失敗可能導致火箭停飛一段時間，影響商業與軍方發射排程。"
           ],
-          "why_it_matters": "此次試飛展現星艦的衛星部署能力，但第一級未能回收，顯示可重複使用技術仍面臨挑戰。",
+          "why_it_matters": "此次事故可能延緩 Amazon Leo 部署，並影響美國政府與商業客戶取得非 SpaceX 發射服務的選擇。",
           "divergent_views": null,
-          "primary_url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+          "primary_url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "Ars Technica",
-              "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
-              "published_at": "2026-11-14T00:49:13+00:00",
+              "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+              "published_at": "2026-11-15T23:11:54+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_efab43b9b1c89afe_44",
+          "cluster_id": "cluster_b310a5d8f8c92be4_19",
           "category": "business_market",
-          "title": "美台股劇烈震盪，法人預估台股最快明年首季挑戰5萬點",
-          "original_title": "美國期中選舉使美台股市劇烈震盪，專家揭三大訊號台股還有機會上 5 萬點",
-          "published_at": "2026-11-14T02:00:53+00:00",
+          "title": "AI 自動化攻擊擴大資安風險：台灣上市櫃公司通報事件增至 118 件",
+          "original_title": "當「壞 AI」對決「好 AI」：解析 AI 資安戰三大趨勢，無差別攻擊時代企業該如何自保",
+          "published_at": "2026-11-15T23:30:31+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "報導統計，台灣上市櫃公司今年截至 11 月初通報 118 起資安事件，較去年全年的約 74 起增加近六成；近期受影響企業包括 91APP 及順立智慧的客戶。",
+            "專家指出，AI 資安攻擊包括加速利用既有漏洞、以自主滲透工具發動大規模攻擊，以及操控企業 AI 代理人。報導稱，微軟曾揭露攻擊者利用 ARTEX 瞄準逾 2,000 個雲端客戶，每分鐘嘗試登入近 3,000 次。",
+            "報導指出 91APP 事件經調查與 ARTEX 有關，順立智慧事件是否相關則仍屬推測；企業面臨更快速、大規模的攻擊，也更需要及時修補漏洞及共享威脅情資。"
+          ],
+          "why_it_matters": "AI 降低大規模自動化攻擊的門檻，可能擴大企業防禦速度與攻擊速度的落差。",
+          "divergent_views": null,
+          "primary_url": "https://infosecu.technews.tw/2026/11/16/ai-driven-cyberattacks-surge-nearly-60percent/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://infosecu.technews.tw/2026/11/16/ai-driven-cyberattacks-surge-nearly-60percent/",
+              "published_at": "2026-11-15T23:30:31+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_2bade0baa83134fb_36",
+          "category": "business_market",
+          "title": "紅杉資本募得約 100 億美元新基金，結束 Scouts 投資發掘人計畫",
+          "original_title": "紅杉資本收掉 Scouts 計畫，曾挖到 Uber、Stripe 的創投模式為何喊停",
+          "published_at": "2026-11-15T03:00:57+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "紅杉資本宣布募得約 100 億美元新基金，並關閉倫敦辦公室、整合早期與成長投資團隊，結束加速器 Arc 與 Scouts 計畫。",
+            "Scouts 計畫約於 2009 年啟動，由創辦人運用人脈發掘新創，每筆投資最高可達 10 萬美元；該計畫曾協助紅杉投資 Uber 和 Stripe。",
+            "紅杉未具體說明終止 Scouts 的原因，但表示將精簡組織，聚焦高信念、精選的創投投資；此舉調整了曾被同業廣泛仿效的新創投資模式。"
+          ],
+          "why_it_matters": "紅杉的重組反映大型創投重新檢視投資與營運模式，可能影響新創取得早期資金及創投發掘交易的方式。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/15/sequoia-capital-shuts-down-scouts-program/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/15/sequoia-capital-shuts-down-scouts-program/",
+              "published_at": "2026-11-15T03:00:57+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_a721f60e9b99a083_48",
+          "category": "business_market",
+          "title": "報導稱黃仁勳辭任輝達執行長，預測美中晶片管制將趨嚴",
+          "original_title": "黃仁勳事件將徹底使美中科技正式脫鉤",
+          "published_at": "2026-11-15T23:30:58+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "文章稱輝達創辦人黃仁勳於 11 月 12 日宣布辭任執行長，並涉及與中國間諜活動有關的疑雲；這些重大主張尚無其他來源佐證。",
+            "文章稱美國司法部正在調查，但尚未確認相關人士是否為中國間諜，官方也未公開支持該指控的實質證據。",
+            "文章認為，美國可能收緊先進晶片、製造設備及第三國轉運管制，進而影響輝達在中國的市場與全球半導體供應鏈；這是預測，而非已確定的結果。"
+          ],
+          "why_it_matters": "若報導屬實，輝達領導層變動及美中晶片政策走向可能對全球 AI 硬體供應與市場競爭產生重大影響，但核心事件仍待獨立查證。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/16/the-huang-renxun-incident-will-completely-and-formally-decouple-the-us-and-china/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/16/the-huang-renxun-incident-will-completely-and-formally-decouple-the-us-and-china/",
+              "published_at": "2026-11-15T23:30:58+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_0de28e7cb76f9109_54",
+          "category": "business_market",
+          "title": "那斯達克規劃週間每日交易延長至23小時，瞄準亞洲投資人",
+          "original_title": "那斯達克改了，白天也能買美股！全球股市為何搶拚 24 小時不打烊？",
+          "published_at": "2026-11-15T02:00:45+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "文章指出，那斯達克預計自12月6日起延長週間交易時段，每日可交易23小時；其他國際交易所也正推動或規劃延長交易。",
+            "據摩根士丹利統計，目前僅約2%的美股交易發生在正常時段之外；文章另稱，2026年8月三大隔夜交易系統的每晚成交量年增近四倍。",
+            "那斯達克表示，新時段旨在讓亞洲等海外投資人於當地白天交易美股。台灣金管會已成立專案小組研究延長交易時間，但目前暫不實施，也沒有時間表。"
+          ],
+          "why_it_matters": "交易時段延長可能改變全球資金流動與交易所競爭格局，也將影響投資人應對盤外風險的方式。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/15/why-global-markets-are-racing-toward-24-hour-trading/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/15/why-global-markets-are-racing-toward-24-hour-trading/",
+              "published_at": "2026-11-15T02:00:45+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_36e7a2a8accf56fb_13",
+          "category": "business_market",
+          "title": "台灣首顆太空用 GPGPU 完成在軌驗證，TASA 與捷揚合作推進衛星邊緣運算",
+          "original_title": "台灣首顆 GPGPU 獲飛行履歷　捷揚太空代工轉攻研發拓商機",
+          "published_at": "2026-11-15T03:22:29+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "國家太空中心（TASA）與捷揚航電歷時三年合作研製的通用圖形處理器（GPGPU）完成在軌驗證，成為台灣首顆取得飛行履歷的 GPGPU。",
+            "衛星可利用部署於 GPGPU 的 AI 模型，在拍攝後數秒內辨識船艦或土石流等目標；相較傳送數百 MB 的影像，辨識結果可能僅需數 KB 至數十 KB。",
+            "捷揚從太空代工擴展至自主研製，並尋求朝系統平台整合發展；相關技術可用於災害監測、國土安全與船艦偵測。"
+          ],
+          "why_it_matters": "在軌驗證有助於建立台灣太空運算硬體的實績，並提升衛星即時處理資料與降低傳輸負擔的能力。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/taiwan-first-gpgpu-flight-heritage-jasc-aerospace-shifts-oem-rd-business-expansion/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/taiwan-first-gpgpu-flight-heritage-jasc-aerospace-shifts-oem-rd-business-expansion/",
+              "published_at": "2026-11-15T03:22:29+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_c5a89cbb895b23cf_27",
+          "category": "business_market",
+          "title": "報導指輝達執行長離職並質疑安全團隊角色，相關指控尚待查證",
+          "original_title": "Where was Nvidia’s security team?",
+          "published_at": "2026-11-15T00:08:07+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "文章聲稱輝達執行長黃仁勳因私人關係引發的疑慮而離職，並提及其中一人任職於新加坡資料中心公司 Megaspeed；這些重大說法尚待獨立查證。",
+            "文章指出，美國調查人員懷疑 Megaspeed 將輝達晶片轉運至中國；報導未提供足以獨立確認此事的調查文件。",
+            "輝達前資安長 David Reber 先前表示因健康因素離職；文章承認，沒有公開資訊將資安主管異動與 Megaspeed 事件直接連結。"
+          ],
+          "why_it_matters": "若報導所述屬實，可能影響輝達的公司治理、晶片出口合規與市場信心，但目前相關指控仍需查證。",
+          "divergent_views": null,
+          "primary_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+              "published_at": "2026-11-15T00:08:07+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_f6aae7a2bbfe0b04_69",
+          "category": "business_market",
+          "title": "報導稱黃仁勳討論重返輝達執行長，投資人與美國財政部長立場相左",
+          "original_title": "黃仁勳正在商討重返輝達的可能性，但美國商務部持相反態度",
+          "published_at": "2026-11-15T23:10:02+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "文章引述外媒稱，黃仁勳離任輝達執行長後，正與盟友討論回任的可能性；相關說法尚待獨立核實。",
+            "投資人 Brad Gerstner 與 Gavin Baker 據稱呼籲董事會將黃仁勳回歸納入考量；文章則稱美國財政部長 Scott Bessent 主張從外部尋聘執行長，並關切晶片國安問題。",
+            "文章稱董事會正進行獨立調查，黃仁勳預計赴國會作證，輝達將在臨時執行長 Colette Kress 代理期間公布財報。"
+          ],
+          "why_it_matters": "若報導屬實，輝達領導層變動及國安審查可能影響其營運決策與投資人信心。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/16/jensen-huang-is-discussing-the-possibility-of-returning-to-nvidia/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/16/jensen-huang-is-discussing-the-possibility-of-returning-to-nvidia/",
+              "published_at": "2026-11-15T23:10:02+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_a11c681e91087d3d_53",
+          "category": "business_market",
+          "title": "報導稱輝達將公布財報，法人關注管理層變動與 AI 展望對台股影響",
+          "original_title": "黃仁勳去職後首場輝達財報說明會　法人看 AI 展望牽動台股",
+          "published_at": "2026-11-15T04:56:33+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "報導稱輝達將於美國時間 11 月 17 日公布財報，並指黃仁勳已離任執行長、由 Colette Kress 暫代；相關人事資訊尚待獨立查證。",
+            "分析師關注財報說明會對未來營運展望、產品藍圖及投資策略的說明，認為這些訊息可能牽動全球 AI 相關股價。",
+            "報導指出台股前一週上漲 3973.48 點；美股最近一個交易日費城半導體指數下跌 3.43%，輝達股價下跌約 2.01%。"
+          ],
+          "why_it_matters": "輝達財報與營運展望可能影響市場對 AI 供應鏈成長及相關股票估值的判斷。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/15/nvidia-earnings-call-post-jensen-huang-departure-ai-outlook-impacts-taiwan-stocks/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/15/nvidia-earnings-call-post-jensen-huang-departure-ai-outlook-impacts-taiwan-stocks/",
+              "published_at": "2026-11-15T04:56:33+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_b248bb7e524895a3_3",
+          "category": "business_market",
+          "title": "美國期中選舉後，市場關注民主黨政策對 AI 資料中心投資的影響",
+          "original_title": "民主黨掀「反資料中心」浪潮！美 AI 基建急煞車，台灣供應鏈為何迎來「短痛長穩」？",
+          "published_at": "2026-11-15T23:50:26+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "報導稱民主黨在美國期中選舉後取得國會兩院多數，部分候選人反對資料中心擴建，市場擔憂 AI 基礎建設及台灣供應鏈承壓。",
+            "文章指出，選後首個交易日費城半導體指數下跌逾 3%，美光下跌 7%，台積電 ADR 下跌逾 2%；但股價波動不能單憑報導歸因於選舉結果。",
+            "報導認為，新國會上任、立法程序及總統否決權將限制短期聯邦政策影響；高盛策略師也認為全國性暫停資料中心建設的可能性不高。"
+          ],
+          "why_it_matters": "資料中心政策若影響 AI 基礎建設投資，可能連帶牽動晶片需求及台灣供應鏈，但實際影響仍取決於具體政策與執行情況。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/16/nvidia-short-term-loser-us-midterm-elections-data-centers-slowdown-taiwanese-manufacturers-rebound/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/16/nvidia-short-term-loser-us-midterm-elections-data-centers-slowdown-taiwanese-manufacturers-rebound/",
+              "published_at": "2026-11-15T23:50:26+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_c30a51ef519c53e6_51",
+          "category": "business_market",
+          "title": "擷發科董事長：記憶體短缺源於長期擴產不足，AI 需求加劇供需失衡",
+          "original_title": "AI 加劇記憶體供需失衡！擷發科：短缺是長期結構性問題，AI 只是觸發點",
+          "published_at": "2026-11-15T02:25:49+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "擷發科董事長楊健盟表示，記憶體短缺是長期累積的結構性問題，AI 資料中心需求快速成長則是引發供需失衡的觸發點。",
+            "楊健盟指出，記憶體業者長期面臨價格競爭、投資回收期長等問題，限制擴產意願與能力；包括美光在內的大廠已開始增加資本支出，建置新廠與產線。",
+            "他預期資料中心仍是主要需求成長來源，未來邊緣 AI 與機器人應用也可能帶動記憶體需求；價格上漲對企業客戶導入的影響，取決於產品效益。"
+          ],
+          "why_it_matters": "記憶體供給彈性不足可能影響 AI 基礎設施與終端應用成本，而新增產能能否及時滿足需求仍待觀察。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/microip-talk-about-memory/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/microip-talk-about-memory/",
+              "published_at": "2026-11-15T02:25:49+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_4869ada2d1ad8b76_68",
+          "category": "business_market",
+          "title": "Memories.ai 推有償影片拍攝平台，蒐集第一人稱資料訓練機器人",
+          "original_title": "訓練資料爭奪戰升溫，Memories.ai 推打工平台付錢請大家拍影片給機器人看",
+          "published_at": "2026-11-15T09:00:43+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "舊金山新創 Memories.ai 推出全球零工平台 Memories Upload，支付參與者每項任務 6 至 18 美元，拍攝備餐、商品上架及設備維修等操作影片，供機器人與 AI 模型訓練。",
+            "拍攝使用可配對進行立體攝影的 LUCI Pin 穿戴式攝影機；公司並採用輝達 Metropolis 與 Cosmos 工具處理、描述及標註影片。公司自稱測試版上線首月累積逾百萬小時影片，目標在 2027 年 3 月前蒐集逾千萬小時。",
+            "人類操作影片可補充機器人訓練資料，但仍面臨動作轉換與隱私挑戰；公司表示會取得相關人員同意、遮蔽敏感資訊，並抽樣人工檢查。"
+          ],
+          "why_it_matters": "大規模蒐集多樣化人類操作資料，可能加速機器人學習真實世界任務，但資料品質、隱私及動作轉換仍是關鍵限制。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/memories-ai-launches-memories-upload-a-gig-work-platform-for-robot-training-data/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/memories-ai-launches-memories-upload-a-gig-work-platform-for-robot-training-data/",
+              "published_at": "2026-11-15T09:00:43+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_297cfcd0a4ece76e_32",
+          "category": "business_market",
+          "title": "調查：部分美國勞工遭 AI 取代後獲回聘，企業重新評估自動化決策",
+          "original_title": "四成主管認 AI 無法取代專業、「AI 回歸」比例達 19%，逾五成勞工喊漲薪資",
+          "published_at": "2026-11-15T08:00:33+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.1,
+          "is_top_story": false,
+          "summary_bullets": [
+            "人才評估公司 SHL 調查指出，19.1% 的美國受訪者表示曾遭 AI 取代，之後又獲前雇主回聘；英美合計比例為 16%。",
+            "羅致恆富調查顯示，因 AI 裁員的美國招募主管中，32% 後來恢復相同或類似職務；40% 認為 AI 無法取代企業內部專業知識與背景脈絡。",
+            "SHL 調查稱，回聘員工中有 51% 要求大幅加薪、42% 要求書面工作保障，顯示企業自動化決策可能影響重新聘僱成本與勞資談判。"
+          ],
+          "why_it_matters": "調查顯示企業若高估 AI 取代人力的能力，可能面臨重新招募與監督成本，也需重新評估人機協作策略。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/ai-re-hiring-trend-companies-acknowledge-ai-limits/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/ai-re-hiring-trend-companies-acknowledge-ai-limits/",
+              "published_at": "2026-11-15T08:00:33+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_4b87e25bbbf5c0af_73",
+          "category": "business_market",
+          "title": "投資專家示警AI資料中心建設與融資風險，市場波動恐加劇",
+          "original_title": "「雨露均霑」時代終結！AI 狂潮首現明確減速訊號，專家示警：未來投資心臟要夠大",
+          "published_at": "2026-11-15T00:00:56+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.1,
+          "is_top_story": false,
+          "summary_bullets": [
+            "文章將美國期中選舉結果與AI資料中心可能延宕連結，但未提供具體政策或建置延誤的證據，減速程度仍待觀察。",
+            "投資專家指出，若資料中心無法如期營運，新興雲端服務商可能面臨GPU閒置、折舊及抵押品價值不確定等風險，並可能波及提供擔保的科技巨頭。",
+            "受訪專家認為，較低利率有利支撐AI投資循環；儘管長期前景仍具價值，投資人應留意高估值與股價波動。"
+          ],
+          "why_it_matters": "資料中心建設進度與融資條件若轉差，可能影響AI基礎設施投資及相關企業估值。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/15/ai-sector-shows-first-signs-of-slowdown-in-three-years/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/15/ai-sector-shows-first-signs-of-slowdown-in-three-years/",
+              "published_at": "2026-11-15T00:00:56+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_2bf312003183fdff_9",
+          "category": "business_market",
+          "title": "AI 伺服器推升高階 PCB 規格，供應鏈轉向泰國量產與材料升級",
+          "original_title": "AI 伺服器帶動 PCB 規格推升，泰國布局重塑與材料升級",
+          "published_at": "2026-11-15T23:00:51+00:00",
           "freshness_status": "fresh",
           "importance_score": 5.8,
           "is_top_story": false,
           "summary_bullets": [
-            "文章指出，美國期中選舉與市場對AI基本面的疑慮加劇股市波動；台股6日一度跌破4萬點，9日盤中上漲逾2,600點，單日漲幅達4.9%。",
-            "法人認為，若科技巨頭重新評估AI資本支出，供應鏈可能面臨訂單延後及漲價空間縮小；晶圓代工、客製化晶片與電源管理等領域則可能受惠於算力效率提升。",
-            "受訪投顧預估台股最快明年第一季挑戰5萬點；分析師建議觀察恐慌性賣壓是否出清、費城半導體指數是否止跌，以及融資餘額降幅。"
+            "AI 伺服器需求推動高階印刷電路板（PCB）升級，規格成熟且需求放大的產品逐步導入泰國生產。",
+            "伺服器板件尺寸、層數、傳輸速度與功率密度提高，廠商須整合高多層、高密度互連（HDI）、高速訊號與低翹曲等製程能力。",
+            "產業競爭延伸至海外基地認證、良率與量產能力；高階材料供應商也須重視有效產能與共同開發。"
           ],
-          "why_it_matters": "市場對AI投資回收與供應鏈訂單的疑慮，可能改變台股評價及半導體族群的資金分配。",
+          "why_it_matters": "AI 伺服器帶動 PCB 技術與產能布局轉型，海外量產能力可能成為供應鏈競爭的關鍵。",
           "divergent_views": null,
-          "primary_url": "https://finance.technews.tw/2026/11/14/ai-stocks-plunge-rebound-taiwan-stock-market-50000-points-experts-reveal-3-signals/",
+          "primary_url": "https://technews.tw/2026/11/16/ai-servers-drive-pcb-specification-upgrades-reshaping-thailands-layout-and-upgrading-materials/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "科技新報 TechNews",
-              "url": "https://finance.technews.tw/2026/11/14/ai-stocks-plunge-rebound-taiwan-stock-market-50000-points-experts-reveal-3-signals/",
-              "published_at": "2026-11-14T02:00:53+00:00",
+              "url": "https://technews.tw/2026/11/16/ai-servers-drive-pcb-specification-upgrades-reshaping-thailands-layout-and-upgrading-materials/",
+              "published_at": "2026-11-15T23:00:51+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_30a9cf5dfa04c883_52",
+          "cluster_id": "cluster_1a89ba8c48acb0e1_18",
           "category": "business_market",
-          "title": "AI 產品與新創淘汰案例增加：Character.ai 破產、Ollie 宣布關閉",
-          "original_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-          "published_at": "2026-11-14T17:30:00+00:00",
+          "title": "報導稱歐盟領袖將首度討論 AI 政策，輝達未列正式議程",
+          "original_title": "歐盟領袖將舉行首次 AI 會談，輝達案未列正式議程",
+          "published_at": "2026-11-15T03:48:24+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "報導稱歐盟領袖預定於 13 日在都柏林討論人工智慧政策，尋求在提升競爭力與防範風險之間取得平衡。",
+            "與會領袖將聽取法國 AI 新創 Mistral 執行長 Arthur Mensch 與 AI 研究學者 Geoffrey Hinton 的意見。",
+            "報導另稱輝達執行長黃仁勳辭職並衝擊科技股，但未提供可供核實的證據；歐盟官員表示輝達未列入正式議程。"
+          ],
+          "why_it_matters": "歐盟領袖的討論可能影響未來 AI 政策方向，以及歐洲企業的競爭與合規環境。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/eu-leaders-first-ai-talks-nvidia-case-not-official-agenda/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/eu-leaders-first-ai-talks-nvidia-case-not-official-agenda/",
+              "published_at": "2026-11-15T03:48:24+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_18459e139482e4d2_20",
+          "category": "business_market",
+          "title": "聯發科侯上勇：CPO與其他光電整合架構競爭，量產良率是技術選擇關鍵",
+          "original_title": "光電整合進入「打群架」時代，聯發科侯上勇：CPO路線未定，良率才是關鍵",
+          "published_at": "2026-11-15T01:00:35+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "聯發科副總經理侯上勇在成材產業論壇表示，AI帶動先進封裝與光電整合需求，但CPO以外仍有其他光學架構發展，主流技術路線尚未定型。",
+            "欣興執行總經理馬光華指出，CPO旨在縮短光學元件與運算晶片間的電訊號傳輸距離，以降低功耗；但光學測試、光纖對位及封裝後性能驗證仍具挑戰。",
+            "面板級封裝有機會提高材料利用率，但設備、製程與良率均須考量；侯上勇強調，評估成本不能只看初期製造成本，也要納入量產良率。"
+          ],
+          "why_it_matters": "光電整合架構與封裝良率將影響AI晶片系統的傳輸效率、功耗及量產成本，並牽動半導體供應鏈合作。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/cpo-mediatek-hou-shang-yong-optoelectronic-integration-battleground-tech-choices-not-just-cost/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/cpo-mediatek-hou-shang-yong-optoelectronic-integration-battleground-tech-choices-not-just-cost/",
+              "published_at": "2026-11-15T01:00:35+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_8e0e7f8740bdffca_47",
+          "category": "business_market",
+          "title": "女媧創造與鴻海分享機器人落地挑戰：例外處理、場域整合與工廠效率是關鍵",
+          "original_title": "【333 Robots Community Meetup】女媧創造、鴻海談機器人進場：真正難的是剩下那 5%",
+          "published_at": "2026-11-15T22:00:00+00:00",
           "freshness_status": "fresh",
           "importance_score": 5.6,
           "is_top_story": false,
           "summary_bullets": [
-            "TechCrunch 盤點未能持續營運、轉型或顯著未達預期的 AI 產品與新創，包括申請破產的 Character.ai，以及宣布關閉的 AI 助理 Ollie。",
-            "S&P Global Market Intelligence 指出，約 42% 的企業 AI 計畫最終遭放棄；可能原因包括資金不足、技術挑戰、競爭、擴張困難或使用者需求疲弱。",
-            "大型業者也面臨產品挑戰：OpenAI 將 ChatGPT 整合多種模式的介面改版，因介面令人困惑且雜亂而遭部分使用者批評。"
+            "在 333 Robots Community Meetup 中，女媧創造與鴻海代表分享服務型及工業型機器人的導入經驗，強調實際部署須整合場域、流程、系統與人員。",
+            "女媧創造指出，即使機器人可處理大部分例行工作，企業仍須設計例外狀況的人工接手、設備維護及人員訓練流程。",
+            "鴻海表示，針對 SMT 產線與倉儲應用，團隊評估採用輪式底盤、專用夾爪與行為樹，僅在辨識及抓取等環節使用視覺－語言－動作模型，以兼顧速度與投資效益。"
           ],
-          "why_it_matters": "案例顯示 AI 熱潮並不保證產品成功，企業仍須面對資金、技術、使用者需求與商業化風險。",
+          "why_it_matters": "機器人能否規模化部署，不只取決於展示能力，也取決於例外處理、系統整合及是否符合現場效率要求。",
           "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "primary_url": "https://techorange.com/2026/11/16/333-robots-community-meetup-october/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "TechOrange 科技報橘",
+              "url": "https://techorange.com/2026/11/16/333-robots-community-meetup-october/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "published_at": "2026-11-15T22:00:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_e3369fae525a20d5_23",
+          "category": "business_market",
+          "title": "印度晶片新創 Bharat Semi 種子輪募資 2,400 萬美元，開發 AI 影像感測器",
+          "original_title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+          "published_at": "2026-11-15T23:30:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "尚未產生營收的 Bharat Semi 完成 2,400 萬美元種子輪募資，並表示已取得美國國防科技公司 General Atomics 與印度 Kaynes Semicon 的設計採用。",
+            "該公司開發可程式化影像感測器，將影像擷取、處理與 AI 功能整合於單一晶片；共同創辦人稱，相較傳統獨立晶片架構，系統成本可降低至少 70%。",
+            "產品仍在開發中，目標於 2027 年開始商業生產；印度正投入資金發展半導體產業，尋求成為供應鏈多元化的替代選項。"
+          ],
+          "why_it_matters": "這筆募資顯示印度新創正透過整合式 AI 感測晶片切入全球市場，但產品效能與商業化成果仍待驗證。",
+          "divergent_views": null,
+          "primary_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-              "published_at": "2026-11-14T17:30:00+00:00",
+              "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+              "published_at": "2026-11-15T23:30:00+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_3a27627ac4911aa9_15",
+          "cluster_id": "cluster_f98ff7eac68c20d9_38",
           "category": "business_market",
-          "title": "醫師籲 AI 健康諮詢保留人類監督，強調醫病信任與診斷風險",
-          "original_title": "AI 問診漸成主流但侵蝕大眾信任感，醫病關係仍是最重要核心",
-          "published_at": "2026-11-14T16:00:06+00:00",
+          "title": "AI Digital 主管主張企業 AI 投資應聚焦中間六會員工與工作流程",
+          "original_title": "老闆別再強求全公司變成 AI 專家，投資報酬率關鍵在中階六成員工",
+          "published_at": "2026-11-15T23:20:54+00:00",
           "freshness_status": "fresh",
-          "importance_score": 5.4,
+          "importance_score": 5.3,
           "is_top_story": false,
           "summary_bullets": [
-            "埃默里大學兒科醫師巴爾加瓦在《富比士》專欄指出，AI 健康諮詢日益普及，但醫療決策仍需醫師參與，並維持醫病信任。",
-            "文章引述調查稱，每三名美國成年人約有一人曾向 AI 詢問健康資訊；另有一項 500 人調查中，88.4% 受訪者認為臨床醫師比 AI 更能協助理解照護計畫。",
-            "巴爾加瓦提醒，生成式 AI 可能迎合使用者、引用偏誤資訊，或難以處理診斷與邊緣病例的檢傷分類；她建議加強公眾教育及醫護培訓。"
+            "AI Digital 人工智慧長 David Mainiero 撰文指出，企業不必將所有員工培養成 AI 專家，應優先重新設計工作流程，讓多數員工更容易使用進階工具。",
+            "他以公司 600 多名員工為例，指出約 18% 為 AI 重度使用者、62% 為基本應用者、20% 幾乎不用；他估計約 110 名重度使用者創造的產能相當於增聘 300 餘人，但這是公司主管的估算。",
+            "他建議企業建立可重複使用的提示架構與工作流程，並追蹤輕度使用者能力提升的「畢業率」，而非僅看啟用率或月活躍使用者。"
           ],
-          "why_it_matters": "AI 在健康資訊查詢的應用擴大，使其可靠性、人類監督及醫病信任成為醫療部署的重要課題。",
+          "why_it_matters": "企業若能降低進階 AI 工具的使用門檻，可能比集中培訓少數專家更有效擴大生產力效益，但實際投資報酬仍需驗證。",
           "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/15/in-the-ai-era-can-we-preserve-humanity-in-healthcare/",
+          "primary_url": "https://technews.tw/2026/11/16/why-the-highest-return-on-enterprise-ai-comes-from-the-middle-60/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/15/in-the-ai-era-can-we-preserve-humanity-in-healthcare/",
-              "published_at": "2026-11-14T16:00:06+00:00",
+              "url": "https://technews.tw/2026/11/16/why-the-highest-return-on-enterprise-ai-comes-from-the-middle-60/",
+              "published_at": "2026-11-15T23:20:54+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_d18ea7a0cafba5d0_30",
+          "cluster_id": "cluster_905360a35471de37_33",
           "category": "business_market",
-          "title": "CAIM1 與 Lutra 推防偽相機，以硬體簽章及區塊鏈驗證影像",
-          "original_title": "CAIM1 與 Lutra 推「防偽相機」，以區塊鏈為照片建立數位身分證",
-          "published_at": "2026-11-14T06:00:12+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 5.4,
-          "is_top_story": false,
-          "summary_bullets": [
-            "CAIM1 開發防偽相機原型，Lutra 則推出 HOA A1，兩者皆試圖因應 AI 生成影像與深偽帶來的信任問題。",
-            "CAIM1 採用 Tropic01 安全晶片與區塊鏈簽章，支援 4K 錄影，旗艦機預計 2027 年第一季亮相；HOA A1 搭載 Sony 1600 萬像素感光元件，以 ShootProof 技術記錄影像數位指紋。",
-            "此類技術可協助驗證影像檔案是否遭竄改，但無法證明拍攝場景並非經過擺拍或實體偽造。"
-          ],
-          "why_it_matters": "防偽相機可能擴大影像來源驗證的應用，但其對真實性的保障仍有界限。",
-          "divergent_views": null,
-          "primary_url": "https://infosecu.technews.tw/2026/11/14/caim1-ai-anti-counterfeiting-camera/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://infosecu.technews.tw/2026/11/14/caim1-ai-anti-counterfeiting-camera/",
-              "published_at": "2026-11-14T06:00:12+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_e1c7c98954b778b1_25",
-          "category": "business_market",
-          "title": "廣達梁次震看好AI基建投資，認為政策與輝達相關爭議難改產業動能",
-          "original_title": "廣達梁次震看 AI 後市：無懼黃仁勳風波與政策變數，投資建設「箭在弦上」",
-          "published_at": "2026-11-14T06:30:49+00:00",
+          "title": "德國研究評估以鐵粉儲能發電，探討改造燃煤電廠的可行性",
+          "original_title": "燃煤電廠的第二人生，德國提出以鐵粉取代煤炭的循環發電構想",
+          "published_at": "2026-11-15T05:00:23+00:00",
           "freshness_status": "fresh",
           "importance_score": 5.2,
           "is_top_story": false,
           "summary_bullets": [
-            "廣達副董事長梁次震表示，台灣在全球AI供應鏈仍具競爭優勢，認為輝達執行長黃仁勳相關爭議不致輕易改變產業發展方向，但他不了解事件具體細節。",
-            "他預期美國選後AI基礎建設不會受到太大影響，但也指出選舉結果出爐時間尚短，評估政策對訂單與建設的影響仍言之過早。",
-            "面對資料中心電力與融資疑慮，梁次震認為企業會尋求供電方案，並已在投資決策前評估資金來源；但他不排除市場參與者藉AI議題炒作股市。"
+            "德國研究團隊提出以鐵粉燃燒發電，再利用再生能源製成的氫氣將氧化鐵還原，形成可循環的能源載體；既有燃煤電廠的部分設備可能沿用。",
+            "模型估算，德國到 2045 年約有 37 GW、歐洲模擬區域約有 83 GW 的燃煤機組可改造；部分國家在特定情境下的年度能源系統成本可降低約 180 億歐元。",
+            "鐵粉具有長期儲存及運輸潛力，但轉回電力的效率偏低，約需投入 3 至 3.4 度電才能取回 1 度電；大規模燃燒、回收效率及改造成本仍待驗證。"
           ],
-          "why_it_matters": "廣達高層的看法反映AI伺服器供應鏈對基建需求仍有信心，但政策、電力與融資風險的實際影響仍待觀察。",
+          "why_it_matters": "鐵粉可能成為再生能源季節性儲存及燃煤電廠轉型的補充選項，但實際效益仍取決於工程可行性與成本。",
           "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/quanta-liang-cizhen-sees-no-impact-on-ai-from-jensen-huang-controversy/",
+          "primary_url": "https://technews.tw/2026/11/15/scientists-uncover-a-potential-game-changer-for-clean-energy/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/quanta-liang-cizhen-sees-no-impact-on-ai-from-jensen-huang-controversy/",
-              "published_at": "2026-11-14T06:30:49+00:00",
+              "url": "https://technews.tw/2026/11/15/scientists-uncover-a-potential-game-changer-for-clean-energy/",
+              "published_at": "2026-11-15T05:00:23+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_3f2c6fb2bff5be68_38",
+          "cluster_id": "cluster_1315de1a577980df_45",
           "category": "business_market",
-          "title": "Salt Security 共同創辦人：AI 資料駐留應納入企業海外擴張策略",
-          "original_title": "資料駐留不再是法務雜事，已成企業擴張戰略一環",
-          "published_at": "2026-11-14T02:30:22+00:00",
+          "title": "擷發科拓展邊緣 AI 車載與無人機市場，規劃美國 IPO",
+          "original_title": "搶攻歐美邊緣 AI 市場！擷發科鎖定無人機、車載等應用，美 IPO 最快估明年 Q1 底上市",
+          "published_at": "2026-11-15T01:08:43+00:00",
           "freshness_status": "fresh",
           "importance_score": 5.2,
           "is_top_story": false,
           "summary_bullets": [
-            "Salt Security 共同創辦人 Michael Nicosia 在《富比士》撰文指出，資料駐留已不只是法遵問題，也會影響企業進入海外市場的能力與上線時程。",
-            "AI 應用可能使資料流向不同地區或跨越國界；企業若無法追蹤資料去向，可能違反當地資料駐留規範。",
-            "Nicosia 建議企業及早確認資料在 AI 模型中的存放位置，並建立向客戶證明資料存放地的能力，以降低基礎設施不符需求或服務延遲上線的風險。"
+            "擷發科由 IC 設計服務轉型為 AI 系統公司，布局車載、無人機、機器人與智慧住宅，並計畫年底遞件申請美國 IPO，最快於次年第一季底至第二季初上市。",
+            "公司表示，AI 車載系統已進入印度供應鏈，目標拓展歐洲車用前裝市場；其 AI 辨識準確度通常可達 95% 以上，智慧住宅方案另加入行為意圖偵測。",
+            "擷發科已取得約 6.3 億元的 AI 智慧社區專案，並以非中國供應鏈優勢切入美國無人機市場；惟客戶付費意願與大規模部署資金仍是挑戰。"
           ],
-          "why_it_matters": "隨著企業擴大導入 AI，資料駐留規劃可能影響市場准入、客戶信任與海外擴張成本。",
+          "why_it_matters": "擷發科的跨產業布局與美國上市計畫，反映邊緣 AI 業者正尋求海外市場及資金，實際商業化仍取決於需求與部署成本。",
           "divergent_views": null,
-          "primary_url": "https://finance.technews.tw/2026/11/14/why-data-residency-is-an-ai-strategy-decision-not-a-compliance-one/",
+          "primary_url": "https://technews.tw/2026/11/15/microip-us-and-eu-edge-ai-and-us-ipo/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "科技新報 TechNews",
-              "url": "https://finance.technews.tw/2026/11/14/why-data-residency-is-an-ai-strategy-decision-not-a-compliance-one/",
-              "published_at": "2026-11-14T02:30:22+00:00",
+              "url": "https://technews.tw/2026/11/15/microip-us-and-eu-edge-ai-and-us-ipo/",
+              "published_at": "2026-11-15T01:08:43+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_16f2cdfd55919873_10",
+          "cluster_id": "cluster_a63f22a457b517e5_6",
           "category": "business_market",
-          "title": "Rockwell Automation 推出 LogixEdge 控制器，整合工業控制與邊緣運算",
-          "original_title": "Rockwell Automation 推出 LogixEdge 控制器，加速軟體定義自動化",
-          "published_at": "2026-11-14T06:00:51+00:00",
+          "title": "美國退伍軍人研究：莫德納 mRNA RSV 疫苗可能降低長者感染與住院風險",
+          "original_title": "mRNA RSV 疫苗不只預防感染，也可能減少長者住院",
+          "published_at": "2026-11-15T23:10:39+00:00",
           "freshness_status": "fresh",
           "importance_score": 4.8,
           "is_top_story": false,
           "summary_bullets": [
-            "Rockwell Automation 推出以工業電腦為基礎的 LogixEdge 控制器，協助製造商部署軟體定義自動化。",
-            "產品在單一平台整合 Logix 控制、邊緣運算與容器化應用程式，讓控制及軟體工作負載可更接近生產現場執行。",
-            "公司表示，共用平台有助減少獨立硬體需求，並簡化分散式環境中的軟體部署、更新與管理。"
+            "耶魯大學等機構分析美國退伍軍人醫療體系約15萬名成人的資料，其中約7.5萬人接種莫德納 mRESVIA 疫苗；研究刊登於《JAMA Network Open》。",
+            "研究估計，接種後24週內，RSV感染及相關急診或緊急照護風險各降低約六成，相關住院風險降低約八成；但住院病例數較少，估計具有不確定性。",
+            "預防感染的有效性估計在50至59歲族群為82.9%，80歲以上為28.6%，且後者統計結果尚不足以確認明確保護效果。研究對象以男性退伍軍人為主，且觀察性研究無法排除所有混雜因素。"
           ],
-          "why_it_matters": "工業控制與軟體工作負載整合至同一裝置，有望降低製造系統複雜度並提升自動化部署彈性。",
+          "why_it_matters": "研究為mRNA RSV疫苗在真實醫療環境中的保護效果提供證據，但對高齡者、其他族群及長期效果仍需更多研究。",
           "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/rockwell-automation-logixedge-controller-accelerates-software-defined-automation/",
+          "primary_url": "https://technews.tw/2026/11/16/mrna-rsv-vaccine-may-reduce-hospitalizations-among-older-adults/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/rockwell-automation-logixedge-controller-accelerates-software-defined-automation/",
-              "published_at": "2026-11-14T06:00:51+00:00",
+              "url": "https://technews.tw/2026/11/16/mrna-rsv-vaccine-may-reduce-hospitalizations-among-older-adults/",
+              "published_at": "2026-11-15T23:10:39+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_84da490e070da0bb_32",
+          "cluster_id": "cluster_8177ec8fc2bf9a6c_42",
           "category": "business_market",
-          "title": "塔麻可吉迎 30 週年：萬代從 60 億日圓庫存損失中調整經營策略",
-          "original_title": "塔麻可吉 30 週年：曾慘賠 60 億日圓，萬代如何讓電子雞活過三個世代？",
-          "published_at": "2026-11-14T03:00:55+00:00",
+          "title": "福衛八號齊柏林衛星影像解析度提升，開賣兩個月取得海外訂單",
+          "original_title": "齊柏林衛星清晰度大躍進　影像開賣 2 個月即斬獲海外訂單",
+          "published_at": "2026-11-15T03:11:43+00:00",
           "freshness_status": "fresh",
           "importance_score": 4.8,
           "is_top_story": false,
           "summary_bullets": [
-            "萬代旗下電子寵物塔麻可吉於 1996 年問世，全球累計出貨量在 2025 年突破 1 億台；2026 年適逢品牌 30 週年。",
-            "萬代因重複預購造成需求判斷失準而過度生產，1999 年處置逾 250 萬台未售產品，認列 60 億日圓損失。",
-            "萬代此後調整庫存管理與目標客群；2004 年推出的連線系列在 8 年間累計銷售約 3,900 萬台，協助品牌重返市場。"
+            "台灣福衛八號首顆齊柏林衛星克服發射延誤及升空後電力系統問題，成功回傳高解析度影像，影像銷售兩個月內取得海外訂單。",
+            "衛星影像原始解析度為1公尺，經後處理可提升至0.7公尺，可用於辨識建築與車輛，以及防救災和農業監測。",
+            "齊柏林衛星曾支援花蓮萬里溪堰塞湖監測，太空中心也規劃與屏東縣政府合作，運用影像估計香蕉種植面積及風災農損。"
           ],
-          "why_it_matters": "塔麻可吉的經營歷程顯示，熱門玩具品牌須兼顧需求預測、庫存控管與跨世代產品定位，才能延續商業價值。",
+          "why_it_matters": "齊柏林衛星驗證台灣自主衛星影像及資料處理能力，並展現災害監測與海外影像銷售的應用潛力。",
           "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/tamagotchi-30th-anniversary-suffered-6-billion-jpy-loss-how-bandai-kept-digital-pet-alive-three-generations/",
+          "primary_url": "https://technews.tw/2026/11/15/zeppelin-satellite-clarity-breakthrough-overseas-orders-2-months-image-sales/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/tamagotchi-30th-anniversary-suffered-6-billion-jpy-loss-how-bandai-kept-digital-pet-alive-three-generations/",
-              "published_at": "2026-11-14T03:00:55+00:00",
+              "url": "https://technews.tw/2026/11/15/zeppelin-satellite-clarity-breakthrough-overseas-orders-2-months-image-sales/",
+              "published_at": "2026-11-15T03:11:43+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_d1f0d4480b367411_2",
+          "cluster_id": "cluster_6fbca1b65a90dadd_43",
           "category": "business_market",
-          "title": "韋伯望遠鏡在繪架座β星周圍發現水冰與二氧化碳冰",
-          "original_title": "James Webb telescope finds ice older than the star it orbits",
-          "published_at": "2026-11-14T12:15:48+00:00",
+          "title": "力晶投控及友好企業規劃合計26億元購股，促進未上市股份流動",
+          "original_title": "26 億資金活水注入，力晶投控未上市股流動性勁揚",
+          "published_at": "2026-11-15T01:15:27+00:00",
           "freshness_status": "fresh",
-          "importance_score": 4.7,
+          "importance_score": 4.8,
           "is_top_story": false,
           "summary_bullets": [
-            "研究團隊利用詹姆斯・韋伯太空望遠鏡，在年齡約2,000萬年、距地球約64光年的繪架座β星周圍碎屑盤中發現水冰與二氧化碳冰。",
-            "水冰呈玻璃態而非結晶態，與二氧化碳混合的比例大致類似太陽系彗星；報導指出，這些冰比其環繞的恆星更古老。",
-            "研究結果顯示，形成富含水分世界所需的物質，可能普遍存在於年輕恆星周圍。"
+            "力晶投控規劃以10億元買回庫藏股，山一投資另以10億元公開購買股份；鈺創及晶豪科旗下晶湛投資也各規劃投入3億元，長期投資力晶投控股權。",
+            "力晶投控庫藏股收購價格為每股42元，已進入核算階段；山一投資公開購買價格為每股40至45元，即將截止。",
+            "鈺創與晶湛投資將先向有意出售的特定股東洽購，餘額再透過未上市股票市場買入，可望增加股東出售股份的管道。"
           ],
-          "why_it_matters": "這項發現有助於理解行星系統中水與其他揮發性物質的來源，以及富水行星形成的可能性。",
+          "why_it_matters": "多方購股計畫可望改善力晶投控未上市股份的流動性，但實際成交金額仍取決於收購結果。",
           "divergent_views": null,
-          "primary_url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
-              "published_at": "2026-11-14T12:15:48+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_c5e72f0b30d0f8df_26",
-          "category": "business_market",
-          "title": "研究追蹤最長14年：代謝減重手術組第二型糖尿病緩解率達58%",
-          "original_title": "減重手術對第二型糖尿病療效最佳，14 年追蹤緩解率達六成",
-          "published_at": "2026-11-14T09:00:25+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 4.6,
-          "is_top_story": false,
-          "summary_bullets": [
-            "一項分析262名第二型糖尿病患者的研究顯示，代謝減重手術組的糖尿病緩解率為58%，密集藥物與生活型態管理組為3%。",
-            "研究追蹤時間中位數為11年；緩解定義為未使用降血糖藥物且糖化血色素低於6.5%。罹病時間、是否使用胰島素及治療首年體重變化是重要指標。",
-            "緩解後仍可能復發；研究結果可協助醫師評估手術對象及長期緩解機率。"
-          ],
-          "why_it_matters": "長期追蹤結果有助於評估代謝手術在第二型糖尿病治療中的角色，並改善患者篩選。",
-          "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/could-type-2-diabetes-be-reversed-14-year-study-reveals-remarkable-results/",
+          "primary_url": "https://finance.technews.tw/2026/11/15/pihc-stock-9/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/could-type-2-diabetes-be-reversed-14-year-study-reveals-remarkable-results/",
-              "published_at": "2026-11-14T09:00:25+00:00",
+              "url": "https://finance.technews.tw/2026/11/15/pihc-stock-9/",
+              "published_at": "2026-11-15T01:15:27+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_0cf92fdf8aae415e_49",
+          "cluster_id": "cluster_4ccd147da5fc14c3_2",
           "category": "business_market",
-          "title": "韋伯望遠鏡觀測130億年前原始星系LAP1-B，含氧量僅太陽的240分之一",
-          "original_title": "韋伯望遠鏡發現 130 億年前原始星系，含氧量僅太陽 1/240",
-          "published_at": "2026-11-14T08:00:17+00:00",
+          "title": "研究團隊運用 AI 分析海豚溝通模式，雙向對話仍有待驗證",
+          "original_title": "AI 能幫助解碼海豚如何溝通？學者坦言雙向對話仍遙遠",
+          "published_at": "2026-11-15T23:40:47+00:00",
           "freshness_status": "fresh",
           "importance_score": 4.6,
           "is_top_story": false,
           "summary_bullets": [
-            "金澤大學領軍的國際團隊利用韋伯太空望遠鏡觀測微小星系LAP1-B，發現其含氧量創紀錄低，研究於5月13日發表於《自然》期刊。",
-            "前景星系團的重力透鏡效應將LAP1-B的光放大約百倍，團隊再觀測超過30小時；其異常高的碳氧比與第一代恆星爆炸產物的理論預測相符。",
-            "LAP1-B的恆星總質量估計不到太陽的3,300倍，可能是銀河系周邊超暗矮星系的祖先，但仍需更多同類觀測驗證。"
+            "野生海豚計畫與喬治亞理工學院、Google DeepMind 合作，利用多年累積的海豚影音資料，透過 AI 尋找溝通模式，但尚無法完整翻譯海豚的聲音。",
+            "團隊以水下穿戴式電腦播放代表物品的特定聲音，觀察海豚反應；研究人員指出，區分模仿與真正理解仍是重大挑戰。"
           ],
-          "why_it_matters": "這項發現有助釐清早期星系的化學演化，以及它們與現今超暗矮星系的關聯。",
+          "why_it_matters": "AI 有助於分析大量動物溝通資料，但聲音模式的文化意義及跨物種對話能力仍需進一步驗證。",
           "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/james-webb-discovers-a-nearly-pristine-galaxy-from-the-dawn-of-the-universe/",
+          "primary_url": "https://technews.tw/2026/11/16/ais-next-trick-speaking-dolphin/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/james-webb-discovers-a-nearly-pristine-galaxy-from-the-dawn-of-the-universe/",
-              "published_at": "2026-11-14T08:00:17+00:00",
+              "url": "https://technews.tw/2026/11/16/ais-next-trick-speaking-dolphin/",
+              "published_at": "2026-11-15T23:40:47+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_2683f7b8b84bcb8d_42",
+          "cluster_id": "cluster_486bc5edbc19c64f_14",
           "category": "business_market",
-          "title": "醫師評估基因編輯治療慢性病潛力，示警永久改變與長期安全風險",
-          "original_title": "基因編輯有望終結「慢性病藥罐子」？專家示警：永久性介入恐藏不可逆風險",
-          "published_at": "2026-11-14T00:30:40+00:00",
+          "title": "科技主管指出 AI 組織重整易打擊士氣，呼籲企業重視溝通與人才培育",
+          "original_title": "AI 重整組織打擊員工士氣，科技主管點出導致轉型失敗最常見錯誤",
+          "published_at": "2026-11-15T06:00:46+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "《富比士》科技委員會邀集 18 位科技主管，探討企業推動 AI 組織重整時可能傷害員工士氣的常見錯誤。",
+            "受訪主管指出，要求員工自動化自己的工作、將裁員責任歸咎於 AI，以及對重整決策溝通不透明，都可能削弱員工信任。",
+            "主管們建議企業投入再培訓與人力重新配置，並讓初階員工審查、修正 AI 產出，以維持人才培育管道。"
+          ],
+          "why_it_matters": "企業導入 AI 的成效不僅取決於技術，也取決於員工信任及長期人才培育。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/15/what-tech-leaders-get-wrong-about-ai-restructuring-and-morale/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/15/what-tech-leaders-get-wrong-about-ai-restructuring-and-morale/",
+              "published_at": "2026-11-15T06:00:46+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_f50634d91843787e_66",
+          "category": "business_market",
+          "title": "研究發現糖尿病藥物 sotagliflozin 可抑制血小板活化與小鼠血栓形成",
+          "original_title": "糖尿病藥物 sotagliflozin 可抑制血栓形成，效果明顯勝過傳統 SGLT2 抑制劑",
+          "published_at": "2026-11-15T00:30:08+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "密西根大學醫學院研究發現，兼具 SGLT1 與 SGLT2 抑制作用的 sotagliflozin，可能透過抑制血小板活化減少血栓形成。",
+            "在血管受損的小鼠實驗中，sotagliflozin 使血栓形成減少約 60%，相較之下，主要抑制 SGLT2 的 empagliflozin 減少約 5% 至 10%；人體血液樣本實驗也顯示前者能降低血小板活化與凝集。",
+            "研究仍處於實驗室與動物階段，其血小板作用對人體心血管事件的影響及出血風險尚待臨床確認；部分研究作者與藥廠 Lexicon Pharmaceuticals 有顧問或研究經費關係。"
+          ],
+          "why_it_matters": "研究可能為藥物降低心血管風險提供機制線索，但能否擴大臨床應用仍須進一步驗證。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/scientists-say-this-medication-could-be-the-next-wonder-drug/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/scientists-say-this-medication-could-be-the-next-wonder-drug/",
+              "published_at": "2026-11-15T00:30:08+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_47ce7957ed2672ac_70",
+          "category": "business_market",
+          "title": "義大利研究：羊膜細胞胞外囊泡鼻噴劑在阿茲海默症動物模型中改善記憶",
+          "original_title": "阿茲海默症治療新突破，義大利研發「羊膜細胞鼻噴劑」有望逆轉記憶退化",
+          "published_at": "2026-11-15T09:00:16+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "義大利研究團隊發現，鼻腔給予羊膜細胞來源的胞外囊泡，可在阿茲海默症動物模型中預防記憶缺損，並改善已出現的認知衰退。",
+            "囊泡在動物實驗中抵達海馬迴，並顯示抑制神經發炎、保護突觸的作用；培養的人類神經元實驗也觀察到保護效果。",
+            "研究仍處於臨床前階段，尚須人體試驗驗證安全性與療效，目前不能作為可用的阿茲海默症療法。"
+          ],
+          "why_it_matters": "這項研究為透過調節神經發炎治療阿茲海默症提供潛在方向，但距離臨床應用仍有待驗證。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/nasal-spray-alzheimers-treatment-promise/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/nasal-spray-alzheimers-treatment-promise/",
+              "published_at": "2026-11-15T09:00:16+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_18f346f1e5bac1db_40",
+          "category": "business_market",
+          "title": "輝達董事會調查國安疑慮，報導回顧美方關注的人際情報網絡",
+          "original_title": "從方芳到黃樂，FBI 揭密中國間諜案：日常私交如何淪為情報破口",
+          "published_at": "2026-11-15T08:30:27+00:00",
           "freshness_status": "fresh",
           "importance_score": 4.3,
           "is_top_story": false,
           "summary_bullets": [
-            "研究團隊正初步測試單次基因治療能否持久降低低密度脂蛋白膽固醇，以預防心血管疾病。",
-            "密西根大學兩名心臟科醫師指出，體細胞基因編輯不會遺傳給下一代，但其永久性改變及延遲出現的副作用可能難以逆轉。",
-            "專家認為，若將療法擴大至大量慢性病患者，應審慎評估遞送風險、疾病嚴重程度與長期追蹤機制；在療效、安全性及成本獲得充分證明前，不宜草率列為常規治療。"
+            "文章稱，輝達執行長黃仁勳向員工坦承婚外情並致歉，董事會已調查近期報導涉及的國安疑慮。",
+            "據文章引述《紐約時報》，美方懷疑曾任新加坡雲端服務商高階主管的黃樂可能涉及中國情報活動；中國外交部否認相關指控，具體情況仍待釐清。",
+            "文章另回顧美國情報單位曾關注方芳透過社交活動與政治募款接近政治人物的案例，探討私人關係可能形成的情報風險。"
           ],
-          "why_it_matters": "基因編輯可能改變慢性病治療模式，但廣泛應用前仍須證明其長期安全性與效益。",
+          "why_it_matters": "此事凸顯掌握關鍵技術的企業高層可能面臨的人際情報風險，但相關指控尚未證實。",
           "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/potential-risks-challenges-gene-editing-medical-treatments/",
+          "primary_url": "https://infosecu.technews.tw/2026/11/15/fbi-reveals-how-personal-relationships-become-espionage-risks/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/potential-risks-challenges-gene-editing-medical-treatments/",
-              "published_at": "2026-11-14T00:30:40+00:00",
+              "url": "https://infosecu.technews.tw/2026/11/15/fbi-reveals-how-personal-relationships-become-espionage-risks/",
+              "published_at": "2026-11-15T08:30:27+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_725e6f067ec6bcba_37",
+          "cluster_id": "cluster_19452240a200bd66_49",
           "category": "business_market",
-          "title": "台夫特理工大學研發藻類驅動軟性機械手臂，利用光合作用抓取物體",
-          "original_title": "靠藻類呼吸與光合作用驅動，迷你機械手臂可抓球、放橡膠圈",
-          "published_at": "2026-11-14T05:00:25+00:00",
+          "title": "Nvidia 為自動駕駛產業供應車用處理器與模型訓練晶片",
+          "original_title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
+          "published_at": "2026-11-15T17:05:00+00:00",
           "freshness_status": "fresh",
-          "importance_score": 4.2,
+          "importance_score": 4.3,
           "is_top_story": false,
           "summary_bullets": [
-            "荷蘭台夫特理工大學研究團隊展示藻類驅動的微型軟性機械手臂，並製作出能抓起空心球體及放置橡膠圈的夾具。",
-            "裝置長約 1.9 公分，利用藻類光合作用與呼吸作用引起的酸鹼值變化，使水凝膠膨脹或收縮，帶動手臂彎曲；明顯動作仍需數小時。",
-            "研究團隊認為，技術未來可能應用於自動化農業、實驗室晶片流體控制及水下機器人，但目前仍屬原型展示。"
+            "TechCrunch 文章指出，Nvidia 是自動駕駛產業的重要 AI 運算技術供應商，但各家公司對其技術的依賴程度不一。",
+            "部分業者使用 Nvidia 車用處理器執行自動駕駛軟體，另有業者使用其 GPU 訓練模型；摘錄內容未交代標題所稱中國業者備援方案的細節。"
           ],
-          "why_it_matters": "這項研究展示以光源驅動生物軟性機器人的可能性，但緩慢的反應速度仍是實際應用限制。",
+          "why_it_matters": "自動駕駛業者對運算晶片的依賴，凸顯硬體供應選擇對產業發展的重要性。",
           "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/these-robotic-arms-are-powered-by-algae/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/these-robotic-arms-are-powered-by-algae/",
-              "published_at": "2026-11-14T05:00:25+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_17a2ae11f3f86797_40",
-          "category": "business_market",
-          "title": "AI 協助長壽研究分析血液與基因資料，尋找老化與存活率線索",
-          "original_title": "AI 加速長壽研究，科學家從血液與基因中找出延緩老化的線索",
-          "published_at": "2026-11-14T07:00:51+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 4.2,
-          "is_top_story": false,
-          "summary_bullets": [
-            "研究人員運用 AI 分析基因表現、表觀基因體與血液資料，尋找與老化及疾病風險相關的分子訊號。",
-            "杜克健康團隊分析超過 1,200 份血液樣本，發現部分 piRNA 分子可預測高齡者是否能再存活至少兩年。",
-            "AI 也被用於尋找潛在抗老化介入方式，但相關成果仍以研究和動物實驗為主。"
-          ],
-          "why_it_matters": "AI 可能加速辨識老化生物標記與治療標的，但能否延長人類健康壽命仍有待驗證。",
-          "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/ai-could-help-us-live-much-longer/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/ai-could-help-us-live-much-longer/",
-              "published_at": "2026-11-14T07:00:51+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_ad89334e2ddfd0dd_11",
-          "category": "business_market",
-          "title": "南非西開普葡萄園因應乾旱與高溫，研究調查永續土地管理",
-          "original_title": "Winemakers are learning that conservation can be good for business",
-          "published_at": "2026-11-14T12:05:51+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 3.8,
-          "is_top_story": false,
-          "summary_bullets": [
-            "南非西開普省生產全國約九成葡萄酒，當地葡萄園正面臨乾旱、高溫及降雨不規律等壓力；2010 年代後期連續三年嚴重乾旱也造成葡萄減產。",
-            "研究人員訪談種植者、保育人員及產業專家，並分析 107 座葡萄園如何運用永續土地管理措施因應環境與經濟壓力。"
-          ],
-          "why_it_matters": "氣候變遷正增加葡萄種植風險，土地保育措施可能成為產區調適的重要方向。",
-          "divergent_views": null,
-          "primary_url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "Ars Technica",
-              "url": "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
-              "published_at": "2026-11-14T12:05:51+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_3bcbfb976e04cbd2_34",
-          "category": "business_market",
-          "title": "模擬研究：無生命地球可能靠地質循環維持數十億年宜居環境",
-          "original_title": "就算從未誕生生命，地球仍能靠地質循環維持數十億年宜居環境",
-          "published_at": "2026-11-14T16:00:34+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 3.6,
-          "is_top_story": false,
-          "summary_bullets": [
-            "華盛頓大學研究團隊以電腦模型模擬從未出現生命的地球，結果顯示其仍可能長期維持適合液態水存在的環境。",
-            "模型納入地核、地函、大氣、海洋及太陽輻射等19項物理變數，模擬地球自約45億年前形成至未來5億年的演化；碳酸鹽—矽酸鹽循環可調節大氣二氧化碳與地表溫度。",
-            "研究可為分析系外行星大氣提供無生命宜居環境的對照，但結論仍取決於模型假設。"
-          ],
-          "why_it_matters": "研究顯示行星宜居不一定代表存在生命，有助於科學家更審慎地解讀系外行星觀測結果。",
-          "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/15/scientists-simulated-what-earth-would-be-like-if-life-never-existed/",
-          "primary_content_quality": "extracted",
-          "sources": [
-            {
-              "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/15/scientists-simulated-what-earth-would-be-like-if-life-never-existed/",
-              "published_at": "2026-11-14T16:00:34+00:00",
-              "content_quality": "extracted"
-            }
-          ]
-        },
-        {
-          "cluster_id": "cluster_38336ccd3814433a_13",
-          "category": "business_market",
-          "title": "TechCrunch 分享 iPhone Duo 折疊手機設定建議，著重 Touch ID 操作",
-          "original_title": "Got an iPhone Duo? These 9 settings make it easier to use",
-          "published_at": "2026-11-14T18:00:00+00:00",
-          "freshness_status": "fresh",
-          "importance_score": 3.2,
-          "is_top_story": false,
-          "summary_bullets": [
-            "TechCrunch 報導，Apple 折疊手機 iPhone Duo 可透過調整設定改善解鎖、介面操作與拍照體驗。",
-            "文章指出，iPhone Duo 不支援 Face ID，使用者須以機身側邊的 Touch ID 進行解鎖、應用程式認證與 Apple Pay；建議依不同握持方向登錄多組指紋。",
-            "文章稱該裝置需求旺盛、供應不足，但未提供銷售或庫存數據。"
-          ],
-          "why_it_matters": "折疊手機的多方向使用情境，使生物辨識與操作介面設計成為影響使用體驗的重要因素。",
-          "divergent_views": null,
-          "primary_url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+          "primary_url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "TechCrunch",
-              "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
-              "published_at": "2026-11-14T18:00:00+00:00",
+              "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+              "published_at": "2026-11-15T17:05:00+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_c42b23daa494e6cb_23",
+          "cluster_id": "cluster_bcdfcbeee5b2f3ca_59",
           "category": "business_market",
-          "title": "東京千代田區在秋葉原設置22個智慧垃圾桶，利用太陽能壓縮垃圾",
-          "original_title": "日本秋葉原設智慧垃圾桶，可自動壓縮垃圾體積縮防爆滿",
-          "published_at": "2026-11-14T05:30:29+00:00",
+          "title": "研究發現遠古病毒序列沉默黑猩猩腦發育相關基因，揭示人猿基因調控差異",
+          "original_title": "遠古病毒「關閉」黑猩猩關鍵基因，意外成就人類複雜大腦",
+          "published_at": "2026-11-15T07:00:46+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "隆德大學研究指出，遠古病毒 PTERV1 留在黑猩猩基因組中的序列，與腦部發育相關基因 LINC00662 的沉默有關；該基因在人類大腦類器官中則持續活躍。",
+            "研究團隊以 CRISPR-Cas9 移除黑猩猩細胞中的病毒序列後，基因恢復活性；在人類類器官中沉默該基因，則使部分神經發育與細胞連結相關基因的活躍度下降。",
+            "研究結果刊登於《Science Advances》，有助於理解人猿大腦的基因調控差異，但實驗僅在細胞與類器官層級進行，尚未在活體驗證。"
+          ],
+          "why_it_matters": "這項研究為遠古病毒如何影響靈長類基因調控提供證據，但其對人類大腦演化及疾病的影響仍待進一步研究。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/ancient-viruses-evolution-human-brain/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/ancient-viruses-evolution-human-brain/",
+              "published_at": "2026-11-15T07:00:46+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_ad07b7f5eeffb9f8_12",
+          "category": "business_market",
+          "title": "AI 財務應用重視例外處理，以降低少見錯誤造成的營運風險",
+          "original_title": "準確率再高也不夠，AI 財務應用的關鍵在「例外處理」",
+          "published_at": "2026-11-15T01:30:31+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "文章指出，AI 即使整體準確率高，仍可能在發票、付款、對帳或交易監控等少數異常情境中出錯，並造成財務影響。",
+            "建議企業建立分層異常處理、人工覆核、責任歸屬與處理時限，並保留完整稽核軌跡。",
+            "在金融及其他受監管產業，系統應能辨識資料缺漏、信心不足或跨系統整合失敗，並視情況交由人工審核或升級處置。"
+          ],
+          "why_it_matters": "財務 AI 的部署成效不只取決於平均準確率，也取決於企業能否及時辨識並控制例外風險。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/15/why-exception-handling-is-the-new-finance-discipline/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/15/why-exception-handling-is-the-new-finance-discipline/",
+              "published_at": "2026-11-15T01:30:31+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_a893f301c71ebf9e_41",
+          "category": "business_market",
+          "title": "天文學家在鄰近星系發現早期 Ia 型超新星 SN 2026ahvu",
+          "original_title": "科學家捕捉到早期 Ia 型超新星，助解開白矮星引爆機制之謎",
+          "published_at": "2026-11-15T08:16:14+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "ATLAS 於 2026 年 11 月 2 日發現 SN 2026ahvu，光譜分析確認其為年輕的 Ia 型超新星，位於距地球約 5,000 萬光年的星系 NGC 1433。",
+            "這顆超新星在亮度達峰值前被發現，早期觀測有望尋找爆炸與伴星或周遭物質交互作用的證據，協助區分白矮星吸積物質與雙白矮星合併等引爆模型。",
+            "布蘭科望遠鏡暗能量相機的爆炸前影像與南雙子望遠鏡影像，可供研究宿主星系環境，並有助評估 Ia 型超新星作為宇宙距離「標準燭光」的準確性。"
+          ],
+          "why_it_matters": "及早觀測鄰近的 Ia 型超新星，有助釐清其引爆機制，並可能改善宇宙距離與膨脹速率的測量。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/type-ia-supernova-ngc-1433-galaxy-sn-2026ahvu/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/type-ia-supernova-ngc-1433-galaxy-sn-2026ahvu/",
+              "published_at": "2026-11-15T08:16:14+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_dbaf6269e351c258_56",
+          "category": "business_market",
+          "title": "物理學家提出理論：光與聲子交互作用限制材料的完全透明",
+          "original_title": "材料透明度永遠無法達到 100%，物理學家：量子過程設下極限",
+          "published_at": "2026-11-15T04:25:20+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.7,
+          "is_top_story": false,
+          "summary_bullets": [
+            "物理學家提出理論研究，指出光穿過會折射光線的介質時，無法達到百分之百的能量穿透率。",
+            "研究以超流體氦為例，推論光子會將部分能量轉移給聲子；在理想條件下，光須傳播約地球直徑的距離，損耗才會明顯可見。",
+            "研究為光學材料與通訊系統的設計提供理論參考，但文章未提及實際商業應用或市場影響。"
+          ],
+          "why_it_matters": "這項理論指出材料透明度可能存在量子物理極限，有助於界定未來光學工程可達成的性能。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/light-transparent-material/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/light-transparent-material/",
+              "published_at": "2026-11-15T04:25:20+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_6c7c8dca448a173c_50",
+          "category": "business_market",
+          "title": "Flaming Hydra 發起 Kickstarter 募資，推動圖書館電子書服務與數位出版計畫",
+          "original_title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
+          "published_at": "2026-11-15T18:29:14+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "線上雜誌 Flaming Hydra 為「The Phoenix Project」發起募資，計畫推出一次性印刷雜誌、圖書館電子書服務及電子報訂閱與典藏方案。",
+            "主編 Maria Bustillos 表示，計畫希望擴大資訊取得，同時保障創作者生計；她也提及作者作品遭 AI 仿製後在 Amazon 上販售的問題。",
+            "該計畫試圖探索數位出版與圖書館借閱的新模式，但文章未提供服務機制或募資金額等細節。"
+          ],
+          "why_it_matters": "這項計畫反映數位出版業正探索兼顧資訊流通、創作者收入與 AI 仿製風險的替代模式。",
+          "divergent_views": null,
+          "primary_url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+              "published_at": "2026-11-15T18:29:14+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_ac17356a8b476f6f_67",
+          "category": "business_market",
+          "title": "BBC 揭露大規模停電應急廣播計畫，英政府籲家庭儲備三日糧水",
+          "original_title": "BBC「黑天計畫」揭密，英政府籲全民儲備 3 日救命糧水",
+          "published_at": "2026-11-15T05:30:35+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "BBC 披露「Black Sky」計畫，準備在大規模停電及網路中斷時，透過 FM 電台發布政府應急訊息與現場消息。",
+            "計畫涉及約 100 名人員、獨立通訊線路及柴油備援發電，應急廣播室可在無外界補給下運作至少三日。",
+            "英國政府「Be Ready」計畫建議家庭儲備三日糧水；政府強調，宣導並非針對特定或迫在眉睫的威脅。"
+          ],
+          "why_it_matters": "此計畫凸顯電力與網路中斷時，備援廣播及家庭物資準備對公共應變的重要性。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/bbc-black-swan-plan-major-power-outage-secret-underground-broadcast-3-days-no-supplies/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/bbc-black-swan-plan-major-power-outage-secret-underground-broadcast-3-days-no-supplies/",
+              "published_at": "2026-11-15T05:30:35+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_2d18a0a18bd673ac_63",
+          "category": "business_market",
+          "title": "研究發現馬達加斯加狐蝠體型數十年間縮小，捕獵影響尚待確認",
+          "original_title": "馬達加斯加「狐蝠」的體型愈來愈小，可能與人類捕獵有關",
+          "published_at": "2026-11-15T07:30:13+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "研究人員比較九間博物館收藏的 121 件狐蝠標本，發現 1980 年以前採集的個體，頭骨平均比後來的個體長 3.6 毫米，約大 6%。",
+            "研究團隊推測商業化捕獵可能偏向體型較大的狐蝠，但目前只能確認兩者發生時間相近，無法確立因果關係。",
+            "馬達加斯加狐蝠族群如今可能較 2000 年代初期減少約三分之二，其減少可能影響森林植物的種子傳播。"
+          ],
+          "why_it_matters": "狐蝠體型與族群的變化可能反映人類活動對野生動物及森林生態的長期影響。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/pteropus-rufus-skull-shrinkage-may-be-linked-to-human-hunting/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/pteropus-rufus-skull-shrinkage-may-be-linked-to-human-hunting/",
+              "published_at": "2026-11-15T07:30:13+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_d2d5a98c7b466b6c_65",
+          "category": "business_market",
+          "title": "研究：2020 年疫情封鎖期間，人類活動減少與全球平均火災活動下降相關",
+          "original_title": "How the world’s fires changed while humanity hit pause",
+          "published_at": "2026-11-15T12:07:34+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "中國科學院研究團隊比較疫情期間與其他年份的資料，發現 2020 年封鎖期間人類活動減少，整體上伴隨平均火災活動下降。",
+            "研究指出，火災型態同時受人類活動與天氣等自然因素影響，難以單獨衡量人類的作用。"
+          ],
+          "why_it_matters": "研究有助釐清人類活動對火災的淨影響，為未來火災預防與管理提供參考。",
+          "divergent_views": null,
+          "primary_url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+              "published_at": "2026-11-15T12:07:34+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_033ba132a75fa03d_0",
+          "category": "business_market",
+          "title": "英國創業者自學開發打呼監測 App，後續以聲波技術推出 Sleepwave",
+          "original_title": "為向妻子證明自己沒打呼，英國創業家自學寫程式打造熱門睡眠 App",
+          "published_at": "2026-11-15T02:30:36+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "英國創業者 Jules Goldberg 因妻子抱怨他的鼾聲，自學程式並開發 SnoreLab，讓使用者錄下鼾聲、量測強度及追蹤變化。",
+            "Goldberg 後續推出 Sleepwave，利用手機喇叭發出高頻聲波，再以麥克風接收反射訊號偵測身體動作，無須穿戴裝置。",
+            "公司未引進外部投資人，後續研發由 SnoreLab 營收支應；SnoreLab 是健康管理工具，不能取代醫療檢測或睡眠呼吸中止症診斷。"
+          ],
+          "why_it_matters": "此案例顯示行動裝置可透過軟體與聲波技術提供非穿戴式睡眠監測，但相關功能仍不能取代醫療診斷。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/the-snoring-problem-that-launched-a-tech-company-how-one-entrepreneur-is-reinventing-sleep/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/the-snoring-problem-that-launched-a-tech-company-how-one-entrepreneur-is-reinventing-sleep/",
+              "published_at": "2026-11-15T02:30:36+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_3e5b6b73ecc49362_5",
+          "category": "business_market",
+          "title": "技嘉 AORUS C510 GLASS INFINITY 機殼獲 2027 CES 創新獎",
+          "original_title": "技嘉 AORUS C510 GLASS INFINITY 機殼榮獲 2027 CES 創新獎",
+          "published_at": "2026-11-15T06:00:57+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "技嘉宣布，AORUS C510 GLASS INFINITY 桌上型電腦機殼獲得 2027 CES 創新獎，並將於 CES 展出。",
+            "該機殼採用 micro-ATX 規格，整合可拆卸的 16 吋高更新率顯示器，並提供多方向擺放、通風散熱及零組件升級空間。"
+          ],
+          "why_it_matters": "這款產品展示桌上型電腦機殼與顯示器整合的設計方向，但其市場影響仍有待觀察。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/15/gigabyte-aorus-c510-glass-infinity-case-wins-2027-ces-innovation-award/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/15/gigabyte-aorus-c510-glass-infinity-case-wins-2027-ces-innovation-award/",
+              "published_at": "2026-11-15T06:00:57+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_5af2ba9d7b29f569_28",
+          "category": "business_market",
+          "title": "義大利細胞實驗發現多花蜂蜜可能減緩紫外線造成的皮膚細胞壓力，人體效果仍待驗證",
+          "original_title": "蜂蜜具護膚潛力？細胞實驗找到初步證據，人體效果待驗證",
+          "published_at": "2026-11-15T09:45:51+00:00",
           "freshness_status": "fresh",
           "importance_score": 2.8,
           "is_top_story": false,
           "summary_bullets": [
-            "千代田區於11月8日在秋葉原10處地點啟用22個智慧垃圾桶，以因應遊客增加及街頭垃圾問題。",
-            "其中10個一般垃圾桶可利用太陽能自動壓縮垃圾，將體積減至約五分之一；另12個為瓶罐等資源回收桶，系統可透過雲端回報容量。",
-            "區政府先前編列約7,438萬日圓年度預算，並使用東京都補助；實際費用及清運成效尚待確認。"
+            "義大利薩薩里大學團隊的初步細胞實驗顯示，多花蜂蜜預處理可能幫助皮膚細胞維持較穩定的紫外線應激反應。",
+            "研究在流動式生物反應器中培養多種人類皮膚細胞，部分細胞以 1% 多花蜂蜜預處理 48 小時；結果顯示部分抗氧化及壓力保護相關指標改善。",
+            "研究尚未進行人體實驗，蜂蜜不能取代防曬霜；未來應用仍須驗證效果並解決活性成分標準化問題。"
           ],
-          "why_it_matters": "智慧垃圾桶可望協助熱門觀光區改善垃圾溢出與清運調度，但實際效益仍須觀察。",
+          "why_it_matters": "研究提供蜂蜜可能具皮膚保護作用的細胞層級初步證據，但距離臨床應用仍有多項驗證與標準化挑戰。",
           "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/akihabara-deploys-smart-bins-that-automatically-compress-waste/",
+          "primary_url": "https://technews.tw/2026/11/15/honey-skin-stem-cell-skin/",
           "primary_content_quality": "extracted",
           "sources": [
             {
               "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/akihabara-deploys-smart-bins-that-automatically-compress-waste/",
-              "published_at": "2026-11-14T05:30:29+00:00",
+              "url": "https://technews.tw/2026/11/15/honey-skin-stem-cell-skin/",
+              "published_at": "2026-11-15T09:45:51+00:00",
               "content_quality": "extracted"
             }
           ]
         },
         {
-          "cluster_id": "cluster_525244bd05c02a58_3",
+          "cluster_id": "cluster_848184dbe15cbc5a_7",
           "category": "business_market",
-          "title": "調查1305隻貓發現素食貓糧組過重比例較低，但差異未達統計顯著",
-          "original_title": "吃素的貓咪比較不容易過胖？大型調查發現值得進一步研究的現象",
-          "published_at": "2026-11-14T07:30:40+00:00",
+          "title": "TechCrunch 推薦節日科技禮物，涵蓋平價口袋型電子閱讀器",
+          "original_title": "The tech products we enthusiastically recommend this holiday season",
+          "published_at": "2026-11-15T16:00:00+00:00",
           "freshness_status": "fresh",
           "importance_score": 2.1,
           "is_top_story": false,
           "summary_bullets": [
-            "澳洲格里菲斯大學研究團隊調查1305隻連續至少一年食用同類飼料的貓，約九成吃傳統肉類貓糧、一成吃素食貓糧。",
-            "素食貓糧組過重情形呈較低趨勢，但組間差異未達統計顯著，無法確認飲食類型與體重的關聯或因果關係。",
-            "研究未直接分析飼料成分或測量實際熱量攝取；飼主若考慮素食貓糧，應確保營養完整並與獸醫討論。"
+            "TechCrunch 整理編輯今年評測後推薦的科技產品，作為節日購物參考。",
+            "推薦產品包括特價 55 美元的 Xteink X3 電子閱讀器，但該機不整合 Kindle 或 Libby 等應用程式；售價 99 美元的 X4 Pro 則具備背光。"
           ],
-          "why_it_matters": "這項調查提出值得進一步研究的現象，但目前不足以證明素食貓糧有助於控制貓咪體重。",
+          "why_it_matters": "這份清單可為消費者選購電子閱讀器等科技禮物提供參考。",
           "divergent_views": null,
-          "primary_url": "https://technews.tw/2026/11/14/can-vegan-cat-food-really-help-prevent-obesity/",
+          "primary_url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
           "primary_content_quality": "extracted",
           "sources": [
             {
-              "name": "科技新報 TechNews",
-              "url": "https://technews.tw/2026/11/14/can-vegan-cat-food-really-help-prevent-obesity/",
-              "published_at": "2026-11-14T07:30:40+00:00",
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+              "published_at": "2026-11-15T16:00:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_edf7ea0e548a829c_29",
+          "category": "business_market",
+          "title": "《週六夜現場》短劇模仿科技巨頭，諷刺戀愛與間諜風險",
+          "original_title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+          "published_at": "2026-11-15T20:20:57+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 1.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "《週六夜現場》短劇由演員模仿多名科技界領袖，透過虛構的中情局探員提醒他們留意感情詐騙與間諜風險。",
+            "文章聲稱輝達執行長黃仁勳因涉及疑似中國間諜的婚外情而遭解職，但未提供可供核實的證據，不能視為已確認事實。"
+          ],
+          "why_it_matters": "這則報導主要反映娛樂節目對科技名人的諷刺，文中涉及企業人事的重大指控仍需獨立查證。",
+          "divergent_views": null,
+          "primary_url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+              "published_at": "2026-11-15T20:20:57+00:00",
               "content_quality": "extracted"
             }
           ]
@@ -1661,60 +2119,88 @@
       "id": "security",
       "label": "資安",
       "icon": "shield",
-      "items": []
+      "items": [
+        {
+          "cluster_id": "cluster_f6d6008317e29d3b_8",
+          "category": "security",
+          "title": "開發者利用憑證下載漏洞，讓 Coway 空氣清淨機脫離雲端並在本地控制",
+          "original_title": "Dev hacks Coway air purifier to cut it off from the cloud",
+          "published_at": "2026-11-15T12:30:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "開發者 Scott J. Goldman 修改 Coway Airmega IconS 空氣清淨機的連線方式，以 Home Assistant 伺服器取代原廠雲端控制。",
+            "該方法利用裝置透過未加密 HTTP 下載根憑證的安全漏洞，讓本地伺服器得以接替 Coway 雲端的功能。",
+            "IconS 沒有官方 Home Assistant 支援，原先仰賴社群整合連接 IoCare 雲端，整合服務每年至少中斷一兩次；此案例凸顯智慧家電對雲端服務的依賴與安全風險。"
+          ],
+          "why_it_matters": "此案例顯示智慧家電的雲端依賴可能影響長期可用性，而不安全的憑證下載機制也可能帶來資安風險。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/tech-industry/cyber-security/dev-hacks-coway-air-purifier-to-cut-it-off-from-the-cloud-now-runs-locally-in-home-assistant-fan-downloads-the-certificate-over-plain-http-letting-a-home-server-stand-in-for-coways",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/cyber-security/dev-hacks-coway-air-purifier-to-cut-it-off-from-the-cloud-now-runs-locally-in-home-assistant-fan-downloads-the-certificate-over-plain-http-letting-a-home-server-stand-in-for-coways",
+              "published_at": "2026-11-15T12:30:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        }
+      ]
     }
   ],
   "deep_reads": [
     {
-      "id": "cc23fccd846fd326",
-      "title": "【資安週報】1109～1113，Cyberbiz事件擴大、多家上市櫃公司接連公告，資安救火人力不足恐浮現",
-      "source_name": "iThome",
-      "url": "https://www.ithome.com.tw/news/180500",
-      "published_at": "2026-11-13T06:11:02+00:00",
-      "char_count": 22247,
+      "id": "2e8f421d2ee2a3df",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "source_name": "OpenAI News",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "published_at": "2026-11-15T22:00:01+00:00",
+      "char_count": 15942,
       "content_quality": "extracted",
-      "why_read": "聚焦於 software_cloud 領域長篇深析，回顧2026年11月第二週的資安動態，委外服務業者的資安風暴延燒並占據大量新聞版面。放眼世界各國，日本郵件服務商Arara遭駭，逾8,100萬筆資訊可能外洩，影響超過380家企業客戶，包括摩斯漢堡、BIC Camera及SEGA等知名業者；。"
+      "why_read": "聚焦於 ai_research 領域長篇深析，Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea in。"
     },
     {
-      "id": "15ab759419cfdf54",
-      "title": "Chip Industry Week In Review",
-      "source_name": "Semiconductor Engineering",
-      "url": "https://semiengineering.com/chip-industry-week-in-review-164/",
-      "published_at": "2026-11-13T08:01:34+00:00",
-      "char_count": 15643,
-      "content_quality": "extracted",
-      "why_read": "聚焦於 semiconductor_hardware 領域長篇深析，Nvidia faces questions about security and oversight; 300mm SiC breakthrough; Siemens buys Lauterbach; chiplet standards;。"
-    },
-    {
-      "id": "1dcca899a4f1e514",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "id": "238432e278b3a037",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
       "source_name": "TechCrunch",
-      "url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "published_at": "2026-11-13T15:58:00+00:00",
-      "char_count": 13139,
+      "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "published_at": "2026-11-14T17:30:00+00:00",
+      "char_count": 9420,
       "content_quality": "extracted",
-      "why_read": "聚焦於 business_market 領域長篇深析，Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U。"
+      "why_read": "聚焦於 business_market 領域長篇深析，From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut。"
     },
     {
-      "id": "cdc8eef67bc55a0d",
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "source_name": "Hugging Face Blog",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "published_at": "2026-11-13T18:00:39+00:00",
-      "char_count": 10345,
+      "id": "8dac1c0e33dbad46",
+      "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+      "source_name": "Ars Technica",
+      "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+      "published_at": "2026-11-15T23:11:54+00:00",
+      "char_count": 10248,
       "content_quality": "extracted",
-      "why_read": "來自 Hugging Face Blog 的長篇深度評析（約 10345 字）。"
+      "why_read": "聚焦於 software_cloud 領域長篇深析，This was the first total mission failure in United Launch Alliance's 20-year history.。"
+    },
+    {
+      "id": "09056c3cd4aa98fc",
+      "title": "Got an iPhone Duo? These 9 settings make it easier to use",
+      "source_name": "TechCrunch",
+      "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "published_at": "2026-11-14T18:00:00+00:00",
+      "char_count": 9098,
+      "content_quality": "extracted",
+      "why_read": "聚焦於 business_market 領域長篇深析，From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to。"
     }
   ],
   "quality": {
-    "source_count": 8,
+    "source_count": 9,
     "duplicate_candidates": 0,
     "stale_candidates": 0,
-    "total_articles": 236,
-    "total_topics": 56,
+    "total_articles": 127,
+    "total_topics": 74,
     "quality_breakdown": {
       "full_feed": 0,
-      "extracted": 56,
+      "extracted": 75,
       "summary_only": 0,
       "metadata_only": 0
     }
