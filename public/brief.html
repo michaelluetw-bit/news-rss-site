@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>早晨總結｜科技日報、科技晚報與台股雷達</title>
+  <meta name="description" content="每天早上把科技日報、昨晚的科技晚報與台股雷達早報合併成一份重點，每點都附原始報導來源。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+  <script>
+    (function () {
+      var saved = null;
+      try { saved = localStorage.getItem('tech_digest_theme'); } catch (e) {}
+      var dark = saved ? saved === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+      document.documentElement.classList.add(dark ? 'dark' : 'light');
+    })();
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到主要內容</a>
+  <div class="site-wrapper">
+    <header class="site-topbar">
+      <div class="topbar-container">
+        <a class="wordmark" href="./about.html">宏哥的新聞整理</a>
+        <nav class="site-nav" aria-label="刊物">
+          <a class="site-nav-link" href="./brief.html" aria-current="page">早晨總結</a>
+          <a class="site-nav-link" href="./">科技日報</a>
+          <a class="site-nav-link" href="https://tw-radar-site.pages.dev/">台股雷達</a>
+          <a class="site-nav-link" href="./about.html">介紹</a>
+        </nav>
+        <button id="theme-toggle" class="control-btn" type="button" aria-label="切換亮色或暗色">
+          <svg class="theme-icon light-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4.5"></circle><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path></svg>
+          <svg class="theme-icon dark-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+        </button>
+      </div>
+    </header>
+
+    <main id="main" class="brief-main">
+      <section class="brief-head" aria-labelledby="brief-title">
+        <p class="about-eyebrow"><span id="brief-date">載入中</span>｜科技日報＋科技晚報＋台股雷達早報</p>
+        <h1 id="brief-title" class="brief-title">早晨總結</h1>
+        <p id="brief-lead" class="brief-lead">正在載入今天的總結…</p>
+        <p id="brief-notes" class="brief-notes" hidden></p>
+      </section>
+
+      <ol id="brief-points" class="brief-points" aria-label="今天的重點"></ol>
+
+      <section class="brief-editions" aria-labelledby="editions-title">
+        <h2 id="editions-title" class="brief-h2">讀完整刊物</h2>
+        <ul id="brief-editions" class="brief-edition-list"></ul>
+      </section>
+
+      <p id="brief-meta" class="brief-meta"></p>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-container">
+        <p class="footer-copy">早晨總結由 news-rss 每天自動整理，摘要以原始報導為準；台股內容不構成投資建議</p>
+        <a href="#main">回到頁首</a>
+      </div>
+    </footer>
+  </div>
+
+  <script src="./brief.js"></script>
+</body>
+</html>
