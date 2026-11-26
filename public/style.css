@@ -557,7 +557,7 @@ kbd {
 }
 .about-hero-text { flex: 3 1 480px; display: flex; flex-direction: column; gap: var(--space-6); }
 .about-eyebrow { margin: 0; font-size: 14px; line-height: 20px; font-weight: 600; color: var(--accent-text); }
-.about-title { margin: 0; font-size: 48px; line-height: 64px; font-weight: 700; max-width: 14em; }
+.about-title { margin: 0; font-size: 48px; line-height: 64px; font-weight: 700; max-width: 14em; text-wrap: balance; }
 .about-lead { margin: 0; font-size: 18px; line-height: 32px; color: var(--ink-muted); max-width: 32em; }
 .about-actions { display: flex; flex-wrap: wrap; gap: var(--space-3); }
 
@@ -576,9 +576,8 @@ kbd {
 .about-sample {
   background: var(--surface-200); border: 1px solid var(--line); border-radius: var(--radius-lg);
   padding: var(--space-6); display: flex; flex-direction: column; gap: var(--space-3);
+  box-shadow: var(--shadow-soft);
 }
-.about-sample:first-child { box-shadow: var(--shadow-soft); }
-.about-sample + .about-sample { margin-left: var(--space-8); }
 .about-sample-caption { margin: 0; font-size: 13px; line-height: 20px; color: var(--ink-muted); }
 .about-sample-title { margin: 0; font-size: 20px; line-height: 32px; font-weight: 600; }
 .about-sample-why {
@@ -591,7 +590,7 @@ kbd {
 .about-wrap { max-width: 1200px; margin: 0 auto; padding: 0 var(--space-6); }
 .about-band { background: var(--surface-200); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
 
-.about-section { padding: 64px 0; display: flex; flex-direction: column; gap: var(--space-8); }
+.about-section { padding-block: 64px; display: flex; flex-direction: column; gap: var(--space-8); }
 .about-h2 { margin: 0; font-size: 32px; line-height: 44px; font-weight: 700; }
 .about-section-lead { margin: var(--space-2) 0 0; color: var(--ink-muted); max-width: 36em; }
 
@@ -658,7 +657,6 @@ kbd {
   .footer-container { padding: var(--space-4); flex-direction: column; }
   .about-title { font-size: 32px; line-height: 44px; }
   .about-h2 { font-size: 24px; line-height: 36px; }
-  .about-sample + .about-sample { margin-left: 0; }
   .about-btn { width: 100%; }
   .about-hero { padding: var(--space-8) 0 var(--space-12); gap: var(--space-8); }
   .about-wrap { padding: 0 var(--space-4); }
