@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>介紹｜科技日報、科技晚報與台股雷達</title>
+  <meta name="description" content="每天的科技與台股新聞，整理成一份讀得完的重點：合併重複報導、寫成中文摘要、說明為什麼重要，每則都附原始來源。">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./style.css">
+  <script>
+    (function () {
+      var saved = null;
+      try { saved = localStorage.getItem('tech_digest_theme'); } catch (e) {}
+      var dark = saved ? saved === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+      document.documentElement.classList.add(dark ? 'dark' : 'light');
+    })();
+  </script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到主要內容</a>
+  <div class="site-wrapper">
+    <header class="site-topbar">
+      <div class="topbar-container">
+        <a class="wordmark" href="./about.html">宏哥的新聞整理</a>
+        <nav class="site-nav" aria-label="刊物">
+          <a class="site-nav-link" href="./">科技日報</a>
+          <a class="site-nav-link" href="https://tw-radar-site.pages.dev/">台股雷達</a>
+          <a class="site-nav-link" href="./about.html" aria-current="page">介紹</a>
+        </nav>
+        <button id="theme-toggle" class="control-btn" type="button" aria-label="切換亮色或暗色">
+          <svg class="theme-icon light-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4.5"></circle><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path></svg>
+          <svg class="theme-icon dark-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+        </button>
+      </div>
+    </header>
+
+    <main id="main" class="about-main">
+      <div class="about-wrap">
+        <section class="about-hero" aria-labelledby="about-title">
+          <div class="about-hero-text">
+            <p class="about-eyebrow">科技日報｜科技晚報｜台股雷達</p>
+            <h1 id="about-title" class="about-title">每天的科技與台股新聞，整理成一份讀得完的重點</h1>
+            <p class="about-lead">系統每天從各家新聞網站收集文章，合併重複報導，寫成中文摘要，再告訴你每件事為什麼重要。每一則都附原始來源，可以點回去查證。</p>
+            <div class="about-actions">
+              <a class="about-btn about-btn-primary" href="./">閱讀今天的科技日報</a>
+              <a class="about-btn about-btn-secondary" href="https://tw-radar-site.pages.dev/">查看台股雷達</a>
+            </div>
+          </div>
+          <div class="about-hero-side" aria-label="每一則重點包含的內容">
+            <div class="about-sample">
+              <p class="about-sample-caption">科技日報的一則主題</p>
+              <p class="about-sample-title">中文標題與 3 到 5 句重點摘要</p>
+              <p class="about-sample-why"><strong>為什麼重要：</strong>用一句話說明這件事對產業的影響。</p>
+            </div>
+            <div class="about-sample">
+              <p class="about-sample-caption">台股雷達的一則消息</p>
+              <p class="about-sample-title">發生什麼事，以及為什麼值得留意</p>
+              <p class="about-sample-caption">附上每個來源的報導時間，依時間排列</p>
+            </div>
+          </div>
+        </section>
+      </div>
+
+      <section class="about-band" aria-labelledby="pubs-title">
+        <div class="about-wrap about-section">
+          <h2 id="pubs-title" class="about-h2">三份刊物</h2>
+          <div class="about-pubs">
+            <a class="about-pub" href="./">
+              <svg class="about-pub-icon" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="4" y="3" width="16" height="18" rx="2"></rect><path d="M8 7h8M8 11h8M8 15h5"></path></svg>
+              <h3 class="about-pub-title">科技日報</h3>
+              <p class="about-pub-text">先列今日 5 大焦點，再分五個領域整理全球科技新聞。</p>
+              <span class="about-chips">
+                <span class="about-chip">AI／模型</span><span class="about-chip">半導體／硬體</span><span class="about-chip">軟體／雲端</span><span class="about-chip">市場與產業</span><span class="about-chip">資安</span>
+              </span>
+            </a>
+            <a class="about-pub" href="./">
+              <svg class="about-pub-icon" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+              <h3 class="about-pub-title">科技晚報</h3>
+              <p class="about-pub-text">平日 19:30 補上白天的新發展，在科技日報頁面用「切換日期」選晚報就能讀。</p>
+            </a>
+            <a class="about-pub" href="https://tw-radar-site.pages.dev/">
+              <svg class="about-pub-icon" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><circle cx="12" cy="12" r="5"></circle><path d="M12 12l6-6"></path></svg>
+              <h3 class="about-pub-title">台股雷達</h3>
+              <p class="about-pub-text">每天早晚各一期，從數百則台股新聞與公告中挑出值得注意的事，附來源時間軸。</p>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <div class="about-wrap">
+        <section class="about-section" aria-labelledby="how-title">
+          <div>
+            <h2 id="how-title" class="about-h2">一則新聞怎麼變成重點</h2>
+            <p class="about-section-lead">整個流程每天自動執行，不需要人工貼稿。單一網站暫時連不上，也不會影響整份刊物出刊。</p>
+          </div>
+          <ol class="about-steps">
+            <li class="about-step">
+              <span class="about-step-num">步驟 1</span>
+              <span class="about-step-title">收集</span>
+              <span class="about-step-text">定時讀取各新聞網站的 RSS 與公開資訊觀測站公告。</span>
+            </li>
+            <li class="about-step">
+              <span class="about-step-num">步驟 2</span>
+              <span class="about-step-title">合併重複</span>
+              <span class="about-step-text">同一件事的多篇報導歸成一組，保留每篇來源。</span>
+            </li>
+            <li class="about-step">
+              <span class="about-step-num">步驟 3</span>
+              <span class="about-step-title">摘要與評分</span>
+              <span class="about-step-text">語言模型寫中文重點、判斷重要性，並說明為什麼值得注意。</span>
+            </li>
+            <li class="about-step">
+              <span class="about-step-num">步驟 4</span>
+              <span class="about-step-title">出刊</span>
+              <span class="about-step-text">排好順序發布成網頁，出刊後再核對一次內容。</span>
+            </li>
+          </ol>
+        </section>
+
+        <section class="about-section" aria-labelledby="schedule-title" style="padding-top: 0;">
+          <h2 id="schedule-title" class="about-h2">出刊時間</h2>
+          <div class="about-table-wrap">
+            <table class="about-table">
+              <thead>
+                <tr><th scope="col">刊物</th><th scope="col">時間</th><th scope="col">內容</th></tr>
+              </thead>
+              <tbody>
+                <tr><td>科技日報</td><td>每天 08:00 開始整理</td><td>前一天的全球科技新聞，五大領域</td></tr>
+                <tr><td>台股雷達早報</td><td>每天 08:10</td><td>前一晚到清晨的台股新聞與公告</td></tr>
+                <tr><td>科技晚報</td><td>平日 19:30</td><td>當天白天的新發展</td></tr>
+                <tr><td>台股雷達晚報</td><td>每天 20:10</td><td>當天盤中到收盤後的消息</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </section>
+      </div>
+
+      <section class="about-band" aria-labelledby="cta-title">
+        <div class="about-wrap about-section">
+          <div class="about-cta">
+            <div>
+              <h2 id="cta-title" class="about-cta-title">從今天這一期開始讀</h2>
+              <p class="about-cta-text">摘要幫你篩選，原始報導仍是判斷依據；台股雷達的內容不構成投資建議。</p>
+            </div>
+            <a class="about-btn about-btn-primary" href="./">閱讀今天的科技日報</a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-container">
+        <p class="footer-copy">宏哥的新聞整理｜由 news-rss 每天自動產生</p>
+        <a href="#main">回到頁首</a>
+      </div>
+    </footer>
+  </div>
+
+  <script>
+    document.getElementById('theme-toggle').addEventListener('click', function () {
+      var root = document.documentElement;
+      var next = root.classList.contains('dark') ? 'light' : 'dark';
+      root.classList.remove('dark', 'light');
+      root.classList.add(next);
+      try { localStorage.setItem('tech_digest_theme', next); } catch (e) {}
+    });
+  </script>
+</body>
+</html>
