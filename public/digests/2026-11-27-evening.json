@@ -1,0 +1,3178 @@
+{
+  "schema_version": 1,
+  "meta": {
+    "date": "2026-11-27",
+    "edition": "evening",
+    "generated_at": "2026-11-27T11:46:44.269054+00:00",
+    "provider": "AI Engine",
+    "model": "gpt-6.1-terra",
+    "scanned_articles": 111
+  },
+  "highlights": [
+    {
+      "cluster_id": "cluster_7fa3fa44c7269314_109",
+      "category": "business_market",
+      "title": "報導：SpaceX 相關 GPU 融資票據定價約 440 億美元，將採購輝達 Vera Rubin 設備",
+      "original_title": "又力挺好兄弟黃仁勳，SpaceX 融資 440 億美元要買輝達 Vera Rubin",
+      "published_at": "2026-11-27T05:40:29+00:00",
+      "freshness_status": "fresh",
+      "importance_score": 8.7,
+      "is_top_story": true,
+      "summary_bullets": [
+        "據報導，Apollo 與高盛主導的融資交易已完成約 440 億美元債務票據定價，資金將用於採購輝達 Vera Rubin 平台及相關設備，再租賃給 SpaceX 使用。",
+        "交易採用以設備為擔保的多層次債務結構，主要投資承諾來自貝萊德、高盛資產管理及 KKR 相關管理帳戶；設備預計於 2027 年上半年陸續交付，租期約五年至五年多。",
+        "設備將部署於地面 AI 資料中心，凸顯大型金融機構對 AI 基礎設施的資金投入；但設備折舊、技術淘汰、融資成本及未來營收仍是投資風險。"
+      ],
+      "why_it_matters": "這筆大規模資產擔保融資顯示 AI 算力擴張日益依賴金融市場，同時考驗相關服務能否產生足夠回報。",
+      "divergent_views": null,
+      "primary_url": "https://finance.technews.tw/2026/11/27/spacex-raises-44-billion-to-buy-nvidia-and-vera-rubin/",
+      "primary_content_quality": "extracted",
+      "sources": [
+        {
+          "name": "科技新報 TechNews",
+          "url": "https://finance.technews.tw/2026/11/27/spacex-raises-44-billion-to-buy-nvidia-and-vera-rubin/",
+          "published_at": "2026-11-27T05:40:29+00:00",
+          "content_quality": "extracted"
+        }
+      ]
+    },
+    {
+      "cluster_id": "cluster_c242564cead60d7e_46",
+      "category": "business_market",
+      "title": "美國收緊海外 AI 算力租賃管制，限制中國企業遠端使用輝達晶片",
+      "original_title": "美國防堵中國租用遠端算力，新規加查緝爭搶 AI 競賽優勢",
+      "published_at": "2026-11-27T06:40:47+00:00",
+      "freshness_status": "fresh",
+      "importance_score": 8.4,
+      "is_top_story": true,
+      "summary_bullets": [
+        "美國更新出口管制，要求海外業者在向中國企業出租大量受管制的輝達晶片算力前取得商務部許可；既有業務有 90 天期限辦理，部分商業用途可獲豁免。",
+        "智庫進步研究所估計，海外遠端存取提供中國約 24% 的 AI 算力，另有約 22% 來自走私；美國也計畫增派出口管制人員，強化查緝。",
+        "東南亞資料中心業者可能因中國客戶流失而尋找美國等地的新客戶，甚至降價；新規實際效果仍取決於許可審查與執法力度。"
+      ],
+      "why_it_matters": "管制可能限制中國取得先進 AI 算力，並改變東南亞資料中心的客戶結構與晶片算力供需。",
+      "divergent_views": null,
+      "primary_url": "https://technews.tw/2026/11/27/us-curbs-china-remote-compute-rentals-new-regulations-crackdowns-secure-ai-race-advantage/",
+      "primary_content_quality": "extracted",
+      "sources": [
+        {
+          "name": "科技新報 TechNews",
+          "url": "https://technews.tw/2026/11/27/us-curbs-china-remote-compute-rentals-new-regulations-crackdowns-secure-ai-race-advantage/",
+          "published_at": "2026-11-27T06:40:47+00:00",
+          "content_quality": "extracted"
+        }
+      ]
+    },
+    {
+      "cluster_id": "cluster_b235112cf8070749_36",
+      "category": "software_cloud",
+      "title": "美國42名檢察長反對Character.AI破產拍賣逾2,100萬個帳號的聊天資料",
+      "original_title": "Character.AI擬拍賣用戶聊天紀錄，美國42名檢察長反對",
+      "published_at": "2026-11-27T12:11:54+00:00",
+      "freshness_status": "fresh",
+      "importance_score": 7.6,
+      "is_top_story": true,
+      "summary_bullets": [
+        "Character.AI聲請破產保護後，計畫於12月1日拍賣聊天機器人平臺及用戶資料；美國42名檢察長向破產法院提出異議，要求否決現有交易條款。",
+        "擬出售資料涉及逾2,100萬個美國帳號，其中超過210萬個由未成年人註冊；資料包括私人聊天紀錄、IP位址、可能的位置資訊及用戶風險評分。",
+        "檢察長指出，擬議條款未要求買家遵守原有隱私政策，並主張任何交易至少應排除兒童聊天紀錄與其他敏感資料。"
+      ],
+      "why_it_matters": "此案可能影響AI服務業者破產時如何處理敏感用戶資料，並凸顯未成年人隱私與資料轉售的監管風險。",
+      "divergent_views": null,
+      "primary_url": "https://www.ithome.com.tw/news/180847",
+      "primary_content_quality": "extracted",
+      "sources": [
+        {
+          "name": "iThome",
+          "url": "https://www.ithome.com.tw/news/180847",
+          "published_at": "2026-11-27T12:11:54+00:00",
+          "content_quality": "extracted"
+        }
+      ]
+    },
+    {
+      "cluster_id": "cluster_78f99a872b3dd686_103",
+      "category": "software_cloud",
+      "title": "SYS010竊資攻擊濫用瀏覽器企業管理功能，鎖定Meta企業帳號與電子郵件",
+      "original_title": "SYS010竊資攻擊濫用瀏覽器管理功能，可攔讀並刪除Gmail與Outlook郵件",
+      "published_at": "2026-11-27T03:11:37+00:00",
+      "freshness_status": "fresh",
+      "importance_score": 7.5,
+      "is_top_story": true,
+      "summary_bullets": [
+        "Bitdefender揭露SYS010攻擊活動，駭客透過Meta廣告誘使使用者下載免費動態桌布軟體，再強制安裝惡意瀏覽器擴充套件。",
+        "Chrome版本可讀取並永久刪除Gmail與Outlook網頁版郵件，每次最多讀取50封近期郵件；惡意套件也會竊取Cookie，並利用既有登入工作階段蒐集Meta企業與廣告帳號資料。",
+        "攻擊者濫用Chrome、Edge與Firefox的企業管理功能部署套件，變更設定需要Windows系統管理員權限。研究人員已觀察到五大洲的裝置向攻擊基礎設施發送請求。"
+      ],
+      "why_it_matters": "攻擊結合企業管理功能與郵件竊取，可能使企業帳號、廣告支出及帳號復原流程面臨更高風險。",
+      "divergent_views": null,
+      "primary_url": "https://www.ithome.com.tw/news/180855",
+      "primary_content_quality": "extracted",
+      "sources": [
+        {
+          "name": "iThome",
+          "url": "https://www.ithome.com.tw/news/180855",
+          "published_at": "2026-11-27T03:11:37+00:00",
+          "content_quality": "extracted"
+        }
+      ]
+    },
+    {
+      "cluster_id": "cluster_de9ac1154533963e_40",
+      "category": "semiconductor_hardware",
+      "title": "德州解除逾1,800項資料中心專案用電申請凍結",
+      "original_title": "Texas lifts freeze on 1,800+ data center projects in Greg Abbott U-turn",
+      "published_at": "2026-11-27T11:00:00+00:00",
+      "freshness_status": "fresh",
+      "importance_score": 7.2,
+      "is_top_story": true,
+      "summary_bullets": [
+        "德州州長格雷格・阿博特辦公室指示重新處理資料中心用電申請，撤回先前因電力需求疑慮而實施的凍結措施。",
+        "先前暫停措施涵蓋超過1,800項資料中心專案及合計474吉瓦的新用電申請；申請規模不等同於實際新增用電量。",
+        "德州電網管理機構ERCOT已完成資料中心對地方社區影響的資料蒐集；報導指出，開發商正趕在新州長上任前爭取核准。"
+      ],
+      "why_it_matters": "德州重啟用電申請審查，可能影響大型資料中心的建置時程及州內電網供需規劃。",
+      "divergent_views": null,
+      "primary_url": "https://www.tomshardware.com/tech-industry/data-centers/texas-lifts-freeze-on-1-800-data-center-projects-in-greg-abbott-u-turn-companies-rush-for-permits-before-gina-hinojosas-january-arrival",
+      "primary_content_quality": "extracted",
+      "sources": [
+        {
+          "name": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/texas-lifts-freeze-on-1-800-data-center-projects-in-greg-abbott-u-turn-companies-rush-for-permits-before-gina-hinojosas-january-arrival",
+          "published_at": "2026-11-27T11:00:00+00:00",
+          "content_quality": "extracted"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai_research",
+      "label": "AI / 模型",
+      "icon": "brain",
+      "items": []
+    },
+    {
+      "id": "semiconductor_hardware",
+      "label": "半導體 / 硬體",
+      "icon": "cpu",
+      "items": [
+        {
+          "cluster_id": "cluster_de9ac1154533963e_40",
+          "category": "semiconductor_hardware",
+          "title": "德州解除逾1,800項資料中心專案用電申請凍結",
+          "original_title": "Texas lifts freeze on 1,800+ data center projects in Greg Abbott U-turn",
+          "published_at": "2026-11-27T11:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.2,
+          "is_top_story": true,
+          "summary_bullets": [
+            "德州州長格雷格・阿博特辦公室指示重新處理資料中心用電申請，撤回先前因電力需求疑慮而實施的凍結措施。",
+            "先前暫停措施涵蓋超過1,800項資料中心專案及合計474吉瓦的新用電申請；申請規模不等同於實際新增用電量。",
+            "德州電網管理機構ERCOT已完成資料中心對地方社區影響的資料蒐集；報導指出，開發商正趕在新州長上任前爭取核准。"
+          ],
+          "why_it_matters": "德州重啟用電申請審查，可能影響大型資料中心的建置時程及州內電網供需規劃。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/tech-industry/data-centers/texas-lifts-freeze-on-1-800-data-center-projects-in-greg-abbott-u-turn-companies-rush-for-permits-before-gina-hinojosas-january-arrival",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/data-centers/texas-lifts-freeze-on-1-800-data-center-projects-in-greg-abbott-u-turn-companies-rush-for-permits-before-gina-hinojosas-january-arrival",
+              "published_at": "2026-11-27T11:00:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_ea01ce826029c8bc_80",
+          "category": "semiconductor_hardware",
+          "title": "烏克蘭高中生開發免 GPS、AI 驅動的無人機自動駕駛系統",
+          "original_title": "Ukrainian 11th-grader builds AI-powered, GPS-free drone autopilot to beat frontline jamming",
+          "published_at": "2026-11-27T10:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "烏克蘭波爾塔瓦州高中生亞羅斯拉夫・謝伊科開發無須依賴 GPS 訊號的無人機自動駕駛系統，並因多項技術成果獲得「烏克蘭的未來」獎項。",
+            "該系統運用 AI 協助無人機抵達目的地；他也開發了光電穩定系統。報導未詳述導航原理、測試結果或實際部署情況。",
+            "免 GPS 導航可能有助於提升無人機在訊號受干擾環境中的運作能力，但其實際效能與規模化應用仍待驗證。"
+          ],
+          "why_it_matters": "此案例凸顯烏克蘭對抗干擾無人機技術的研發需求，但技術成熟度與實際影響尚不明確。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/tech-industry/drones/ukrainian-11th-grader-builds-ai-powered-gps-free-drone-autopilot-to-beat-frontline-jamming-earns-the-future-of-ukraine-award-from-president-zelenskyy",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/drones/ukrainian-11th-grader-builds-ai-powered-gps-free-drone-autopilot-to-beat-frontline-jamming-earns-the-future-of-ukraine-award-from-president-zelenskyy",
+              "published_at": "2026-11-27T10:00:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_f84fba44a35d02f3_38",
+          "category": "semiconductor_hardware",
+          "title": "活動人士在 Anthropic 舊金山辦公室外絕食，抗議 AI 遞迴自我改進",
+          "original_title": "Activists enter third day of hunger strike outside Anthropic's San Francisco HQ over recursive AI self-improvement",
+          "published_at": "2026-11-27T10:30:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "活動人士 Elliot Callender 在 Anthropic 舊金山辦公室外進入絕食抗議第三天，反對該公司使用 AI 遞迴自我改進；另有一名抗議者加入。",
+            "報導將遞迴自我改進描述為讓模型反覆經歷測試、回饋與改進的過程，但未提供 Anthropic 使用該方法的具體證據。",
+            "Callender 呼籲加州居民要求州長就此議題召開立法會議，並表示之後打算向 OpenAI 抗議。"
+          ],
+          "why_it_matters": "抗議反映部分人士對前沿 AI 自我改進及其監管需求的關切，但目前尚無具體政策變動。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/activists-enter-third-day-of-hunger-strike-outside-anthropics-san-francisco-hq-over-recursive-ai-self-improvement-protester-threatens-to-go-40-days-and-target-openai-next",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/activists-enter-third-day-of-hunger-strike-outside-anthropics-san-francisco-hq-over-recursive-ai-self-improvement-protester-threatens-to-go-40-days-and-target-openai-next",
+              "published_at": "2026-11-27T10:30:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_c39c129861f5c675_44",
+          "category": "semiconductor_hardware",
+          "title": "黑色星期五電競桌機優惠：MSI RTX 5070 機型降至 2,269 美元",
+          "original_title": "Best Black Friday Gaming PC Deals live",
+          "published_at": "2026-11-27T08:02:03+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 2.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Tom's Hardware 彙整黑色星期五電競桌機優惠，其中 MSI Aegis R2 搭載 Core Ultra 7 265 與 RTX 5070 的機型售價為 2,269 美元，折價 550 美元。",
+            "該機配備 32GB DDR5 記憶體與 2TB SSD；RTX 5070 具備 12GB GDDR7 顯示記憶體，媒體測試顯示在未使用 DLSS 影格生成或升頻時，4K 遊戲畫面可超過每秒 40 幀。",
+            "另一款搭載 Core i5-14400F 與 RTX 5060 的入門電競桌機售價為 749 美元，折價 650 美元。"
+          ],
+          "why_it_matters": "這些促銷提供消費者比較不同價位電競桌機配備與價格的參考。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/live/news/black-friday-gaming-pc-deals-2026",
+              "published_at": "2026-11-27T08:02:03+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_2ba6c0d217c681b0_64",
+          "category": "semiconductor_hardware",
+          "title": "Lenovo Legion Pro 7i RTX 5090 遊戲筆電黑色星期五優惠降價 1,300 美元",
+          "original_title": "Best Black Friday 2026 tech deals live",
+          "published_at": "2026-11-27T07:19:47+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 2.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "B&H Photo 推出 Lenovo Legion Pro 7i 遊戲筆電限量優惠，售價由 5,299.99 美元降至 3,999.99 美元。",
+            "該機配備 Core Ultra 9 290HX、175W RTX 5090 筆電版 GPU、32GB DDR5 記憶體，以及 16 吋、1600p、240Hz OLED 螢幕。"
+          ],
+          "why_it_matters": "這項優惠為高階遊戲筆電買家提供價格參考，但不代表產業整體價格趨勢。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/live/news/black-friday-2026-day-three",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/live/news/black-friday-2026-day-three",
+              "published_at": "2026-11-27T07:19:47+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_afbefb18dc5b6637_82",
+          "category": "semiconductor_hardware",
+          "title": "聯想 Legion 5i OLED 電競筆電黑色星期五降價 1,020 美元",
+          "original_title": "Save a huge $1,020 on a 240Hz OLED gaming laptop from Lenovo with an RTX 5070 Ti, now just $1,999",
+          "published_at": "2026-11-27T08:49:57+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 2.1,
+          "is_top_story": false,
+          "summary_bullets": [
+            "聯想將 Legion 5i OLED 電競筆電的黑色星期五售價降至 1,999.99 美元，較原價減少 1,020 美元。",
+            "該筆電配備 16 吋、2,560 × 1,600 解析度的 240Hz OLED 螢幕，以及具有 12GB GDDR7 顯示記憶體的 GeForce RTX 5070 Ti 筆電版 GPU。"
+          ],
+          "why_it_matters": "這項促銷反映高階電競筆電的短期零售價格，但不足以推論整體市場趨勢。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/laptops/gaming-laptops/save-a-huge-usd1-020-on-a-240hz-oled-gaming-laptop-from-lenovo-with-an-rtx-5070-ti-now-just-usd1-999-portable-legion-5i-rig-features-an-18-core-intel-cpu-and-a-1tb-ssd",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/laptops/gaming-laptops/save-a-huge-usd1-020-on-a-240hz-oled-gaming-laptop-from-lenovo-with-an-rtx-5070-ti-now-just-usd1-999-portable-legion-5i-rig-features-an-18-core-intel-cpu-and-a-1tb-ssd",
+              "published_at": "2026-11-27T08:49:57+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_994544dd423aa7e3_91",
+          "category": "semiconductor_hardware",
+          "title": "WD Elements 20TB 外接硬碟黑色星期五售價降至今年新低",
+          "original_title": "20TB WD Elements external HDD is at its lowest price this year",
+          "published_at": "2026-11-27T10:51:06+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 2.1,
+          "is_top_story": false,
+          "summary_bullets": [
+            "亞馬遜黑色星期五促銷期間，WD Elements 20TB 外接硬碟售價為 549.99 美元，較標示原價 879.99 美元低 330 美元；該產品先前也曾以低於原價的價格銷售。",
+            "硬碟需外接電源，採用最高 5Gb/s 的 Micro-USB Type-B 至 USB 3 Type-A 介面，適合大量檔案備份與冷儲存。"
+          ],
+          "why_it_matters": "這項促銷為有大量備份需求的消費者提供較低價格的儲存選擇，但不代表整體硬碟市場價格趨勢。",
+          "divergent_views": null,
+          "primary_url": "https://www.tomshardware.com/pc-components/external-hdds/20tb-wd-elements-external-hdd-is-at-its-lowest-price-this-year-usd549-storage-drive-is-2-75-cents-per-gb",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/pc-components/external-hdds/20tb-wd-elements-external-hdd-is-at-its-lowest-price-this-year-usd549-storage-drive-is-2-75-cents-per-gb",
+              "published_at": "2026-11-27T10:51:06+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "software_cloud",
+      "label": "軟體 / Cloud / Developer",
+      "icon": "cloud",
+      "items": [
+        {
+          "cluster_id": "cluster_b235112cf8070749_36",
+          "category": "software_cloud",
+          "title": "美國42名檢察長反對Character.AI破產拍賣逾2,100萬個帳號的聊天資料",
+          "original_title": "Character.AI擬拍賣用戶聊天紀錄，美國42名檢察長反對",
+          "published_at": "2026-11-27T12:11:54+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.6,
+          "is_top_story": true,
+          "summary_bullets": [
+            "Character.AI聲請破產保護後，計畫於12月1日拍賣聊天機器人平臺及用戶資料；美國42名檢察長向破產法院提出異議，要求否決現有交易條款。",
+            "擬出售資料涉及逾2,100萬個美國帳號，其中超過210萬個由未成年人註冊；資料包括私人聊天紀錄、IP位址、可能的位置資訊及用戶風險評分。",
+            "檢察長指出，擬議條款未要求買家遵守原有隱私政策，並主張任何交易至少應排除兒童聊天紀錄與其他敏感資料。"
+          ],
+          "why_it_matters": "此案可能影響AI服務業者破產時如何處理敏感用戶資料，並凸顯未成年人隱私與資料轉售的監管風險。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180847",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180847",
+              "published_at": "2026-11-27T12:11:54+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_78f99a872b3dd686_103",
+          "category": "software_cloud",
+          "title": "SYS010竊資攻擊濫用瀏覽器企業管理功能，鎖定Meta企業帳號與電子郵件",
+          "original_title": "SYS010竊資攻擊濫用瀏覽器管理功能，可攔讀並刪除Gmail與Outlook郵件",
+          "published_at": "2026-11-27T03:11:37+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.5,
+          "is_top_story": true,
+          "summary_bullets": [
+            "Bitdefender揭露SYS010攻擊活動，駭客透過Meta廣告誘使使用者下載免費動態桌布軟體，再強制安裝惡意瀏覽器擴充套件。",
+            "Chrome版本可讀取並永久刪除Gmail與Outlook網頁版郵件，每次最多讀取50封近期郵件；惡意套件也會竊取Cookie，並利用既有登入工作階段蒐集Meta企業與廣告帳號資料。",
+            "攻擊者濫用Chrome、Edge與Firefox的企業管理功能部署套件，變更設定需要Windows系統管理員權限。研究人員已觀察到五大洲的裝置向攻擊基礎設施發送請求。"
+          ],
+          "why_it_matters": "攻擊結合企業管理功能與郵件竊取，可能使企業帳號、廣告支出及帳號復原流程面臨更高風險。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180855",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180855",
+              "published_at": "2026-11-27T03:11:37+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_9a13b9f005f3c25e_2",
+          "category": "software_cloud",
+          "title": "Shadowserver發現近4,200個AI自主攻擊框架執行個體暴露於網路，臺灣有10個",
+          "original_title": "近4,200個AI自主攻擊框架暴露於公開網路，臺灣也發現10個",
+          "published_at": "2026-11-27T11:11:39+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "截至11月23日，Shadowserver辨識出約4,200個公開暴露的AI攻擊框架執行個體IP位址，較11月15日增加約9%；其中臺灣有10個。公開暴露不代表已遭入侵或正在發動攻擊。",
+            "該組織追蹤15種框架，ARTEX約占總數七成。11月9日至23日，超過80個相關IP位址對蜜罐產生逾1萬次事件，部分涉及流量轉送、憑證檔案搜尋及已知漏洞探測。",
+            "這類工具可串接大型語言模型代理，自動執行偵察與漏洞探測，可能降低攻擊門檻；部分來源連續數日全天運作，顯示自動化威脅具持續性。"
+          ],
+          "why_it_matters": "AI攻擊框架的公開部署與自動化探測活動增加，可能加重企業的資安監控與防禦負擔。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180843",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180843",
+              "published_at": "2026-11-27T11:11:39+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_1426e031eb66ff5b_84",
+          "category": "software_cloud",
+          "title": "西班牙規範大型資料中心電網接入，要求再生能源占比達80%並限制能源與用水效率",
+          "original_title": "西班牙要求大型資料中心符合能源與水效率標準，強化AI算力基礎建設的永續監管",
+          "published_at": "2026-11-27T06:11:32+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "西班牙通過《Real Decreto 1032/2026》，要求電力容量超過10MW的資料中心符合能源與環境標準，才能取得電網接入資格。",
+            "資料中心須達到80%再生能源使用比例，綠電供應須與實際用電時間相符，且具備新增性；過渡期間的目標為電力使用效率指標PUE不高於1.25、用水效率指標WUE不高於0.1。",
+            "容量超過500kW的資料中心須提交能源效率與永續資料；承載高安全等級政府系統的資料中心，敏感資料須留在歐盟或歐洲經濟區，並限制第三國的管理與維護存取權限。",
+            "法規旨在因應AI推升資料中心需求對電網的壓力，也可能提高業者的能源採購、設施規劃及合規要求。"
+          ],
+          "why_it_matters": "新規將電網接入與能源效率、用水及資料主權要求連結，可能影響西班牙資料中心投資與AI算力基礎建設部署。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180859",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180859",
+              "published_at": "2026-11-27T06:11:32+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_de642042230eb62f_97",
+          "category": "software_cloud",
+          "title": "印度主權 AI 計畫推出 Chariot-1，從零訓練多語言模型",
+          "original_title": "印度主權AI計畫再添新成果，Chariot-1從零訓練強化多語言能力",
+          "published_at": "2026-11-27T03:11:32+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "印度電子資訊科技部宣布，受 IndiaAI Mission 支持的 Chariot Artificial Intelligence 推出 Chariot-1，包含在印度從零預訓練的語言模型與文字轉語音模型。",
+            "語言模型採混合專家架構，總參數約 110 億，每個 Token 推論時啟用約 40 億參數；文字轉語音模型支援英文及 10 種印度語言。",
+            "開發團隊稱，新技術可減少印度語言的 Token 數，並提升訓練速度，但數據仍待第三方驗證。印度政府正透過支持多個團隊，建立本土基礎模型生態系。"
+          ],
+          "why_it_matters": "此成果有助印度發展符合本地多語言需求的自主 AI 模型，並降低對外國技術的依賴。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180856",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180856",
+              "published_at": "2026-11-27T03:11:32+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_10839076154374dd_76",
+          "category": "software_cloud",
+          "title": "雲端安全聯盟發布企業 AI 成熟度指引，整合三套治理框架",
+          "original_title": "雲端安全聯盟提出AI治理框架整合指引，強調模型安全測試與執行過程可追溯性",
+          "published_at": "2026-11-27T08:11:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "雲端安全聯盟（CSA）發布企業 AI 成熟度指引，建議企業整合 NIST AI 風險管理框架、ISO/IEC 42001 與 CSA AI 控制矩陣，減少重複管理流程。",
+            "指引建議從原型階段納入模型安全控制，定期測試漏洞與對抗性攻擊抵禦能力，並透過結構化日誌追蹤執行過程及操作身分。",
+            "CSA 建議企業分階段部署 AI，持續監控模型漂移與效能，並釐清模型、應用程式及雲端服務供應商之間的安全責任。"
+          ],
+          "why_it_matters": "整合治理框架有助企業降低 AI 系統的安全與營運風險，並提升稽核及責任追溯能力。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180801",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180801",
+              "published_at": "2026-11-27T08:11:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_fc34df1723f6f1f2_87",
+          "category": "software_cloud",
+          "title": "OpenAI修正GPT-6.2計費錯誤，Astra與Sol使用額度消耗加快",
+          "original_title": "OpenAI修正GPT-6.2計費系統錯誤，Astra、Sol模型將更快用罄使用限額",
+          "published_at": "2026-11-27T03:11:04+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.7,
+          "is_top_story": false,
+          "summary_bullets": [
+            "OpenAI表示，GPT-6.2 Astra與Sol先前因計費錯誤，計入的使用配額低於應有額度；修正後，相同工作將消耗更多配額。",
+            "相較前一週，Astra用完配額的速度將加快40%，Sol加快25%；其他模型不受影響。",
+            "OpenAI不會追討先前差額，並提供Go、Plus、Pro及Business方案用戶一次可保留使用的額度重置機會。"
+          ],
+          "why_it_matters": "配額消耗加快將影響使用者對AI服務的使用規劃，尤其是高度依賴頂級模型的工作流程。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180853",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180853",
+              "published_at": "2026-11-27T03:11:04+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "business_market",
+      "label": "市場與產業",
+      "icon": "chart-line",
+      "items": [
+        {
+          "cluster_id": "cluster_7fa3fa44c7269314_109",
+          "category": "business_market",
+          "title": "報導：SpaceX 相關 GPU 融資票據定價約 440 億美元，將採購輝達 Vera Rubin 設備",
+          "original_title": "又力挺好兄弟黃仁勳，SpaceX 融資 440 億美元要買輝達 Vera Rubin",
+          "published_at": "2026-11-27T05:40:29+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.7,
+          "is_top_story": true,
+          "summary_bullets": [
+            "據報導，Apollo 與高盛主導的融資交易已完成約 440 億美元債務票據定價，資金將用於採購輝達 Vera Rubin 平台及相關設備，再租賃給 SpaceX 使用。",
+            "交易採用以設備為擔保的多層次債務結構，主要投資承諾來自貝萊德、高盛資產管理及 KKR 相關管理帳戶；設備預計於 2027 年上半年陸續交付，租期約五年至五年多。",
+            "設備將部署於地面 AI 資料中心，凸顯大型金融機構對 AI 基礎設施的資金投入；但設備折舊、技術淘汰、融資成本及未來營收仍是投資風險。"
+          ],
+          "why_it_matters": "這筆大規模資產擔保融資顯示 AI 算力擴張日益依賴金融市場，同時考驗相關服務能否產生足夠回報。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/spacex-raises-44-billion-to-buy-nvidia-and-vera-rubin/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/spacex-raises-44-billion-to-buy-nvidia-and-vera-rubin/",
+              "published_at": "2026-11-27T05:40:29+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_c242564cead60d7e_46",
+          "category": "business_market",
+          "title": "美國收緊海外 AI 算力租賃管制，限制中國企業遠端使用輝達晶片",
+          "original_title": "美國防堵中國租用遠端算力，新規加查緝爭搶 AI 競賽優勢",
+          "published_at": "2026-11-27T06:40:47+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.4,
+          "is_top_story": true,
+          "summary_bullets": [
+            "美國更新出口管制，要求海外業者在向中國企業出租大量受管制的輝達晶片算力前取得商務部許可；既有業務有 90 天期限辦理，部分商業用途可獲豁免。",
+            "智庫進步研究所估計，海外遠端存取提供中國約 24% 的 AI 算力，另有約 22% 來自走私；美國也計畫增派出口管制人員，強化查緝。",
+            "東南亞資料中心業者可能因中國客戶流失而尋找美國等地的新客戶，甚至降價；新規實際效果仍取決於許可審查與執法力度。"
+          ],
+          "why_it_matters": "管制可能限制中國取得先進 AI 算力，並改變東南亞資料中心的客戶結構與晶片算力供需。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/us-curbs-china-remote-compute-rentals-new-regulations-crackdowns-secure-ai-race-advantage/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/us-curbs-china-remote-compute-rentals-new-regulations-crackdowns-secure-ai-race-advantage/",
+              "published_at": "2026-11-27T06:40:47+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_10381215756ea954_14",
+          "category": "business_market",
+          "title": "報導：NVIDIA 暫停向東南亞四國出貨搭載其晶片的伺服器，以因應美國出口新規",
+          "original_title": "NVIDIA 暫停東南亞四國伺服器出貨，美國新規把「算力給誰用」納入許可審查",
+          "published_at": "2026-11-27T03:57:29+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "據《金融時報》與《華爾街日報》報導，NVIDIA 已要求 Dell、美超微等製造夥伴暫停向馬來西亞、新加坡、泰國與印尼出貨搭載其晶片的伺服器，恢復時間未明。",
+            "美國新規要求向上述四國及巴西出口先進晶片須申請許可；此外，若資料中心提供特定受限地區企業的算力超過 1,200 萬總處理效能門檻，相關晶片出口或移轉也受管制。",
+            "集邦科技評估，短期內台灣供應商在東南亞的伺服器客戶可能更集中於符合豁免條件的美系雲端業者，其他客戶訂單則面臨額外許可審查。"
+          ],
+          "why_it_matters": "出口管制延伸至算力使用對象，可能增加 AI 伺服器供應鏈的合規成本，並影響東南亞資料中心部署。",
+          "divergent_views": null,
+          "primary_url": "https://techorange.com/2026/11/27/nvidia-halts-southeast-asia-servers-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "TechOrange 科技報橘",
+              "url": "https://techorange.com/2026/11/27/nvidia-halts-southeast-asia-servers-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "published_at": "2026-11-27T03:57:29+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_e95f995ac493dfdf_22",
+          "category": "business_market",
+          "title": "德意志銀行分析：全球半導體出口總值首度超越石油與天然氣",
+          "original_title": "半導體晶片成為新石油，全球出口總值首度超越油氣",
+          "published_at": "2026-11-27T07:50:32+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "德意志銀行分析國際貿易中心數據指出，AI 需求帶動半導體貿易成長，以滾動四季累計計算，2026 年第一季全球半導體出口總值約 1.61 兆美元，首度超過石油與天然氣的 1.53 兆美元。",
+            "第二季滾動四季累計出口額分別約為 1.6 兆與 1.47 兆美元；報導指出，伊朗戰爭衝擊荷莫茲海峽石油運輸，也是差距擴大的因素之一。",
+            "德意志銀行認為，晶片出口收益可能更多流向美國科技股、新創企業與資料中心，而非傳統的政府債券，進而改變全球資金流向；此判斷仍屬未來預測。"
+          ],
+          "why_it_matters": "半導體貿易地位提升，可能重塑全球資金流向與 AI 投資循環，同時增加市場波動。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/semiconductor-chips-are-the-new-oil/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/semiconductor-chips-are-the-new-oil/",
+              "published_at": "2026-11-27T07:50:32+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_25ef84f55336918a_51",
+          "category": "business_market",
+          "title": "歐元區領導人推選德科斯接任歐洲央行總裁，預定2027年2月上任",
+          "original_title": "西班牙老將德科斯將掌 ECB  危機處理能力獲看重",
+          "published_at": "2026-11-27T00:50:30+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "歐元區領導人推選西班牙央行前總裁德科斯出任下任歐洲央行總裁，接替提前卸任的拉加德；歐洲理事會徵詢相關機構意見後，將進行正式任命。",
+            "德科斯預定於2027年2月7日上任，任期八年；他現任國際清算銀行總經理，曾參與處理西班牙銀行業危機。",
+            "市場預期歐洲央行政策將維持連續性，但歐元區通膨及法國金融與債務壓力，仍是新總裁面臨的考驗。"
+          ],
+          "why_it_matters": "歐洲央行總裁交接將影響歐元區貨幣政策與金融危機應對，並牽動市場對利率前景的預期。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/spains-de-cos-to-take-over-as-ecb-president-from-lagarde/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/spains-de-cos-to-take-over-as-ecb-president-from-lagarde/",
+              "published_at": "2026-11-27T00:50:30+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_9a440bbfbee2d480_65",
+          "category": "business_market",
+          "title": "主計總處預估台灣2027年出口逾1.11兆美元，AI需求持續帶動成長",
+          "original_title": "AI 仍供不應求，主計總處估明年出口破 1 兆美元創新高",
+          "published_at": "2026-11-27T10:10:06+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "主計總處上修2026年台灣經濟成長率預測至13.28%，並預估2027年成長6.51%。",
+            "主計總處預測2026年海關出口達9,386.43億美元、年增46.67%；2027年將達1兆1,135.49億美元、年增18.63%，創下新高。",
+            "主計總處指出，雲端業者、算力供應商及各國政府持續投資，AI基礎設施與設備仍供不應求；但美國出口管制、監管、融資成本及硬體升級步調仍是變數。"
+          ],
+          "why_it_matters": "AI基礎設施需求正推升台灣出口與經濟成長預期，但政策及投資變化可能影響後續表現。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/ai-supply-shortage-dgbass-forecasts-next-year-exports-1-trillion-record-high/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/ai-supply-shortage-dgbass-forecasts-next-year-exports-1-trillion-record-high/",
+              "published_at": "2026-11-27T10:10:06+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_91f63df07de4eeac_23",
+          "category": "business_market",
+          "title": "歐盟提出目標規模 500 億歐元科技股權基金與《量子法》草案",
+          "original_title": "防美企「斷電開關」、追趕美中腳步！歐盟祭 500 億歐元主權基金與《量子法》拚技術自主",
+          "published_at": "2026-11-27T07:20:07+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "歐盟執委會提出主權科技股權基金及《量子法》草案，計畫投資歐洲 AI 與量子運算企業，降低對美中技術的依賴。",
+            "基金目標規模為 500 億歐元，並非全數來自公帑；執委會希望每投入 1 歐元公共資金，最多帶動 6 歐元跟投，目標最晚於 2028 年上路。",
+            "草案擬讓量子技術採購偏向歐盟控制的實體，但符合互惠安排或相關國際協定的第三國實體仍可投標；高風險領域須於 2030 年前轉換至後量子密碼學。",
+            "歐盟量子新創 2025 年取得的民間資金為 11 億歐元，低於美國的 70 億歐元；新措施旨在填補融資缺口並降低新創外流，但草案仍須經會員國與歐洲議會協商。"
+          ],
+          "why_it_matters": "歐盟若能落實融資與採購措施，可能改善本土深科技企業的成長資金來源，並重塑量子技術供應鏈與市場競爭。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/eu-50-billion-fund-quantum-act-counter-us-kill-switches-catch-up-us-china-tech-autonomy/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/eu-50-billion-fund-quantum-act-counter-us-kill-switches-catch-up-us-china-tech-autonomy/",
+              "published_at": "2026-11-27T07:20:07+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_f94b4283dc40b791_3",
+          "category": "business_market",
+          "title": "Neuralink 稱獲 FDA 核准，將啟動 ALS 植入式腦機介面 LINK 樞紐性試驗",
+          "original_title": "美國首例！Neuralink 獲 FDA 核准，啟動 ALS 腦機介面「LINK」樞紐性臨床試驗",
+          "published_at": "2026-11-27T01:50:29+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Neuralink 宣布獲美國 FDA 核准啟動 LINK 樞紐性臨床試驗，開放有限名額供肌萎縮性脊髓側索硬化症（ALS）患者參與；公司稱這是美國首項植入式腦機介面樞紐性試驗。",
+            "系統以 N1 植入物及 R1 手術機器人植入的柔性電極擷取神經訊號，再由軟體轉譯為數位裝置操作指令；試驗將評估功能表現、長期安全性與可靠性。",
+            "Neuralink 稱已與超過 30 名受試者合作，但本次核准僅限臨床試驗，不代表裝置已獲准商業銷售；公司仍面臨技術、安全及同業競爭挑戰。"
+          ],
+          "why_it_matters": "樞紐性試驗是評估植入式腦機介面臨床效益與安全性的重要進展，但距離商業上市仍須取得進一步監管核准。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/neuralink-fda-approval-pivotal-als-bci-trial/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/neuralink-fda-approval-pivotal-als-bci-trial/",
+              "published_at": "2026-11-27T01:50:29+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_0cdd43991fe206d4_12",
+          "category": "business_market",
+          "title": "美國收緊先進 AI 晶片出口管制，新加坡評估對企業及資料中心的影響",
+          "original_title": "美收緊先進 AI 晶片出口管制，東南亞 AI 基礎建設面臨考驗",
+          "published_at": "2026-11-27T07:00:33+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "新加坡副總理顏金勇表示，政府正與本地企業協商，了解美國新管制措施的影響，但無法證實輝達暫停向東南亞四國出貨伺服器的報導。",
+            "據文章報導，美國新規針對涉嫌將晶片走私至中國，以及中國企業透過第三國資料中心租用算力等情況；媒體並引述消息人士稱，輝達要求製造夥伴停止向馬來西亞、新加坡、泰國及印尼買家出貨搭載其晶片的伺服器，暫停時間尚不清楚。",
+            "惠譽信評分析師預期，管制可能使亞太資料中心投資放緩，並迫使東南亞政府在取得美國先進科技與吸引中國科技投資之間取得平衡。"
+          ],
+          "why_it_matters": "晶片與算力取得限制可能提高東南亞 AI 基礎建設的不確定性，並改變資料中心投資決策。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/us-tightens-ai-chip-export-controls-southeast-asia-ai-infrastructure-challenge/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/us-tightens-ai-chip-export-controls-southeast-asia-ai-infrastructure-challenge/",
+              "published_at": "2026-11-27T07:00:33+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_950ca5b780768ce6_79",
+          "category": "business_market",
+          "title": "受美國出口管制的輝達 B300 伺服器傳在深圳灰市報價逾 300 萬美元",
+          "original_title": "禁令擋不住！輝達 B300 伺服器現身深圳華強北，一台開價 300 萬美元",
+          "published_at": "2026-11-27T01:55:57+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "據《華盛頓郵報》調查，深圳華強北中間商仍提供受美國出口管制的輝達 B300 AI 伺服器報價，但報導未證實實際成交。",
+            "搭載 8 顆 B300 晶片的伺服器報價約 300 萬至 340 萬美元；相較美國同級硬體約 50 萬至 60 萬美元，300 萬美元的報價約為其 5 至 6 倍。",
+            "賣家稱部分貨源經香港轉手，且兩個月前同類伺服器報價約 200 萬美元；高溢價反映高階 AI 運算硬體需求與灰市供應鏈的持續存在。"
+          ],
+          "why_it_matters": "受限 AI 伺服器的灰市報價凸顯出口管制執行挑戰，以及中國市場對高階運算硬體的強勁需求。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/export-banned-nvidia-b300-servers-offered-openly-in-shenzhen-for-up-to-3-4-million/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/export-banned-nvidia-b300-servers-offered-openly-in-shenzhen-for-up-to-3-4-million/",
+              "published_at": "2026-11-27T01:55:57+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_e60e5fff39140f7e_102",
+          "category": "business_market",
+          "title": "記憶體短缺推升價格，中小電子廠設採購戰情室搶貨",
+          "original_title": "記憶體價格暴漲 500%，中小電子廠翻遍 eBay、聯繫數百家掮客找貨",
+          "published_at": "2026-11-27T02:30:38+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "記憶體供應吃緊，中小型電子廠設立採購戰情室，在網路平台搜尋貨源並聯繫掮客，連數顆的小批量晶片也購買；台灣模組廠宇瞻據報借款備妥採購資金。",
+            "報導指出，部分記憶體價格上漲達 500%；AI 資料中心需求強勁，加上主要原廠將產能集中於高頻寬記憶體（HBM），使其他記憶體供應承壓。",
+            "大型科技企業可透過長期協議鎖定貨源，中小廠則面臨成本上升、調整產品規格及灰色市場採購風險。業者預期短缺可能延續至未來數年。"
+          ],
+          "why_it_matters": "記憶體供需失衡可能推高電子產品成本，並擴大大型企業與中小廠商取得關鍵零組件的差距。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history/",
+              "published_at": "2026-11-27T02:30:38+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_3c0a1ea4183f9387_0",
+          "category": "business_market",
+          "title": "美國擴大海外算力管制與反蒸餾措施，傳智譜及月之暗面模型開發受阻",
+          "original_title": "美國算力管制與反蒸餾雙重夾擊：傳中國 AI 旗艦模型恐延宕，月之暗面取消印尼交易轉向歐洲租算力",
+          "published_at": "2026-11-27T11:02:42+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "報導稱，美國商務部工業暨安全局於 2026 年 11 月 19 日實施新規，將先進半導體算力管制延伸至海外資料中心；OpenAI 與 Anthropic 也收緊反模型蒸餾防護。",
+            "據引述的知情人士，智譜 AI 規模達 3 兆參數的 GLM-5.5 可能延至 2027 年第一季或更晚發布；智譜高層稱相關消息不實。",
+            "報導稱，依賴海外算力的月之暗面可能因管制面臨模型開發延遲，並傳出取消印尼交易、轉向歐洲租用算力。"
+          ],
+          "why_it_matters": "算力取得與模型蒸餾限制若持續加強，可能拉長中國 AI 業者的模型研發週期，並改變其全球算力布局。",
+          "divergent_views": null,
+          "primary_url": "https://techorange.com/2026/11/27/us-curbs-delay-china-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "TechOrange 科技報橘",
+              "url": "https://techorange.com/2026/11/27/us-curbs-delay-china-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "published_at": "2026-11-27T11:02:42+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_9cb2b0d31f3f9c54_13",
+          "category": "business_market",
+          "title": "報導稱 Character.AI 擬於破產程序拍賣聊天紀錄，42 州檢察長要求阻止",
+          "original_title": "Character.AI 破產擬拍賣 2,100 萬用戶聊天紀錄，美國 42 州檢察長聯手阻擋",
+          "published_at": "2026-11-27T03:10:46+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "報導稱，Character.AI 擬於 12 月 1 日拍賣平台及用戶聊天紀錄，美國 42 州檢察長已要求法院阻止交易並加設隱私保護條件。",
+            "據報導，拍賣資料涵蓋逾 2,100 萬名美國用戶的聊天歷史，其中約 210 萬個帳號以未成年人名義註冊；檢察長擔憂買方可能取得對話、IP 位址及其他敏感資訊。",
+            "報導另引精神航空案例指出，Google 曾以 1,000 萬美元出價收購其內部資料；在工會反對後，部分敏感員工資訊被排除，凸顯破產資產交易中的資料隱私爭議。"
+          ],
+          "why_it_matters": "案件凸顯 AI 用戶對話在破產程序中可能被視為可交易資產，未成年人的隱私保護尤其受到關注。",
+          "divergent_views": null,
+          "primary_url": "https://infosecu.technews.tw/2026/11/27/ai-company-bankruptcy-triggers-privacy-crisis/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://infosecu.technews.tw/2026/11/27/ai-company-bankruptcy-triggers-privacy-crisis/",
+              "published_at": "2026-11-27T03:10:46+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_24ff0fb285991d3c_26",
+          "category": "business_market",
+          "title": "Meta 擴大以 AI 審核內容並縮減人力，員工憂誤判與政治黑箱",
+          "original_title": "Meta 大裁人工審核力推 AI，員工憂演算法成政治黑箱直言：真的是一團亂",
+          "published_at": "2026-11-27T02:00:21+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Meta 員工指出，公司轉向以 AI 審核內容並裁減相關人力，部分團隊人數減少一半至三分之二，誤判與申訴管道縮減引發疑慮。",
+            "員工表示，系統結合大型語言模型與舊有過濾演算法，難以掌握語境，尤其容易誤判非英語內容；自動化處理也可能擴大錯誤影響。",
+            "監測組織 Repro Uncensored 記錄的 Meta 平台帳號下架案例，從 2025 年全年 210 起增至 2026 年上半年 657 起；員工認為 AI 可能是因素之一，但未排除政治考量。",
+            "Meta 否認依政治立場執法，並稱較先進 AI 系統平均比人工少犯 13% 的錯誤，且多查出 10% 的實際違規內容。"
+          ],
+          "why_it_matters": "大型社群平台擴大自動化審核，可能提高執法效率，也使誤判規模、透明度與申訴保障成為關鍵問題。",
+          "divergent_views": "員工擔憂 AI 審核誤判頻繁、缺乏透明度且可能涉及政治考量；Meta 則否認政治偏見，主張 AI 準確率優於人工，並提供申訴機制。",
+          "primary_url": "https://technews.tw/2026/11/27/meta-ai-moderation-internal-concerns/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/meta-ai-moderation-internal-concerns/",
+              "published_at": "2026-11-27T02:00:21+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_64eaad4406c3d0c1_67",
+          "category": "business_market",
+          "title": "台股跌破千點後守住三萬九，外資期貨淨空單達10.6萬口",
+          "original_title": "外資期貨空單飆 10.6 萬口創天量，選前最後攤牌死守 3 萬 9，PCB 與記憶體率先亮燈反攻",
+          "published_at": "2026-11-27T02:00:23+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "報導指出，台股26日盤中跌至38,195點後反彈，終場下跌971點、收在39,151點，跌幅約2.4%。",
+            "外資當日賣超491億元、連續9個交易日賣超，期貨淨空單升至約10.6萬口；三大法人合計賣超132億元。",
+            "大盤重挫之際，部分PCB與記憶體股反彈漲停。報導認為，後續走勢將取決於三萬九關卡、外資部位及國際科技股表現。"
+          ],
+          "why_it_matters": "外資大量期貨淨空單與現貨賣壓反映台股短期波動風險升高，而電子族群能否延續反彈將影響市場信心。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/foreign-investors-futures-shorts-hit-record-106k-pre-election-39k-held-pcb-memory-rebound/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/foreign-investors-futures-shorts-hit-record-106k-pre-election-39k-held-pcb-memory-rebound/",
+              "published_at": "2026-11-27T02:00:23+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_6470d5510e5936e4_78",
+          "category": "business_market",
+          "title": "沙烏地阿美吉贊煉油廠遇襲停部分作業，布蘭特原油升破96美元",
+          "original_title": "中東不平靜、沙烏地煉油廠遭襲  油價跳高",
+          "published_at": "2026-11-27T07:30:52+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "沙烏地能源部表示，沙烏地阿美吉贊煉油廠遇襲起火，造成一人死亡、多人受傷，部分作業暫停；火勢已受控，損失仍待評估。",
+            "吉贊煉油廠設計原油日處理量最高為40萬桶，但受影響產能及復工時間尚未公布。伊朗另稱兩艘油輪在荷莫茲海峽觸雷起火。",
+            "中東供應中斷疑慮推升布蘭特原油期貨至每桶96美元以上；市場也關注OPEC+即將討論的2027年產量政策。"
+          ],
+          "why_it_matters": "中東煉油設施與航道面臨的安全風險，可能推升能源價格並影響全球供應預期。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/middle-east-unrest-saudi-refinery-attack-surging-oil-prices/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/middle-east-unrest-saudi-refinery-attack-surging-oil-prices/",
+              "published_at": "2026-11-27T07:30:52+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_7d4cf2078ecec1fc_92",
+          "category": "business_market",
+          "title": "奧馳亞評估全現金收購帝國菸草，傳日本菸草擬聯手拆分業務",
+          "original_title": "奧馳亞評估併購帝國菸草  傳日本菸草有意聯手",
+          "published_at": "2026-11-27T03:20:58+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "美國菸草巨頭奧馳亞證實正考慮收購英國帝國菸草，若出價可能採全現金交易；帝國菸草表示尚未收到提案或接觸。奧馳亞須於12月24日倫敦時間下午5時前表態。",
+            "外媒引述知情人士指出，日本菸草可能與奧馳亞聯手，分別接手帝國菸草的美國及美國以外業務；相關安排尚未獲證實。",
+            "帝國菸草收購消息傳出前市值約300億美元，消息公布當日股價上漲14.85%；若交易成真，可能重塑菸草產業版圖，並涉及反壟斷審查。"
+          ],
+          "why_it_matters": "潛在交易涉及市值約300億美元的菸草企業，若成局可能改變全球市場分工，但目前仍處於評估階段。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/marlboro-maker-altria-explores-takeover-of-uks-imperial-brands/",
+              "published_at": "2026-11-27T03:20:58+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_04daa591a7410170_7",
+          "category": "business_market",
+          "title": "TrendForce：DRAM需求能見度下降，基本情境下合約價恐自2028年首季下跌",
+          "original_title": "需求能見度低、供應鏈轉趨保守，2028 年 DRAM 合約價走跌風險升溫",
+          "published_at": "2026-11-27T07:25:39+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "TrendForce指出，資料中心建置前景、地緣政治及融資政策的不確定性，使供應鏈重新檢視2027至2028年產銷規劃，DRAM採購動能略為放緩。",
+            "基本情境下，一般型DRAM價格漲幅將在2027年逐季收斂，下半年可能持平，並因供給增加及伺服器出貨增速放緩，自2028年第一季起全面下跌。",
+            "悲觀情境假設伺服器代工廠縮減採購、供應鏈去庫存及管制趨嚴，價格可能提前於2027年第四季反轉下跌，並在2028年跌幅擴大。"
+          ],
+          "why_it_matters": "若需求成長不及產能擴張，DRAM價格轉跌可能影響記憶體廠獲利與資料中心採購成本。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/low-demand-visibility-conservative-supply-chains-2028-dram-contract-price-decline-risk/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/low-demand-visibility-conservative-supply-chains-2028-dram-contract-price-decline-risk/",
+              "published_at": "2026-11-27T07:25:39+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_8ca00c6e9f0ebd05_21",
+          "category": "business_market",
+          "title": "傳美國算力管制與防蒸餾措施延緩月之暗面模型開發，Kimi K4 恐延至 2027 年中",
+          "original_title": "美防堵奏效？傳 Kimi 更新延宕  轉蒸餾 Google、Meta 模型",
+          "published_at": "2026-11-27T01:30:56+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "據知情人士透露，美國限制中國企業透過海外資料中心取得先進晶片算力，加上 AI 業者加強防堵模型蒸餾，可能延緩月之暗面的模型更新；下一代 Kimi K4 恐至 2027 年年中推出。",
+            "月之暗面內部估計，若完全失去海外算力，重大模型更新週期可能從約六個月延長至一年或更久；公司正尋求歐洲算力，並計畫接洽中國晶片製造商。",
+            "報導指出，月之暗面已開始利用 Google 與 Meta 模型進行蒸餾；另一家中國業者智譜的 GLM-5.5 也可能因防蒸餾措施及算力限制延後至 2027 年第一季或更晚。"
+          ],
+          "why_it_matters": "算力限制與防蒸餾措施可能拉長中國 AI 業者的開發週期，並促使其尋求替代算力與訓練資料來源。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development/",
+              "published_at": "2026-11-27T01:30:56+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_423053ce0acc8ad7_27",
+          "category": "business_market",
+          "title": "廣達交易告吹後，友達以197億元將華亞廠出售予矽品",
+          "original_title": "廣達退出、矽品接手，友達華亞廠 197 億元交易案再拍板",
+          "published_at": "2026-11-27T09:49:18+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "友達董事會通過將桃園龜山華亞廠不動產及相關設施，以未稅新台幣197億元出售予日月光投控旗下矽品，預估處分利益約104億元。",
+            "交易標的包括約1.97萬坪土地、4.93萬坪建物及附屬設備；原與廣達的交易因廠房使用規格及交付時程未達共識而終止。",
+            "矽品尚未公布華亞廠的具體產能配置及投產時程；友達則可藉交易推進資產活化。"
+          ],
+          "why_it_matters": "這筆交易有助友達活化資產，也可能影響矽品未來的半導體封測產能布局。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/auo-spil/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/auo-spil/",
+              "published_at": "2026-11-27T09:49:18+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_940a4530d68e43a2_33",
+          "category": "business_market",
+          "title": "AI 資料中心建置帶動澳洲第三季民間資本支出季增 12.2%，創 15 年最大增幅",
+          "original_title": "AI 投資熱翻天  澳洲企業資本支出創 15 年最強",
+          "published_at": "2026-11-27T03:50:48+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "澳洲統計局公布，第三季民間資本支出季增 12.2%，高於市場預期的 4.4%，為 2011 年礦業投資熱潮以來最大增幅。",
+            "經通膨調整後，第三季民間資本支出達 595 億澳元；資訊媒體與電信業支出成長 87%，主要來自資料中心採購伺服器機櫃及運算設備。",
+            "企業將 2026 至 2027 財政年度資本支出預估上修 11.8% 至 2,237 億澳元，但資料中心設備多仰賴進口，將部分抵銷投資對澳洲經濟成長的帶動效果。"
+          ],
+          "why_it_matters": "AI 基礎建設正成為澳洲企業投資的重要動力，但其對國內經濟的實際貢獻仍取決於進口設備占比。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/ai-investment-drives-australian-capital-spending-to-15-year-high/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/ai-investment-drives-australian-capital-spending-to-15-year-high/",
+              "published_at": "2026-11-27T03:50:48+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_bec27179b79cb60b_42",
+          "category": "business_market",
+          "title": "五角大廈接洽通用、福特與麥格納，尋求擴大軍用無人機量產",
+          "original_title": "從造車到國防工業，底特律將成無人機製造重鎮",
+          "published_at": "2026-11-27T03:21:11+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "美國國防部與通用汽車、福特及麥格納初步接觸，希望借重汽車產業的量產能力製造軍用無人機；目前尚未簽署無人機生產合約。",
+            "美軍計畫未來數年採購數百萬架無人機，市場規模估計每年可達 200 億至 300 億美元，並希望藉由擴大國內生產降低對中國供應鏈的依賴。",
+            "車廠可提供自動化產線、供應商網絡與熟練人力，但仍顧慮利潤、訂單穩定性、設備投資及聲譽風險；福特表示目前討論主要集中於軍用車輛與衛星業務。"
+          ],
+          "why_it_matters": "若合作成形，汽車產業的量產能力可能重塑美國軍用無人機供應鏈，但實際規模仍取決於合約與企業投資意願。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/from-automaking-to-defense-detroit-set-to-become-a-major-hub-for-drone-manufacturing/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/from-automaking-to-defense-detroit-set-to-become-a-major-hub-for-drone-manufacturing/",
+              "published_at": "2026-11-27T03:21:11+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_e9c26cfb481e2c57_50",
+          "category": "business_market",
+          "title": "AI 購物助理搶攻美國假期商機，Google、Meta、OpenAI 與 Amazon 競逐購物入口",
+          "original_title": "AI 購物助理迎假期大考：Google、Meta、OpenAI 搶進，Amazon 築牆護今年逾 800 億美元廣告事業",
+          "published_at": "2026-11-27T05:04:07+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Google、Meta 與 OpenAI 推動跨零售商的 AI 購物服務；Amazon 則傾向將顧客留在自家平台，並推廣 Alexa for Shopping。",
+            "Google 推出跨零售商購物車 Universal Cart；Meta 提供符合資格的 90 天價格保障；Amazon 測試透過簡訊使用 Alexa 比較商品。",
+            "Adobe 預估，美國假期購物季零售網站的 AI 輔助流量將超過去年兩倍；麥肯錫則估計代理式商務到 2030 年可在美國創造 1 兆美元經濟活動。",
+            "AI 購物助理可能改變商品搜尋與廣告流量分配，但其推薦品質不穩定，部分零售商也尚未準備好開放助理搜尋網站。"
+          ],
+          "why_it_matters": "AI 助理若成為主要購物入口，可能重塑電商導購與數位廣告競爭格局，但普及速度仍有不確定性。",
+          "divergent_views": null,
+          "primary_url": "https://techorange.com/2026/11/27/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "TechOrange 科技報橘",
+              "url": "https://techorange.com/2026/11/27/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "published_at": "2026-11-27T05:04:07+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_0f7cbac294669ac9_88",
+          "category": "business_market",
+          "title": "馬斯克稱將向美國孩童贈送 SpaceX 股票，並提出高度假設性估值",
+          "original_title": "SpaceX 每股價值上看 95 億美元？馬斯克籲千萬別賣",
+          "published_at": "2026-11-27T02:40:22+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "馬斯克表示，美國孩童將各獲兩股 SpaceX 股票，分別由公司及他個人提供；公司贈股預計於12月移轉，個人贈股則待2027年6月持股禁售期屆滿後移轉。SpaceX先前承諾向每個有效的「川普帳戶」贈送一股。",
+            "馬斯克宣稱，若 SpaceX 實現跨星球生存並利用太陽能量的百萬分之一，公司價值可能達目前全球經濟規模的100萬倍；外媒據此推算，在股權未稀釋的假設下，每股價值約95億美元。馬斯克承認這些目標極難達成，並非確定的估值預測。",
+            "報導稱美國聯邦通訊委員會已批准 SpaceX 部署100萬顆 AI 運算衛星；亞馬遜此前質疑計畫的可行性，認為部署可能需要數百年。"
+          ],
+          "why_it_matters": "贈股計畫擴大了 SpaceX 股權受益範圍，但其長期估值與太空資料中心前景仍高度取決於尚未實現的技術與商業目標。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/musk-urges-investors-not-to-sell-spacex-shares/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/musk-urges-investors-not-to-sell-spacex-shares/",
+              "published_at": "2026-11-27T02:40:22+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_4c8c6ed9d8b72991_106",
+          "category": "business_market",
+          "title": "瑞銀預測中國國產 AI 晶片2028年本土市占率達88%，供應瓶頸仍存",
+          "original_title": "美出口限令加速轉變！瑞銀：中國產 AI 晶片 2028 年市占率將突破 88%",
+          "published_at": "2026-11-27T09:12:30+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "瑞銀預測，中國國產 AI 處理器在本土市場的市占率將於2027年達83%，2028年升至88%，主要取代海外業者的市占率。",
+            "瑞銀估計，中國國產 AI 加速器年出貨量將從2025年的170萬顆增至2030年逾1,000萬顆；但高頻寬記憶體短缺及先進製造產能有限，可能限制近期供應。",
+            "瑞銀看好寒武紀的規模、效能與雲端客戶關係，以及壁仞科技的供應鏈合作優勢；美國出口管制與中國追求技術自主，也將加速國產晶片生態系發展。"
+          ],
+          "why_it_matters": "中國國產 AI 晶片市占率若如預期成長，可能重塑當地運算供應鏈與海外晶片業者的市場布局。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/ubs-see-chinese-ai-chip-market-by-2028/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/ubs-see-chinese-ai-chip-market-by-2028/",
+              "published_at": "2026-11-27T09:12:30+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_00b6e7298d0eb2b2_17",
+          "category": "business_market",
+          "title": "Talkie 涉向未成年人傳送性暗示訊息，蘋果全球 App Store 下架該應用程式",
+          "original_title": "涉向未成年人傳性暗示訊息，蘋果下架 AI 聊天機器人 Talkie",
+          "published_at": "2026-11-27T06:50:48+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "媒體報導 MiniMax 旗下 AI 陪伴應用程式 Talkie 的角色曾向兒童傳送性暗示及辱罵性訊息後，蘋果將該程式自全球 App Store 下架。",
+            "Talkie 在 App Store 與 Google Play 均列為 18 歲以上，但兒童安全倡議人士批評其採自行通報年齡的驗證方式過於寬鬆。",
+            "Talkie 與中文版星野在 2024 年貢獻 MiniMax 逾六成收入；截至 2026 年 10 月，Talkie 應用程式與網站的每月活躍使用者約為 1,100 萬人。"
+          ],
+          "why_it_matters": "事件凸顯 AI 陪伴產品的未成年人保護與年齡驗證風險，也可能影響平台上架政策及開發商營收。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/apple-pulls-minimax-ai-chatbot-from-app-store-over-child-safety-concerns/",
+              "published_at": "2026-11-27T06:50:48+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_d925ac0a12c12488_29",
+          "category": "business_market",
+          "title": "貝瑞轉發報告警示 AI 基建融資風險，甲骨文信用違約交換利差擴大",
+          "original_title": "AI 狂潮暗藏 2007 年次貸翻版！大賣空貝瑞示警：CDS 已拉響信用警報",
+          "published_at": "2026-11-27T05:21:29+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "投資人麥可·貝瑞轉發《Groundbreaker》報告，該報告認為 AI 資料中心融資依賴科技巨頭提供信用支撐，可能累積類似金融危機前的信用風險。",
+            "報告稱，甲骨文的信用違約交換（CDS）利差由一年前的 76 個基點升至 316 個基點，11 月 26 日追蹤數據進一步達 363 個基點；CoreWeave 則達 1,314 個基點。",
+            "報告估計，超大型資料中心園區貸款成數普遍達建置成本的 85% 至 95%；若承租人或擔保人的信用風險升高，可能壓低抵押資產估值並增加融資壓力。"
+          ],
+          "why_it_matters": "若信用成本持續上升，AI 資料中心的高槓桿融資與擴建計畫可能面臨更大壓力。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/subprime-mortgage-crisis/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/subprime-mortgage-crisis/",
+              "published_at": "2026-11-27T05:21:29+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_9ea2c12ea9d94743_52",
+          "category": "business_market",
+          "title": "Aerospacelab 啟用比利時衛星工廠，承攬歐盟 IRIS² 計畫 264 顆衛星",
+          "original_title": "歐洲最大衛星工廠啟用  力拚抗衡 Starlink",
+          "published_at": "2026-11-27T01:40:45+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "比利時衛星製造商 Aerospacelab 揭幕沙勒羅瓦新工廠，目標於 2028 年底前啟動生產，最高年產能為 500 顆衛星。",
+            "該公司取得價值 24 億歐元的合約，將生產歐盟 IRIS² 計畫 348 顆衛星中的 264 顆；公司並計畫更名為 Ectro。",
+            "IRIS² 預計 2029 年底前發射首批衛星、2030 年起逐步提供服務，旨在強化歐洲衛星通訊自主性，但規模仍落後已部署逾 1.1 萬顆衛星的 Starlink。"
+          ],
+          "why_it_matters": "新廠與 IRIS² 合約有助歐洲建立自主衛星製造及通訊能力，但能否縮小與 Starlink 的差距仍取決於後續產能和部署進度。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/europes-largest-satellite-factory-opens-in-push-to-rival-musk/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/europes-largest-satellite-factory-opens-in-push-to-rival-musk/",
+              "published_at": "2026-11-27T01:40:45+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_66e4e8f3c61ff1e9_61",
+          "category": "business_market",
+          "title": "哈佛團隊開發微型紫外光晶片，輸出功率較同類裝置提升約 120 倍",
+          "original_title": "哈佛開發微型紫外光晶片，輸出功率提升 120 倍、助量子電腦微縮",
+          "published_at": "2026-11-27T08:20:14+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "哈佛大學領銜的團隊開發微型光子裝置，可在晶片內將紅光轉換為紫外光，研究成果發表於《Nature Communications》。",
+            "裝置採用薄膜鈮酸鋰與「側壁極化」製程，降低紫外光傳輸損耗；在 390 奈米波長下輸出 4.2 毫瓦，約為先前同類裝置的 120 倍。",
+            "這項技術有望縮小離子阱量子電腦所需的光源設備，未來也可能應用於原子鐘與環境感測器。"
+          ],
+          "why_it_matters": "晶片級紫外光源若能進一步整合與擴充，可能降低量子運算及精密光學系統的體積與複雜度。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/harvard-micro-uv-chip/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/harvard-micro-uv-chip/",
+              "published_at": "2026-11-27T08:20:14+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_7e656200edc5c2d6_77",
+          "category": "business_market",
+          "title": "報導稱川普介入輝達執行長人事，並否認黃仁勳構成國安威脅",
+          "original_title": "川普稱黃仁勳絕非國安威脅，稱助他復職對世界是件好事",
+          "published_at": "2026-11-27T06:30:01+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "報導稱，美國總統川普表示，依其掌握的資訊，輝達執行長黃仁勳不構成國家安全威脅，並稱政府曾協助推動黃仁勳復職。",
+            "文章聲稱黃仁勳曾因涉及中國情報與晶片出口管制的疑慮而辭職，之後獲董事會安排復職；上述人事異動及相關指控尚無其他提供的資料佐證，司法部是否調查也未獲證實。",
+            "報導稱，輝達股價在黃仁勳請辭後重挫，復職後部分回升，但未提供具體漲跌數據。"
+          ],
+          "why_it_matters": "若報導屬實，事件將牽涉輝達經營穩定、先進晶片出口管制及美國政府對企業人事的介入。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/trump-jensen-huang-not-national-security-threat-return-office-good-world/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/trump-jensen-huang-not-national-security-threat-return-office-good-world/",
+              "published_at": "2026-11-27T06:30:01+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_26be9ec3c713869c_74",
+          "category": "business_market",
+          "title": "Aerospacelab 比利時衛星工廠開幕，將支援歐盟 IRIS² 通訊網",
+          "original_title": "迎戰星鏈！歐洲最大衛星工廠比利時開幕，年產可達 500 顆、撐起歐盟 IRIS² 計畫",
+          "published_at": "2026-11-27T06:12:08+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.7,
+          "is_top_story": false,
+          "summary_bullets": [
+            "比利時衛星製造商 Aerospacelab 的新工廠於 11 月 24 日開幕，計畫支援歐盟 IRIS² 衛星通訊網的建置。",
+            "工廠占地 2 萬平方公尺，預計 2028 年底啟動量產，滿載產能為每年最多 500 顆衛星。",
+            "Aerospacelab 已獲 SpaceRISE 聯盟選為 IRIS² 低軌衛星承包商，合約金額達 24 億歐元；該計畫旨在降低歐洲對美國衛星通訊設施的依賴。"
+          ],
+          "why_it_matters": "新廠與 IRIS² 計畫可望提升歐洲衛星量產及自主通訊能力，並為市場帶來星鏈以外的選擇。",
+          "divergent_views": null,
+          "primary_url": "https://techorange.com/2026/11/27/europe-satellite-factory-iris2-starlink/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "primary_content_quality": "summary_only",
+          "sources": [
+            {
+              "name": "TechOrange 科技報橘",
+              "url": "https://techorange.com/2026/11/27/europe-satellite-factory-iris2-starlink/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "published_at": "2026-11-27T06:12:08+00:00",
+              "content_quality": "summary_only"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_7593447cd5435ebe_20",
+          "category": "business_market",
+          "title": "SAP 傳研議裁減至少 1 萬個職位，配合 AI 與雲端轉型",
+          "original_title": "歐洲軟體龍頭 SAP 傳擬裁員萬人  加速 AI 轉型",
+          "published_at": "2026-11-27T04:20:19+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "彭博引述知情人士指出，SAP 正研議新一輪組織重整，可能裁減至少 1 萬個職位，約占全球員工的 9%，主要涉及產品開發、工程與銷售部門。",
+            "相關方案尚未與勞方協商，實際規模可能調整；SAP 未回應報導。公司 2024 年曾進行涉及約 1 萬個職位的重整。",
+            "SAP 正將 AI 功能嵌入企業系統，並加速轉向雲端訂閱服務；其第三季營收年增 13% 至 103 億歐元，其中雲端業務貢獻 67 億歐元。"
+          ],
+          "why_it_matters": "若計畫成真，將反映大型企業軟體供應商在 AI 與雲端轉型下調整人力配置的趨勢。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/sap-weighs-cutting-at-least-10000-positions-in-ai-restructuring/",
+              "published_at": "2026-11-27T04:20:19+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_7229d6feab92d8fa_18",
+          "category": "business_market",
+          "title": "台灣10月景氣燈號連11個月亮紅燈，創史上最長紀錄",
+          "original_title": "10 月景氣燈號連 11 紅，刷新史上最長紅燈紀錄",
+          "published_at": "2026-11-27T08:50:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "國發會公布10月景氣燈號續亮紅燈，連續11個月呈現紅燈，刷新史上最長紀錄。",
+            "景氣對策信號綜合判斷分數為40分，較9月減少1分；製造業營業氣候測驗點由黃紅燈轉為綠燈，其餘8項指標燈號不變。",
+            "國發會指出，AI應用深化及需求強勁，支撐國內經濟維持穩健。"
+          ],
+          "why_it_matters": "連續紅燈顯示台灣景氣維持熱絡，AI需求仍是觀察未來經濟走勢的重要因素。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/october-economic-indicator-stays-red-for-11th-straight-month/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/october-economic-indicator-stays-red-for-11th-straight-month/",
+              "published_at": "2026-11-27T08:50:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_18e7459b9cb6df75_31",
+          "category": "business_market",
+          "title": "小鵬計畫2027年量產人形機器人IRON，先投入汽車門市訓練",
+          "original_title": "小鵬人形機器人明年量產、先當門市店員，顧宏地：商用站穩後 1～2 年才考慮進家庭",
+          "published_at": "2026-11-27T06:18:33+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "小鵬計畫2027年1月量產IRON，第一季在自家門市受訓、第二季上市，下半年開始交付；相關時程與公司先前公布的計畫不同。",
+            "IRON配備76個自由度、逾1,500個觸覺感測點與3顆自研圖靈AI晶片，並採用結合機體控制、即時反應與任務規劃的三層物理AI架構。",
+            "小鵬規劃以硬體銷售、軟體訂閱及開放平台商業化；聯席總裁顧宏地表示，須先成功部署於商用場域，再經約1至2年才可能開始考慮家庭部署。"
+          ],
+          "why_it_matters": "小鵬的量產與門市部署計畫將檢驗人形機器人的商業可行性，但通用工作能力與家庭安全仍是關鍵挑戰。",
+          "divergent_views": null,
+          "primary_url": "https://techorange.com/2026/11/27/xpeng-iron-humanoid-household-chores-china-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "TechOrange 科技報橘",
+              "url": "https://techorange.com/2026/11/27/xpeng-iron-humanoid-household-chores-china-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "published_at": "2026-11-27T06:18:33+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_b57574b09859d26a_95",
+          "category": "business_market",
+          "title": "模組化資料中心加速 AI 算力部署，輝達、台達電與東元推貨櫃方案",
+          "original_title": "伸縮自如的 AI 算力，模組化資料中心究竟是什麼？",
+          "published_at": "2026-11-27T02:50:38+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "模組化資料中心將運算、供電、散熱與網路設施標準化，透過工廠預製及現場組裝，縮短建置時間並支援分階段擴充。",
+            "輝達 DSX POD 單一貨櫃可容納 7 座 Vera Rubin AI 機櫃；在現場配套設施就緒的條件下，設備部署最快可由 6 個月縮短至 14 天，預計 2027 年初交付。",
+            "台達電稱其預製方案可減少最多 60% 現場建置時間；東元則與 GMI Cloud 在日本建置首期 6.4 MW 的模組化資料中心，目標於 9 個月內交付。"
+          ],
+          "why_it_matters": "模組化方案可望降低 AI 基礎設施部署複雜度，並為電源、散熱及伺服器供應鏈創造商機。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/data-centers-flexible-scalable-exploring-appeal-modular-design/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/data-centers-flexible-scalable-exploring-appeal-modular-design/",
+              "published_at": "2026-11-27T02:50:38+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_6488d769b87fcd21_15",
+          "category": "business_market",
+          "title": "韓國研究人員評估：長鑫存儲 4F² DRAM 單元尺寸未占優，量產良率具挑戰",
+          "original_title": "韓國指中國長鑫存儲 4F² 架構 DRAM 晶片尺寸沒優勢，量產不容易",
+          "published_at": "2026-11-27T06:00:15+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "長鑫存儲計畫推出採用 4F² 架構的伺服器用 DDR5 RDIMM；韓國半導體研究人員認為，該技術距離正式量產仍需一年半以上。",
+            "研究人員估計，長鑫 4F² DRAM 單元面積為 888 平方奈米，大於三星與 SK 海力士現行 6F² 產品的 726 平方奈米；導入垂直通道電晶體後，將良率提升至 85% 以上也有難度。",
+            "長鑫表示將於 2026 年向客戶供應樣品；業界另持續投入 3D DRAM，美光已宣布放棄 4F² 技術。"
+          ],
+          "why_it_matters": "此評估顯示架構縮小不必然帶來實際密度或量產優勢，也凸顯 DRAM 廠商在 4F² 與 3D DRAM 技術路線上的競爭。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/south-korea-believes-changxin-memory-technologies-4f%c2%b2-dram-architecture-lacks-a-size-advantage/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/south-korea-believes-changxin-memory-technologies-4f%c2%b2-dram-architecture-lacks-a-size-advantage/",
+              "published_at": "2026-11-27T06:00:15+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_60f78de79a0fd260_39",
+          "category": "business_market",
+          "title": "德銀預期科技股拋售數週內平息，標普500指數2027年底上看9,000點",
+          "original_title": "德銀估科技股拋售潮近尾聲  看好標普上攻 9,000 點",
+          "published_at": "2026-11-27T06:20:52+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "德意志銀行預期近期科技股跌勢可望在數週內平息，並看好標普500指數於2027年底升至9,000點，較11月25日收盤高出逾25%。",
+            "德銀預估大型雲端業者資本支出增速將於明年見頂，標普500成分股2027年每股盈餘成長19%；文章指出，費城半導體指數已較年內高點回檔約四成。",
+            "德銀認為企業獲利成長、資金流入及庫藏股買回將支撐美股，配置上看好超大型股、科技股、工業股及金融服務股。"
+          ],
+          "why_it_matters": "德銀的樂觀預測反映市場對AI投資回報與企業獲利前景的關注，但目標能否實現仍取決於後續獲利及資金流向。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/deutsche-bank-sees-sp-500-reaching-9000/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/deutsche-bank-sees-sp-500-reaching-9000/",
+              "published_at": "2026-11-27T06:20:52+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_4e4b51bbeceb6ee3_58",
+          "category": "business_market",
+          "title": "美空軍以28.2億美元增購15架波音KC-46A，加油系統缺陷影響後續訂單",
+          "original_title": "美軍再度採購 15 架 KC-46A，加油系統缺陷牽動後續訂單",
+          "published_at": "2026-11-27T06:56:13+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "美國國防部以28.2億美元向波音採購15架KC-46A空中加油機，為2011年原始合約下最後一批量產訂單；美空軍另規劃最多增購75架。",
+            "KC-46A現行遠端視覺系統在部分光線下難以清楚呈現受油口，加油管也有待改良；配備新攝影機與4K立體顯示器的RVS 2.0已完成第一階段飛行測試。",
+            "原始合約採固定總價，波音須吸收超支，至今已認列逾70億美元計畫損失；美空軍表示，後續採購決定須待部分缺陷處理。"
+          ],
+          "why_it_matters": "加油系統改善進度將影響美軍機隊可用率，以及波音取得後續訂單與控制計畫損失的能力。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/usaf-bought-15-new-kc-46as/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/usaf-bought-15-new-kc-46as/",
+              "published_at": "2026-11-27T06:56:13+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_919087f91b6853ed_69",
+          "category": "business_market",
+          "title": "三星半導體成立專責機器人團隊，規劃 2028 年起導入晶圓廠",
+          "original_title": "三星半導體成立專責機器人團隊！預計 2028 年進駐晶圓廠，全面降低產線人工依賴",
+          "published_at": "2026-11-27T02:25:24+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "據韓媒報導，三星電子在半導體事業部成立機器人團隊，負責開發並推動晶圓廠機器人應用，以降低產線對人工的依賴。",
+            "三星規劃於 2026 年內敲定外部合作夥伴、2027 年評估技術，並自 2028 年起部署無人搬運車、自主移動機器人及機械手臂，處理維護、補給與搬運等工作。",
+            "三星半導體前段製程自動化程度約為 90%，後段封裝約為 80%；新團隊是其 2030 年前推動 AI 與機器人自動化工廠計畫的一部分。"
+          ],
+          "why_it_matters": "三星將自動化擴展至晶圓廠維護與營運環節，可能影響半導體製造效率及機器人供應鏈需求。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/samsung-roadmap-reportedly-puts-unmanned-vehicles-self-driving-robots-and-robotic-arms-inside-its-chip-fabs-by-2028/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/samsung-roadmap-reportedly-puts-unmanned-vehicles-self-driving-robots-and-robotic-arms-inside-its-chip-fabs-by-2028/",
+              "published_at": "2026-11-27T02:25:24+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_51d341dedebf420c_70",
+          "category": "business_market",
+          "title": "旺矽擴大探針卡產能，花旗估2027年營收成長68%並維持買進",
+          "original_title": "旺矽產能再擴大！花旗看好明年營收超預期，維持買進、高推薦評級",
+          "published_at": "2026-11-27T01:38:49+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "旺矽受惠AI伺服器、ASIC及高速網通需求，上修VPC月產能目標至300萬個、MEMS月產能目標至700萬個。",
+            "旺矽預估2027年營收年增逾50%、毛利率維持60%以上；花旗估計營收年增68%，並上修2027及2028年獲利預測。",
+            "旺矽布局共同封裝光學（CPO）測試，預計2027年開始出貨；公司預估CPO業務占營收比重於2027年達個位數百分比、2028年達低雙位數百分比。",
+            "花旗維持買進及高度推薦評級，但因市場不確定性升高，將目標價由7,200元下調至5,500元。"
+          ],
+          "why_it_matters": "探針卡產能擴張與CPO測試布局，反映AI晶片及高速互連需求正帶動半導體測試供應鏈成長。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/citi-see-2026-mpi-vpc-mems/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/citi-see-2026-mpi-vpc-mems/",
+              "published_at": "2026-11-27T01:38:49+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_a44ffbffc2d9d1e8_83",
+          "category": "business_market",
+          "title": "愛立信推出 ISAC 系統，以 5G 基地台偵測追蹤無人機",
+          "original_title": "整合感測通訊！愛立信推 ISAC 系統，將無人機偵測導入行動網路",
+          "published_at": "2026-11-27T09:29:47+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "愛立信推出整合感測與通訊的 ISAC 系統，利用行動網路偵測及追蹤未連網的無人機，預計 2027 年起與部分客戶進行小規模商用測試。",
+            "系統結合具感測功能的無線設備、邊緣運算、AI 與訊號處理，由多個基地台分析物體反射的無線電訊號；測試中已能在公里級距離追蹤微型無人機並提供 3D 定位。",
+            "愛立信已與 AT&T 等電信業者及合作夥伴展示相關技術，未來可應用於關鍵基礎建設防護及低空監測，並為電信業者開拓新服務。"
+          ],
+          "why_it_matters": "此技術有望運用既有行動網路擴大低空監測範圍，並成為 5G 邁向 6G 的應用方向之一。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/ericsson-isac/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/ericsson-isac/",
+              "published_at": "2026-11-27T09:29:47+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_e757c085ce2dcd00_86",
+          "category": "business_market",
+          "title": "X-energy 看好台灣先進核能市場，德州 Xe-100 工業核電計畫獲建造許可",
+          "original_title": "專訪》第四代核能來敲門，X-energy 眼中台灣的新機會",
+          "published_at": "2026-11-27T08:00:05+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "美國先進核能開發商 X-energy 表示看好台灣市場，認為半導體與石化產業對穩定電力及工業蒸汽的需求，可能帶來第四代核能應用機會。",
+            "Xe-100 為單座 80 MW 的小型模組化反應爐，採氦氣冷卻及 TRISO 燃料，目標容量因數超過 95%；其德州首座核電廠的緊急應變規劃區獲美國核能管理委員會認可為不超過反應爐建築外 400 公尺。",
+            "X-energy 與陶氏化學合作的德州 Long Mott 計畫擬設置四座 Xe-100，已取得建造許可；首批反應爐預計 2030 年代初期商業運轉，但高含量低濃縮鈾供應仍是挑戰。"
+          ],
+          "why_it_matters": "先進核能若能克服燃料供應、成本與場址等限制，可能為高耗能產業提供低碳電力及製程熱能的新選項。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/exclusive-interview-fourth-generation-nuclear-energy-x-energy-taiwan-new-opportunities/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/exclusive-interview-fourth-generation-nuclear-energy-x-energy-taiwan-new-opportunities/",
+              "published_at": "2026-11-27T08:00:05+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_b79e62f08ceecfda_108",
+          "category": "business_market",
+          "title": "半導體股遭拋售，SOXL 本週吸金 19 億美元、韓國散戶積極逢低買進",
+          "original_title": "美半導體股遭血洗  韓國散戶急撈底、狂買 SOXL",
+          "published_at": "2026-11-27T05:50:30+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "截至 2026 年 11 月 26 日，三倍做多半導體 ETF「SOXL」本週累計淨流入 19 億美元，其中 23 日單日淨流入 17 億美元；前一週則淨流入 27 億美元。",
+            "韓國散戶在 10 月 20 日至 11 月 19 日淨買超 SOXL 18.5 億美元，使其成為同期韓國投資人淨買超最多的海外股票及基金標的。",
+            "非槓桿半導體 ETF「SMH」11 月迄今也淨流入 29 億美元；SOXL 的資金流入則顯示部分投資人透過槓桿逢低布局，也承擔較大的短期波動風險。"
+          ],
+          "why_it_matters": "槓桿 ETF 大量吸金反映投資人押注半導體股反彈，但槓桿也可能放大後續漲跌與投資損失。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/us-semiconductor-stocks-bloodbath-korean-retail-investors-buy-dip-soxl/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/us-semiconductor-stocks-bloodbath-korean-retail-investors-buy-dip-soxl/",
+              "published_at": "2026-11-27T05:50:30+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_64ffe84c1666d5a4_47",
+          "category": "business_market",
+          "title": "記憶體漲價衝擊低階手機，美國第三季 iPhone 出貨市占升至 57%",
+          "original_title": "記憶體漲價重創 Android 陣營，iPhone 在美市占攀升至 57%",
+          "published_at": "2026-11-27T02:36:21+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Counterpoint Research 指出，2026 年第三季美國智慧型手機出貨量年減 9%；蘋果是主要品牌中唯一出貨量未衰退的業者，市占率由 50% 升至 57%。",
+            "三星市占率由 24% 升至 25%；產品集中於低階市場的 Motorola 受記憶體成本上漲衝擊，市占率由 12% 降至 8%。",
+            "Counterpoint 預期第四季記憶體成本仍將居高，手機漲價及消費者延後換機可能使年底銷售旺季表現偏弱。"
+          ],
+          "why_it_matters": "零組件漲價正改變手機品牌的競爭格局，並可能持續壓抑低階產品供應與消費者換機需求。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/q326-us-smartphone-market/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/q326-us-smartphone-market/",
+              "published_at": "2026-11-27T02:36:21+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_52aa41e8cb8e40c2_90",
+          "category": "business_market",
+          "title": "傳馬斯克向三星爭取記憶體供應未獲特殊待遇，反映 AI 帶動晶片搶購",
+          "original_title": "馬斯克搶記憶體傳碰壁  李在鎔問：還能給什麼？",
+          "published_at": "2026-11-27T06:35:17+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "據《華爾街日報》引述投資人轉述，馬斯克曾向三星提出長期晶片採購承諾及新廠融資擔保，以爭取記憶體供應；三星會長李在鎔則回應其他客戶也提出類似條件。",
+            "馬斯克先前公開稱讚美光的記憶體定價合理，並批評其他供應商要價過高；報導推測這可能與特斯拉的供應談判有關，但未獲證實。",
+            "三星與資本集團拒絕對相關談話置評，特斯拉未回應；此事凸顯 AI 需求帶動記憶體供應緊張，以及供應商在價格談判中的議價能力。"
+          ],
+          "why_it_matters": "記憶體供需與定價壓力可能影響特斯拉等企業的晶片採購成本及長期供應策略。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/samsungs-lee-rejects-musks-memory-chip-offer/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/samsungs-lee-rejects-musks-memory-chip-offer/",
+              "published_at": "2026-11-27T06:35:17+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_cdd1b43497c16481_10",
+          "category": "business_market",
+          "title": "花旗估穎崴2027年測試座需求仍超過供給，給予6,500元目標價",
+          "original_title": "穎崴 2027 年需求仍大於供給，花旗給予 6,500 元目標價",
+          "published_at": "2026-11-27T00:50:51+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "花旗在穎崴法說會後維持買進評等，給予新台幣6,500元目標價，較11月26日盤中股價3,315元高約96.1%。",
+            "穎崴規劃將測試座年產能從2026年的3.82萬組增至2027年的7.8萬組；公司仍預期需求大於供給，產能將限制營收成長。",
+            "公司預估2027年萬針以上測試座出貨占比升至35%，並期待高毛利Cobra探針卡復甦；花旗看好其AI與高效能運算業務成長。"
+          ],
+          "why_it_matters": "穎崴擴產與高針數產品升級反映高階半導體測試需求成長，但未來營收仍可能受產能限制。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/winway-demand-to-continue-exceeding-supply-through-2027/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/winway-demand-to-continue-exceeding-supply-through-2027/",
+              "published_at": "2026-11-27T00:50:51+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_cbc9a30d9d270e43_35",
+          "category": "business_market",
+          "title": "挪威長程廉航 Norse Atlantic 全面停飛，尋求融資以避免破產",
+          "original_title": "難撐高油價  挪威廉航 Norse 全面停飛、瀕破產",
+          "published_at": "2026-11-27T06:00:21+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Norse Atlantic 因財務危機宣布全面停飛，正與投資人商討融資及可能的收購案；若無法取得短期資金，董事會將聲請破產。",
+            "該公司主營長程航線且未對燃油成本避險，受到航空燃油價格上漲衝擊；公司示警財務危機後，股價單日重挫 85%。",
+            "Norse 的困境凸顯長程廉航對燃油價格、票價敏感度及季節性需求波動的脆弱性。"
+          ],
+          "why_it_matters": "Norse 停飛顯示高燃油成本可能危及缺乏避險與資金緩衝的航空公司，並衝擊長程航線供給。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/norse-airline-suspends-flights-nears-bankruptcy-high-oil-prices/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/norse-airline-suspends-flights-nears-bankruptcy-high-oil-prices/",
+              "published_at": "2026-11-27T06:00:21+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_5c7031dd5b94b985_107",
+          "category": "business_market",
+          "title": "傳三星將於 CES 2027 展示人型機器人，韓國機器人概念股多檔漲停",
+          "original_title": "三星傳 CES 秀人型機器人  韓多檔概念股漲停 30%",
+          "published_at": "2026-11-27T07:10:52+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "市場傳出三星電子將於 2027 年 1 月的 CES 首度展示自研人型機器人，帶動韓國機器人概念股走強，多檔個股漲停。",
+            "截至 27 日中午，Zenix Robotics 上漲 29.98%，Cosmo Robotics 與 SP Systems 也觸及漲停；Clobot 上漲 26.85%。",
+            "三星正擴大機器人研發與人才招募，據報計畫評估於 2028 年將自主移動機器人導入半導體產線；但 CES 展示計畫及部分概念股的實際訂單仍未獲確認。"
+          ],
+          "why_it_matters": "三星的機器人布局可能帶動半導體廠自動化及供應鏈需求，但概念股能否轉化為實際營收仍有不確定性。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/south-korean-robotics-stocks-hit-limit-up/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/south-korean-robotics-stocks-hit-limit-up/",
+              "published_at": "2026-11-27T07:10:52+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_b907c20e1502e9f0_11",
+          "category": "business_market",
+          "title": "Volvo Cars 在比利時根特工廠訓練 AEON 人形機器人，目標 2027 年中投入生產",
+          "original_title": "Volvo 首度在工廠導入人形機器人：比利時廠訓練 AEON，2027 年中拚投產",
+          "published_at": "2026-11-27T10:33:08+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Volvo Cars 首度在根特工廠導入 Hexagon Robotics 的 AEON 人形機器人，訓練其執行重複性高或不符合人體工學的工作；預計 2027 年上半年試行，年中投入正式生產。",
+            "AEON 採輪式移動，身高 1.65 公尺、重 60 公斤，最高時速約 8.6 公里，可搬運 10 公斤物品；初期透過員工示範的模仿學習，練習將零件精準放入治具。",
+            "此計畫旨在補足固定式自動化設備，提升汽車製造的安全性與彈性，但正式生產應用仍有待驗證。"
+          ],
+          "why_it_matters": "這項試點可檢驗輪式人形機器人能否在既有工廠環境中協助員工，並擴展至多種製造任務。",
+          "divergent_views": null,
+          "primary_url": "https://techorange.com/2026/11/27/volvo-cars-trains-hexagon-robotics-humanoids-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "TechOrange 科技報橘",
+              "url": "https://techorange.com/2026/11/27/volvo-cars-trains-hexagon-robotics-humanoids-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "published_at": "2026-11-27T10:33:08+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_cbef4707dfc54964_34",
+          "category": "business_market",
+          "title": "《GTA 6》上市後，日本 PS5 週銷量首度超越 Switch 2",
+          "original_title": "〈GTA 6〉帶旺  PS5 日本銷量飆增 2.7 倍、首超 Switch 2",
+          "published_at": "2026-11-27T03:30:15+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "據 Famitsu 統計，11 月 16 日至 22 日，日本 PS5 系列銷量為 41,472 台，首度超越 Switch 2 的 36,817 台；報導將 PS5 銷量成長歸因於《GTA 6》上市。",
+            "PS5 系列週銷量較前一週增加 272%，Switch 2 則減少 13%；日本整體遊戲機銷量增加 44% 至 83,402 台。",
+            "《GTA 6》當週在日本銷售約 20 萬套，登上遊戲軟體銷售榜首，顯示熱門遊戲可能帶動主機需求。"
+          ],
+          "why_it_matters": "大型獨占或熱門遊戲的上市表現，可能短期改變遊戲主機市場的銷售競爭態勢。",
+          "divergent_views": null,
+          "primary_url": "https://ccc.technews.tw/2026/11/27/gta-6-boosts-ps5-sales-past-switch-2-in-japan-for-the-first-time/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://ccc.technews.tw/2026/11/27/gta-6-boosts-ps5-sales-past-switch-2-in-japan-for-the-first-time/",
+              "published_at": "2026-11-27T03:30:15+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_a7fbfe601a18a89a_49",
+          "category": "business_market",
+          "title": "日本防衛省發布新版防衛 AI 願景，強調人類承擔最終判斷與責任",
+          "original_title": "日本提國防 AI 願景，判斷與責任由人類承擔",
+          "published_at": "2026-11-27T08:10:30+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "日本防衛省發布修訂版「防衛 AI 願景」，提出由人類承擔判斷與責任、依法運用、確保安全性與透明性等五項原則。",
+            "預計應用領域包括整合雷達與衛星資料、支援指揮官決策及草擬政策；防衛省也將加強訓練，避免人員過度依賴 AI。",
+            "願景強調避免依賴特定產品或業者，以維持自主選擇與持續運用能力；防衛省預計明年初制定 AI 政策執行計畫。"
+          ],
+          "why_it_matters": "此方針為日本軍事 AI 應用設立人類責任與技術自主原則，可能影響未來系統採購及部署。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/japan-defense-ai-vision-human-judgment-responsibility/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/japan-defense-ai-vision-human-judgment-responsibility/",
+              "published_at": "2026-11-27T08:10:30+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_d351cd3f68cef8d8_63",
+          "category": "business_market",
+          "title": "托尼・法戴爾：OpenAI 與強尼・艾夫合作打造硬體，可能為取得環境資料",
+          "original_title": "「iPod 之父」揭 OpenAI 聯手強尼艾夫做硬體內幕：蘋果死守隱私不放行環境資料",
+          "published_at": "2026-11-27T02:20:32+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "「iPod 之父」托尼・法戴爾認為，OpenAI 與蘋果前設計主管強尼・艾夫合作開發實體裝置，原因之一是蘋果基於隱私考量，不會提供足夠的真實世界資料。",
+            "法戴爾推測，新裝置可能採無螢幕伴隨式設計，透過感測器收集環境資訊，並經由手機連網處理；裝置形式與功能均未獲證實。",
+            "此合作顯示 AI 競爭正延伸至實體裝置入口，也可能加深對資料存取與隱私保護的討論。"
+          ],
+          "why_it_matters": "AI 專用硬體可能改變使用者與 AI 互動的方式，並重新界定平台對情境資料的掌控。",
+          "divergent_views": "法戴爾認為開發硬體旨在繞過蘋果的資料存取限制；OpenAI 則表示，主要原因是 AI 需要不同於傳統電腦與手機的新型硬體載體。",
+          "primary_url": "https://technews.tw/2026/11/27/openai-hardware-inside-story/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/openai-hardware-inside-story/",
+              "published_at": "2026-11-27T02:20:32+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_6a798dd8be09ea38_59",
+          "category": "business_market",
+          "title": "富邦台50 ETF啟動分割投票，暫估1拆7並引發降費呼聲",
+          "original_title": "006208 擬 1 拆 7 一張殺到 3 萬！75 萬股民喊「降管理費」最重要",
+          "published_at": "2026-11-27T01:32:52+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "富邦投信啟動006208分割議案投票，電子投票至12月15日，並於12月18日召開書面受益人會議；議案仍須達法定出席及同意門檻。",
+            "分割倍數暫估為1拆7，依文中平盤價換算，整張買進門檻將從約21萬元降至約3萬元；分割不改變持有資產總價值，實際倍數須依會議通過當日淨值決定。",
+            "截至11月13日，006208受益人數逼近75萬人。部分投資人認為分割有助降低整張交易門檻，也有投資人更關注經理費等長期持有成本。"
+          ],
+          "why_it_matters": "若分割通過，可能降低整張交易門檻並影響投資人交易方式，但不會直接改變投資價值或免除市場風險。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/006208-0050/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/006208-0050/",
+              "published_at": "2026-11-27T01:32:52+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_0a5a172e4187da66_4",
+          "category": "business_market",
+          "title": "X 首推青少年家長監護功能，可限制使用時間與核准新追蹤者",
+          "original_title": "X 首度推出家長監護功能：可限制使用時間、核准追蹤者，但不能讀私訊",
+          "published_at": "2026-11-27T02:55:49+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "X 於 2026 年 11 月 25 日宣布推出首套家長監護功能，適用於 13 至 17 歲用戶；家長與青少年須雙方同意才能建立監護連結。",
+            "家長可設定每日使用時限、核准新追蹤者、限制私訊對象並查看私訊往來帳號，但不能閱讀私訊內容或登入青少年帳號。",
+            "功能推出前數日，美國維吉尼亞州與奧勒岡州因 Grok 生成性化深偽內容而提告；媒體也質疑 X 上的仇恨言論與錯誤資訊對青少年的影響。"
+          ],
+          "why_it_matters": "這項功能讓 X 首度提供青少年使用護欄，也凸顯社群平台須兼顧兒少安全、隱私與內容治理。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/x-implements-parental-controls-for-teen-users/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/x-implements-parental-controls-for-teen-users/",
+              "published_at": "2026-11-27T02:55:49+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_3775026755a018b4_8",
+          "category": "business_market",
+          "title": "碩禾2026年營收拚破百億元，2027年美國太陽能模組產能擬倍增",
+          "original_title": "碩禾今年營收拚破百億，看好明年美國太陽能市場成長",
+          "published_at": "2026-11-27T07:45:57+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "碩禾總經理黃文瑞表示，2026年全年營收有望突破百億元；2027年成長動能將來自太陽能模組、綠電及導電漿業務。",
+            "碩禾2026年前三季營收為77.15億元、毛利率15.50%，歸屬母公司淨利3.46億元，每股盈餘3.77元。",
+            "公司計畫將美國太陽能模組廠產能由2026年的500 MW提高至2027年的1 GW，新產線正在裝設且已接獲訂單；矽負極材料也已獲美國公司採用，預期2027年有機會轉虧為盈。"
+          ],
+          "why_it_matters": "美國太陽能擴產及電池材料訂單有望帶動碩禾營收與獲利成長，但仍取決於產線進度與市場需求。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/giga-solar-revenue-targets-10-billion-this-year-us-solar-growth-next-year/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/giga-solar-revenue-targets-10-billion-this-year-us-solar-growth-next-year/",
+              "published_at": "2026-11-27T07:45:57+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_513f3e3e460af871_32",
+          "category": "business_market",
+          "title": "韓國2026年前三季出生人數年增14.3%，OECD提醒少子化趨勢尚未確定扭轉",
+          "original_title": "少子化危機現轉機，韓國新生兒大增 14.3% 創歷史紀錄",
+          "published_at": "2026-11-27T02:29:01+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "韓國2026年前9個月共有218,896名新生兒，較上年同期增加14.3%，為1981年開始統計以來同期最大增幅；第三季總生育率回升至0.9。",
+            "出生人數回升與疫情後遞延婚育、30多歲人口增加及婚育態度轉變有關；政府也擴大住宅、育兒及育嬰假等支持措施。",
+            "OECD提醒，回升部分源於人口結構與遞延需求，尚不能認定長期少子化趨勢已扭轉；韓國第三季結婚人數則出現11季以來首次下滑。"
+          ],
+          "why_it_matters": "出生人數回升可能緩解韓國長期人口壓力，但趨勢能否持續仍有待觀察。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/a-glimmer-of-hope-in-the-low-birth-rate-crisis-south-korea-sees-a-14-3-surge-in-newborns/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/a-glimmer-of-hope-in-the-low-birth-rate-crisis-south-korea-sees-a-14-3-surge-in-newborns/",
+              "published_at": "2026-11-27T02:29:01+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_86aceed2eb82283f_93",
+          "category": "business_market",
+          "title": "Quake AI 主攻 AI 代理雲端服務，主張透過 API 降低運算負擔",
+          "original_title": "【雲端的下一個客戶可能是 AI 代理】Quake AI 主張以 API 取代介面，稱代理運算量可降至千分之一",
+          "published_at": "2026-11-27T01:12:38+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "由 Northern Data 衍生的雲端供應商 Quake AI，主張未來 AI 代理將透過 API 直接取得資料與運算資源，而非操作為人類設計的介面。",
+            "Quake AI 表示，旗下運算叢集擁有超過 22,000 顆 GPU；公司並宣稱，在服務業者普遍提供 API 的假設下，類似線上下單任務的運算量可降至現行方式的千分之一，但文章未提供驗證方法。",
+            "這項策略凸顯 AI 代理可能改變雲端服務的設計與需求，但其效果仍取決於外部服務業者採用 API 的程度。"
+          ],
+          "why_it_matters": "若 AI 代理使用 API 直接存取服務的模式普及，雲端供應商可能需要調整產品設計與資源供應方式。",
+          "divergent_views": null,
+          "primary_url": "https://techorange.com/2026/11/27/quake-ai-api-neocloud-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "TechOrange 科技報橘",
+              "url": "https://techorange.com/2026/11/27/quake-ai-api-neocloud-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "published_at": "2026-11-27T01:12:38+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_db591fc04c9c5c6f_98",
+          "category": "business_market",
+          "title": "川普稱美股盤中大跌令他擔憂，並指市場對黃仁勳復職反應正面",
+          "original_title": "川普投顧發言：美股大跌有點擔心、市場挺黃仁勳",
+          "published_at": "2026-11-27T06:10:26+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "川普表示，美股週三盤中大跌令他「有些擔憂」，但尾盤收復大部分失土；他並稱市場對輝達執行長黃仁勳復職抱持正面看法。",
+            "那斯達克指數週三盤中一度下跌逾4%，終場僅小幅下跌；部分交易員將反彈歸因於假期前交投清淡及投資人麥可貝瑞轉為多頭的消息。",
+            "財務申報顯示，川普投資帳戶9月買進輝達等AI概念股；白宮表示，交易由獨立經理人執行，川普及家人未參與投資決策。"
+          ],
+          "why_it_matters": "美股劇烈震盪及川普對市場的評論，凸顯投資人對科技股走勢與市場信心的關注。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/trump-says-wednesdays-market-had-him-briefly-concerned-before-stocks-recovered/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/trump-says-wednesdays-market-had-him-briefly-concerned-before-stocks-recovered/",
+              "published_at": "2026-11-27T06:10:26+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_14eaa0cb8729fb4d_105",
+          "category": "business_market",
+          "title": "OpenAI 修正 GPT-6.2 計費錯誤，Astra 與 Sol 用戶將更快達到使用上限",
+          "original_title": "OpenAI 坦承 GPT-6.2 計費出錯，多數用戶更快達到使用上限",
+          "published_at": "2026-11-27T03:54:36+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "OpenAI 表示，GPT-6.2 Astra 與 Sol 推出時，系統錯誤地對多數使用者的用量給予折扣；問題現已修正，其他模型未受影響。",
+            "修正後，同樣工作量將消耗更多方案額度；與前一週相比，Astra 使用者達到上限的速度快 40%，Sol 快 25%。",
+            "OpenAI 不會追收先前的用量差額，並將提供 Go、Plus、Pro 及 Business 方案使用者一次可儲存備用的額度重置機會。"
+          ],
+          "why_it_matters": "計費修正將影響使用者對 AI 模型可用額度及實際使用成本的預期，尤其是運算需求較高的工作。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/openai-made-a-billing-mistake-at-the-launch-of-gpt-6-2/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/openai-made-a-billing-mistake-at-the-launch-of-gpt-6-2/",
+              "published_at": "2026-11-27T03:54:36+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_b67ea901aaf57ba3_55",
+          "category": "business_market",
+          "title": "美國 7-Eleven 導入 AI 改造招募、結帳與門市營運，招募時間縮至不到 3 天",
+          "original_title": "美國 7-Eleven 把 AI 用進招募、結帳到設備維修，招人時間從 10 天縮到不到 3 天",
+          "published_at": "2026-11-27T02:46:37+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "美國 7-Eleven 將 AI 與自動化應用於招募、結帳及設備維修等業務；文章標題稱招募時間從 10 天縮短至不到 3 天。",
+            "部分門市擴大測試 AiFi 電腦視覺結帳技術，並在自助結帳與點餐設備試行大型語言模型多語翻譯。",
+            "7NOW 外送平台升級訂單追蹤與庫存展示，網站頁面載入時間由約 7 秒縮短至 2 秒；便利商店導入自動化結帳的效益仍取決於設備與資本成本。"
+          ],
+          "why_it_matters": "此案例顯示 AI 與自動化可應用於連鎖零售的前後台營運，但規模化效益仍取決於導入成本與實際執行成果。",
+          "divergent_views": null,
+          "primary_url": "https://techorange.com/2026/11/27/7-eleven-ai-data-automation-convenience/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "TechOrange 科技報橘",
+              "url": "https://techorange.com/2026/11/27/7-eleven-ai-data-automation-convenience/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "published_at": "2026-11-27T02:46:37+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_c644c8bc3567889c_89",
+          "category": "business_market",
+          "title": "遠見科技稱董事改選完成變更登記，股利改為每股現金 3.5 元",
+          "original_title": "遠見科技經營權塵埃落定！改選合法過關、股利全改發現金 3.5 元",
+          "published_at": "2026-11-27T02:02:16+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "遠見科技表示，8 月股東臨時會由持股過半股東依法召集並全面改選董事，新的變更登記表已於 11 月 23 日獲經濟部核准。",
+            "公司股東會於 11 月 6 日決議將原定每股股票股利 3.1 元及現金股利 0.4 元，改為全數發放現金股利 3.5 元。",
+            "持股 36% 的森羅投資表示，與前董事長周發等人決裂的關鍵，是一筆估值 62 億元的桃園物流倉購置案終止；該交易原需舉債約 40 億元。"
+          ],
+          "why_it_matters": "經營權及股利政策變動影響股東權益，而相關爭議與交易決策仍涉及公司治理及主管機關查核。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/convened-in-accordance-with-the-law/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/convened-in-accordance-with-the-law/",
+              "published_at": "2026-11-27T02:02:16+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_0a8f238690e5011d_25",
+          "category": "business_market",
+          "title": "英柏得科技預計12月中上市，第三季營收年增257.47%",
+          "original_title": "通吃 AI 晶片測試與日系航太專案！英柏得科技預計 12 月中掛牌上市",
+          "published_at": "2026-11-27T07:02:57+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "工業級儲存產品業者英柏得科技舉辦上市前業績發表會，預計12月中旬以半導體類股掛牌；公司看好全年營收與獲利再創新高。",
+            "公司第三季合併營收達8.41億元，年增257.47%，毛利率為58.52%；累計前三季每股稅後盈餘為8.21元。",
+            "公司指出，記憶體缺貨與漲價、日系航太新專案及AI晶片測試機台用工業級DRAM模組需求，為主要營運成長動能；未來將推進PCIe SSD世代升級。"
+          ],
+          "why_it_matters": "英柏得上市及業績成長反映工業級儲存與半導體測試需求升溫，但後續表現仍取決於記憶體價格和客戶專案進展。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/industrial-grade-data-storage/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/industrial-grade-data-storage/",
+              "published_at": "2026-11-27T07:02:57+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_49bdfcfcd4c2c3f2_62",
+          "category": "business_market",
+          "title": "報導稱黃仁勳回任輝達執行長，Denny’s重新掛回創業紀念牌",
+          "original_title": "黃仁勳回任輝達執行長，Denny’s 紀念牌也重新掛回：你的包廂在等你",
+          "published_at": "2026-11-27T02:10:25+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "報導稱，黃仁勳於2026年11月12日辭去輝達執行長，並於11月23日回任；Denny’s隨後公開歡迎他。",
+            "輝達共同創辦人1993年曾在聖荷西一間Denny’s討論創業構想。餐廳的紀念牌一度被移除，據報導於11月13日重新掛回，文字也從「1兆美元公司」改為「數兆美元公司」。",
+            "報導指出，輝達市值曾超過4兆美元，近期動盪使股價大幅波動；Denny’s未說明紀念牌遭拆下的原因。"
+          ],
+          "why_it_matters": "若報導屬實，輝達執行長異動對公司治理與市場信心的影響，遠大於餐廳紀念牌本身。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/dennys-reinstates-nvidia-plaque/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/dennys-reinstates-nvidia-plaque/",
+              "published_at": "2026-11-27T02:10:25+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_5f854973671166df_56",
+          "category": "business_market",
+          "title": "經費短缺延誤美陸軍首架 MV-75 測試機交付，貝爾重排開發時程",
+          "original_title": "經費短缺打亂時程，美陸軍首架 MV-75 測試機延後交付",
+          "published_at": "2026-11-27T02:15:02+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "美國陸軍原定於 2026 年底前接收首架 MV-75 測試機，但因年中經費短缺延後交付，新日期尚未確定。",
+            "MV-75 由貝爾 V-280 驗證機發展而來，採傾斜旋翼設計；陸軍預期其速度與航程可達現役突擊直升機的兩倍。",
+            "國會批准調撥 3.5 億美元支應原型機建造與測試，其中約 3 億美元納入修訂合約支付貝爾及供應商成本；若正式預算持續延宕，初期生產合約授予時程也可能推遲。"
+          ],
+          "why_it_matters": "經費與預算不確定性可能延誤美軍直升機汰換計畫，並影響承包商及供應鏈的生產安排。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/us-armys-first-batch-of-mv-75-delivery-was-delayed-due-to-budget-shortage/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/us-armys-first-batch-of-mv-75-delivery-was-delayed-due-to-budget-shortage/",
+              "published_at": "2026-11-27T02:15:02+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_8ace747fabe8d975_85",
+          "category": "business_market",
+          "title": "工研院、微軟與 NVIDIA 討論 AI 機器人普及三大關鍵：雲端與邊緣協同、領域知識及安全標準",
+          "original_title": "機器人 ChatGPT 時刻何時爆發？工研院、微軟、NVIDIA 深度拆解三個關鍵",
+          "published_at": "2026-11-27T06:23:27+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.7,
+          "is_top_story": false,
+          "summary_bullets": [
+            "在鴻海科技日的台灣 AI 機器人產業開發大會上，工研院、微軟與 NVIDIA 代表討論機器人大規模普及的技術及產業條件，未宣布具體產品或發布時程。",
+            "與會者認為機器人需要雲端與邊緣端協同：即時反應與隱私資料由本體處理，複雜推理可交給雲端；低功耗晶片及模型壓縮也有助於部署。",
+            "AI 代理與數位孿生可協助開發和驗證，但場域領域知識仍是定義需求的關鍵；共同標準與安全規範則有助於降低導入差異。"
+          ],
+          "why_it_matters": "機器人能否廣泛落地，將取決於運算架構、場域知識與安全標準的整合，也可能為台灣軟硬體供應鏈帶來機會。",
+          "divergent_views": null,
+          "primary_url": "https://techorange.com/2026/11/27/hhtd26-foxconn-itri-microsoft-nvidia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "TechOrange 科技報橘",
+              "url": "https://techorange.com/2026/11/27/hhtd26-foxconn-itri-microsoft-nvidia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+              "published_at": "2026-11-27T06:23:27+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_0fcaea4e252c893d_19",
+          "category": "business_market",
+          "title": "大腦類器官太空實驗揭示阿茲海默症相關突變的不同分子反應",
+          "original_title": "類大腦送上外太空催熟，揭阿茲海默症病變機制差異",
+          "published_at": "2026-11-27T05:19:01+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "加州大學聖地牙哥分校研究團隊將帶有阿茲海默症相關基因突變的大腦類器官送往國際太空站，停留 40 天後與地面對照組比較。",
+            "APP 突變類器官較易產生 β 澱粉樣蛋白 42，PSEN2 突變類器官的磷酸化 Tau 蛋白較高；PSEN1 突變類器官的太空與地面樣本之間，有 7,404 個基因表現量出現差異。",
+            "所有組別的壓力相關蛋白 CIRBP 均上升，但研究仍屬初步，尚須確認相關變化能否在地球重現，以及 CIRBP 是否實際參與疾病發展。"
+          ],
+          "why_it_matters": "研究提供不同遺傳背景可能影響阿茲海默症病理反應的線索，但距離臨床應用仍需進一步驗證。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/amyloid-beta-42-brain-organoid-space-alzheimer-disease/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/amyloid-beta-42-brain-organoid-space-alzheimer-disease/",
+              "published_at": "2026-11-27T05:19:01+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_ce282ec7dc547e20_37",
+          "category": "business_market",
+          "title": "台灣首屆矽光子技術應用展將於2027年4月登場，聚焦CPO量產",
+          "original_title": "矽光子、CPO 聚焦量產落地！台灣首屆矽光子應用展明年四月登場",
+          "published_at": "2026-11-27T09:43:53+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "台灣電子製造設備工業同業公會宣布，首屆矽光子技術應用展將於2027年4月21日至23日在台北南港展覽館舉行。",
+            "展會聚焦矽光子、共同封裝光學（CPO）、高速光通訊、AI資料中心與先進封裝，涵蓋設備材料、檢測量測及AI伺服器等領域。",
+            "業界期望整合設備、製程與驗證資源，解決精密對位、高速訊號驗證及光引擎量產等瓶頸，推進商業化。"
+          ],
+          "why_it_matters": "展會有助串聯台灣矽光子供應鏈，但技術能否轉化為穩定量產能力仍有待驗證。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/teeia-2027-cpo/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/teeia-2027-cpo/",
+              "published_at": "2026-11-27T09:43:53+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_f1cac193524ece81_53",
+          "category": "business_market",
+          "title": "Anthropic 平台工程主管：AI 改變工程師升遷與招募評估，協調能力和成果更受重視",
+          "original_title": "Anthropic 揭露 AI 時代工程師升遷關鍵：看重「協調力」與實際成果",
+          "published_at": "2026-11-27T03:00:13+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Anthropic 平台工程主管凱特琳·萊絲表示，AI 代理加快開發速度後，專案完成時間不再是可靠的工程師能力指標。",
+            "團隊更看重降低延遲、避免事故及節省運算資源等實際成果，以及協調人員與 AI 代理、產出高品質版本的能力。",
+            "團隊正測試新的面試方式，評估候選人在程式設計代理協助下檢視程式碼或建構系統的能力。"
+          ],
+          "why_it_matters": "AI 輔助開發可能促使科技企業重新衡量工程師的工作成果、招募標準與升遷準備度。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/anthropic-team-leader-says-ai-is-changing-how-engineers-get-promoted/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/anthropic-team-leader-says-ai-is-changing-how-engineers-get-promoted/",
+              "published_at": "2026-11-27T03:00:13+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_674df7041215b96c_94",
+          "category": "business_market",
+          "title": "《自然》研究估算：泥炭地排水占人為暖化效應約 2.7%",
+          "original_title": "人類排乾泥炭地 200 多年，影響約占人為暖化效應的 2.7%",
+          "published_at": "2026-11-27T03:40:04+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "麻省理工學院研究團隊以模型估算，自 1800 年以來泥炭地排水造成的效應，截至 2020 年約占人為造成地球能量收支變化的 2.7%。",
+            "泥炭地排水使二氧化碳排放增加、甲烷排放減少；兩者合計的增溫效應約為每平方公尺 73 毫瓦，估計占比範圍為 1.8% 至 3.6%。",
+            "模型推估，若泥炭地水位維持在 2020 年水準，增溫效應到 2100 年將近乎翻倍；積極復育則可能使其略低於 2020 年水準。"
+          ],
+          "why_it_matters": "研究顯示泥炭地排水對氣候暖化有持續影響，恢復水位可能有助於減緩未來增溫。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+              "published_at": "2026-11-27T03:40:04+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_8962357121fe80a7_1",
+          "category": "business_market",
+          "title": "台灣萊雅攜手光影立方展示手機裸視 3D 技術，探索智慧零售應用",
+          "original_title": "手機貼膜就能看 3D，台灣萊雅攜光影立方攻智慧零售",
+          "published_at": "2026-11-27T02:17:58+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "台灣萊雅與台灣新創光影立方在中國國際進口博覽會展示裸視 3D 技術，探索美妝商品展示與零售互動應用。",
+            "光影立方結合光學護膜、AI 影像演算法、眼動追蹤與空間位置辨識，宣稱可將手機及平板上的 2D 影像即時轉換為裸視 3D 畫面。",
+            "該技術可望應用於實體門市與數位內容展示，但文章未提及實際商業部署或銷售成果。"
+          ],
+          "why_it_matters": "既有行動裝置若能以較低硬體門檻呈現裸視 3D，可能為美妝零售帶來新的商品展示與互動方式。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/loreal-optiqb-big-bang/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/loreal-optiqb-big-bang/",
+              "published_at": "2026-11-27T02:17:58+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_34dd2d0ec5506427_73",
+          "category": "business_market",
+          "title": "神經連接式義肢臨床試驗：第九名受試者首次攜回家獨立使用",
+          "original_title": "Cutting-edge prosthetics allow researchers to probe the human mind",
+          "published_at": "2026-11-27T10:00:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 4.3,
+          "is_top_story": false,
+          "summary_bullets": [
+            "臨床試驗受試者 Alexander Davidson 成為首位將實驗性義肢攜回家獨立使用的參與者，嘗試以義肢喝水和書寫。",
+            "該義肢透過植入手臂的電極直接連接神經，讓使用者控制義肢並感受觸覺；Davidson 是第九名試用者，須接受長時間訓練與復健。",
+            "受試者無法長期保留這款義肢，植入電極日後也須手術移除，顯示技術仍處於臨床研究階段。"
+          ],
+          "why_it_matters": "這項研究展示神經連接式義肢在日常生活中的潛力，但實際效益與長期使用可行性仍待驗證。",
+          "divergent_views": null,
+          "primary_url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+              "published_at": "2026-11-27T10:00:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_7ec31c397046bbdb_43",
+          "category": "business_market",
+          "title": "三一東林擬處分珠海廠辦，預估挹注每股盈餘1.42元並拓展AI事業",
+          "original_title": "強攻 AI 算力與智慧洗車拚轉型！三一東林處分珠海廠挹注每股純益 1.42 元",
+          "published_at": "2026-11-27T03:11:15+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "三一東林公告處分中國珠海廠辦，預計處分利益約新台幣5,473萬元，有望於年底前認列，預估貢獻每股稅後盈餘1.42元。",
+            "公司已在台中潭子營運AI洗車園區，並計畫於12月開幕台北內湖AI鍍膜洗車園區，結合WashTec設備與智慧自動化技術。",
+            "三一東林延攬AI領域經營人才，規劃布局算力基礎建設、硬體、軟體整合及終端應用。"
+          ],
+          "why_it_matters": "資產處分可望挹注短期獲利，而智慧洗車與AI算力布局能否轉化為持續營收，仍有待觀察。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/smart-car-wash/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/smart-car-wash/",
+              "published_at": "2026-11-27T03:11:15+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_14d82732f2099e0c_9",
+          "category": "business_market",
+          "title": "iPhone Duo 與 Galaxy Z Fold8 旅行實拍比較：重量與影像風格各有差異",
+          "original_title": "帶近半公斤摺疊機去旅行，iPhone Duo、Galaxy Z Fold8 實拍心得",
+          "published_at": "2026-11-27T07:43:17+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "科技新報記者攜帶 iPhone Duo 與三星 Galaxy Z Fold8 前往北海道，針對旅行攜帶與拍攝體驗進行比較。",
+            "記者實測兩款手機重量分別為 264.2 克與 204.4 克，合計 468.6 克；Galaxy Z Fold8 輕近 60 克。",
+            "文章認為三星日間照片色彩較鮮豔，但部分紋理有油畫感；iPhone 成像較自然，夜間細節處理略佳。"
+          ],
+          "why_it_matters": "比較顯示摺疊手機除了螢幕與規格，重量及影像處理風格也是影響使用體驗的重要因素。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/iphone-duo-galaxy-z-fold8/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/iphone-duo-galaxy-z-fold8/",
+              "published_at": "2026-11-27T07:43:17+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_cfc671be6c40efde_96",
+          "category": "business_market",
+          "title": "20年觀測顯示木衛二鈉雲長期穩定，暗示其物質來源可能獨立於木衛一",
+          "original_title": "20 年數據揭木衛二鈉雲長期穩定，暗示具獨立物質循環系統",
+          "published_at": "2026-11-27T10:06:10+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "波士頓大學團隊分析凱克天文台約20年的觀測資料，發現木衛二周圍的鈉雲長期維持相對穩定。",
+            "鈉雲向外延伸至木衛二半徑約30倍，呈東西向拉長；其穩定性暗示鈉可能源自木衛二自身，而非主要來自火山活躍的木衛一。",
+            "鈉的確切來源及輸送機制仍待確認；長期觀測資料可作為未來歐羅巴快艇與JUICE探測任務解讀數據的參考。"
+          ],
+          "why_it_matters": "釐清鈉的來源與分布，有助研究木衛二的表面與地下海洋化學環境及其適居性。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/europa-saturn-moon-sodium-cloud/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/europa-saturn-moon-sodium-cloud/",
+              "published_at": "2026-11-27T10:06:10+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_e9d6f5681d057b6c_5",
+          "category": "business_market",
+          "title": "Volvo 更新 2028 年式 XC60 與 XC90 插電式油電車款，擴大電池容量",
+          "original_title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+          "published_at": "2026-11-27T08:00:53+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Volvo 再次改款 XC60 與 XC90，重點放在插電式油電車型的電池、車載資訊娛樂系統及內裝升級。",
+            "新款電池容量較大，報導稱多數使用者充電一次可應付數日的日常駕駛，但未提供具體容量或續航數據。",
+            "在不同市場電動化進程不一的情況下，Volvo 選擇延長現有車型生命週期，而非開發全新後繼車款。"
+          ],
+          "why_it_matters": "此次改款反映車廠因應各市場電動化速度差異，持續以插電式油電車作為過渡選擇。",
+          "divergent_views": null,
+          "primary_url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "Ars Technica",
+              "url": "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/",
+              "published_at": "2026-11-27T08:00:53+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_7a10743f96e6cb25_71",
+          "category": "business_market",
+          "title": "泓格科技公布 2025 年永續進展：營收成長 9.44%，排放密集度下降 9.84%",
+          "original_title": "泓格科技將 ESG 永續承諾化為行動，推動能源效率、綠色創新與企業責任",
+          "published_at": "2026-11-27T06:00:41+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 3.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "泓格科技在《2025 年永續報告書》中表示，全年營收為新台幣 11.72 億元，年增 9.44%，並持續發展工業自動化與工業物聯網解決方案。",
+            "公司表示，2025 年開發 113 項新產品，涵蓋環境監測、漏液偵測與配電盤安全等；排放密集度較 2024 年下降 9.84%。",
+            "泓格以 2024 年為基準，訂定 2026 至 2030 年減量 4%、2031 至 2035 年減量 6% 的溫室氣體目標，並於 2025 年 11 月開始導入 ISO 27001 資訊安全管理系統。"
+          ],
+          "why_it_matters": "報告呈現工業物聯網業者如何結合節能產品、減排目標與資訊安全管理，回應企業永續需求。",
+          "divergent_views": null,
+          "primary_url": "https://finance.technews.tw/2026/11/27/icp-das-esg/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://finance.technews.tw/2026/11/27/icp-das-esg/",
+              "published_at": "2026-11-27T06:00:41+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_b54251c6a4133359_60",
+          "category": "business_market",
+          "title": "《麻省理工科技評論》開放 2027 年「35 歲以下創新者」提名",
+          "original_title": "Our 2027 Innovators Under 35 competition is now open",
+          "published_at": "2026-11-27T10:48:47+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 2.5,
+          "is_top_story": false,
+          "summary_bullets": [
+            "《麻省理工科技評論》開放 2027 年「35 歲以下創新者」名單提名，徵求在科學發現、技術突破或實用發明上具有實際影響力的年輕人才。",
+            "受提名者須於 2027 年 10 月 1 日仍未滿 35 歲；提名免費，截止時間為 2027 年 1 月 19 日美國東部時間晚上 11 時 59 分。"
+          ],
+          "why_it_matters": "該名單提供年輕研究人員與創業者展示其成果及實際影響力的機會。",
+          "divergent_views": null,
+          "primary_url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "MIT Technology Review",
+              "url": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+              "published_at": "2026-11-27T10:48:47+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_fdae82fcbad5f273_66",
+          "category": "business_market",
+          "title": "Bitrix24 推介整合專案管理與協作平台，鎖定台灣 IT 和數位行銷團隊",
+          "original_title": "以效率為先，Bitrix24 助台灣 IT 與數位行銷代理商管理專案、擴展業務",
+          "published_at": "2026-11-27T01:15:23+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 2.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "文章介紹 Bitrix24 如何協助 IT 公司與數位行銷代理商集中管理專案、客戶關係及團隊協作，未提及新產品發布或其他特定事件。",
+            "平台提供看板、甘特圖、Scrum、任務追蹤及外部協作權限等功能，並整合檔案、行事曆與溝通工具。",
+            "文章主張集中管理有助減少資訊落差並改善工作負載分配，但未提供量化成效或客戶案例。"
+          ],
+          "why_it_matters": "整合式管理工具可能協助專案型企業降低跨工具協作的複雜度，但實際效益仍須依導入情況評估。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/bitrix24-it-crm-digital-management/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/bitrix24-it-crm-digital-management/",
+              "published_at": "2026-11-27T01:15:23+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "security",
+      "label": "資安",
+      "icon": "shield",
+      "items": [
+        {
+          "cluster_id": "cluster_43616ad09b5ef943_81",
+          "category": "security",
+          "title": "幣安解除資安事件相關提款限制，稱63.4億美元數位資產受影響",
+          "original_title": "幣安解除63.4億美元數位資產竊案相關提款限制",
+          "published_at": "2026-11-27T12:11:37+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "幣安表示，10月底熱錢包遭入侵後暫停的提款服務已復原，與事件相關的提款限制全面解除；少數網路仍因維護或升級暫停提款。",
+            "幣安初步調查指出，攻擊者入侵工程師電腦後，利用內部 AI 工具取得其他工程師電腦的控制權，並透過容器部署權限在錢包簽章環境植入惡意程式，發動未經授權的提款。",
+            "幣安估計約63.4億美元數位資產受影響，表示損失將由用戶資產安全基金及公司資金承擔，並稱使用者資產均有足額儲備。"
+          ],
+          "why_it_matters": "事件凸顯加密貨幣交易所內部工具、工程師端點與錢包簽章環境遭攻陷，可能造成大規模資產損失及提款中斷。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180845",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180845",
+              "published_at": "2026-11-27T12:11:37+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_c97ccc5e7d3bb415_30",
+          "category": "security",
+          "title": "Drupal 已遭利用的重大漏洞 Fail2Install 可導致未驗證遠端程式碼執行",
+          "original_title": "研究人員揭露已遭利用的Drupal重大漏洞Fail2Install細節",
+          "published_at": "2026-11-27T10:11:42+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Drupal 修補重大漏洞 CVE-2026-132165，嚴重程度評分為 9.8；Drupal 與美國網路安全與基礎設施安全局（CISA）均指出該漏洞已遭利用。",
+            "攻擊者可透過耗盡資料庫連線或 Linux TCP 來源連接埠，使已安裝的網站誤判為尚未完成安裝，重新開放安裝流程。",
+            "研究人員指出，攻擊者可結合 SQLite 資料庫與 Apache 設定缺陷，達成未經身分驗證的遠端程式碼執行；四種受測的常見 Drupal 部署架構均可能受影響。"
+          ],
+          "why_it_matters": "漏洞已遭實際利用且影響常見部署架構，Drupal 網站管理者應儘速套用安全更新。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180838",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180838",
+              "published_at": "2026-11-27T10:11:42+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_5f3721ac88d5cbc6_41",
+          "category": "security",
+          "title": "Drupal 修補遭實際利用的安裝程式存取控制繞過漏洞",
+          "original_title": "Drupal揭露已遭利用的安裝程式新漏洞",
+          "published_at": "2026-11-27T12:11:16+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Drupal 於 11 月 25 日揭露並修補核心安裝程式漏洞 CVE-2026-136716，並表示該漏洞正遭實際利用。",
+            "漏洞存在於 install.php；若特殊或未完整安裝狀態的網站仍允許遠端存取安裝程式，攻擊者可能取得網站控制權，部分正式上線網站也可能受影響。Tenable 評估 CVSS 分數為 8.8。",
+            "即使已修補先前的 CVE-2026-132165，網站仍可能曝險；Drupal 提醒，先前未限制安裝程式遠端存取的網站可能早已遭入侵。"
+          ],
+          "why_it_matters": "漏洞已遭利用且可能影響正式上線網站，管理者需儘速修補並檢查安裝程式存取設定及入侵跡象。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180846",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180846",
+              "published_at": "2026-11-27T12:11:16+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_b1c7e58a8cd0ef80_75",
+          "category": "security",
+          "title": "義大利與瑞士示警AI代理式網路攻擊，瑞士建議24小時內修補對外系統",
+          "original_title": "義大利、瑞士示警AI代理式攻擊，籲24小時內修補對外系統漏洞",
+          "published_at": "2026-11-27T08:11:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 8.2,
+          "is_top_story": false,
+          "summary_bullets": [
+            "義大利與瑞士資安機構通報AI代理式攻擊案例；瑞士確認受害者包括關鍵基礎設施營運業者，且已掌握的案例均涉及系統遭入侵。",
+            "攻擊者利用結合大型語言模型的代理框架，自動尋找並利用漏洞或錯誤組態，並可在遭遇防禦時改用其他已知手法，壓縮企業應變時間。",
+            "瑞士建議企業在重大安全更新發布後24小時內修補對外系統，並減少曝露面、採用多因素驗證或通行金鑰；義大利則建議加強異常行為監控。",
+            "截至11月23日，全球約有4,200個AI自主攻擊框架執行個體可從公開網路存取；臺灣亦有十餘家企業及網路平臺通報受害，近半案件確認與AI攻擊有關。"
+          ],
+          "why_it_matters": "AI代理可能加快漏洞利用與攻擊擴散，迫使企業縮短修補週期並調整資安偵測策略。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180821",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180821",
+              "published_at": "2026-11-27T08:11:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_0451aa23719d23d2_45",
+          "category": "security",
+          "title": "MiCollab五項漏洞修補前遭利用，攻擊者約一小時取得網域控制站存取權",
+          "original_title": "MiCollab漏洞修補前已遭利用，攻擊者約在1小時取得網域控制權限",
+          "published_at": "2026-11-27T03:11:29+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Accenture揭露，攻擊者於11月15日、Mitel發布修補程式前一天，利用五項MiCollab漏洞入侵受害組織；美國CISA其後將這些漏洞列入已知遭利用漏洞名單。",
+            "攻擊者植入網頁後門，從首次請求到執行命令僅花12分鐘，並在30分鐘內取得伺服器root權限，隨後利用LDAP連接器儲存的憑證登入網域控制站。",
+            "攻擊者約20小時後入侵備份伺服器與企業資料庫並外傳資料。Accenture研判攻擊者可能使用AI輔助自動化部分入侵流程，但尚無確定證據。",
+            "由於漏洞在修補前已遭利用，MiCollab用戶除更新系統外，仍需檢查先前是否已有入侵跡象。"
+          ],
+          "why_it_matters": "此次攻擊顯示企業協作系統漏洞可能迅速擴大為網域入侵與資料外洩，修補後仍須追查既有入侵。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180854",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180854",
+              "published_at": "2026-11-27T03:11:29+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_5314f620afe2d058_28",
+          "category": "security",
+          "title": "北韓駭客PolinRider攻擊擴及Python專案，375個GitHub儲存庫遭植入惡意載入程式",
+          "original_title": "北韓駭客從事供應鏈攻擊PolinRider，污染逾375個GitHub儲存庫以散布惡意軟體",
+          "published_at": "2026-11-27T04:11:03+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.7,
+          "is_top_story": false,
+          "summary_bullets": [
+            "資安公司SafeDep於11月24日揭露，北韓駭客的PolinRider供應鏈攻擊已擴及Python專案，研究人員在375個公開GitHub儲存庫發現相同惡意載入程式，涉及260個帳號。",
+            "攻擊者將58行Python載入程式藏於專案原始碼或測試設定檔，程式啟動或執行pytest時可能觸發；載入程式再透過以太坊交易輸入資料取得JavaScript惡意程式碼，交由Node.js執行。",
+            "惡意程式直接藏在原始碼中，而非透過PyPI或NPM套件散布，一般相依套件掃描較難發現；利用區塊鏈傳遞程式碼也可規避部分網域或IP追蹤方式。"
+          ],
+          "why_it_matters": "此攻擊顯示開發者供應鏈風險不僅存在於套件相依性，也涉及專案原始碼與利用區塊鏈傳遞的惡意程式。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180858",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180858",
+              "published_at": "2026-11-27T04:11:03+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_ac80b8a90f067073_6",
+          "category": "security",
+          "title": "美國情報機構公開來源情報系統傳遭駭，非機密資料外洩",
+          "original_title": "美CIA等情報機構傳遭駭，外洩非機密資料",
+          "published_at": "2026-11-27T02:11:21+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "媒體引述消息人士指出，CIA與國家情報總監辦公室的公開來源情報分析系統遭入侵，部分非機密資料外洩；國家地理空間情報局也可能受影響。",
+            "國家情報總監辦公室表示，關鍵能力及機密系統未因事件中斷；事件發生時間、外洩規模與攻擊者身分均未獲證實。",
+            "部分消息稱攻擊者可能使用多代理人自主滲透測試工具ARTEX，且初步跡象可能與中國有關，但均未獲證實。微軟指出，至少6個駭客組織已採用ARTEX。"
+          ],
+          "why_it_matters": "情報機構的非機密系統遭入侵，凸顯公開資料分析環境的資安風險，也引發外界對自主駭客工具可能擴大攻擊能力的關注。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180850",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180850",
+              "published_at": "2026-11-27T02:11:21+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_92023ee102a4a98a_57",
+          "category": "security",
+          "title": "微軟：至少6個駭客組織採用AI自主滲透框架ARTEX",
+          "original_title": "【資安日報】11月27日，中國及北韓駭客皆已於武器庫中加入ARTEX",
+          "published_at": "2026-11-27T10:11:31+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "微軟指出，至少6個駭客組織已將ARTEX納入攻擊工具，包括與中國、北韓有關的組織及柬埔寨網路犯罪集團。",
+            "ARTEX採多代理架構，可自主執行偵察、漏洞利用、憑證竊取與橫向移動；微軟曾觀察到攻擊者從GitHub搜尋外洩憑證到竊取Azure Key Vault資料僅花5分鐘。",
+            "ARTEX未引入新攻擊技術，但加快攻擊流程；微軟建議企業強化憑證管理、縮減對外暴露面，並限制橫向移動。"
+          ],
+          "why_it_matters": "AI代理降低了大規模自動化攻擊的時間成本，企業須更快偵測異常並阻斷攻擊鏈。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180851",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180851",
+              "published_at": "2026-11-27T02:11:48+00:00",
+              "content_quality": "extracted"
+            },
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180835",
+              "published_at": "2026-11-27T10:11:31+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_f4c5d02d1074c25b_101",
+          "category": "security",
+          "title": "美國限制遠端存取AI晶片　消息稱出租算力給中企恐影響輝達晶片採購",
+          "original_title": "美國新規堵漏洞，輝達晶片買家恐禁租算力予中企",
+          "published_at": "2026-11-27T04:10:23+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.6,
+          "is_top_story": false,
+          "summary_bullets": [
+            "美國商務部工業暨安全局發布限制遠端存取AI半導體的臨時最終規則，旨在堵住中國企業透過海外資料中心租用先進算力的管制漏洞。",
+            "CNBC引述匿名消息人士稱，晶片銷售商已通知新興雲端服務供應商，若將任何算力出租給中國企業，便無法採購輝達晶片；輝達與美國商務部未立即回應置評請求。",
+            "新規可能衝擊晶片銷售商與雲端算力供應商；消息人士指出，部分原定供中企租用的GPU正尋找新買家。"
+          ],
+          "why_it_matters": "遠端算力管制可能進一步限制中國企業取得先進AI運算資源，並改變GPU供應鏈與雲端服務商的客戶結構。",
+          "divergent_views": null,
+          "primary_url": "https://technews.tw/2026/11/27/nvidia-chip-buyers-told-to-rule-out-chinese-renters-to-purchase-gpus/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://technews.tw/2026/11/27/nvidia-chip-buyers-told-to-rule-out-chinese-renters-to-purchase-gpus/",
+              "published_at": "2026-11-27T04:10:23+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_0693123163457fa2_16",
+          "category": "security",
+          "title": "資安週報：台灣第三方服務資安事件波及電商與物流，AI攻擊鎖定東亞大學",
+          "original_title": "【資安週報】1123～1127，網銀盜轉手法曝光，第三方資訊服務供應商資安事件延燒至物流與電子發票服務",
+          "published_at": "2026-11-27T04:11:04+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "台灣多家第三方資訊服務供應商發生資安事件，波及電子發票、電商開店、訂單與物流整合等服務；多家企業也陸續揭露相關情況。",
+            "Amazon指出，中國駭客利用AI攻擊框架Cairn鎖定東亞大學，其中AI代理約11分鐘內發現並利用MONAI Label零時差漏洞，入侵大學伺服器並取得最高權限；開發團隊已推出0.8.6版修補。",
+            "刑事局調查網銀盜轉案件，部分涉及民眾從非官方管道下載偽冒短劇App，遭Android木馬濫用無障礙權限盜轉存款。",
+            "AI服務供應鏈亦出現資料外洩風險：OpenRouter因第三方推論服務商遭駭，取消125個模型服務端點的零資料留存資格。"
+          ],
+          "why_it_matters": "第三方服務依賴與AI自動化攻擊擴大資安風險，企業須強化供應鏈管理、漏洞修補及事件通報。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180857",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180857",
+              "published_at": "2026-11-27T04:11:04+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_66f0e0155876949e_104",
+          "category": "security",
+          "title": "微軟揭露中國與北韓駭客濫用開源 AI 滲透測試框架 ARTEX",
+          "original_title": "不到 3 小時奪取特權，微軟揭中國與北韓駭客濫用開源 AI 框架 ARTEX",
+          "published_at": "2026-11-27T02:50:10+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 7.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "微軟指出，與中國及北韓相關的駭客組織將開源 AI 滲透測試框架 ARTEX 用於偵察、憑證攻擊及漏洞利用；部分案例在不到三小時內取得特權存取。",
+            "與中國有關的 Storm-0940 曾利用 ARTEX 對 Microsoft 365 發動密碼噴灑攻擊，對超過 2,250 個租戶嘗試登入；受攻擊目標也包括雲端環境、IT 管理軟體與金融機構。",
+            "微軟表示，ARTEX 主要是自動化既有攻擊手法，降低大規模攻擊的成本；英國國家網路安全中心則指出，此類工具也可能留下較容易偵測的異常活動。"
+          ],
+          "why_it_matters": "AI 自動化可能加快攻擊者串接入侵步驟的速度，增加企業雲端與身分驗證防護的壓力。",
+          "divergent_views": null,
+          "primary_url": "https://infosecu.technews.tw/2026/11/27/microsoft-warns-hackers-leveraging-ai-tools-cyberattacks/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://infosecu.technews.tw/2026/11/27/microsoft-warns-hackers-leveraging-ai-tools-cyberattacks/",
+              "published_at": "2026-11-27T02:50:10+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_ba3ca97fd4ab8fcb_68",
+          "category": "security",
+          "title": "美國懷俄明州 Lance 鈾礦場因資安事件停運",
+          "original_title": "美國鈾礦場因資安事件暫停運作",
+          "published_at": "2026-11-27T02:11:49+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Peninsula Energy 於11月25日公告，旗下美國子公司11月20日發現資安事件，已暫停 Lance 鈾礦計畫並隔離受影響系統；母公司也申請暫停股票交易以評估影響。",
+            "初步調查顯示，事件影響似乎僅限於加工廠及井場的作業與控制系統，企業行政、薪資及財務系統未受影響。加工廠設計年產能為200萬磅鈾精礦。",
+            "業者正與外部資安及法務團隊調查並復原，尚未說明是否涉及勒索軟體、資料外洩或何時復工。"
+          ],
+          "why_it_matters": "事件凸顯工業控制系統遭遇資安問題可能中斷鈾礦生產，並影響核能燃料供應鏈。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180852",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180852",
+              "published_at": "2026-11-27T02:11:49+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_5d89a0698fb11a20_100",
+          "category": "security",
+          "title": "WordPress 外掛 WPIDE 修補高風險漏洞，攻擊者可誘使管理員執行惡意 PHP",
+          "original_title": "WPIDE修補未經驗證遠端程式碼執行漏洞，未更新可能導致管理員遭誘使執行惡意PHP",
+          "published_at": "2026-11-27T12:11:37+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "WPIDE 發布更新修補漏洞 CVE-2026-124251；攻擊者可透過跨網站請求偽造，誘使已登入的管理員觸發惡意 PHP 程式碼執行。",
+            "漏洞的 CVSS 評分為 8.8，影響 3.6.0 至 3.6.4 版；攻擊者無須帳號，但需要管理員與特製網頁互動，建議升級至 3.6.5 或更新版本。",
+            "WPIDE 目前有逾 4 萬個啟用安裝，未更新的網站可能面臨伺服器遭執行任意程式碼的風險。"
+          ],
+          "why_it_matters": "此漏洞可能危及使用 WPIDE 的網站及伺服器，管理者應儘速更新以降低遭攻擊風險。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180848",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180848",
+              "published_at": "2026-11-27T12:11:37+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_24ff7202caf0ee4d_48",
+          "category": "security",
+          "title": "假求職測驗夾帶惡意 NuGet 套件，鎖定 Windows .NET 開發人員",
+          "original_title": "假求職測驗暗藏惡意NuGet套件，駭客藉開發人員應徵流程散布惡意軟體",
+          "published_at": "2026-11-27T04:11:49+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.7,
+          "is_top_story": false,
+          "summary_bullets": [
+            "資安公司 Socket 發現攻擊者偽造求職技術測驗，誘使 .NET 開發人員下載並執行含有惡意 NuGet 套件的 GitHub 專案。",
+            "研究人員共發現 13 個惡意套件，分布於 4 個帳號、涵蓋 28 個版本；惡意程式可竊取 Chrome 設定檔資料，並利用 GitHub 進行通訊及上傳資料。",
+            "Socket 也追查到偽裝成 Axios 專案檔案的 Windows 執行檔，以及遭植入載入程式的應用程式，顯示攻擊不僅限於假求職測驗。"
+          ],
+          "why_it_matters": "此事件顯示攻擊者結合社交工程與開發套件供應鏈，可能利用求職流程入侵開發人員的工作環境。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180860",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180860",
+              "published_at": "2026-11-27T04:11:49+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_37ad664054826622_24",
+          "category": "security",
+          "title": "銀行加速修補 AI 相關資安威脅，軟體更新增加服務中斷風險",
+          "original_title": "AI 駭客逼銀行加速修補漏洞，系統更新反而成了當機風險",
+          "published_at": "2026-11-27T02:35:14+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 6.4,
+          "is_top_story": false,
+          "summary_bullets": [
+            "面對 AI 協助攻擊者掃描及利用系統弱點，銀行加快部署修補程式，但老舊且複雜的核心系統也因此面臨更高的服務異常風險。",
+            "摩根大通近期因大型主機軟體更新出現缺陷而撤回修補程式，部分客戶轉帳與交易處理速度變慢；該事件並非網路攻擊或 AI 失控所致。",
+            "花旗執行長形容銀行業面臨「修補程式海嘯」；美國銀行執行長也指出，因應資安威脅的軟體更新有時會短暫干擾服務。"
+          ],
+          "why_it_matters": "銀行必須在加快堵住資安漏洞與確保支付、交易等核心服務穩定之間取得平衡。",
+          "divergent_views": null,
+          "primary_url": "https://infosecu.technews.tw/2026/11/27/banks-sprint-to-fight-ai-threats-with-quick-fixes-raising-risk-of-outages/",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "科技新報 TechNews",
+              "url": "https://infosecu.technews.tw/2026/11/27/banks-sprint-to-fight-ai-threats-with-quick-fixes-raising-risk-of-outages/",
+              "published_at": "2026-11-27T02:35:14+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_3b88eef2ec6798f2_54",
+          "category": "security",
+          "title": "日本JAXA衛星氣象資料網站遭駭，2,000名用戶帳號與加密密碼外洩",
+          "original_title": "日本JAXA網站遭駭，2,000名用戶帳密外洩",
+          "published_at": "2026-11-27T10:11:19+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "日本宇宙航空研究開發機構（JAXA）證實，提供衛星降水與氣象資料的公開網站遭未授權存取，約2,000名用戶的帳號名稱及加密密碼外洩。",
+            "攻擊者利用部分Web應用程式的指令注入漏洞安裝後門，試圖探查系統及竊取資料；JAXA已停止Web與FTP伺服器服務，並著手修補漏洞、移除後門及復原系統。",
+            "JAXA表示，衛星觀測資料原本即供大眾讀取，且未發現攻擊者存取這些資料的跡象；機構將通知受影響用戶。"
+          ],
+          "why_it_matters": "事件凸顯公共科學資料服務的應用程式漏洞可能危及用戶憑證，並中斷研究資料服務。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180839",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180839",
+              "published_at": "2026-11-27T10:11:19+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_e208242b55dbfd27_72",
+          "category": "security",
+          "title": "BeyondTrust預測2027年資安挑戰：AI代理權限濫用與漏洞應變時間縮短",
+          "original_title": "BeyondTrust預測2027年企業資安新挑戰，AI代理權限遭濫用，對外開放系統重大漏洞應變時間縮短至數小時",
+          "published_at": "2026-11-27T08:11:00+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.8,
+          "is_top_story": false,
+          "summary_bullets": [
+            "特權存取管理業者BeyondTrust預測，AI代理若被授予過多權限，攻擊者可能透過提示詞注入、惡意相依套件或相關系統漏洞，利用其合法憑證存取企業資源，且操作在日誌中可能看似正常。",
+            "BeyondTrust指出，對外開放系統的重大漏洞可能在公開揭露後數小時內遭利用，並預測到2027年底，企業須以此規畫應變，而非依賴以天為單位的流程。",
+            "該公司也預測，跨企業AI代理交易將增加權限委派與供應鏈風險，資安維運中心則可能逐漸轉向由人員監督自主防禦系統。"
+          ],
+          "why_it_matters": "隨著企業導入AI代理，既有身分權限管理與資安應變流程可能需要調整，以因應合法權限遭濫用及攻防速度加快的風險。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180760",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180760",
+              "published_at": "2026-11-27T08:11:00+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        },
+        {
+          "cluster_id": "cluster_ec1165a514defdc9_99",
+          "category": "security",
+          "title": "袋鼠金融平台遭外部攻擊，部分使用者個資外洩",
+          "original_title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
+          "published_at": "2026-11-27T10:11:51+00:00",
+          "freshness_status": "fresh",
+          "importance_score": 5.7,
+          "is_top_story": false,
+          "summary_bullets": [
+            "Gogolook 於 11 月 26 日公告，旗下子公司營運的袋鼠金融平台於 11 月 25 日遭外部攻擊，部分使用者個資外洩。",
+            "公司已暫停受影響系統的兌換及查詢功能，進行安全修補、強化存取管制，並持續調查外洩範圍。",
+            "事件影響平台部分功能與使用者資料安全，外洩規模及後續營運影響尚待釐清。"
+          ],
+          "why_it_matters": "事件凸顯金融科技平台的個資保護與資安應變風險，後續影響取決於外洩範圍及修復進度。",
+          "divergent_views": null,
+          "primary_url": "https://www.ithome.com.tw/news/180841",
+          "primary_content_quality": "extracted",
+          "sources": [
+            {
+              "name": "iThome",
+              "url": "https://www.ithome.com.tw/news/180841",
+              "published_at": "2026-11-27T10:11:51+00:00",
+              "content_quality": "extracted"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "deep_reads": [],
+  "quality": {
+    "source_count": 6,
+    "duplicate_candidates": 0,
+    "stale_candidates": 0,
+    "total_articles": 111,
+    "total_topics": 110,
+    "quality_breakdown": {
+      "full_feed": 0,
+      "extracted": 110,
+      "summary_only": 1,
+      "metadata_only": 0
+    }
+  }
+}
