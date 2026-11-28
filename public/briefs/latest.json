@@ -1,24 +1,24 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "editions": [
     {
-      "label": "2026-11-27",
+      "label": "2026-11-28",
       "publication": "科技日報",
       "url": "./"
     },
     {
-      "label": "2026-11-26 晚報",
+      "label": "2026-11-27 晚報",
       "publication": "科技晚報",
       "url": "./"
     },
     {
-      "label": "11/26 20:10 ～ 11/27 08:10",
+      "label": "11/27 20:10 ～ 11/28 08:10",
       "publication": "台股雷達早報",
-      "url": "https://tw-radar-site.pages.dev/e/2026-11-27-0810.html"
+      "url": "https://tw-radar-site.pages.dev/e/2026-11-28-0810.html"
     }
   ],
-  "generated_at": "2026-11-27T00:50:28.958572+00:00",
-  "lead": "台股反彈之際，關稅與 AI 晶片管制仍待釐清，台積電擴產、記憶體供需及利率走向是今晨關注焦點。",
+  "generated_at": "2026-11-28T00:50:23.945344+00:00",
+  "lead": "台股量縮反彈，美股晶片股走強，但美國收緊算力管制可能牽動台灣伺服器與晶圓代工訂單。",
   "model": "gpt-6.1-terra",
   "notes": [],
   "points": [
@@ -26,184 +26,149 @@
       "sources": [
         {
           "publication": "台股雷達早報",
-          "title": "台股反彈956點，外資仍持續賣超",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E8%82%A1%E5%8F%8D%E5%BD%88956%E9%BB%9E%E6%94%B6%E5%9C%A839151%E9%BB%9E-%E9%80%99%E5%85%AB%E6%AA%94-%E6%BC%B2%E5%81%9C%E6%88%90%E4%BA%A4%E5%87%BA%E9%87%8F-122234586.html"
+          "title": "台股量縮反彈，外資與官股買盤拉鋸",
+          "url": "https://tw.stock.yahoo.com/news/%E5%8F%B0%E8%82%A1%E5%8F%8D%E5%BD%88-%E5%9C%8B%E5%AE%B6%E9%9A%8A%E8%AD%B7%E7%9B%A4-%E7%85%A7%E6%A8%A3%E7%8C%9B-%E5%85%AB%E5%A4%A7%E8%A1%8C%E5%BA%AB%E5%86%8D%E7%A0%B8394%E5%84%84-%E9%80%A310%E8%B2%B7-121100559.html"
         },
         {
           "publication": "台股雷達早報",
-          "title": "美301關稅提案：台灣最高15%不疊加",
-          "url": "https://tw.stock.yahoo.com/news/%E7%BE%8E301%E7%94%A2%E8%83%BD%E9%81%8E%E5%89%A9%E9%97%9C%E7%A8%85%E5%BD%B1%E9%9F%BF-%E4%B8%AD%E5%9C%8B%E5%AF%A6%E9%9A%9B%E7%A8%85%E7%8E%87%E5%8F%AF%E8%83%BD%E5%8D%87%E8%87%B325-142240827.html"
+          "title": "美股AI與晶片股反彈，費半大漲",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5655793"
+        }
+      ],
+      "text": "台積電撐盤帶動台股上漲，但成交量萎縮，外資十一月賣超逾兆元。美股費半上漲４．６９％、台積電ＡＤＲ上漲３．２１％，但台指期夜盤仍收跌，後續須觀察資金是否回流。",
+      "title": "台股反彈仍待資金回流"
+    },
+    {
+      "sources": [
+        {
+          "publication": "科技日報",
+          "title": "美國收緊海外 AI 算力租賃管制，限制中國企業遠端使用輝達晶片",
+          "url": "https://technews.tw/2026/11/27/us-curbs-china-remote-compute-rentals-new-regulations-crackdowns-secure-ai-race-advantage/"
         },
         {
           "publication": "科技日報",
-          "title": "美國提議依301條款對14個經濟體課徵關稅，台灣政府稱有信心維持15%",
-          "url": "https://techorange.com/2026/11/26/new-tariffs-14-trading-partners-fight-excess-factory-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+          "title": "報導：算力出口管制恐拖慢中國 AI 模型開發，與領先者差距可能擴大至九個月",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/beijings-ai-ambitions-are-under-threat-as-models-may-fall-behind-by-up-to-nine-months-versus-competitors-chinese-ai-labs-are-under-heavy-fire-from-export-controls-maturing-chip-stacks-and-a-distillation-crackdown"
         },
         {
           "publication": "科技日報",
-          "title": "美國擬對台灣、中國及歐盟等14個經濟體加徵關稅，貿易夥伴提出異議",
-          "url": "https://technews.tw/2026/11/26/us-plans-new-tariffs-14-economies-major-trade-partners-discontent/"
+          "title": "NVIDIA 據報暫停搭載自家晶片的伺服器出貨至東南亞四國，以因應美國出口新規",
+          "url": "https://techorange.com/2026/11/27/nvidia-halts-southeast-asia-servers-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
+        },
+        {
+          "publication": "科技日報",
+          "title": "美國收緊AI晶片遠端存取管制，傳雲端業者出租算力給中企將難購輝達晶片",
+          "url": "https://technews.tw/2026/11/27/nvidia-chip-buyers-told-to-rule-out-chinese-renters-to-purchase-gpus/"
         },
         {
           "publication": "科技晚報",
-          "title": "美國擬對台灣、歐盟及中國等14個經濟體加徵關稅，引發貿易夥伴反彈",
-          "url": "https://technews.tw/2026/11/26/us-plans-new-tariffs-14-economies-major-trade-partners-discontent/"
-        }
-      ],
-      "text": "台股反彈 956 點，PCB、散熱與記憶體走強，但成交量縮，外資仍連續賣超，台積電也有賣壓。美國提出 301 關稅方案，台灣政府表示有信心維持 15％，台股早報指出 AI 伺服器及晶片列入豁免，但工具機、東南亞布局的成衣與製鞋業仍面臨壓力。提案尚未生效，最終措施仍待確認。",
-      "title": "台股反彈，關稅疑慮尚未消除"
-    },
-    {
-      "sources": [
-        {
-          "publication": "台股雷達早報",
-          "title": "AI晶片管制擴及東南亞與遠端算力",
-          "url": "https://www.cna.com.tw/news/afe/202611260304.aspx"
-        },
-        {
-          "publication": "科技日報",
-          "title": "報導：輝達暫停向東南亞四國出貨晶片伺服器，因應美國出口管制",
-          "url": "https://technews.tw/2026/11/26/nvidia-halts-server-shipments-to-four-southeast-asian-countries/"
+          "title": "美國收緊海外 AI 算力租賃管制，限制中國企業遠端使用輝達晶片",
+          "url": "https://technews.tw/2026/11/27/us-curbs-china-remote-compute-rentals-new-regulations-crackdowns-secure-ai-race-advantage/"
         },
         {
           "publication": "科技晚報",
-          "title": "外媒：輝達暫停向東南亞四國出貨搭載其晶片的伺服器，以因應美國出口管制",
-          "url": "https://technews.tw/2026/11/26/nvidia-halts-server-shipments-to-four-southeast-asian-countries/"
+          "title": "報導：NVIDIA 暫停向東南亞四國出貨搭載其晶片的伺服器，以因應美國出口新規",
+          "url": "https://techorange.com/2026/11/27/nvidia-halts-southeast-asia-servers-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
         },
         {
-          "publication": "科技日報",
-          "title": "中國 AI 伺服器黑市價格飆升，美國算力租金與亞太資料中心融資面臨壓力",
-          "url": "https://technews.tw/2026/11/27/a-sharp-divide-in-the-global-ai-computing-market/"
+          "publication": "台股雷達早報",
+          "title": "傳輝達限制東南亞晶片出貨",
+          "url": "https://money.udn.com/money/story/5612/9906791"
+        },
+        {
+          "publication": "台股雷達早報",
+          "title": "受管制輝達晶片流入中國，台積電訂單受關注",
+          "url": "https://tw.news.yahoo.com/%E8%BC%9D%E9%81%94%E6%9C%80%E5%BC%B7%E6%99%B6%E7%89%87%E4%BC%BA%E6%9C%8D%E5%99%A8%E7%8F%BE%E8%BA%AB%E4%B8%8A%E6%B5%B7-%E8%83%8C%E5%BE%8C%E7%89%BD%E5%87%BA%E9%BB%83%E6%A8%82-132037235.html"
         }
       ],
-      "text": "報導指出，輝達要求夥伴暫停向東南亞四國出貨搭載其晶片的伺服器，期限未明；美國管制也瞄準中國企業透過海外租用算力的途徑。若停運持續，可能影響台廠 AI 伺服器訂單、資料中心部署與融資。",
-      "title": "AI 晶片管制衝擊東南亞布局"
+      "text": "美國收緊中國企業遠端租用海外先進算力的管制，輝達據報要求夥伴暫停向東南亞四國出貨搭載其晶片的伺服器，恢復時間未明。台灣伺服器組裝與零組件廠訂單可能面臨許可審查或交貨延後；另有報導指台積電暫停部分中國先進製程訂單，晶圓代工需求也受關注。算力限制可能拖慢中國模型開發，但落後幅度仍屬推測。",
+      "title": "美國算力管制衝擊訂單"
     },
     {
       "sources": [
         {
           "publication": "科技日報",
-          "title": "台積電評估在德州興建226億美元晶圓廠，2031年前不生產2奈米或更先進晶片",
-          "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031"
-        },
-        {
-          "publication": "科技晚報",
-          "title": "台積電評估在德州投資226億美元建廠，規劃2031年生產2奈米級晶片",
-          "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-files-for-usd22-6-billion-texas-fab-campus-with-local-tax-breaks-just-one-county-over-from-musks-terafab-proposed-brazos-county-plant-wont-make-2nm-class-chips-until-2031"
-        },
-        {
-          "publication": "台股雷達早報",
-          "title": "台積電德州新廠減稅案有進展",
-          "url": "https://tw.news.yahoo.com/%E5%8F%B0%E7%A9%8D%E9%9B%BB%E8%A6%81%E5%9C%A8%E5%BE%B7%E5%B7%9E%E8%A8%AD%E5%BB%A0%E4%BA%86-%E6%AD%A3%E5%BC%8F%E7%94%B3%E8%AB%8B%E6%96%87%E4%BB%B6%E6%9B%9D%E5%85%89-%E6%8B%8D%E6%9D%BF%E8%88%87%E5%90%A6%E8%A6%81%E7%9C%8B%E5%BE%B7%E5%B7%9E%E6%94%BF%E5%BA%9C%E7%9A%84-%E8%AA%A0%E6%84%8F-133437777.html"
+          "title": "台積電揭露 A14 製程技術細節與 PDK 進度，預計 2028 年下半年量產",
+          "url": "https://semiwiki.com/semiconductor-manufacturers/tsmc/376876-tsmc-reveals-details-of-a14-manufacturing-compared-to-n2p/"
         },
         {
           "publication": "科技日報",
-          "title": "台積電 A14 製程開放客戶設計，0.9 版 PDK 與兩套設計工具流程就緒",
-          "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmcs-a14-1-4nm-class-node-is-ready-for-chip-design-boost-cells-promise-14-percent-performance-uplift-or-23-percent-power-cut-over-n2p"
-        }
-      ],
-      "text": "台積電評估在德州投資 226 億美元建廠並申請租稅優惠，但尚未承諾購地或建廠，優惠也待核准，設備、材料與綠能供應鏈可留意後續決策。另一方面，A14 製程已開放客戶設計，設計套件與兩套工具流程就緒，顯示先進製程開發持續推進。",
-      "title": "台積電評估德州設廠，A14 開放設計"
-    },
-    {
-      "sources": [
-        {
-          "publication": "科技日報",
-          "title": "記憶體供應吃緊，電子製造商成立採購應變小組搶購 DRAM",
-          "url": "https://www.tomshardware.com/pc-components/dram/electronics-manufacturers-set-up-memory-war-rooms-to-find-lock-in-dram-supplies-amid-worst-shortage-in-history-employees-scour-ebay-contact-hundreds-of-brokers-and-snap-up-even-small-batches-of-just-5-to-12-units"
-        },
-        {
-          "publication": "科技晚報",
-          "title": "美國記憶體價格追蹤：DRAM 短缺推升 DDR4、DDR5 售價",
-          "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/the-lowest-priced-ram-in-2026-price-tracking-on-ddr5-and-ddr4-memory-of-all-capacities"
+          "title": "台積電展示 AI Design Kit，讓 AI 代理運用晶圓製程知識輔助晶片設計",
+          "url": "https://www.tomshardware.com/tech-industry/semiconductors/tsmc-gives-a-sneap-peak-at-ai-design-kit-agentic-ai-with-foundry-expertise"
         },
         {
           "publication": "台股雷達早報",
-          "title": "AI擠壓記憶體供給，手機成本承壓",
-          "url": "https://tw.stock.yahoo.com/news/ai%E5%90%B8%E4%B9%BE%E5%85%A8%E7%90%83%E8%A8%98%E6%86%B6%E9%AB%94%E7%94%A2%E8%83%BD-%E7%BC%BA%E8%B2%A8%E8%87%B3%E5%B0%91%E5%88%B02028%E5%B9%B4-%E9%A6%AC%E6%96%AF%E5%85%8B%E6%90%B6%E8%B2%A8%E4%B9%9F%E7%A2%B0%E5%A3%81-%E6%99%B6%E7%89%87%E8%B2%B4%E5%A6%82-%E9%87%91%E6%A2%9D-130005673.html"
-        },
-        {
-          "publication": "台股雷達早報",
-          "title": "美光桃園勞資爭議延燒，撤資傳聞未證實",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5654698"
+          "title": "川普預定出席台積電亞利桑那廠擴建動土",
+          "url": "https://tw.stock.yahoo.com/news/%E5%B7%9D%E6%99%AE%E6%95%91%E5%9B%9E%E9%BB%83%E4%BB%81%E5%8B%B3%E5%BE%8C%E6%94%B9%E7%9B%AF%E5%8F%B0%E7%A9%8D%E9%9B%BB-%E7%99%BD%E5%AE%AE%E8%AD%89%E5%AF%A6%E4%B8%8B%E5%91%A8%E8%A6%AA%E8%B5%B4%E4%BA%9E%E5%88%A9%E6%A1%91%E9%82%A3%E5%B7%9E-%E5%87%BA%E5%B8%AD%E6%93%B4%E5%BB%BA%E5%8B%95%E5%9C%9F%E5%85%B8%E7%A6%AE-150000970.html"
         }
       ],
-      "text": "DRAM 供應吃緊，部分電子製造商成立採購應變小組，記憶體零售價格也受到推升。缺貨可能有利相關供應商獲利，卻增加手機與其他產品成本；美光桃園勞資爭議將再調解，撤資與關廠仍屬未證實傳聞。",
-      "title": "記憶體缺貨漲價，美光爭議待解"
+      "text": "台積電揭露Ａ１４製程細節，預計二○二八年下半年量產，並展示協助ＡＩ代理運用製程知識的設計工具，實際效率成效尚無數據。川普預定出席亞利桑那廠擴建動土，市場也將關注台積電海外投資及成本。",
+      "title": "台積電推進先進製程"
     },
     {
       "sources": [
         {
           "publication": "台股雷達早報",
-          "title": "中東供應風險升高，布蘭特油價上漲",
-          "url": "https://www.cna.com.tw/news/afe/202611270009.aspx"
-        },
-        {
-          "publication": "台股雷達早報",
-          "title": "通膨與升息疑慮牽動資金面",
-          "url": "https://tw.stock.yahoo.com/news/%E8%8F%AF%E5%8D%97%E9%87%91%E6%B3%95%E8%AA%AA-%E5%A4%AE%E8%A1%8C%E4%B8%8D%E6%8E%92%E9%99%A4%E5%B9%B4%E5%BA%95%E5%89%8D%E5%8D%87%E6%81%AF-%E8%95%AD%E7%8E%89%E7%BE%8E%E7%9C%8Bai%E8%88%87%E5%87%BA%E5%8F%A3%E6%94%AF%E6%92%90%E5%8B%95%E8%83%BD-%E5%8F%B0%E5%B9%A3%E9%9C%87%E7%9B%AA%E5%81%8F%E5%8D%87-122151688.html"
+          "title": "集邦示警DRAM漲勢收斂，後年恐轉跌",
+          "url": "https://money.udn.com/money/story/5612/9906803"
         }
       ],
-      "text": "中東供應風險升高推升布蘭特油價，可能增加航空、運輸與製造業成本。美國核心通膨偏高，市場關注聯準會政策，台灣年底也有升息預估；利率與新台幣走勢都可能影響台股評價及金融股。",
-      "title": "油價與通膨增加利率變數"
+      "text": "集邦示警ＤＲＡＭ漲勢可能收斂，後年恐轉跌。雲端需求與資料中心建置時程出現變數，採購轉趨保守，可能改變台灣記憶體族群的獲利預期。",
+      "title": "記憶體漲勢恐收斂"
     },
     {
       "sources": [
         {
           "publication": "台股雷達早報",
-          "title": "穎崴產能供不應求，加速擴產",
-          "url": "https://money.udn.com/money/story/5710/9904315"
-        },
-        {
-          "publication": "台股雷達早報",
-          "title": "神達看好明年成長，也示警AI四大挑戰",
-          "url": "https://ec.ltn.com.tw/article/breakingnews/5654686"
+          "title": "友達華亞廠197億元出售矽品",
+          "url": "https://money.udn.com/money/story/5612/9906758"
         }
       ],
-      "text": "穎崴表示測試介面產能供不應求，正加速擴產，目標明年營收至少雙位數成長。神達也看好明年成長，但提醒投資報酬率、電力、供應鏈與監管，都是評估 AI 需求的重要變數。",
-      "title": "AI 測試需求強，伺服器仍有挑戰"
+      "text": "友達華亞廠以１９７億元出售給矽品，預估帶來約１０４億元處分利益。這筆交易直接影響友達獲利，也反映面板廠資產活化與封測業布局。",
+      "title": "友達出售廠房影響獲利"
     },
     {
       "sources": [
         {
           "publication": "科技日報",
-          "title": "FCC 據報有條件批准 SpaceX 部署最多百萬顆軌道 AI 運算衛星",
-          "url": "https://techorange.com/2026/11/26/fcc-approves-spacex-orbital-datacenter/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
-        },
-        {
-          "publication": "科技日報",
-          "title": "FCC核准SpaceX部署最多100萬顆運算衛星，打造Starmind太空資料中心",
-          "url": "https://www.ithome.com.tw/news/180802"
-        },
-        {
-          "publication": "科技晚報",
-          "title": "FCC 有條件批准 SpaceX 部署最多百萬顆太空資料中心衛星",
-          "url": "https://techorange.com/2026/11/26/fcc-approves-spacex-orbital-datacenter/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss"
-        },
-        {
-          "publication": "科技晚報",
-          "title": "FCC核准SpaceX部署最多100萬顆衛星，規劃打造Starmind太空資料中心",
-          "url": "https://www.ithome.com.tw/news/180802"
+          "title": "主計總處估2027年台灣出口突破1兆美元，AI基礎設施需求持續",
+          "url": "https://finance.technews.tw/2026/11/27/ai-supply-shortage-dgbass-forecasts-next-year-exports-1-trillion-record-high/"
         },
         {
           "publication": "台股雷達早報",
-          "title": "SpaceX太空AI計畫帶動衛星題材",
-          "url": "https://money.udn.com/money/story/5612/9904790"
+          "title": "台灣今年經濟成長預測上修至13.28%",
+          "url": "https://tw.news.yahoo.com/%E7%B6%93%E6%BF%9F%E6%88%90%E9%95%B7%E7%8E%87%E5%A4%A7%E5%B9%85%E4%B8%8A%E8%AA%BF-%E4%BB%8A%E5%B9%B4%E7%A0%B413-%E6%98%8E%E5%B9%B46-51-193708669.html"
         }
       ],
-      "text": "美國 FCC 有條件批准 SpaceX 部署最多 100 萬顆具運算能力的衛星，但獲准不代表已建成或運作。市場聯想鴻海、低軌衛星零組件與太陽能商機，實際建置進度和台廠訂單仍待驗證。",
-      "title": "太空 AI 帶動衛星題材"
+      "text": "主計總處上修台灣今年經濟成長率預測至１３．２８％，並預估明年商品出口突破１兆美元。ＡＩ基礎設施投資有助半導體供應鏈與整體景氣，但出口管制、融資成本及應用進展仍是變數。",
+      "title": "ＡＩ投資支撐台灣出口"
     },
     {
       "sources": [
         {
           "publication": "科技日報",
-          "title": "刑事局揭偽冒短劇 App 散布 Android 木馬，網銀盜轉案逾百起",
-          "url": "https://www.ithome.com.tw/news/180826"
+          "title": "中國PCB廠擴產搶攻AI伺服器供應鏈，銅箔與微型鑽頭可能短缺",
+          "url": "https://www.tomshardware.com/tech-industry/manufacturing/chinas-ai-hardware-push-is-moving-beyond-gpus-to-the-pcbs-underneath-them-beijing-races-to-corner-the-market-on-copper-foil-and-micro-drill-bits-as-board-complexity-explodes"
+        },
+        {
+          "publication": "台股雷達早報",
+          "title": "智邦擴產並看好明年AI網路需求",
+          "url": "https://money.udn.com/money/story/5710/9906499"
         }
       ],
-      "text": "刑事局統計，近期受理逾百起網銀盜轉案，部分受害者手機發現偽冒短劇 App 的惡意安裝檔。警方指出，歹徒會誘騙使用者開啟無障礙權限以遠端操控手機；非官方 App 與權限要求值得特別留意。",
-      "title": "留意偽冒短劇 App 盜轉風險"
+      "text": "智邦募資擴產，布局高速交換器、光通訊及機櫃方案，可作為觀察ＡＩ資料中心網通需求的指標。另一方面，中國ＰＣＢ廠加速擴產，報告警告銅箔與微型鑽頭可能短缺，顯示伺服器供應鏈仍有材料與耗材瓶頸。",
+      "title": "ＡＩ網通擴產與材料瓶頸"
+    },
+    {
+      "sources": [
+        {
+          "publication": "台股雷達早報",
+          "title": "美國新一輪關稅與晶片政策牽動台股",
+          "url": "https://www.cna.com.tw/news/aopl/202611270242.aspx"
+        }
+      ],
+      "text": "美國３０１關稅提案及晶片關稅訊號增加貿易不確定性。電子、紡織等出口產業的成本與競爭條件可能因此改變，仍須留意後續政策。",
+      "title": "美國關稅政策增添變數"
     }
   ],
   "schema_version": 1
